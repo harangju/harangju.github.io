@@ -10,14 +10,19 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3  # The number of links after the current page
+title: blog
 ---
 
 <div class="post">
 
-  <div class="header-bar">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+  <!-- <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
-  </div>
+  </div> -->
 
 
   <ul class="post-list">
