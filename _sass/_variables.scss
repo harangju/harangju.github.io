@@ -28,8 +28,22 @@ $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     darken($grey-color, 25%);
 
+// https://visme.co/blog/website-color-schemes/
+// Natural and Earthy
+$natural-green:       #8D8741 !default;
+$natural-blue:        #659DBD !default;
+$natural-pink:        #DAAD86 !default;
+$natural-brown:       #BC986A !default;
+$natural-beige:       #FBEEC1 !default;
+// Stylish and Sophisticated
+$stylish-dark-grey:   #5D5C61 !default;
+$stylish-light-grey:  #379683 !default;
+$stylish-light-blue:  #7395AE !default;
+$stylish-dark-blue:   #557A95 !default;
+$stylish-beige:       #B1A296 !default;
+
 /* Set theme colors *************************/
-$theme-color:         $green-color;
+$theme-color:         $stylish-light-blue;
 
 $link-color:          $theme-color;
 $text-color:          #111 !default;
