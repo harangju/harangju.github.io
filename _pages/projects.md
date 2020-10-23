@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: No projects yet.
+description: 
 nav: true
 ---
 
