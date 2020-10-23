@@ -1,3 +1,5 @@
+// http://www.biovisualize.com/2012/07/embedding-d3js-in-blog-post.html
+
 d3.helper = {};
 
 d3.helper.tooltip = function(){
