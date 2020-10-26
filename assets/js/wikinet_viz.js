@@ -35,6 +35,16 @@ let force = d3.layout.force()
   .linkDistance(80)
   .charge(-100);
 
+var node, link;
+function tick() {
+  link.attr('x1', d => d.source.x)
+    .attr('y1', d => d.source.y)
+    .attr('x2', d => d.target.x)
+    .attr('y2', d => d.target.y);
+  node.attr('cx', d => d.x)
+    .attr('cy', d => d.y);
+}
+
 var json = null;
 $.getJSON('/assets/graph.json', function(data) {
   json = data;
@@ -55,7 +65,6 @@ function update() {
   let links = json.links.map(d => Object.create(d));
   force.nodes(nodes)
     .links(links);
-
   link = svg.selectAll('line')
     .data(links)
     .enter().append('line')
@@ -71,7 +80,6 @@ function update() {
     .on('mouseover', mouseover)
     .on('mousemove', mousemove)
     .on('mouseout', mouseout);
-
   force.start();
 }
 
@@ -89,14 +97,4 @@ function mousemove(d) {
 function mouseout(d) {
   d3.select(this).style('fill', 'steelblue');
   tooltip.style('opacity', 0);
-}
-
-var node, link;
-function tick() {
-  link.attr('x1', d => d.source.x)
-    .attr('y1', d => d.source.y)
-    .attr('x2', d => d.target.x)
-    .attr('y2', d => d.target.y);
-  node.attr('cx', d => d.x)
-    .attr('cy', d => d.y);
 }
