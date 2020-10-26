@@ -8,25 +8,26 @@ let svg = d3
   .attr({width: 600, height: 600});
 
 // https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html
-let tooltip = d3.select(".viz")
-  .insert("div")
-  .attr("class", "tooltip")
+let tooltip = d3.select('.viz')
+  .append('div')
+  .attr('class', 'tooltip')
   .style('opacity', 0)
-  .style("background-color", "white")
-  .style("border", "solid")
-  .style("border-width", "2px")
-  .style("border-radius", "5px")
-  .style("padding", "5px");
+  .style('background-color', 'white')
+  .style('border', 'solid')
+  .style('border-width', '2px')
+  .style('border-radius', '5px')
+  .style('padding', '5px')
+  .style('position', 'absolute');
 
 let force = d3.layout.force()
-  .on("tick", tick)
+  .on('tick', tick)
   .size([600, 600])
   .gravity(.4)
   .linkDistance(80)
   .charge(-100);
 
 var json = null;
-$.getJSON("/assets/graph.json", function(data) {
+$.getJSON('/assets/graph.json', function(data) {
   json = data;
   json.links.forEach(function (value, i) {
     value['source'] = json.nodes
@@ -46,27 +47,30 @@ function update() {
   force.nodes(nodes)
     .links(links);
 
-  link = svg.selectAll("line")
+  link = svg.selectAll('line')
     .data(links)
-    .enter().append("line")
-    .attr("class", "link")
-    .style("stroke-width", 1)
-    .style("stroke", "steelblue");
-  node = svg.selectAll("circle")
+    .enter().append('line')
+    .attr('class', 'link')
+    .style('stroke-width', 1)
+    .style('stroke', 'steelblue');
+  node = svg.selectAll('circle')
     .data(nodes)
-    .enter().append("circle")
-    .style("fill", "steelblue")
-    .attr("r", d => 4.5)
+    .enter().append('circle')
+    .style('fill', 'steelblue')
+    .attr('r', d => 7)
     .call(force.drag)
     .on('mouseover', function(d) {
+      d3.select(this).style('fill', 'red');
       tooltip.html(d.id)
         .style('opacity', 1);
     })
     .on('mousemove', function(d) {
-      tooltip.style('left', (d3.mouse(this)[0]) + 'px')
-        .style('top', (d3.mouse(this)[1]+300) + 'px');
+      console.log(d3.mouse(this))
+      tooltip.style('left', (d3.mouse(this)[0]+10) + 'px')
+        .style('top', (d3.mouse(this)[1]) + 'px');
     })
     .on('mouseout', function(d) {
+      d3.select(this).style('fill', 'steelblue');
       tooltip.style('opacity', 0);
     });
 
