@@ -2,8 +2,17 @@
 // https://github.com/vlandham/force_talk/blob/gh-pages/slides/simple_force.html
 'use strict'
 
-let svg = d3
-  .select('.viz')
+let dropdown = d3.select('.options')
+  .append('select')
+  .on('change', function() {
+    console.log('changed to ' + dropdown.property('selectedIndex'));
+  });
+let options = dropdown.selectAll('option')
+  .data([0, 1, 2, 3])
+  .enter().append("option")
+  .text(d => d);
+
+let svg = d3.select('.viz')
   .append('svg')
   .attr({width: 600, height: 600});
 
@@ -59,22 +68,27 @@ function update() {
     .style('fill', 'steelblue')
     .attr('r', d => 7)
     .call(force.drag)
-    .on('mouseover', function(d) {
-      d3.select(this).style('fill', 'red');
-      tooltip.html(d.id)
-        .style('opacity', 1);
-    })
-    .on('mousemove', function(d) {
-      console.log(d3.mouse(this))
-      tooltip.style('left', (d3.mouse(this)[0]+10) + 'px')
-        .style('top', (d3.mouse(this)[1]) + 'px');
-    })
-    .on('mouseout', function(d) {
-      d3.select(this).style('fill', 'steelblue');
-      tooltip.style('opacity', 0);
-    });
+    .on('mouseover', mouseover)
+    .on('mousemove', mousemove)
+    .on('mouseout', mouseout);
 
   force.start();
+}
+
+function mouseover(d) {
+  d3.select(this).style('fill', 'red');
+  tooltip.html(d.id)
+    .style('opacity', 1);
+}
+
+function mousemove(d) {
+  tooltip.style('left', (d3.mouse(this)[0]+10) + 'px')
+    .style('top', (d3.mouse(this)[1]) + 'px');
+}
+
+function mouseout(d) {
+  d3.select(this).style('fill', 'steelblue');
+  tooltip.style('opacity', 0);
 }
 
 var node, link;
