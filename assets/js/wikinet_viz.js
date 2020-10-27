@@ -94,6 +94,7 @@ let rmin = 1,
 let json;
 function load_network(topic, callback) {
   $.getJSON(`/assets/wikinets/${topic}.json`, data => {
+    // nodes should be in chronological order
     json = data;
     console.log(`${topic}: ${json.nodes.length} nodes.`);
     rmax = Math.max.apply(Math, json.nodes.map(d => d.degree));
@@ -123,8 +124,8 @@ function update() {
     d.source = nodes.map(d => d.id).indexOf(json.nodes[d.source].id);
     d.target = nodes.map(d => d.id).indexOf(json.nodes[d.target].id);
   });
-  force.nodes(nodes)
-    .links(links);
+  const old_nodes = new Map(node.data().map(d => [d.id, d]));
+  nodes = nodes.map(d => old_nodes.get(d.id) || d);
   link = link.data(links);
   link.enter().append('line');
   link.exit().remove();
@@ -136,7 +137,9 @@ function update() {
     .on('mousemove', mousemove)
     .on('mouseout', mouseout);
   node.exit().remove();
-  force.start();
+  force.nodes(nodes)
+    .links(links)
+    .start();
 }
 
 function mouseover(d) {
