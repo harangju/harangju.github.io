@@ -30,4 +30,8 @@ In my recent <a href='http://arxiv.org/abs/2010.08381' target='blank'>paper</a>,
   <div class="viz" style="position: relative;"></div>
 </div>
 
+<div style="display: flex; justify-content: center; min-height: 20%; height: auto; flex-shrink: 0;">
+  <div class="viz_bar" style="position: relative;"></div>
+</div>
+
 I have omitted some of the larger networks because the current D3 app is slow in handling larger (>1000 nodes) networks.

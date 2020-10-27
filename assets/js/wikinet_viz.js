@@ -6,7 +6,8 @@
 // TODO: https://observablehq.com/@d3/delaunay-find-zoom
 
 const width = 770,
-  height = 600;
+  height_net = 540,
+  height_bar = 300;
 const year_min = 500,
   year_max = 2020;
 
@@ -49,9 +50,13 @@ let slider = d3.select('#year_slider')
     update_network()
   });
 
-let svg = d3.select('.viz')
+let svg_net = d3.select('.viz')
   .append('svg')
-  .attr({width: width, height: height});
+  .attr({width: width, height: height_net});
+
+let svg_bar = d3.select('.viz_bar')
+  .append('svg')
+  .attr({width: width, height: height_bar});
 
 // https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html
 let tooltip = d3.select('.viz')
@@ -67,17 +72,17 @@ let tooltip = d3.select('.viz')
 
 let force = d3.layout.force()
   .on('tick', tick)
-  .size([width, height])
+  .size([width, height_net])
   .gravity(.3)
   .linkDistance(80)
   .charge(-200);
 
-var link = svg.append('g')
+var link = svg_net.append('g')
   .attr('class', 'link')
   .style('stroke-width', 0.4)
   .style('stroke', 'steelblue')
   .selectAll('line');
-var node = svg.append('g')
+var node = svg_net.append('g')
   .style('fill', 'steelblue')
   .style('stroke', 'lightblue')
   .selectAll('circle');
