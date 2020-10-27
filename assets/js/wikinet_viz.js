@@ -2,13 +2,32 @@
 // https://github.com/vlandham/force_talk/blob/gh-pages/slides/simple_force.html
 'use strict'
 
+const topics = ['cognitive science',
+ 'evolutionary biology', 'immunology',
+ 'molecular biology', 'biophysics', 'energy',
+ 'optics', 'earth science', 'geology', 'meteorology',
+ 'philosophy of language', 'philosophy of law',
+ 'philosophy of mind', 'philosophy of science', 'economics',
+ 'accounting', 'education', 'linguistics', 'law',
+ 'software engineering',
+ 'calculus', 'geometry', 'abstract algebra', 'Boolean algebra',
+ 'commutative algebra', 'group theory', 'linear algebra',
+ 'number theory', 'dynamical systems',
+ ];
+// for now, remove topics with too many nodes
+// 'anatomy', 'biochemistry', 'genetics', 'chemistry',
+// 'sociology', 'education', 'psychology', 'electronics'
+// 'robotics', 'physics', 'mathematics'
+
 let dropdown = d3.select('.options')
   .append('select')
   .on('change', function() {
-    console.log('changed to ' + dropdown.property('selectedIndex'));
+    let index = dropdown.property('selectedIndex');
+    console.log(`changed to ${topics[index]} at ${index}`);
+    load_network(topics[index]);
   });
 let options = dropdown.selectAll('option')
-  .data([0, 1, 2, 3])
+  .data(topics)
   .enter().append("option")
   .text(d => d);
 
@@ -31,9 +50,9 @@ let tooltip = d3.select('.viz')
 let force = d3.layout.force()
   .on('tick', tick)
   .size([600, 600])
-  .gravity(.4)
-  .linkDistance(80)
-  .charge(-100);
+  .gravity(.2)
+  .linkDistance(100)
+  .charge(-200);
 
 var node, link;
 function tick() {
@@ -45,41 +64,46 @@ function tick() {
     .attr('cy', d => d.y);
 }
 
-var json = null;
-$.getJSON('/assets/graph.json', function(data) {
-  json = data;
-  json.links.forEach(function (value, i) {
-    value['source'] = json.nodes
-      .map(d => d['id']==value['source'])
-      .indexOf(true);
-    value['target'] = json.nodes
-      .map(d => d['id']==value['target'])
-      .indexOf(true);
-  });
-  console.log(json);
-  update();
-});
+load_network(topics[0]);
 
-function update() {
+// https://stats.stackexchange.com/questions/281162/scale-a-number-between-a-range
+const tmin = 6,
+  tmax = 12;
+let rmin = 1,
+  rmax = 0;
+// let json = null;
+function load_network(topic, callback) {
+  $.getJSON(`/assets/wikinets/${topic}.json`, json => {
+    console.log(`${topic}: ${json.nodes.length}`);
+    console.log(json);
+    rmax = Math.max.apply(Math, json.nodes.map(d => d.degree));
+    rmin = Math.min.apply(Math, json.nodes.map(d => d.degree));
+    update(json);
+  });
+}
+
+function update(json) {
   let nodes = json.nodes.map(d => Object.create(d));
   let links = json.links.map(d => Object.create(d));
   force.nodes(nodes)
     .links(links);
   link = svg.selectAll('line')
-    .data(links)
-    .enter().append('line')
+    .data(links);
+  link.enter().append('line')
     .attr('class', 'link')
-    .style('stroke-width', 1)
+    .style('stroke-width', 0.4)
     .style('stroke', 'steelblue');
+  link.exit().remove();
   node = svg.selectAll('circle')
-    .data(nodes)
-    .enter().append('circle')
+    .data(nodes);
+  node.enter().append('circle')
     .style('fill', 'steelblue')
-    .attr('r', d => 7)
+    .attr('r', d => (d.degree-rmin)/(rmax-rmin)*(tmax-tmin)+tmin)
     .call(force.drag)
     .on('mouseover', mouseover)
     .on('mousemove', mousemove)
     .on('mouseout', mouseout);
+  node.exit().remove();
   force.start();
 }
 

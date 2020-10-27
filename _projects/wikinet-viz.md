@@ -21,4 +21,4 @@ In my recent <a href='http://arxiv.org/abs/2010.08381' target='blank'>paper</a>,
   <div class="viz" style="position: relative;"></div>
 </div>
 
-More text here.
+I have omitted some of the larger networks because the current D3 app is slow in handling larger (>1000 nodes) networks.
