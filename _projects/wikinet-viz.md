@@ -6,7 +6,7 @@ img: /assets/img/big_graph.jpg
 importance: 1
 ---
 
-<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="https://d3js.org/d3.v6.min.js"></script>
 <script defer type="text/javascript" src="/assets/js/wikinet_viz.js"></script>
 
 In my recent <a href='http://arxiv.org/abs/2010.08381' target='blank'>paper</a>,
@@ -27,7 +27,7 @@ In my recent <a href='http://arxiv.org/abs/2010.08381' target='blank'>paper</a>,
 </div>
 
 <div style="display: flex; justify-content: center; min-height: 20%; height: auto; flex-shrink: 0;">
-  <div class="viz" style="position: relative;"></div>
+  <div class="viz_net" style="position: relative;"></div>
 </div>
 
 <div style="display: flex; justify-content: center; min-height: 20%; height: auto; flex-shrink: 0;">

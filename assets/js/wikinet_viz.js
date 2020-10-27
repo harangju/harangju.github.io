@@ -8,7 +8,7 @@
 const width = 770,
   height_net = 540,
   height_bar = 300;
-const year_min = 500,
+const year_min = 0,
   year_max = 2020;
 
 const topics = ['cognitive science',
@@ -47,14 +47,17 @@ let slider = d3.select('#year_slider')
   .attr('min', year_min)
   .attr('max', year_max)
   .attr('value', year_max)
+  .on('change', function() {
+    update_network();
+  })
   .on('input', function() {
     year_label.html(this.value);
-    update_network()
   });
 
-let svg_net = d3.select('.viz')
+let svg_net = d3.select('.viz_net')
   .append('svg')
-  .attr({width: width, height: height_net});
+  .attr('width', width)
+  .attr('height', height_net);
 
 let svg_bar = d3.select('.viz_bar')
   .append('svg')
@@ -63,7 +66,7 @@ let svg_bar = d3.select('.viz_bar')
   .append('g')
   .attr('transform', `translate(${5},${5})`);
 
-let tooltip = d3.select('.viz')
+let tooltip = d3.select('.viz_net')
   .append('div')
   .attr('class', 'tooltip')
   .style('opacity', 0)
@@ -74,12 +77,12 @@ let tooltip = d3.select('.viz')
   .style('padding', '5px')
   .style('position', 'absolute');
 
-let force = d3.layout.force()
-  .on('tick', tick)
-  .size([width, height_net])
-  .gravity(.3)
-  .linkDistance(80)
-  .charge(-200);
+let simulation = d3.forceSimulation()
+  .force('center', d3.forceCenter(width/2, height_net/2))
+  .force('charge', d3.forceManyBody())
+  .force('link', d3.forceLink().id(d => d.id))
+  .on('tick', tick);
+simulation.stop();
 
 var link = svg_net.append('g')
   .attr('class', 'link')
@@ -91,11 +94,13 @@ var node = svg_net.append('g')
   .style('stroke', 'lightblue')
   .selectAll('circle');
 function tick() {
-  link.attr('x1', d => d.source.x)
+  link
+    .attr('x1', d => d.source.x)
     .attr('y1', d => d.source.y)
     .attr('x2', d => d.target.x)
     .attr('y2', d => d.target.y);
-  node.attr('cx', d => d.x)
+  node
+    .attr('cx', d => d.x)
     .attr('cy', d => d.y);
 }
 
@@ -113,6 +118,10 @@ let json;
 function load_network(topic) {
   $.getJSON(`/assets/wikinets/${topic}.json`, data => {
     json = data;
+    json.links.forEach(function(d, i) {
+      d.source = json.nodes.map(d => d.id)[d.source];
+      d.target = json.nodes.map(d => d.id)[d.target];
+    });
     console.log(`${topic}: ${json.nodes.length} nodes.`);
     rmax = Math.max.apply(Math, json.nodes.map(d => d.degree));
     rmin = Math.min.apply(Math, json.nodes.map(d => d.degree));
@@ -137,44 +146,61 @@ function update_network() {
   nodes = json.nodes
     .map(d => Object.create(d))
     .filter(d => d.year <= year);
+  let nids = json.nodes.map(d => d.id);
   links = json.links
     .map(d => Object.create(d))
-    .filter(d => json.nodes[d.source].year <= year &&
-      json.nodes[d.target].year <= year);
-  links.forEach(function(d, i, arr) {
-    d.source = nodes.map(d => d.id).indexOf(json.nodes[d.source].id);
-    d.target = nodes.map(d => d.id).indexOf(json.nodes[d.target].id);
-  });
+    .filter(d => json.nodes[nids.indexOf(d.source)].year <= year &&
+      json.nodes[nids.indexOf(d.target)].year <= year);
   const old_nodes = new Map(node.data().map(d => [d.id, d]));
   nodes = nodes.map(d => old_nodes.get(d.id) || d);
-  link = link.data(links);
-  link.enter().append('line');
-  link.exit().remove();
-  node = node.data(nodes);
-  node.enter().append('circle')
-    .call(force.drag)
-    .on('mouseover', mouseover)
-    .on('mousemove', mousemove)
-    .on('mouseout', mouseout);
-  node.attr('r', d => (d.degree-rmin)/(rmax-rmin)*(tmax-tmin)+tmin);
-  node.exit().remove();
-  force.nodes(nodes)
-    .links(links)
-    .start();
+  link = link.data(links)
+    .join('line');
+  node = node.data(nodes)
+    .join(enter => enter.append('circle')
+      .attr('r', d => (d.degree-rmin)/(rmax-rmin)*(tmax-tmin)+tmin)
+      .on('mouseover', mouseover)
+      .on('mousemove', mousemove)
+      .on('mouseout', mouseout)
+      .call(drag(simulation))
+      .call(node => node.append('title').text(d => d.id)));
+  simulation.nodes(nodes)
+  simulation.force('link').links(links)
+  simulation.alpha(1).restart().tick();
 }
 
-function mouseover(d) {
+function drag(simulation) {
+  function dragstarted(event, d) {
+    if (!event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+  }
+  function dragged(event, d) {
+    d.fx = event.x;
+    d.fy = event.y;
+  }
+  function dragended(event, d) {
+    if (!event.active) simulation.alphaTarget(0);
+    d.fx = null;
+    d.fy = null;
+  }
+  return d3.drag()
+      .on("start", dragstarted)
+      .on("drag", dragged)
+      .on("end", dragended);
+}
+
+function mouseover(event, d) {
   d3.select(this).style('fill', 'red');
   tooltip.html(d.id)
     .style('opacity', 1);
 }
 
-function mousemove(d) {
-  tooltip.style('left', (d3.mouse(this)[0]+10) + 'px')
-    .style('top', (d3.mouse(this)[1]) + 'px');
+function mousemove(event) {
+  tooltip.style('left', (d3.pointer(event, this)[0]+10) + 'px')
+    .style('top', (d3.pointer(event, this)[1]) + 'px');
 }
 
-function mouseout(d) {
+function mouseout(event) {
   d3.select(this).style('fill', 'steelblue');
   tooltip.style('opacity', 0);
 }
@@ -182,5 +208,5 @@ function mouseout(d) {
 // Barcodes
 
 function update_barcode() {
-  
+
 }
