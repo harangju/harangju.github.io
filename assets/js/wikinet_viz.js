@@ -2,6 +2,12 @@
 // https://github.com/vlandham/force_talk/blob/gh-pages/slides/simple_force.html
 'use strict'
 
+// TODO: https://observablehq.com/@d3/temporal-force-directed-graph
+// TODO: https://observablehq.com/@d3/delaunay-find-zoom
+
+const width = 770,
+  height = 600;
+
 const topics = ['cognitive science',
  'evolutionary biology', 'immunology',
  'molecular biology', 'biophysics', 'energy',
@@ -39,7 +45,7 @@ let slider = d3.select('#year_slider')
 
 let svg = d3.select('.viz')
   .append('svg')
-  .attr({width: 600, height: 600});
+  .attr({width: width, height: height});
 
 // https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html
 let tooltip = d3.select('.viz')
@@ -55,7 +61,7 @@ let tooltip = d3.select('.viz')
 
 let force = d3.layout.force()
   .on('tick', tick)
-  .size([600, 600])
+  .size([width, height])
   .gravity(.3)
   .linkDistance(80)
   .charge(-200);
@@ -81,8 +87,7 @@ let json;
 function load_network(topic, callback) {
   $.getJSON(`/assets/wikinets/${topic}.json`, data => {
     json = data;
-    console.log(`${topic}: ${json.nodes.length}`);
-    console.log(json);
+    console.log(`${topic}: ${json.nodes.length} nodes.`);
     rmax = Math.max.apply(Math, json.nodes.map(d => d.degree));
     rmin = Math.min.apply(Math, json.nodes.map(d => d.degree));
     let year_min = Math.min.apply(Math, json.nodes.map(d => d.year));
@@ -96,12 +101,13 @@ function load_network(topic, callback) {
 }
 
 let nodes;
+let links;
 function update() {
   let year = slider.property('value');
   nodes = json.nodes
     .map(d => Object.create(d))
     .filter(d => d.year <= year);
-  let links = json.links
+  links = json.links
     .map(d => Object.create(d))
     .filter(d => json.nodes[d.source].year <= year &&
       json.nodes[d.target].year <= year);
@@ -109,7 +115,6 @@ function update() {
     d.source = nodes.map(d => d.id).indexOf(json.nodes[d.source].id);
     d.target = nodes.map(d => d.id).indexOf(json.nodes[d.target].id);
   });
-  console.log(links);
   force.nodes(nodes)
     .links(links);
   link = svg.selectAll('line')

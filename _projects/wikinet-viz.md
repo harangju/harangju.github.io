@@ -10,7 +10,7 @@ importance: 1
 <script defer type="text/javascript" src="/assets/js/wikinet_viz.js"></script>
 
 In my recent <a href='http://arxiv.org/abs/2010.08381' target='blank'>paper</a>,
- we use persistent homology to identify knowledge gaps. Explore networks of hyperlinked science articles on Wikipedia.
+ we use persistent homology to identify knowledge gaps. You can explore networks of hyperlinked science articles on Wikipedia.
 
 <div class="container">
   <div class="row">
