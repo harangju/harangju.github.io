@@ -2,7 +2,7 @@
 // https://github.com/vlandham/force_talk/blob/gh-pages/slides/simple_force.html
 'use strict'
 
-// TODO: https://observablehq.com/@d3/temporal-force-directed-graph
+// TODO: https://www.freecodecamp.org/news/get-ready-to-zoom-and-pan-like-a-pro-after-reading-this-in-depth-tutorial-5d963b0a153e/
 // TODO: https://observablehq.com/@d3/delaunay-find-zoom
 
 const width = 770,
@@ -46,7 +46,7 @@ let slider = d3.select('#year_slider')
   .attr('value', year_max)
   .on('input', function() {
     year_label.html(this.value);
-    update()
+    update_network()
   });
 
 let svg = d3.select('.viz')
@@ -105,13 +105,13 @@ function load_network(topic, callback) {
     console.log(`${topic}: ${json.nodes.length} nodes.`);
     rmax = Math.max.apply(Math, json.nodes.map(d => d.degree));
     rmin = Math.min.apply(Math, json.nodes.map(d => d.degree));
-    update();
+    update_network();
   });
 }
 
 let nodes;
 let links;
-function update() {
+function update_network() {
   let year = slider.property('value');
   nodes = json.nodes
     .map(d => Object.create(d))
