@@ -29,12 +29,13 @@ let options = dropdown.selectAll('option')
   .data(topics)
   .enter().append('option')
   .text(d => d);
+
+let year_label = d3.select('#year_label');
 let slider = d3.select('#year_slider')
   .on('input', function() {
-    console.log(this.value);
     year_label.html(this.value);
+    update()
   });
-let year_label = d3.select('#year_label');
 
 let svg = d3.select('.viz')
   .append('svg')
@@ -55,8 +56,8 @@ let tooltip = d3.select('.viz')
 let force = d3.layout.force()
   .on('tick', tick)
   .size([600, 600])
-  .gravity(.2)
-  .linkDistance(100)
+  .gravity(.3)
+  .linkDistance(80)
   .charge(-200);
 
 var node, link;
@@ -86,16 +87,29 @@ function load_network(topic, callback) {
     rmin = Math.min.apply(Math, json.nodes.map(d => d.degree));
     let year_min = Math.min.apply(Math, json.nodes.map(d => d.year));
     let year_max = Math.max.apply(Math, json.nodes.map(d => d.year))
-    slider.attr('min', year_min)
+    slider.attr('min', 0)
       .attr('max', year_max)
       .attr('value', year_max);
-    update(json);
+    year_label.html(year_max);
+    update();
   });
 }
 
-function update(json) {
-  let nodes = json.nodes.map(d => Object.create(d));
-  let links = json.links.map(d => Object.create(d));
+let nodes;
+function update() {
+  let year = slider.property('value');
+  nodes = json.nodes
+    .map(d => Object.create(d))
+    .filter(d => d.year <= year);
+  let links = json.links
+    .map(d => Object.create(d))
+    .filter(d => json.nodes[d.source].year <= year &&
+      json.nodes[d.target].year <= year);
+  links.forEach(function(d, i, arr) {
+    d.source = nodes.map(d => d.id).indexOf(json.nodes[d.source].id);
+    d.target = nodes.map(d => d.id).indexOf(json.nodes[d.target].id);
+  });
+  console.log(links);
   force.nodes(nodes)
     .links(links);
   link = svg.selectAll('line')

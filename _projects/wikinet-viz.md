@@ -20,7 +20,7 @@ In my recent <a href='http://arxiv.org/abs/2010.08381' target='blank'>paper</a>,
     </div>
     <div class="col" style="white-space: nowrap; overflow-x: auto; overflow-y: hidden;">
       <strong style="display: inline-block;">Year: </strong>
-      <input type="range" id="year_slider" min="-10" max="10" value="10" step="1">
+      <input type="range" id="year_slider" min="0" max="10" value="10" step="1">
       <div id="year_label" style="display: inline-block;"></div>
     </div>
   </div>
