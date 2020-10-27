@@ -7,6 +7,8 @@
 
 const width = 770,
   height = 600;
+const year_min = 500,
+  year_max = 2020;
 
 const topics = ['cognitive science',
  'evolutionary biology', 'immunology',
@@ -36,8 +38,12 @@ let options = dropdown.selectAll('option')
   .enter().append('option')
   .text(d => d);
 
-let year_label = d3.select('#year_label');
+let year_label = d3.select('#year_label')
+  .html(year_max);
 let slider = d3.select('#year_slider')
+  .attr('min', year_min)
+  .attr('max', year_max)
+  .attr('value', year_max)
   .on('input', function() {
     year_label.html(this.value);
     update()
@@ -99,12 +105,6 @@ function load_network(topic, callback) {
     console.log(`${topic}: ${json.nodes.length} nodes.`);
     rmax = Math.max.apply(Math, json.nodes.map(d => d.degree));
     rmin = Math.min.apply(Math, json.nodes.map(d => d.degree));
-    let year_min = Math.min.apply(Math, json.nodes.map(d => d.year));
-    let year_max = Math.max.apply(Math, json.nodes.map(d => d.year))
-    slider.attr('min', 500)
-      .attr('max', year_max)
-      .attr('value', year_max);
-    year_label.html(year_max);
     update();
   });
 }
@@ -131,11 +131,11 @@ function update() {
   link.exit().remove();
   node = node.data(nodes);
   node.enter().append('circle')
-    .attr('r', d => (d.degree-rmin)/(rmax-rmin)*(tmax-tmin)+tmin)
     .call(force.drag)
     .on('mouseover', mouseover)
     .on('mousemove', mousemove)
     .on('mouseout', mouseout);
+  node.attr('r', d => (d.degree-rmin)/(rmax-rmin)*(tmax-tmin)+tmin);
   node.exit().remove();
   force.nodes(nodes)
     .links(links)
