@@ -68,12 +68,13 @@ load_network(topics[0]);
 
 // https://stats.stackexchange.com/questions/281162/scale-a-number-between-a-range
 const tmin = 6,
-  tmax = 12;
+  tmax = 14;
 let rmin = 1,
   rmax = 0;
-// let json = null;
+let json;
 function load_network(topic, callback) {
-  $.getJSON(`/assets/wikinets/${topic}.json`, json => {
+  $.getJSON(`/assets/wikinets/${topic}.json`, data => {
+    json = data;
     console.log(`${topic}: ${json.nodes.length}`);
     console.log(json);
     rmax = Math.max.apply(Math, json.nodes.map(d => d.degree));
@@ -98,11 +99,11 @@ function update(json) {
     .data(nodes);
   node.enter().append('circle')
     .style('fill', 'steelblue')
-    .attr('r', d => (d.degree-rmin)/(rmax-rmin)*(tmax-tmin)+tmin)
     .call(force.drag)
     .on('mouseover', mouseover)
     .on('mousemove', mousemove)
     .on('mouseout', mouseout);
+  node.attr('r', d => (d.degree-rmin)/(rmax-rmin)*(tmax-tmin)+tmin);
   node.exit().remove();
   force.start();
 }
