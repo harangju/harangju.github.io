@@ -101,7 +101,7 @@ function load_network(topic, callback) {
     rmin = Math.min.apply(Math, json.nodes.map(d => d.degree));
     let year_min = Math.min.apply(Math, json.nodes.map(d => d.year));
     let year_max = Math.max.apply(Math, json.nodes.map(d => d.year))
-    slider.attr('min', 1000)
+    slider.attr('min', 500)
       .attr('max', year_max)
       .attr('value', year_max);
     year_label.html(year_max);
