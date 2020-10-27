@@ -28,6 +28,8 @@ const topics = ['cognitive science',
 // 'sociology', 'education', 'psychology', 'electronics'
 // 'robotics', 'physics', 'mathematics'
 
+// UI
+
 let dropdown = d3.select('select')
   .on('change', function() {
     let index = dropdown.property('selectedIndex');
@@ -56,9 +58,11 @@ let svg_net = d3.select('.viz')
 
 let svg_bar = d3.select('.viz_bar')
   .append('svg')
-  .attr({width: width, height: height_bar});
+  .attr('width', width)
+  .attr('height', height_bar)
+  .append('g')
+  .attr('transform', `translate(${5},${5})`);
 
-// https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html
 let tooltip = d3.select('.viz')
   .append('div')
   .attr('class', 'tooltip')
@@ -95,7 +99,10 @@ function tick() {
     .attr('cy', d => d.y);
 }
 
+// Load data
+
 load_network(topics[0]);
+load_barcode(topics[0]);
 
 // https://stats.stackexchange.com/questions/281162/scale-a-number-between-a-range
 const tmin = 6,
@@ -103,9 +110,8 @@ const tmin = 6,
 let rmin = 1,
   rmax = 0;
 let json;
-function load_network(topic, callback) {
+function load_network(topic) {
   $.getJSON(`/assets/wikinets/${topic}.json`, data => {
-    // nodes should be in chronological order
     json = data;
     console.log(`${topic}: ${json.nodes.length} nodes.`);
     rmax = Math.max.apply(Math, json.nodes.map(d => d.degree));
@@ -113,6 +119,16 @@ function load_network(topic, callback) {
     update_network();
   });
 }
+
+let barcode;
+function load_barcode(topic) {
+  d3.csv(`/assets/wikibars/${'test'}.csv`, data => {
+    barcode = data;
+    update_barcode();
+  });
+}
+
+// Network
 
 let nodes;
 let links;
@@ -161,4 +177,10 @@ function mousemove(d) {
 function mouseout(d) {
   d3.select(this).style('fill', 'steelblue');
   tooltip.style('opacity', 0);
+}
+
+// Barcodes
+
+function update_barcode() {
+  
 }
