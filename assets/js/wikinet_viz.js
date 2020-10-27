@@ -19,8 +19,7 @@ const topics = ['cognitive science',
 // 'sociology', 'education', 'psychology', 'electronics'
 // 'robotics', 'physics', 'mathematics'
 
-let dropdown = d3.select('.options')
-  .append('select')
+let dropdown = d3.select('select')
   .on('change', function() {
     let index = dropdown.property('selectedIndex');
     console.log(`changed to ${topics[index]} at ${index}`);
@@ -28,8 +27,14 @@ let dropdown = d3.select('.options')
   });
 let options = dropdown.selectAll('option')
   .data(topics)
-  .enter().append("option")
+  .enter().append('option')
   .text(d => d);
+let slider = d3.select('#year_slider')
+  .on('input', function() {
+    console.log(this.value);
+    year_label.html(this.value);
+  });
+let year_label = d3.select('#year_label');
 
 let svg = d3.select('.viz')
   .append('svg')
@@ -79,6 +84,11 @@ function load_network(topic, callback) {
     console.log(json);
     rmax = Math.max.apply(Math, json.nodes.map(d => d.degree));
     rmin = Math.min.apply(Math, json.nodes.map(d => d.degree));
+    let year_min = Math.min.apply(Math, json.nodes.map(d => d.year));
+    let year_max = Math.max.apply(Math, json.nodes.map(d => d.year))
+    slider.attr('min', year_min)
+      .attr('max', year_max)
+      .attr('value', year_max);
     update(json);
   });
 }
@@ -99,6 +109,7 @@ function update(json) {
     .data(nodes);
   node.enter().append('circle')
     .style('fill', 'steelblue')
+    .style('stroke', 'lightblue')
     .call(force.drag)
     .on('mouseover', mouseover)
     .on('mousemove', mousemove)
