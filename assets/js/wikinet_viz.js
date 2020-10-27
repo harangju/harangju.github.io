@@ -66,7 +66,15 @@ let force = d3.layout.force()
   .linkDistance(80)
   .charge(-200);
 
-var node, link;
+var link = svg.append('g')
+  .attr('class', 'link')
+  .style('stroke-width', 0.4)
+  .style('stroke', 'steelblue')
+  .selectAll('line');
+var node = svg.append('g')
+  .style('fill', 'steelblue')
+  .style('stroke', 'lightblue')
+  .selectAll('circle');
 function tick() {
   link.attr('x1', d => d.source.x)
     .attr('y1', d => d.source.y)
@@ -92,7 +100,7 @@ function load_network(topic, callback) {
     rmin = Math.min.apply(Math, json.nodes.map(d => d.degree));
     let year_min = Math.min.apply(Math, json.nodes.map(d => d.year));
     let year_max = Math.max.apply(Math, json.nodes.map(d => d.year))
-    slider.attr('min', 0)
+    slider.attr('min', 1000)
       .attr('max', year_max)
       .attr('value', year_max);
     year_label.html(year_max);
@@ -117,23 +125,16 @@ function update() {
   });
   force.nodes(nodes)
     .links(links);
-  link = svg.selectAll('line')
-    .data(links);
-  link.enter().append('line')
-    .attr('class', 'link')
-    .style('stroke-width', 0.4)
-    .style('stroke', 'steelblue');
+  link = link.data(links);
+  link.enter().append('line');
   link.exit().remove();
-  node = svg.selectAll('circle')
-    .data(nodes);
+  node = node.data(nodes);
   node.enter().append('circle')
-    .style('fill', 'steelblue')
-    .style('stroke', 'lightblue')
+    .attr('r', d => (d.degree-rmin)/(rmax-rmin)*(tmax-tmin)+tmin)
     .call(force.drag)
     .on('mouseover', mouseover)
     .on('mousemove', mousemove)
     .on('mouseout', mouseout);
-  node.attr('r', d => (d.degree-rmin)/(rmax-rmin)*(tmax-tmin)+tmin);
   node.exit().remove();
   force.start();
 }
