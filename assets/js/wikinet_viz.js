@@ -6,11 +6,11 @@
 // TODO: https://observablehq.com/@d3/delaunay-find-zoom
 
 const width = 770,
-  height_net = 540,
+  height_net = 560,
   height_bar = 300;
 const year_min = 0,
   year_max = 2020;
-const margin = {top: 10, right: 20, bottom: 20, left: 40}
+const margin = {top: 20, right: 30, bottom: 10, left: 10}
 
 const topics = ['cognitive science',
  'evolutionary biology', 'immunology',
@@ -212,15 +212,15 @@ function mouseout(event) {
 function update_barcode() {
   let x = d3.scaleLinear()
     .domain(d3.extent(barcode, d => d.year))
-    .range([0, width-margin.right-margin.left]);
+    .range([margin.left, width-margin.right]);
   svg_bar.append('g')
-    .attr('transform', `translate(0,${height_bar})`)
+    .attr('transform', `translate(0,${height_bar-margin.bottom})`)
     .call(d3.axisBottom(x));
   let y = d3.scaleLinear()
     .domain(d3.extent(barcode, d => d.i))
     .range([height_bar-margin.bottom, margin.top]);
   svg_bar.append('g')
-    .attr('transform', `translate(0,${margin.bottom})`)
+    .attr('transform', `translate(${margin.left},0)`)
     .call(d3.axisLeft(y).ticks(Number(d3.max(barcode, d => d.i))+1));
 
   let series = barcode.map(d => {
@@ -233,6 +233,18 @@ function update_barcode() {
   let color = d3.scaleOrdinal()
     .domain(res)
     .range(['#e41a1c','#377eb8','#4daf4a','#984ea3','#ff7f00','#ffff33']);
+
+  let path = svg_bar.append('path')
+    .datum(barcode)
+    .attr('fill', 'none')
+    .attr('stroke', 'steelblue')
+    .attr('stroke-width', 1.5)
+    .attr('stroke-linejoin', 'round')
+    .attr('stroke-linecap', 'round')
+    .attr('d', d3.line()
+      .defined(d => !isNaN(d.year))
+      .x(d => x(d.year))
+      .y(d => y(d.i)));
 
   // let path = svg_bar.append('g')
   //     .attr('fill', 'none')
