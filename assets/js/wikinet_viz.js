@@ -132,7 +132,7 @@ function load_network(topic) {
 
 let barcode;
 function load_barcode(topic) {
-  d3.csv(`/assets/wikibars/${'test'}.csv`).then(data => {
+  d3.csv(`/assets/wikibars/${'test2'}.csv`).then(data => {
     console.log(data);
     barcode = data;
     update_barcode();
@@ -186,9 +186,9 @@ function drag(simulation) {
     d.fy = null;
   }
   return d3.drag()
-      .on("start", dragstarted)
-      .on("drag", dragged)
-      .on("end", dragended);
+    .on("start", dragstarted)
+    .on("drag", dragged)
+    .on("end", dragended);
 }
 
 function mouseover(event, d) {
@@ -211,7 +211,7 @@ function mouseout(event) {
 
 function update_barcode() {
   let x = d3.scaleLinear()
-    .domain(d3.extent(barcode, d => d.year))
+    .domain([d3.min(barcode, d => d.birth), d3.max(barcode, d => d.death)])
     .range([margin.left, width-margin.right]);
   svg_bar.append('g')
     .attr('transform', `translate(0,${height_bar-margin.bottom})`)
@@ -224,37 +224,34 @@ function update_barcode() {
     .call(d3.axisLeft(y).ticks(Number(d3.max(barcode, d => d.i))+1));
 
   let series = barcode.map(d => {
-    return {key: d.i, values: barcode.columns.map(k => +d[k])}
+    return {
+      key: d.dim,
+      values: [{year: d.birth, i: d.i}, {year: d.death, i: d.i}]
+    };
   });
-
-  console.log(series);
 
   let res = series.map(d => d.key)
   let color = d3.scaleOrdinal()
     .domain(res)
     .range(['#e41a1c','#377eb8','#4daf4a','#984ea3','#ff7f00','#ffff33']);
 
-  let path = svg_bar.append('path')
-    .datum(barcode)
+  let line = d3.line()
+    .x(d => x(d.year))
+    .y(d => y(d.i));
+
+  let path = svg_bar.append('g')
     .attr('fill', 'none')
-    .attr('stroke', 'steelblue')
+    // .attr('stroke', 'steelblue')
     .attr('stroke-width', 1.5)
     .attr('stroke-linejoin', 'round')
     .attr('stroke-linecap', 'round')
-    .attr('d', d3.line()
-      .defined(d => !isNaN(d.year))
-      .x(d => x(d.year))
-      .y(d => y(d.i)));
-
-  // let path = svg_bar.append('g')
-  //     .attr('fill', 'none')
-  //     .attr('stroke-width', 1.5)
-    // .selectAll('path')
-    // .data(barcode)
-    // .join('path')
-    //   .style('mix-blend-mode', 'multiply')
-    //   .attr('d', d => d3.line()
-    //     .x(d => x(d.year))
-    //     .y(d => y(d.i)))
-    //   .attr('stroke', 'steelblue');
+  path.selectAll('path')
+    .data(series)
+    .join('path')
+    .attr('d', function(d) {
+      console.log(d);
+      console.log(line(d.values));
+      return line(d.values);
+    })
+    .attr('stroke', d => color(d.key));
 }
