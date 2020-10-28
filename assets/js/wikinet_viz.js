@@ -61,9 +61,8 @@ let svg_net = d3.select('.viz_net')
   .attr('width', width)
   .attr('height', height_net);
 
-let tooltip = d3.select('.viz_net')
+let tooltip_node = d3.select('.viz_net')
   .append('div')
-  .attr('class', 'tooltip')
   .style('opacity', 0)
   .style('background-color', 'white')
   .style('border', 'solid')
@@ -187,24 +186,23 @@ function drag(simulation) {
 
 function mouseover(event, d) {
   d3.select(this).style('fill', 'red');
-  tooltip.html(d.id)
+  tooltip_node.html(d.id)
     .style('opacity', 1);
 }
 
 function mousemove(event) {
-  tooltip.style('left', (d3.pointer(event, this)[0]+10) + 'px')
+  tooltip_node.style('left', (d3.pointer(event, this)[0]+10) + 'px')
     .style('top', (d3.pointer(event, this)[1]) + 'px');
 }
 
 function mouseout(event) {
   d3.select(this).style('fill', 'steelblue');
-  tooltip.style('opacity', 0);
+  tooltip_node.style('opacity', 0);
 }
 
 // Barcodes
 
 function update_barcode() {
-
   d3.select(".viz_bar").selectAll("*").remove();
   let svg_bar = d3.select('.viz_bar')
     .append('svg')
@@ -212,7 +210,6 @@ function update_barcode() {
     .attr('height', height_bar)
     .append('g')
     .attr('transform', `translate(${margin.left},${-margin.bottom})`);
-
   let x = d3.scaleLinear()
     .domain([d3.min(barcode, d => Number(d.birth)),
       d3.max(barcode, d => Number(d.death))])
@@ -226,43 +223,70 @@ function update_barcode() {
   svg_bar.append('g')
     .attr('transform', `translate(${margin.left},0)`)
     .call(d3.axisLeft(y));
-
   let series = barcode.map(d => {
     return {
       key: d.dim,
       values: [
         {year: d.birth, i: Number(d.i)+1},
         {year: d.death, i: Number(d.i)+1}
-      ]
+      ],
+      nodes: d.nodes.split(';')
     };
   });
-
   let res = series.map(d => d.key)
   let color = d3.scaleOrdinal()
     .domain(res)
     .range(['#264653','#2a9d8f','#e9c46a','#f4a261','#e76f51']);
-
   let line = d3.line()
     .x(d => x(d.year))
     .y(d => y(d.i));
-
   let path = svg_bar.append('g')
     .attr('fill', 'none')
-    .attr('stroke-width', 3)
+    .attr('stroke-width', 4.6)
     .attr('stroke-linecap', 'round')
-  path.selectAll('path')
+    .selectAll('path')
     .data(series)
     .join('path')
     .attr('d', d => line(d.values))
-    .attr('stroke', d => color(d.key))
-    .on('mouseover', (event, d) => {
-      console.log(event);
-      console.log(d);
-    })
-    .on('mousemove', (event) => {
-      console.log(event);
-    })
-    .on('mouseout', (event) => {
-      console.log(event);
-    });
+    .attr('stroke', d => color(d.key));
+  d3.select('.viz_bar').call(hover, path, x, y, series);
+}
+
+function hover(svg, path, x, y, series) {
+  let tooltip_bar = svg
+    .append('div')
+    .style('opacity', 0)
+    .style('background-color', 'white')
+    .style('border', 'solid')
+    .style('border-width', '2px')
+    .style('border-radius', '5px')
+    .style('padding', '5px')
+    .style('position', 'absolute');
+  if ("ontouchstart" in document) svg
+      .style("-webkit-tap-highlight-color", "transparent")
+      .on("touchmove", moved)
+      .on("touchstart", entered)
+      .on("touchend", left)
+  else svg
+      .on("mousemove", moved)
+      .on("mouseenter", entered)
+      .on("mouseleave", left);
+  function moved(event) {
+    event.preventDefault();
+    let pointer = d3.pointer(event, this);
+    pointer[1] += margin.bottom;
+    const ym = y.invert(pointer[1]);
+    const bar = d3.least(series, d => Math.abs(d.values[0].i - ym));
+    path.style('opacity', d => d === bar ? 1 : 0.5);
+    tooltip_bar.style('right', (width-pointer[0]+10) + 'px')
+      .style('bottom', (height_bar-pointer[1]+10) + 'px');
+    tooltip_bar.html(bar.nodes.join(', '));
+  }
+  function entered() {
+    tooltip_bar.style('opacity', 1);
+  }
+  function left() {
+    path.style('opacity', 1);
+    tooltip_bar.style('opacity', 0);
+  }
 }
