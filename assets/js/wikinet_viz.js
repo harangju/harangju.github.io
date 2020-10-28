@@ -10,7 +10,7 @@ const width = 770,
   height_bar = 300;
 const year_min = 0,
   year_max = 2020;
-const margin = {top: 20, right: 30, bottom: 10, left: 10};
+const margin = {top: 20, right: 30, bottom: 18, left: 10};
 
 const topics = ['cognitive science',
  'evolutionary biology', 'immunology',
@@ -220,6 +220,10 @@ function update_barcode() {
   let y = d3.scaleLinear()
     .domain([0, d3.max(barcode, d => Number(d.i)+1)])
     .range([height_bar-margin.bottom, margin.top]);
+  svg_bar.append('text')
+    .attr('x', width/2)
+    .attr('y', height_bar + 14)
+    .text('year');
   // svg_bar.append('g')
   //   .attr('transform', `translate(${margin.left},0)`)
   //   .call(d3.axisLeft(y));
@@ -281,6 +285,7 @@ function hover(svg, path, x, y, series) {
     tooltip_bar.style('right', (width-pointer[0]+10) + 'px')
       .style('bottom', (height_bar-pointer[1]+10) + 'px');
     tooltip_bar.html(bar.nodes.join(', '));
+
   }
   function entered() {
     tooltip_bar.style('opacity', 1);
