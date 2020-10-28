@@ -1,7 +1,7 @@
 ---
 layout: page
 title: wikipedia networks
-description: vizualizing knowledge gaps
+description: visualizing knowledge gaps
 img: /assets/img/big_graph.jpg
 importance: 1
 ---

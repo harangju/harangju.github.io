@@ -36,6 +36,7 @@ let dropdown = d3.select('select')
     let index = dropdown.property('selectedIndex');
     console.log(`changed to ${topics[index]} at ${index}`);
     load_network(topics[index]);
+    load_barcode(topics[index]);
   });
 let options = dropdown.selectAll('option')
   .data(topics)
@@ -59,13 +60,6 @@ let svg_net = d3.select('.viz_net')
   .append('svg')
   .attr('width', width)
   .attr('height', height_net);
-
-let svg_bar = d3.select('.viz_bar')
-  .append('svg')
-  .attr('width', width)
-  .attr('height', height_bar)
-  .append('g')
-  .attr('transform', `translate(${margin.left},${-margin.bottom})`);
 
 let tooltip = d3.select('.viz_net')
   .append('div')
@@ -132,7 +126,7 @@ function load_network(topic) {
 
 let barcode;
 function load_barcode(topic) {
-  d3.csv(`/assets/wikibars/${'test2'}.csv`).then(data => {
+  d3.csv(`/assets/wikibars/${topic}.csv`).then(data => {
     console.log(data);
     barcode = data;
     update_barcode();
@@ -210,30 +204,43 @@ function mouseout(event) {
 // Barcodes
 
 function update_barcode() {
+
+  d3.select(".viz_bar").selectAll("*").remove();
+  let svg_bar = d3.select('.viz_bar')
+    .append('svg')
+    .attr('width', width)
+    .attr('height', height_bar)
+    .append('g')
+    .attr('transform', `translate(${margin.left},${-margin.bottom})`);
+
   let x = d3.scaleLinear()
-    .domain([d3.min(barcode, d => d.birth), d3.max(barcode, d => d.death)])
+    .domain([d3.min(barcode, d => Number(d.birth)),
+      d3.max(barcode, d => Number(d.death))])
     .range([margin.left, width-margin.right]);
   svg_bar.append('g')
     .attr('transform', `translate(0,${height_bar-margin.bottom})`)
     .call(d3.axisBottom(x));
   let y = d3.scaleLinear()
-    .domain(d3.extent(barcode, d => d.i))
+    .domain([0, d3.max(barcode, d => Number(d.i)+1)])
     .range([height_bar-margin.bottom, margin.top]);
   svg_bar.append('g')
     .attr('transform', `translate(${margin.left},0)`)
-    .call(d3.axisLeft(y).ticks(Number(d3.max(barcode, d => d.i))+1));
+    .call(d3.axisLeft(y));
 
   let series = barcode.map(d => {
     return {
       key: d.dim,
-      values: [{year: d.birth, i: d.i}, {year: d.death, i: d.i}]
+      values: [
+        {year: d.birth, i: Number(d.i)+1},
+        {year: d.death, i: Number(d.i)+1}
+      ]
     };
   });
 
   let res = series.map(d => d.key)
   let color = d3.scaleOrdinal()
     .domain(res)
-    .range(['#e41a1c','#377eb8','#4daf4a','#984ea3','#ff7f00','#ffff33']);
+    .range(['#264653','#2a9d8f','#e9c46a','#f4a261','#e76f51']);
 
   let line = d3.line()
     .x(d => x(d.year))
@@ -241,17 +248,21 @@ function update_barcode() {
 
   let path = svg_bar.append('g')
     .attr('fill', 'none')
-    // .attr('stroke', 'steelblue')
-    .attr('stroke-width', 1.5)
-    .attr('stroke-linejoin', 'round')
+    .attr('stroke-width', 3)
     .attr('stroke-linecap', 'round')
   path.selectAll('path')
     .data(series)
     .join('path')
-    .attr('d', function(d) {
+    .attr('d', d => line(d.values))
+    .attr('stroke', d => color(d.key))
+    .on('mouseover', (event, d) => {
+      console.log(event);
       console.log(d);
-      console.log(line(d.values));
-      return line(d.values);
     })
-    .attr('stroke', d => color(d.key));
+    .on('mousemove', (event) => {
+      console.log(event);
+    })
+    .on('mouseout', (event) => {
+      console.log(event);
+    });
 }
