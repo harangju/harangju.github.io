@@ -10,7 +10,7 @@ const width = 770,
   height_bar = 300;
 const year_min = 0,
   year_max = 2020;
-const margin = {top: 20, right: 30, bottom: 10, left: 20};
+const margin = {top: 20, right: 30, bottom: 10, left: 10};
 
 const topics = ['cognitive science',
  'evolutionary biology', 'immunology',
@@ -18,7 +18,7 @@ const topics = ['cognitive science',
  'optics', 'earth science', 'geology', 'meteorology',
  'philosophy of language', 'philosophy of law',
  'philosophy of mind', 'philosophy of science', 'economics',
- 'accounting', 'education', 'linguistics', 'law',
+ 'accounting', 'education', 'linguistics',
  'software engineering',
  'calculus', 'geometry', 'abstract algebra', 'Boolean algebra',
  'commutative algebra', 'group theory', 'linear algebra',
@@ -26,7 +26,7 @@ const topics = ['cognitive science',
  ];
 // for now, remove topics with too many nodes
 // 'anatomy', 'biochemistry', 'genetics', 'chemistry',
-// 'sociology', 'education', 'psychology', 'electronics'
+// 'sociology', 'education', 'law', 'psychology', 'electronics'
 // 'robotics', 'physics', 'mathematics'
 
 // UI
@@ -99,10 +99,10 @@ function tick() {
 }
 
 // Load data
-$(document).ready(function(){
+setTimeout(function(){
   load_network(topics[0]);
   load_barcode(topics[0]);
-});
+}, 1000);
 
 // https://stats.stackexchange.com/questions/281162/scale-a-number-between-a-range
 const tmin = 6,
@@ -111,7 +111,7 @@ let rmin = 1,
   rmax = 0;
 let json;
 function load_network(topic) {
-  $.getJSON(`/assets/wikinets/${topic}.json`, data => {
+  d3.json(`/assets/wikinets/${topic}.json`).then(data => {
     json = data;
     json.links.forEach(function(d, i) {
       d.source = json.nodes.map(d => d.id)[d.source];

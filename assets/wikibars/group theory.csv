@@ -1,0 +1,143 @@
+i,birth,death,dim,nodes
+0,-3000,2100,0,Mathematics
+1,-1550,100,0,Prime number
+2,1736,1801,0,Euler's theorem
+3,1830,1879,0,Crystallographic point group
+4,1899,1910,0,Øystein Ore
+5,180,1830,1,Symmetry group;Klein four-group
+6,1150,1830,1,Permutation;Symmetry group
+7,1151,2100,1,Prime number;Up to
+8,1535,2100,1,Galois theory;Integer
+9,1782,1833,1,Abstract algebra;Prime number
+10,1783,2100,1,Abstract algebra;Friedrich Wilhelm Levi
+11,1800,2100,1,Operation (mathematics);Abelian group
+12,1801,1951,1,Integer;Modular arithmetic
+13,1801,1904,1,Abelian group;Lagrange's theorem (group theory)
+14,1802,2100,1,Abelian group;Niels Henrik Abel
+15,1812,2100,1,Finite field;Prime number
+16,1831,2100,1,Abelian group;Divisible group
+17,1831,2100,1,Algebraic geometry;Algebraic group
+18,1832,1901,1,Abelian group;Elliptic curve
+19,1832,2100,1,Group isomorphism;List of small groups
+20,1832,2100,1,Group isomorphism;Elliptic curve
+21,1832,2100,1,Modular arithmetic;Congruence relation
+22,1832,2100,1,Algebraic group;Quantum group
+23,1833,2100,1,Galois theory;Automorphism group
+24,1833,2100,1,Automorphism group;Thompson group (finite)
+25,1835,2100,1,Abelian group;Grothendieck group
+26,1850,2100,1,Simple group;Simple Lie group
+27,1850,2100,1,Abelian group;Simple Lie group
+28,1857,2100,1,Group isomorphism;Order automorphism
+29,1857,2100,1,Quaternion group;Quaternion
+30,1857,2100,1,Burnside's lemma;Augustin Louis Cauchy
+31,1859,2100,1,Ring (mathematics);Group ring
+32,1860,2100,1,Group ring;Group algebra
+33,1880,2100,1,Schoenflies notation;Space group
+34,1885,2100,1,Frattini subgroup;Giovanni Frattini
+35,1898,2100,1,Lie group;Affine representation
+36,1898,2100,1,Richard Dedekind;Hamiltonian group
+37,1898,2100,1,Group homomorphism;Affine representation
+38,1898,2100,1,Group cohomology;Affine representation
+39,1898,2100,1,Automorphism group;Affine representation
+40,1898,2100,1,Euclidean group;Affine representation
+41,1900,2100,1,Matrix (math);Computer algebra system
+42,1901,2100,1,Subgroup;Jakob Nielsen (mathematician)
+43,1902,2100,1,Integer;Congruence subgroup
+44,1902,2100,1,Lattice (group);Minkowski's theorem
+45,1902,2100,1,Group homomorphism;Burnside's problem
+46,1902,2100,1,Sylow theorems;Peter Ludwig Mejdell Sylow
+47,1902,2100,1,Symmetric group;Multiplication table
+48,1902,2100,1,Hamiltonian group;Reinhold Baer
+49,1902,2100,1,Algebraic group;Congruence subgroup
+50,1902,2100,1,William Burnside;Burnside's problem
+51,1902,2100,1,Issai Schur;Burnside's problem
+52,1903,2100,1,Algebraic geometry;Free abelian group
+53,1903,1931,1,Special linear group;Normal subgroup
+54,1903,2100,1,Presentation of a group;Schreier's subgroup lemma
+55,1903,2100,1,Transversal (combinatorics);Schreier's subgroup lemma
+56,1904,1931,1,Abelian group;Solvable group
+57,1904,2100,1,Schur multiplier;Projective representation
+58,1904,2100,1,Schur multiplier;List of finite simple groups
+59,1904,2100,1,Hall subgroup;Philip Hall
+60,1904,2100,1,Solvable group;William Burnside
+61,1905,2100,1,Abelian group;Torsion subgroup
+62,1905,2100,1,Wreath product;Semigroup
+63,1906,2100,1,Emmy Noether;Hans Fitting
+64,1921,2100,1,Hans Zassenhaus;Zassenhaus lemma
+65,1924,1925,1,Free group;Jakob Nielsen (mathematician)
+66,1925,2100,1,Real number;Symmetry in physics
+67,1925,2100,1,Symmetry in physics;Continuous symmetry
+68,1927,2100,1,Otto Schreier;Isomorphism theorem
+69,1928,2100,1,Schreier refinement theorem;Otto Schreier
+70,1929,2100,1,Butterfly lemma;Hans Zassenhaus
+71,1931,2100,1,Simple group;Tits group
+72,1931,2100,1,Solvable group;Borel subgroup
+73,1931,2100,1,Algebraic group;Borel subgroup
+74,1931,2100,1,Borel subgroup;Reductive group
+75,1931,2100,1,Borel subgroup;Jacques Tits
+76,1932,2100,1,Locally cyclic group;Pro-finite group
+77,1936,2100,1,Reinhold Baer;Bernd Fischer (mathematician)
+78,1936,2100,1,Fischer group;Bernd Fischer (mathematician)
+79,1940,2100,1,Center of a group;Conway group
+80,1949,2100,1,Richard Brauer;Issai Schur
+81,1949,2100,1,Richard Brauer;Robert Steinberg
+82,1950,2100,1,Character theory;Richard Brauer
+83,1951,2100,1,Prime number;Discrete Heisenberg group
+84,1951,2100,1,Great orthogonality theorem;Compact group
+85,1965,2100,1,Mathieu group;John Horton Conway
+86,1970,2100,1,Public key cryptography;Finite field
+87,1970,2100,1,Finite field;Baby Monster group
+88,1970,2100,1,John G. Thompson;Walter Feit
+89,1970,2100,1,Outer automorphism group;Baby Monster group
+90,1970,2100,1,John Horton Conway;Baby Monster group
+91,1972,2100,1,Algebraic group;Arithmetic group
+92,1973,2100,1,Lattice (group);Lattice (discrete subgroup)
+93,1980,2100,1,Identity element;P-group
+94,1988,2100,1,Solvable group;Parabolic subgroup
+95,1988,2100,1,Algebraic group;Parabolic subgroup
+96,1988,2100,1,Reductive group;Parabolic subgroup
+97,1988,2100,1,Jacques Tits;Parabolic subgroup
+98,1988,2100,1,Parabolic subgroup;Hyperbolic group
+99,1990,2100,1,Simple Lie group;Bimonster
+100,1990,2100,1,Wreath product;Bimonster
+101,2010,2100,1,John G. Thompson;R. L. Griess
+102,2010,2100,1,Monster group;R. L. Griess
+103,2020,2100,1,Crystal;Symmetry
+104,2020,2100,1,Crystal;Crystallographic point group
+105,2020,2100,1,Chevalley group;Thompson group (finite)
+106,2020,2100,1,Lagrange's theorem (group theory);Joseph-louis Lagrange
+107,2020,2100,1,Orbit (group theory);Homogeneous space
+108,2020,2100,1,Orbit (group theory);Burnside's lemma
+109,2020,2100,1,Discrete space;Symmetry in physics
+110,2020,2100,1,Schreier–sims algorithm;Schreier's subgroup lemma
+111,1800,2100,2,Vector space;Abelian group;Commutative
+112,1830,2100,2,Group (mathematics);Abelian group;Commutative
+113,1831,2100,2,Galois theory;Évariste Galois;Galois group
+114,1831,2100,2,Integer;Real number;Heisenberg group
+115,1831,2100,2,Integer;Real number;Discrete logarithm
+116,1832,2100,2,Ring (mathematics);Integer;General linear group
+117,1832,2100,2,Vector space;Abelian group;General linear group
+118,1849,2100,2,Symmetry group;Klein four-group;Felix Klein
+119,1857,2100,2,Vector space;Homomorphism;Group action (mathematics)
+120,1902,2100,2,Permutation group;Symmetric group;Augustin Louis Cauchy
+121,1902,2100,2,Symmetric group;Bijection;Matrix (math)
+122,1903,2100,2,Integer;Free abelian group;Lattice (group)
+123,1903,2100,2,Subgroup;Generating set of a group;Strong generating set
+124,1903,2100,2,Subgroup;Free abelian group;Lattice (group)
+125,1903,2100,2,Quotient group;Free abelian group;Group isomorphism
+126,1911,2100,2,Generating set of a group;Presentation of a group;Word problem for groups
+127,1925,2100,2,Physics;Emmy Noether;Symmetry in physics
+128,1925,2100,2,Subgroup;Free abelian group;Algebraic topology
+129,1925,2100,2,Free abelian group;Algebraic topology;Free group
+130,1931,2100,2,Abelian group;Solvable group;Factor group
+131,1931,2100,2,Real number;Factor group;Equivalence class
+132,1931,2100,2,Group extension;Solvable group;Factor group
+133,1932,2100,2,Abelian group;Factor group;Pro-finite group
+134,1932,2100,2,Normal subgroup;Group homomorphism;Pro-finite group
+135,1932,2100,2,Generating set of a group;Topological group;Pro-finite group
+136,1936,2100,2,Subgroup;Symmetric group;Even and odd permutations
+137,1951,2100,2,Integer;Real number;Discrete Heisenberg group
+138,1951,2100,2,Issai Schur;Great orthogonality theorem;Schur's lemma
+139,1980,2100,2,Prime number;P-group;Tarski monster group
+140,1981,2100,2,Vector space;Abelian group;Core (group)
+141,1981,2100,2,Abelian group;Core (group);Solvable group

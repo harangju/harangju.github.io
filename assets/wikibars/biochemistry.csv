@@ -1,0 +1,1987 @@
+i,birth,death,dim,nodes
+0,-2500,2100,0,Carbon
+1,-2000,900,0,Medicine
+2,-2000,-500,0,Pesticide
+3,-1500,111,0,Nutrition
+4,-1500,-500,0,Fermentation (biochemistry)
+5,-500,118,0,Sulfur
+6,-500,1588,0,Phylogenetics
+7,-400,-300,0,Physiology
+8,100,1588,0,Lipid
+9,100,1791,0,Dendrite
+10,100,2020,0,Desmopressin
+11,100,230,0,Phytohaemagglutinin
+12,100,1838,0,Rho factor
+13,146,1800,0,Nucleosome
+14,155,1800,0,Basic fibroblast growth factor
+15,180,1800,0,Homeobox
+16,180,1300,0,Homeodomain protein
+17,182,1838,0,Intein
+18,273,1700,0,Kelvin
+19,400,1923,0,Infrared spectroscopy
+20,600,1600,0,Cancer
+21,1250,1700,0,Thermodynamic free energy
+22,1791,1860,0,Titration
+23,1800,1895,0,Adrenergic receptor
+24,1800,1815,0,Kinetic energy
+25,1800,1832,0,Serpin
+26,1900,2020,0,Mechanoreceptor
+27,1905,1906,0,Gastrin
+28,1909,1910,0,Lysozyme
+29,1913,1970,0,Dialysis
+30,1926,2005,0,Von Willebrand factor
+31,1930,1972,0,Angiotensin
+32,1959,1969,0,Philadelphia chromosome
+33,1965,2005,0,Carcinoembryonic antigen
+34,2020,2023,0,Allosteric site
+35,2020,2023,0,Michaelis-menten kinetics
+36,2020,2023,0,Steroid receptor
+37,2020,2026,0,3' end
+38,2020,2026,0,Rna-binding protein
+39,2020,2023,0,Opsin
+40,2020,2023,0,Corticotropin
+41,2020,2026,0,Angiotensin II
+42,2020,2024,0,Hydrophobicity analysis
+43,2020,2025,0,Outline of biochemical techniques
+44,2020,2026,0,Mitochondrial membrane
+45,2020,2026,0,Chromosome walking
+46,2020,2026,0,List of biochemists
+47,100,2025,1,Cell (biology);Microbe
+48,100,1824,1,Carbon;Mole (unit)
+49,118,1700,1,Chemical element;Carbon
+50,120,1991,1,Meiosis;Gamete
+51,142,1830,1,Bacteria;Fermentation (biochemistry)
+52,230,2100,1,Nutrition;Pregnancy proteins
+53,230,2100,1,Gamete;Pregnancy proteins
+54,800,1824,1,Sugar;Ethanol
+55,800,2100,1,Starch;Ethanol
+56,800,2004,1,Ethanol;Ammonia
+57,800,2100,1,Ethanol;Atomic radius
+58,800,2100,1,Ethanol;Pregnancy proteins
+59,1000,2100,1,Microscope;Colloid
+60,1300,2002,1,Organ (anatomy);Physiology
+61,1452,2026,1,Cell (biology);Biomechanics
+62,1500,1735,1,Chemical reaction;Cell (biology)
+63,1500,1824,1,Hydrogen;Photosynthesis
+64,1500,1996,1,Hydrogen;Ammonia
+65,1500,2026,1,Biomechanics;Entomology
+66,1501,2100,1,International Union of Pure and Applied Chemistry;Polymerization
+67,1588,1838,1,Fungi;Polysaccharide
+68,1588,1600,1,Fungi;Physiology
+69,1588,1905,1,Fungi;Meiosis
+70,1588,2100,1,Fungi;Medicine
+71,1599,2100,1,Medicine;Virology
+72,1600,1735,1,Pharmacology;Fungi
+73,1600,2100,1,Homology (biology);Evolution
+74,1600,1735,1,Diffusion;Osmosis
+75,1601,2100,1,Physiology;Drug
+76,1601,2100,1,Alcohol;Drug
+77,1614,2021,1,Metabolism;Nutrition
+78,1615,2100,1,Physiology;Triiodothyronine
+79,1665,1800,1,Lipid;Cell membrane
+80,1665,2100,1,Cell membrane;Odorant receptor
+81,1666,1845,1,T cell;B cell
+82,1669,2100,1,Phosphorus;Pesticide
+83,1680,1905,1,Yeast;Microbe
+84,1700,1772,1,Electron;Photosynthesis
+85,1700,1835,1,Electron;Atomic radius
+86,1700,2002,1,Organ (anatomy);Biochemistry
+87,1700,2026,1,Biochemistry;Entomology
+88,1700,2026,1,Neuroscience;Cell biology
+89,1700,2100,1,Neuroscience;Phytohaemagglutinin
+90,1700,2023,1,Catalyst;Diffusion
+91,1701,2100,1,Ammonia;Urea cycle
+92,1701,2100,1,Physiology;Biomedical model
+93,1727,2100,1,Carbon;Tetrodotoxin
+94,1727,1996,1,Ammonia;Urea
+95,1735,2100,1,Biology;Entropy
+96,1747,2020,1,Glucose;Alcohol
+97,1752,2100,1,Cell membrane;Physical chemistry
+98,1753,2100,1,Evolution;Luminescent protein
+99,1753,2100,1,Pharmaceutical;Chemical property
+100,1772,1838,1,Polysaccharide;Nitrogen
+101,1772,1908,1,Nitrogen;Ammonia
+102,1772,2100,1,Nitrogen;Tetrodotoxin
+103,1773,2100,1,Nitrogen;Vapor pressure
+104,1780,2100,1,Potassium;Lactic acid
+105,1782,2100,1,International Union of Pure and Applied Chemistry;Chemical nomenclature
+106,1791,2100,1,Action potential;Potassium
+107,1791,2013,1,Action potential;Nervous system
+108,1800,1916,1,Chemical reaction;Aromatic compound
+109,1800,1991,1,Gene;Cancer
+110,1800,1838,1,Gene;Plasma membrane
+111,1800,2100,1,Gene;Odorant receptor
+112,1800,1838,1,Gene;Protozoan proteins
+113,1800,1822,1,Amino acid;Homeodomain protein
+114,1800,1838,1,Carbon;Virus (biology)
+115,1800,2005,1,Purine;Pyrimidine
+116,1800,1869,1,Purine;Heterocyclic compound
+117,1800,1869,1,Organic chemistry;Heterocyclic compound
+118,1800,2100,1,Organic chemistry;Drug
+119,1800,1824,1,Benzene;Aromatic compound
+120,1800,1869,1,Phosphorus;Virus (biology)
+121,1800,2100,1,Genetics;Pregnancy proteins
+122,1800,2026,1,Genomics;Modern synthesis (20th century)
+123,1801,2100,1,Amino acid;Neurotransmitter
+124,1801,1908,1,Neurotransmitter;Neuron
+125,1801,2100,1,Organic chemistry;Timeline of biology and organic chemistry
+126,1801,2100,1,Alpha adrenergic receptor;Beta-1 adrenergic receptor
+127,1802,2100,1,Antibiotic;Polymyxin
+128,1804,1838,1,Cell nucleus;Gene
+129,1804,1869,1,Cell nucleus;Histone
+130,1806,2100,1,Ethanol;Asparagine
+131,1806,2100,1,Benzene;Asparagine
+132,1806,2100,1,Nuclear protein;Tax gene product
+133,1815,2020,1,Proton;Lactic acid
+134,1815,2100,1,Chirality (chemistry);Lactic acid
+135,1815,2100,1,Chirality (chemistry);Catalyst
+136,1815,2100,1,Chirality (chemistry);Circular dichroism
+137,1817,2100,1,Ligand;Chlorophyll
+138,1817,2100,1,Aromatic compound;Chlorophyll
+139,1817,2100,1,Chlorophyll;Luminescent protein
+140,1820,2014,1,Ethanol;Glycine
+141,1822,2026,1,Mutation;Fermentation (biochemistry)
+142,1823,2100,1,Hydrogenation;Pharmaceutical
+143,1824,1849,1,Organic compound;Purine
+144,1824,2020,1,Organic compound;Urea
+145,1825,1838,1,Oxygen;Hemoglobin
+146,1827,1842,1,Amino acid;Isomer
+147,1828,2100,1,Organic reaction;Organic compound
+148,1832,1838,1,Polysaccharide;Polymer
+149,1832,2100,1,Polymer;International Union of Pure and Applied Chemistry
+150,1833,1869,1,Enzyme;Purine
+151,1833,2013,1,Enzyme;Evolutionary developmental biology
+152,1833,2100,1,Enzyme;Drug
+153,1833,2100,1,Enzyme;Luminescent protein
+154,1834,2100,1,Enzyme;Acrosin
+155,1834,2100,1,Enzyme;Plasmin
+156,1835,1916,1,Ligand;Oxidation number
+157,1835,2100,1,International Union of Pure and Applied Chemistry;Oxidation number
+158,1835,2100,1,Electrochemical potential;Oxidation number
+159,1838,2022,1,Ligand;Plant protein
+160,1838,1917,1,Intein;Plant protein
+161,1838,1869,1,Genomics;Plant protein
+162,1838,2100,1,Diffusion;Plant protein
+163,1838,2100,1,Colloid;Plant protein
+164,1839,2100,1,Ligand;Retinoic acid receptor
+165,1840,2100,1,Mitochondrion;Pregnancy proteins
+166,1840,2100,1,Biophysics;Physical chemistry
+167,1840,2100,1,Biophysics;Atomic absorption spectroscopy
+168,1840,2002,1,Biophysics;Biomechanics
+169,1841,2100,1,Isomer;Allotrope
+170,1842,2100,1,Genetics;Karyotype
+171,1842,2100,1,Medicine;Karyotype
+172,1842,2100,1,Karyotype;Phytohaemagglutinin
+173,1845,1857,1,Bacteria;Immunoglobulin
+174,1845,2100,1,Bacteria;Gamma-chain immunoglobulin
+175,1845,2100,1,Bacteria;Mu-chain immunoglobulin
+176,1846,1908,1,Neurotransmitter;Phosphotyrosine
+177,1846,2100,1,Solvent;Pharmaceutical
+178,1846,2015,1,Solvent;Osmosis
+179,1846,1996,1,Solvent;Colloid
+180,1846,2100,1,Phenol;Phosphotyrosine
+181,1846,1953,1,Tyrosine;Aromatic compound
+182,1846,2100,1,Colloid;Phosphotyrosine
+183,1846,1915,1,Phosphotyrosine;Triiodothyronine
+184,1847,1925,1,Phospholipid;Plasma membrane
+185,1847,2100,1,Phospholipid;Phosphorus
+186,1847,2100,1,Ethanol;Nitroglycerine
+187,1847,2100,1,Nitroglycerine;Medicine
+188,1848,1929,1,Amino acid;Cell membrane transport
+189,1848,1925,1,Enzyme;Cell membrane transport
+190,1848,2022,1,Plasma membrane;Active transport
+191,1848,2100,1,Potassium;Cell membrane transport
+192,1848,2100,1,Electrochemical potential;Cell membrane transport
+193,1848,2100,1,Entropy;Cell membrane transport
+194,1848,2100,1,Cell membrane transport;Kinetic energy
+195,1849,2100,1,Vitamin;Pyridine
+196,1850,2100,1,Glycolysis;Thermodynamic free energy
+197,1853,2100,1,Potential energy;Thermodynamic free energy
+198,1853,2100,1,Potential energy;Kinetic energy
+199,1855,2100,1,Polymer;Fick's law of diffusion
+200,1855,2100,1,Neuron;Fick's law of diffusion
+201,1855,2100,1,Diffusion;Fick's law of diffusion
+202,1858,2100,1,Biotechnology;Bioethics
+203,1858,2100,1,Entropy;Thermochemistry
+204,1859,2100,1,Formaldehyde;Catalyst
+205,1860,2100,1,Analytical chemistry;Spectroscopy
+206,1860,2100,1,Analytical chemistry;Chemical nomenclature
+207,1863,1953,1,Glycolysis;Cytoplasm
+208,1869,1931,1,Nucleic acid;Sugar
+209,1869,1941,1,Insulin;Action potential
+210,1869,2100,1,Insulin;Alpha adrenergic receptor
+211,1869,2100,1,Insulin;Crystal structure
+212,1870,2100,1,Photosynthesis;Flavoprotein
+213,1870,2100,1,Ligand;Isothermal titration calorimeter
+214,1870,2100,1,Stoichiometry;Isothermal titration calorimeter
+215,1870,2100,1,Entropy;Isothermal titration calorimeter
+216,1872,2100,1,Enzyme;Thrombin
+217,1879,2100,1,Flavin adenine dinucleotide;Flavoprotein
+218,1881,2100,1,Chromosome;List of gene families
+219,1882,2100,1,Amino acid sequence;Biophysics
+220,1884,2100,1,Electrophoresis;Mass spectrometer
+221,1884,1891,1,Sugar;Thiamin
+222,1884,1995,1,Solvent;Mass spectrometer
+223,1884,2100,1,Kinetic energy;Mass spectrometer
+224,1884,2100,1,Osmosis;Complement 3A
+225,1884,2100,1,Osmosis;Complement 5A
+226,1884,2100,1,Deuterium;Mass spectrometer
+227,1886,2023,1,Ethanol;Arginine
+228,1888,2100,1,Protein;Lectin
+229,1888,2100,1,Lectin;Phytohaemagglutinin
+230,1889,1930,1,Lysine;Amino acid sequence
+231,1889,2100,1,Lysine;Homeodomain protein
+232,1889,2100,1,Activation energy;Potential energy
+233,1894,2100,1,Cytosine;Rho factor
+234,1895,2100,1,Nobel Prize in Chemistry;Organic reaction
+235,1895,2016,1,Nobel Prize in Chemistry;Catalyst
+236,1895,2100,1,Nobel Prize in Chemistry;Cell membrane transport
+237,1895,2100,1,Nobel Prize in Chemistry;Luminescent protein
+238,1895,2100,1,Nobel Prize in Chemistry;Mass spectrometer
+239,1895,2100,1,Epinephrine;Phenylalanine
+240,1896,2100,1,Neurotransmitter;Beta-2 adrenergic receptor
+241,1896,2100,1,Epinephrine;Beta-2 adrenergic receptor
+242,1896,2100,1,Histidine;Aromatic compound
+243,1897,2100,1,Glucose;Rough ER
+244,1897,2100,1,Glucose;Smooth ER
+245,1897,2019,1,Protein synthesis;Endoplasmic reticulum
+246,1897,2100,1,Epinephrine;Synapse
+247,1897,2100,1,Alpha adrenergic receptor;Endoplasmic reticulum
+248,1898,2100,1,Olfaction;Odorant receptor
+249,1900,2026,1,Developmental biology;Entomology
+250,1900,2100,1,Dna;Molecular evolution
+251,1900,2100,1,Protein;Half-life
+252,1900,2100,1,Half-life;Plant protein
+253,1900,2100,1,Chromatography;Analytical chemistry
+254,1900,2100,1,Chromatography;Fick's law of diffusion
+255,1900,1972,1,Chromatography;Mass spectrometer
+256,1900,1972,1,Chromatography;Plant protein
+257,1900,2100,1,Biochemistry;Monoclonal antibody
+258,1900,2100,1,Sugar;Biosalinity
+259,1900,2100,1,Physiology;Biosalinity
+260,1900,2100,1,Vaccine;Multiresistance
+261,1900,2100,1,Epinephrine;Cas registry number
+262,1900,1970,1,Chromosome;Multiresistance
+263,1900,2100,1,International Union of Pure and Applied Chemistry;Cas registry number
+264,1900,2100,1,Genetics;Biosalinity
+265,1900,2100,1,Entropy;Double helix
+266,1900,2003,1,Gamma-chain immunoglobulin;Monoclonal antibody
+267,1900,2003,1,Monoclonal antibody;Mu-chain immunoglobulin
+268,1901,2100,1,Prokaryote;Modern synthesis (20th century)
+269,1901,2100,1,Amino acid;Vasoactive intestinal peptide
+270,1901,2025,1,Protein folding;Immune system
+271,1901,2100,1,Half-life;Vasoactive intestinal peptide
+272,1901,2100,1,Coenzyme;Porphyrin
+273,1901,2100,1,Organic compound;Porphyrin
+274,1901,2100,1,Hemoglobin;Porphyrin
+275,1901,2100,1,Hemoglobin;Metalloprotein
+276,1901,2100,1,Heterocyclic compound;Porphyrin
+277,1902,2026,1,Signal transduction;Systems biology
+278,1902,1960,1,Signal transduction;Phosphotyrosine
+279,1903,2100,1,Signal transduction;Mineralocorticoid receptor
+280,1903,2100,1,Ligand;Mineralocorticoid receptor
+281,1903,1952,1,Double helix;Cytoskeletal protein
+282,1904,2100,1,Cell biology;Microtubule-associated protein
+283,1905,2100,1,Pharmaceutical;Erythropoietin
+284,1906,1933,1,Oxygen;Oxidative phosphorylation
+285,1906,2100,1,Phosphorylation;Photophosphorylation
+286,1906,2020,1,Proton;Oxidative phosphorylation
+287,1906,2100,1,Potential energy;Oxidative phosphorylation
+288,1907,1946,1,Transformation (genetics);Multiresistance
+289,1908,2022,1,Proton;Glutamic acid
+290,1909,2100,1,Glutamate;Hair cell
+291,1909,2100,1,Glutamate;Olfactory receptor neuron
+292,1909,2100,1,Olfaction;Olfactory receptor neuron
+293,1909,2100,1,Genetics;Chiasma (genetics)
+294,1910,2100,1,Organic compound;Alicyclic compound
+295,1910,2100,1,Nitrogen;Van der Waals radius
+296,1910,2004,1,Active site;Serpin
+297,1910,2100,1,Sulfur;Van der Waals radius
+298,1910,2026,1,Homeobox;Drosophila melanogaster
+299,1910,2026,1,Chromosome;Drosophila melanogaster
+300,1910,2100,1,Atomic radius;Van der Waals radius
+301,1910,2026,1,Genetics;Drosophila melanogaster
+302,1910,2100,1,Drosophila melanogaster;Centriole
+303,1911,2002,1,Gene;Phenotype
+304,1911,2100,1,Van der Waals radius;Molecular mechanics
+305,1913,1998,1,Solvent;Micelle
+306,1915,2100,1,Acetylcholine;Neurotransmitter
+307,1915,2014,1,Active transport;Thyroxine
+308,1915,2014,1,Diffusion;Thyroxine
+309,1916,2100,1,Somatostatin;Thyrotropin
+310,1916,2100,1,Triiodothyronine;Thyrotropin
+311,1917,2100,1,Functional group;Solvation
+312,1917,2100,1,Atomic radius;Covalent radius
+313,1918,1959,1,Disaccharide;Carbon
+314,1918,2018,1,Lipid;Hydrocarbon
+315,1918,2100,1,Phenol;Phenyl group
+316,1919,2100,1,Ph;Phenyl group
+317,1919,1925,1,Ph;Micelle
+318,1921,2100,1,Glucagon;Glucagon receptor
+319,1925,2100,1,Electron;Phospholipid bilayer
+320,1925,1959,1,Sugar;Phospholipid bilayer
+321,1925,2100,1,Alcohol;Nucleophile
+322,1926,1941,1,Potassium;Potassium channel
+323,1926,2100,1,Electron configuration;Quantum chemistry
+324,1927,2100,1,Redox;Luminescent protein
+325,1929,2011,1,Adenosine triphosphate;Active transport
+326,1929,2100,1,Adenosine triphosphate;Odorant receptor
+327,1929,2100,1,Adenosine triphosphate;Rho factor
+328,1930,2100,1,Immune system;Prolactin
+329,1930,2026,1,Molecular biology;Synapse
+330,1930,2026,1,Molecular biology;Modern synthesis (20th century)
+331,1931,2012,1,Gene;Sigma factor
+332,1931,2100,1,Enzyme;Sigma factor
+333,1931,2025,1,Signal transduction;Adenosine
+334,1931,2100,1,Lysozyme;Lysis
+335,1932,2100,1,Adenosine triphosphate;Photorespiration
+336,1932,2100,1,Ammonia;Photorespiration
+337,1932,2100,1,Genotype;Fitness landscape
+338,1933,2100,1,Neutron;Neutron activation analysis
+339,1935,2100,1,Cell membrane;Serotonin
+340,1937,2100,1,Essential amino acid;Vitamin
+341,1938,2100,1,Nuclear magnetic resonance;Aromatic compound
+342,1938,2013,1,Nuclear magnetic resonance;Atomic nucleus
+343,1938,2100,1,Nuclear magnetic resonance;Plant protein
+344,1940,2100,1,Cancer;Dactinomycin
+345,1940,2100,1,Bradykinin;Bradykinin receptor
+346,1941,2023,1,Cell nucleus;Ion channel
+347,1941,2023,1,Organelle;Ion channel gating
+348,1941,2100,1,Nobel Prize in Chemistry;Ion channel gating
+349,1941,1969,1,Phosphorylation;Ion channel gating
+350,1941,2019,1,Homology (biology);Ion channel gating
+351,1941,2026,1,Biophysics;Ion channel
+352,1941,2100,1,Bradykinin;Kallidin
+353,1941,2100,1,Redox;Ion channel gating
+354,1942,2100,1,Protein;Electrophysiology
+355,1942,2100,1,Calcium channel;Ion channel
+356,1942,2100,1,Calcium channel;Ion channel gating
+357,1942,2100,1,Ion channel;Annexin II
+358,1942,2100,1,Chloride channel;Ion channel gating
+359,1946,2026,1,Adenosine triphosphate;Heterotroph
+360,1946,2100,1,Nutrition;Heterotroph
+361,1947,2100,1,Nobel Prize in Chemistry;Stimulatory gs G-protein
+362,1947,2012,1,Neurotransmitter;G protein
+363,1947,2012,1,Neurotransmitter;Stimulatory gs G-protein
+364,1947,2020,1,Signal transduction;Stimulatory gs G-protein
+365,1947,2100,1,Cancer;Stimulatory gs G-protein
+366,1947,2100,1,Epinephrine;Stimulatory gs G-protein
+367,1947,2012,1,Alpha adrenergic receptor;G protein
+368,1947,2012,1,G protein;Odorant receptor
+369,1947,2100,1,Ion channel;Cyclic nucleotide
+370,1949,2008,1,Amino acid;Conserved sequence
+371,1949,1977,1,Nucleic acid;Conserved sequence
+372,1949,1977,1,Ribosome;Conserved sequence
+373,1949,1977,1,Homology (biology);Conserved sequence
+374,1949,2006,1,Conserved sequence;Homeobox
+375,1949,1950,1,Conserved sequence;Genomics
+376,1949,2013,1,Conserved sequence;Phylogenetics
+377,1950,2100,1,Gene;Aquaporin
+378,1950,2100,1,Amino acid;Somatotropin
+379,1950,2100,1,Amino acid;Somatropin
+380,1950,2100,1,Immune system;Somatotropin
+381,1950,2100,1,Immune system;Somatropin
+382,1950,2100,1,Protein synthesis;Somatotropin
+383,1950,2100,1,Protein synthesis;Somatropin
+384,1950,2100,1,Nobel Prize in Chemistry;Aquaporin
+385,1950,2100,1,Neuron;Nerve growth factor
+386,1950,2100,1,Potential energy;Molecular dynamics
+387,1950,2100,1,Computational chemistry;Molecular dynamics
+388,1950,2100,1,Insulin-like growth factor I;Nerve
+389,1951,2100,1,Genetic engineering;International Union of Pure and Applied Chemistry
+390,1951,2100,1,Genetic engineering;Luminescent protein
+391,1951,1978,1,Molecular biology;Consensus sequence
+392,1951,2026,1,Signal transduction;Computational biology
+393,1952,2025,1,Protein;Molecular modelling
+394,1952,2100,1,Computational biology;Molecular modelling
+395,1952,2100,1,Quantum chemistry;Molecular modelling
+396,1952,2100,1,Molecular mechanics;Molecular modelling
+397,1953,2018,1,Phospholipid;Acetyl CoA
+398,1953,2026,1,Morphogenesis;Homeobox
+399,1953,2100,1,Morphogenesis;Inhibin
+400,1953,2100,1,Ethanol;Acetyl CoA
+401,1953,1954,1,Acetyl CoA;Lysine
+402,1953,1971,1,Acetyl CoA;Histone
+403,1953,2100,1,Adenovirus;Atomic mass unit
+404,1954,2100,1,Organ (anatomy);Morphogenetic field
+405,1954,2012,1,Amino acid;Sequence motif
+406,1954,2100,1,Cell (biology);Morphogenetic field
+407,1954,2100,1,Enzyme;Src gene
+408,1954,2100,1,Hydrocarbon;Isoleucine
+409,1954,2100,1,Morphogenesis;Src gene
+410,1954,2100,1,Cancer;Platelet-derived growth factor receptor
+411,1954,2026,1,Structural motif;Sequence motif
+412,1954,2100,1,T cell;Src gene
+413,1954,2023,1,Serotonin;Tryptophan
+414,1954,2100,1,Tryptophan;Aromatic compound
+415,1954,2100,1,Tyrosine;Src gene
+416,1954,2100,1,Fc receptor;Src gene
+417,1956,2100,1,Biotechnology;Molecular engineering
+418,1957,2009,1,Nucleotide;Recombinant interferon-gamma
+419,1957,2100,1,Yeast;Recombinant interferon-gamma
+420,1957,2100,1,Ligand;Recombinant interferon-gamma
+421,1959,2006,1,Carbohydrate;Lectin
+422,1960,2026,1,Cell (biology);Stem cell
+423,1960,2100,1,Carbohydrate;Glycolipid
+424,1960,2100,1,Nucleotide;Ras protein
+425,1960,2100,1,Nucleotide;Ras gene
+426,1960,2100,1,Organic compound;Ether
+427,1960,2100,1,Hydrolysis;Lysozyme
+428,1960,2100,1,Hydrolysis;Catalyst
+429,1960,2100,1,Hydrolysis;Rho factor
+430,1960,2100,1,Ammonia;Ether
+431,1960,2100,1,Signal transduction;Ras protein
+432,1960,2100,1,Signal transduction;Ras gene
+433,1960,2013,1,Cancer;Ras protein
+434,1960,2013,1,Cancer;Ras gene
+435,1960,2100,1,Glycine;Ether
+436,1960,2100,1,Asparagine;Ether
+437,1960,2100,1,Tyrosine;Receptor protein-tyrosine kinase
+438,1960,2100,1,Stem cell;Pharmaceutical
+439,1960,2100,1,Stem cell;Inhibin
+440,1960,2100,1,Atomic weight;International Union of Pure and Applied Chemistry
+441,1964,2100,1,Fitness (biology);Gene pool
+442,1966,2100,1,Alanine;C4 photosynthesis
+443,1966,2100,1,Phenotype;C4 photosynthesis
+444,1968,2026,1,Gamete;Neutral theory of molecular evolution
+445,1969,2010,1,Philadelphia chromosome;Oncogene protein
+446,1969,2010,1,Philadelphia chromosome;Proto-oncogene proteins
+447,1969,2010,1,Philadelphia chromosome;Proto-oncogene proteins c-fos
+448,1969,2010,1,Philadelphia chromosome;Proto-oncogene proteins c-jun
+449,1969,2100,1,Protein Data Bank;Ras protein
+450,1969,2100,1,Protein Data Bank;Phytohaemagglutinin
+451,1969,2100,1,Protein Data Bank;Ras gene
+452,1969,2009,1,Stem cell;Fusion oncogene protein
+453,1969,2009,1,Stem cell;Oncogene protein
+454,1969,2009,1,Stem cell;Proto-oncogene proteins
+455,1969,2009,1,Stem cell;Proto-oncogene proteins c-fos
+456,1969,2009,1,Stem cell;Proto-oncogene proteins c-jun
+457,1969,2013,1,Rhodopsin;Transient receptor potential
+458,1970,2100,1,Metabolism;Mri
+459,1970,2100,1,Aequorin;Luminescent protein
+460,1970,2100,1,Phosphorus;Mri
+461,1970,2100,1,T cell;Ciclosporin
+462,1970,2100,1,Ubiquitin;Transient receptor potential
+463,1971,2100,1,Neurotransmitter;Second messenger system
+464,1971,2022,1,Posttranslational modification;Nucleophile
+465,1971,2100,1,Posttranslational modification;Erythropoietin
+466,1971,2100,1,Covalent bond;Protein dimer
+467,1971,2100,1,Signal transduction;Second messenger system
+468,1971,2100,1,Atomic mass unit;Heat shock protein
+469,1971,2100,1,Epinephrine;Second messenger system
+470,1971,2100,1,Second messenger system;Serotonin
+471,1971,2100,1,Protein dimer;Reverse transcriptase
+472,1971,2100,1,Ligand;Chelation
+473,1971,2100,1,Protein structure prediction;Biotechnology
+474,1971,2100,1,Chelation;Mri
+475,1971,2100,1,Second messenger;Intermembrane space
+476,1972,2100,1,Peptide;Cyclic peptide
+477,1972,2100,1,Competitive inhibition;Second messenger system
+478,1972,2004,1,Competitive inhibition;Serpin
+479,1972,2025,1,Signal transduction;Calmodulin
+480,1972,2100,1,Alpha adrenergic receptor;Sarcoplasmic reticulum
+481,1972,2100,1,Sarcoplasmic reticulum;Mitochondrion
+482,1972,2100,1,Sarcoplasmic reticulum;Second messenger
+483,1972,2100,1,Kinase;Calmodulin
+484,1972,2100,1,Second messenger;Neuropeptide Y receptor
+485,1972,2100,1,Neuropeptide Y;Neuropeptide Y receptor
+486,1973,2100,1,2-amino-5-phosphonovalerate;Isomer
+487,1973,2100,1,2-amino-5-phosphonovalerate;Glutamate
+488,1973,2100,1,Neuron;Dendritic cell
+489,1973,2100,1,Adenovirus;Dendritic cell
+490,1973,2019,1,Endoplasmic reticulum;Signal peptide
+491,1973,2100,1,Basic fibroblast growth factor;Fibroblast growth factor
+492,1973,2100,1,Fibroblast growth factor;Receptor protein-tyrosine kinase
+493,1974,2100,1,Protein;Protein precursor
+494,1975,2100,1,Peptide;Enkephalin
+495,1975,2100,1,Leucine;Enkephalin
+496,1975,2100,1,Ligand;Enkephalin
+497,1975,2100,1,Methionine;Enkephalin
+498,1976,2100,1,Nobel Prize in Chemistry;Polymerase chain reaction
+499,1976,2100,1,Polymerase chain reaction;Microtiter plate
+500,1978,2025,1,Axon;Exon
+501,1978,2100,1,Sequence homology;Stimulatory gs G-protein
+502,1978,2100,1,Dissociation constant;Tata box
+503,1978,2100,1,Pharmaceutical;Gonadorelin
+504,1978,2100,1,Chaperone (protein);Heat shock protein
+505,1979,2100,1,Immune system;Interleukin-3 receptor
+506,1979,2100,1,Bcr-abl fusion protein;Interleukin-3 receptor
+507,1979,2100,1,Systems biology;Human Genome Project
+508,1979,2100,1,Pharmaceutical;Human Genome Project
+509,1982,2100,1,Vaccine;Synthetic vaccine
+510,1982,2100,1,Vapor pressure;Boiling point
+511,1983,2100,1,Cytoskeleton;Neurofilament protein
+512,1983,2100,1,Protein folding;Talin protein
+513,1983,2100,1,Antibody;Neurofilament protein
+514,1983,2100,1,Phosphorylation;Neurofilament protein
+515,1983,2100,1,Lysine;Neurofilament protein
+516,1983,2100,1,Axon;Neurofilament protein
+517,1983,2100,1,Glutamic acid;Neurofilament protein
+518,1983,2100,1,Consensus sequence;Talin protein
+519,1984,2100,1,Sequence motif;Microsatellite (genetics)
+520,1984,2100,1,Sequence motif;Nucleic acid repetitive sequence
+521,1984,2026,1,Mendelian inheritance;Microsatellite (genetics)
+522,1984,2100,1,Mendelian inheritance;Nucleic acid repetitive sequence
+523,1985,2100,1,Signal transduction;Ribosomal protein S6 kinase
+524,1985,2100,1,Ligand;Ldl receptor
+525,1985,2024,1,Apolipoprotein;Ldl receptor
+526,1985,2100,1,Exon;Ribosomal protein S6 kinase
+527,1986,2100,1,Cancer;Granzyme
+528,1987,2023,1,Serotonin;Ssri
+529,1990,2013,1,Oncogene;Apoptosis
+530,1990,1991,1,Acetyl CoA;Apoptosis
+531,1990,2100,1,Apoptosis;Adenovirus
+532,1990,2025,1,Apoptosis;Second messenger system
+533,1990,2011,1,Apoptosis;Mitochondrion
+534,1990,2013,1,Apoptosis;Phospholipid bilayer
+535,1990,2100,1,Apoptosis;Bcr-abl fusion protein
+536,1990,2100,1,Apoptosis;Fluid mosaic model
+537,1990,2100,1,Apoptosis;Hela cell
+538,1990,2100,1,Apoptosis;Inhibin
+539,1990,2100,1,Apoptosis;Insulin-like growth factor I
+540,1990,2016,1,Apoptosis;Recombinant interferon-gamma
+541,1990,2026,1,Apoptosis;Ssri
+542,1991,2100,1,Mitosis;Phytohaemagglutinin
+543,1994,2100,1,Brca1;Formaldehyde
+544,1994,2100,1,Proteomics;Human Genome Project
+545,1995,2100,1,Abl gene;Philadelphia chromosome
+546,1995,2100,1,Water;Cas registry number
+547,1995,2100,1,Water;Dialysis
+548,1996,2100,1,Hydrophobe;Glycine
+549,1996,2023,1,Hydrophobe;Tyrosine
+550,1996,2100,1,Hydrophobe;Second messenger
+551,1996,2100,1,Hydrophobe;Tata box
+552,1996,2100,1,Hydrophobe;Phosphotyrosine
+553,1996,2100,1,Solution;Cell membrane transport
+554,1997,2100,1,Monosaccharide;Isomer
+555,1997,2014,1,Isomer;Structural formula
+556,1997,2100,1,Acetylcholine;Ester
+557,1997,2025,1,Ester;Ubiquitin
+558,1997,2100,1,Ester;Nitroglycerine
+559,1997,2100,1,Solution;Environmental chemistry
+560,1997,2100,1,Aliphatic compound;Proline
+561,1997,2100,1,Aliphatic compound;Arginine
+562,1997,2100,1,Mole (unit);Concentration
+563,1997,2100,1,Ligand;Environmental chemistry
+564,1997,2023,1,Amino acid sequence;Hydrophobic
+565,1997,2100,1,Hydrophobic;Talin protein
+566,1997,2100,1,Hydrophobic;Homeodomain protein
+567,1997,2100,1,Hydrophobic;Microtiter plate
+568,1997,2025,1,Hydrophobic;Plant protein
+569,1997,2100,1,Endergonic reaction;Concentration
+570,1997,2016,1,Analytical chemistry;Environmental chemistry
+571,1997,2100,1,Concentration;Mri
+572,1997,2100,1,Concentration;Titration
+573,1998,2025,1,Cellulose;Hydrophilic
+574,1998,2100,1,Potential energy;Concentration gradient
+575,1998,2100,1,Hydrophilic;Concentration
+576,1998,2100,1,Fermentation (biochemistry);Le Chatelier's principle
+577,1998,2100,1,Vapor pressure;Partial pressure
+578,1998,2100,1,Concentration;Partial pressure
+579,1999,2100,1,Nitrogen;Vapour pressure
+580,1999,2100,1,Formaldehyde;Vapour pressure
+581,1999,2100,1,Boiling point;Vapour pressure
+582,1999,2100,1,Partial pressure;Vapour pressure
+583,2000,2100,1,Enthalpy;Ionization potential
+584,2001,2019,1,Phosphorylation;Cyclin-dependent kinase
+585,2001,2100,1,Lysine;Cyclin-dependent kinase
+586,2001,2021,1,Mitosis;Cyclin-dependent kinase
+587,2001,2005,1,Cyclin;Cyclin-dependent kinase
+588,2002,2021,1,Metaphase;Cyclin
+589,2002,2021,1,Cyclin;Cyclin B
+590,2003,2100,1,Structure;Mass spectrometer
+591,2003,2100,1,Alpha helix;Globin
+592,2003,2100,1,Cytoskeleton;Skeleton
+593,2003,2100,1,Oxygen;Globin
+594,2003,2026,1,Photosynthesis;Photobiology
+595,2003,2100,1,Protein Data Bank;Biologist
+596,2003,2100,1,Embryo;Pregnancy proteins
+597,2003,2100,1,Embryo;Receptor protein-tyrosine kinase
+598,2003,2100,1,Medicine;Biologist
+599,2003,2100,1,Biosalinity;Halotolerance
+600,2004,2100,1,Carbon;Triose
+601,2004,2100,1,Glycolysis;Triose
+602,2004,2100,1,Cytosol;Potassium
+603,2004,2100,1,Cytosol;C4 photosynthesis
+604,2004,2100,1,Cellular respiration;Exergonic reaction
+605,2004,2100,1,Cellular respiration;Triose
+606,2004,2100,1,Enzyme inhibitor;Pesticide
+607,2004,2100,1,Substrate (biochemistry);Solvent
+608,2004,2022,1,Sulfur;Thioredoxin
+609,2004,2022,1,Redox;Thioredoxin
+610,2004,2100,1,Lactic acid;Triose
+611,2004,2100,1,Cyclic electron flow;Exergonic reaction
+612,2004,2100,1,Exergonic reaction;Light reactions
+613,2005,2016,1,Nobel Prize in Chemistry;Inorganic chemistry
+614,2005,2100,1,Cytosol;Calcium-binding protein
+615,2005,2100,1,Proton;Bacteriorhodopsin
+616,2005,2100,1,Covalent bond;Glycoprotein
+617,2005,2100,1,Aequorin;Calcium-binding protein
+618,2005,2100,1,Calcium-binding protein;Calcium signaling
+619,2005,2100,1,Alpha-beta T-cell antigen receptor;Genetic recombination
+620,2005,2100,1,Genetic recombination;T-cell antigen receptors
+621,2005,2100,1,Enzyme inhibitor;Cyclin E
+622,2005,2100,1,Glycoprotein;Granulocyte colony-stimulating factor
+623,2005,2100,1,Glycoprotein;Thyrotropin
+624,2005,2100,1,Stem cell;Protein P16
+625,2005,2100,1,Crystal structure;Inorganic chemistry
+626,2005,2019,1,Cyclin;Cyclin E
+627,2005,2100,1,Cyclin-dependent kinase;Protein P16
+628,2006,2100,1,Biology;Radioisotope
+629,2006,2100,1,Dna replication;Radioisotope
+630,2006,2100,1,Peptide bond;Peptide elongation factor tu
+631,2006,2100,1,Cell (biology);Selectin
+632,2006,2100,1,Phospholipid;Factor VIII
+633,2006,2100,1,Major histocompatibility complex;Amino acid sequence homology
+634,2006,2023,1,Ribosome;Peptide elongation factor tu
+635,2006,2100,1,T cell;Cytotoxic T cell
+636,2006,2020,1,Protein dimer;Platelet-derived growth factor
+637,2006,2023,1,Methionine;Peptide elongation factor tu
+638,2006,2100,1,Amino acid sequence homology;Molecular evolution
+639,2006,2100,1,Amino acid sequence homology;Globin
+640,2006,2100,1,Hemoglobin;Hemopexin
+641,2006,2100,1,Oxytocin;Sexual reproduction
+642,2006,2016,1,Glycoprotein;Cytotoxic T cell
+643,2006,2100,1,Glycoprotein;Granulocyte-macrophage colony-stimulating factor
+644,2006,2100,1,Glycoprotein;Hemopexin
+645,2006,2100,1,Glycoprotein;Vitronectin
+646,2006,2100,1,Glycoprotein;Selectin
+647,2006,2020,1,Glycoprotein;Platelet-derived growth factor
+648,2006,2100,1,Bacteriorhodopsin;Photoreceptor protein
+649,2006,2100,1,Rhodopsin;Photoreceptor protein
+650,2006,2100,1,Pharmaceutical;Factor VIII
+651,2006,2100,1,Lectin;Selectin
+652,2006,2100,1,Factor VIII;Recombinant protein
+653,2006,2100,1,Platelet-derived growth factor receptor;Platelet-derived growth factor
+654,2006,2100,1,Vitronectin;Serpin
+655,2007,2100,1,Nucleic acid;Cycloleucine
+656,2007,2100,1,Apoptosis;Cycloleucine
+657,2007,2100,1,Ph;Secretin
+658,2007,2100,1,Alcohol;Immune cell
+659,2007,2100,1,Mri;Secretin
+660,2007,2100,1,Colony stimulating factor 1 receptor;Macrophage colony-stimulating factor
+661,2007,2100,1,Vitronectin;Somatomedin
+662,2007,2100,1,Somatostatin;Somatomedin
+663,2009,2026,1,Rna;Activation energy
+664,2010,2025,1,Biopolymer;Microfilament
+665,2010,2022,1,Glutamate;Adenosine monophosphate
+666,2010,2100,1,Gene expression;Housekeeping gene
+667,2010,2100,1,Genome;Hela cell
+668,2010,2100,1,Tyrosine;Nuclear localization signal
+669,2011,2100,1,Dna sequence;Sequence (biology)
+670,2011,2100,1,Actin;Adenosine diphosphate
+671,2011,2100,1,Actin;Hela cell
+672,2011,2100,1,Biopolymer;Sequencing
+673,2011,2100,1,Posttranslational modification;Epigenetics
+674,2011,2100,1,Covalent bond;Sequence (biology)
+675,2011,2100,1,Dendritic cell;Proto-oncogene proteins c-bcl-2
+676,2011,2100,1,Alpha-beta T-cell antigen receptor;Transcription factor
+677,2011,2022,1,Protein dimer;Fibronectin
+678,2011,2026,1,Homology (biology);Rflp
+679,2011,2012,1,Transcription factor;Recombinant interferon-gamma
+680,2011,2100,1,Transcription factor;T-cell antigen receptors
+681,2011,2100,1,Phenol;Isotopic tracer
+682,2011,2100,1,Phenol;Radioisotopic labelling
+683,2011,2022,1,Collagen;Fibronectin
+684,2011,2022,1,Glycoprotein;Fibronectin
+685,2011,2026,1,Genetics;Sequencing
+686,2011,2100,1,Immunology;Retroviridae protein
+687,2011,2100,1,Genetic carrier;Rflp
+688,2011,2100,1,Chemist;Pharmacist
+689,2011,2100,1,Sequence (biology);Myelin basic protein
+690,2011,2100,1,Hela cell;Sequencing
+691,2011,2100,1,Sequencing;Myelin basic protein
+692,2011,2100,1,Infrared spectroscopy;Isotopic tracer
+693,2011,2100,1,Infrared spectroscopy;Radioisotopic labelling
+694,2012,2100,1,Molecular biology;Tubulin
+695,2012,2025,1,Apoptosis;Spectrin
+696,2012,2100,1,G protein-coupled receptor;Adrenergic receptor
+697,2012,2100,1,G protein-coupled receptor;Lactic acid
+698,2012,2100,1,Transcription factor;Androgen receptor
+699,2012,2100,1,Transcription factor;Immediate-early protein
+700,2012,2100,1,Biophysics;Kinesin
+701,2012,2100,1,Androgen receptor;Phenotype
+702,2012,2100,1,Crystal structure;Crystallography
+703,2012,2100,1,Double helix;Crystallography
+704,2012,2100,1,Centromere;Karyotype
+705,2012,2100,1,Crystallography;Ion channel gating
+706,2012,2100,1,Retrovirus;Immediate-early protein
+707,2013,2100,1,Ionic bond;Enthalpy
+708,2013,2100,1,Protein;Cyclic AMP receptor protein
+709,2013,2100,1,Vesicle (biology);Ubiquitin
+710,2013,2100,1,Ampa receptor;Potassium
+711,2013,2100,1,Signal transduction;Angiotensin receptor
+712,2013,2100,1,Neuron;Angiotensin receptor
+713,2013,2100,1,Receptor (biochemistry);Epidermal growth factor receptor
+714,2013,2100,1,Receptor (biochemistry);Somatotropin
+715,2013,2100,1,Receptor (biochemistry);Somatropin
+716,2013,2100,1,Ubiquitin;Transport vesicle
+717,2013,2100,1,Angiotensin;Angiotensin receptor
+718,2013,2100,1,Angiotensin receptor;Oxytocin
+719,2013,2100,1,Atrial natriuretic factor receptor;Nitroglycerine
+720,2013,2100,1,Diffusion;Gene regulatory network
+721,2013,2100,1,Vasoactive intestinal peptide;Vasoactive intestinal peptide receptor
+722,2014,2100,1,Van der Waals force;Atomic orbital
+723,2014,2100,1,Van der Waals force;Plasma membrane
+724,2014,2100,1,Metabolism;Glucocorticoid receptor
+725,2014,2100,1,Immune system;Calcitonin gene-related peptide receptor
+726,2014,2100,1,Immune system;Glucocorticoid receptor
+727,2014,2026,1,Phospholipid;Cooperativity
+728,2014,2100,1,Vesicle (biology);Transport protein
+729,2014,2100,1,Vesicle (biology);Dynorphin
+730,2014,2025,1,Morphogenesis;Toxin
+731,2014,2100,1,Morphogenesis;Embryonal development
+732,2014,2100,1,Competitive inhibition;Receptor antagonist
+733,2014,2020,1,Glutamate;Receptor antagonist
+734,2014,2100,1,Ampa receptor;Glutamate receptor
+735,2014,2021,1,Chemical formula;Formaldehyde
+736,2014,2021,1,Chemical formula;Phenol
+737,2014,2100,1,Apoptosis;Purinergic receptor
+738,2014,2100,1,Active site;Receptor antagonist
+739,2014,2100,1,Plasma membrane;Purinergic receptor
+740,2014,2025,1,Active transport;Transport protein
+741,2014,2100,1,Receptor (biochemistry);Glucocorticoid receptor
+742,2014,2100,1,Agonist;Alpha adrenergic receptor
+743,2014,2100,1,Agonist;Lactic acid
+744,2014,2100,1,Receptor antagonist;Stimulatory gs G-protein
+745,2014,2020,1,Fibroblast growth factor;Fibroblast growth factor receptor
+746,2014,2100,1,Calcitonin gene-related peptide;Calcitonin gene-related peptide receptor
+747,2014,2100,1,Passive transport;Filtration
+748,2014,2100,1,Mri;Embryonal development
+749,2014,2100,1,Cytokine receptor;Prolactin
+750,2014,2100,1,Granulocyte-macrophage colony-stimulating factor;Granulocyte-macrophage colony-stimulating factor receptor
+751,2014,2100,1,Prostaglandin receptor;Thromboxane receptor
+752,2014,2100,1,Somatomedin;Somatomedin receptor
+753,2015,2100,1,Gene;Somatotropin receptor
+754,2015,2100,1,Enzyme;Steroid 21-monooxygenase
+755,2015,2100,1,Lipid;Steroid 21-monooxygenase
+756,2015,2100,1,Cell membrane;Immunologic receptor
+757,2015,2100,1,Nitrogen;Uric acid
+758,2015,2100,1,Ethanol;N-methylaspartate
+759,2015,2100,1,Chemical formula;Uric acid
+760,2015,2022,1,Neurotransmitter;Neuropeptide
+761,2015,2100,1,Apoptosis;Erythropoietin receptor
+762,2015,2100,1,Ph;Soluble
+763,2015,2100,1,Mutation;Steroid 21-monooxygenase
+764,2015,2100,1,Axon;Neurotransmitter receptor
+765,2015,2026,1,Neuron;Prion
+766,2015,2100,1,Neuron;Nerve growth factor receptor
+767,2015,2100,1,Potassium;Muscarinic receptor
+768,2015,2100,1,Purine;Uric acid
+769,2015,2100,1,Genome;Neuropeptide
+770,2015,2100,1,Major histocompatibility complex;Steroid 21-monooxygenase
+771,2015,2100,1,Dendritic cell;Interleukin-3
+772,2015,2100,1,Epinephrine;Muscarinic receptor
+773,2015,2100,1,Receptor (biochemistry);Immunologic receptor
+774,2015,2100,1,Agonist;Aryl hydrocarbon receptor
+775,2015,2100,1,Receptor antagonist;Dopamine receptor
+776,2015,2100,1,Receptor antagonist;Somatotropin receptor
+777,2015,2100,1,Receptor antagonist;Transforming growth factor beta receptor
+778,2015,2100,1,Yeast;Steroid 21-monooxygenase
+779,2015,2100,1,T cell;Neuronal cell adhesion molecule
+780,2015,2100,1,Beta sheet;Steroid 21-monooxygenase
+781,2015,2100,1,Neuropeptide;Oxytocin
+782,2015,2100,1,Neuropeptide;Somatostatin
+783,2015,2100,1,Ligand;Chemokine receptor
+784,2015,2100,1,Ligand;Muscarinic receptor
+785,2015,2100,1,Ligand;Neurotransmitter receptor
+786,2015,2100,1,Ligand;Transforming growth factor beta receptor
+787,2015,2100,1,Proline;Somatotropin receptor
+788,2015,2100,1,Ion channel;Venom (poison)
+789,2015,2100,1,Physical chemistry;Intermolecular force
+790,2015,2100,1,Aryl hydrocarbon receptor;Stem cell
+791,2015,2100,1,Stem cell;Interleukin-3
+792,2015,2100,1,Exon;Steroid 21-monooxygenase
+793,2015,2100,1,Atrial natriuretic factor receptor;Soluble
+794,2015,2100,1,Soluble;Entropy
+795,2015,2100,1,Soluble;Electronegativity
+796,2015,2100,1,Soluble;Filtration
+797,2015,2100,1,Soluble;Somatotropin
+798,2015,2100,1,Soluble;Somatropin
+799,2015,2100,1,Chemical equilibrium;Heat of vaporization
+800,2015,2100,1,Entropy;Heat of vaporization
+801,2015,2100,1,Vapor pressure;Intermolecular force
+802,2015,2100,1,Boiling point;Heat of vaporization
+803,2015,2100,1,Intermolecular force;Molecular mechanics
+804,2015,2100,1,Cytokine receptor;Chemokine receptor
+805,2015,2100,1,Cytokine receptor;Erythropoietin receptor
+806,2015,2100,1,Chemokine receptor;Virus (biology)
+807,2015,2100,1,Erythropoietin;Erythropoietin receptor
+808,2015,2100,1,Erythropoietin;Interleukin-3
+809,2015,2100,1,Fibroblast growth factor receptor;Neuronal cell adhesion molecule
+810,2015,2100,1,Granulocyte-macrophage colony-stimulating factor receptor;Interleukin-3
+811,2015,2100,1,Growth factor receptor;Nerve growth factor receptor
+812,2015,2100,1,Somatostatin;Somatotropin receptor
+813,2015,2100,1,Peptide receptor;Neurotransmitter receptor
+814,2016,2100,1,Amino acid;Tachykinin
+815,2016,2100,1,Genetic engineering;Chemistry basic topics
+816,2016,2100,1,Acetic acid;Heat of fusion
+817,2016,2100,1,Leucine;Tachykinin
+818,2016,2100,1,Acetylcholine;Galanin
+819,2016,2100,1,Ph;Nerve tissue protein S 100
+820,2016,2100,1,Physiology;Amyloid
+821,2016,2100,1,Neuropeptide;Melanocyte-stimulating hormone
+822,2016,2100,1,Neuropeptide;Somatostatin receptor
+823,2016,2100,1,Ligand;Somatostatin receptor
+824,2016,2100,1,Serotonin;Galanin
+825,2016,2100,1,Asparagine;Cytochrome P-450 CYP1A1
+826,2016,2100,1,Cytosine;Cytochrome P-450 CYP1A1
+827,2016,2100,1,Calmodulin;Nerve tissue protein S 100
+828,2016,2100,1,Chemistry basic topics;Molecular mechanics
+829,2016,2100,1,Chemistry basic topics;List of biomolecules
+830,2016,2100,1,Neurokinin A;Tachykinin
+831,2016,2100,1,Peptide receptor;Neuropeptide receptor
+832,2017,2100,1,Genetic engineering;List of chemistry topics
+833,2017,2100,1,Molecular mechanics;List of chemistry topics
+834,2017,2100,1,List of biomolecules;List of chemistry topics
+835,2018,2020,1,Polypeptide;Neuropeptide
+836,2018,2020,1,Polypeptide;Angiotensin
+837,2018,2100,1,Polypeptide;Cyclic peptide
+838,2018,2100,1,Polypeptide;Secretin
+839,2018,2022,1,Polypeptide;Neurokinin A
+840,2018,2100,1,Fatty acid;Alpha-fetoprotein
+841,2018,2100,1,Fat;Hydrogenation
+842,2018,2026,1,Fat;Heterotroph
+843,2018,2100,1,Monomer;Alpha-fetoprotein
+844,2018,2100,1,Hydrolysis;Lipase
+845,2018,2025,1,Lysine;Base (chemistry)
+846,2018,2022,1,Proton;Base (chemistry)
+847,2018,2021,1,Base (chemistry);Ph
+848,2018,2021,1,Base (chemistry);Ammonia
+849,2018,2019,1,Base (chemistry);Water
+850,2018,2100,1,Base (chemistry);Asparagine
+851,2018,2025,1,Base (chemistry);Chemical equilibrium
+852,2018,2025,1,Base (chemistry);Stoichiometry
+853,2018,2100,1,Hydroxyl;International Union of Pure and Applied Chemistry
+854,2019,2020,1,Protein;Muscle
+855,2019,2100,1,Phospholipid;Serine
+856,2019,2100,1,Protein subunit;G protein
+857,2019,2100,1,Protein subunit;Steroid 21-monooxygenase
+858,2019,2100,1,Protein subunit;Stimulatory gs G-protein
+859,2019,2100,1,Receptor (biochemistry);Transforming growth factor
+860,2019,2100,1,Amine;Odorant receptor
+861,2019,2100,1,Alkali;Glutamic acid
+862,2019,2100,1,Alkali;Pyridine
+863,2019,2100,1,Gastrin;Pancreatic polypeptide
+864,2019,2100,1,Buffer solution;Mixture
+865,2019,2100,1,Buffer solution;Dialysis
+866,2019,2100,1,Somatostatin;Pancreatic polypeptide
+867,2019,2100,1,Neuropeptide Y receptor;Pancreatic polypeptide
+868,2020,2100,1,Prokaryote;Phosphoprotein
+869,2020,2026,1,Cell nucleus;Hormone
+870,2020,2100,1,Alpha helix;Tyrosine 3-monooxygenase
+871,2020,2100,1,Protein;Eif-2 kinase
+872,2020,2100,1,Enzyme;Proto-oncogene proteins c-raf
+873,2020,2100,1,Coenzyme;Apoenzyme
+874,2020,2100,1,Coenzyme;Holoenzyme
+875,2020,2100,1,Lipid;Gamma-delta T-cell antigen receptor
+876,2020,2100,1,Protein synthesis;Tyrosine 3-monooxygenase
+877,2020,2100,1,Base pair;Haploid
+878,2020,2100,1,Sh3 domain;Plant protein
+879,2020,2100,1,Retinoblastoma protein;Proto-oncogene proteins c-raf
+880,2020,2100,1,Chemical formula;Cysteine
+881,2020,2100,1,Oxidation;Serotonin
+882,2020,2100,1,Pyruvate;C4 photosynthesis
+883,2020,2100,1,Citric acid;Ether
+884,2020,2100,1,Mitosis;Protein-tyrosine-phosphatase
+885,2020,2100,1,Ester;Alpha-macroglobulin
+886,2020,2100,1,Protein subunit;Atp synthase
+887,2020,2100,1,Protein subunit;Holoenzyme
+888,2020,2100,1,Signal transduction;Protein-tyrosine-phosphatase
+889,2020,2100,1,Cancer;Gamma-delta T-cell antigen receptor
+890,2020,2100,1,Gene expression;Protein-tyrosine-phosphatase
+891,2020,2100,1,Plasma membrane;Melting point
+892,2020,2100,1,Lysozyme;Melting point
+893,2020,2100,1,Tertiary structure;Insulin-like growth factor I
+894,2020,2100,1,Genome;Gag-onc fusion protein
+895,2020,2100,1,Dendritic cell;Skin
+896,2020,2100,1,Epinephrine;Tyrosine 3-monooxygenase
+897,2020,2100,1,Nadph;Chloroplast
+898,2020,2100,1,Nadph;Cell membrane transport
+899,2020,2022,1,Nadph;Cyclic electron flow
+900,2020,2100,1,Nadph;Steroid 17alpha-monooxygenase
+901,2020,2100,1,Nadph;Steroid 21-monooxygenase
+902,2020,2100,1,Amine;Alpha-macroglobulin
+903,2020,2100,1,Amine;Gamma-delta T-cell antigen receptor
+904,2020,2100,1,Primary structure;Structural motif
+905,2020,2026,1,Primary structure;Sequencing
+906,2020,2100,1,Aerobic respiration;Hemoglobin
+907,2020,2100,1,Aerobic respiration;Electron transport chain
+908,2020,2100,1,Liquid;Physical chemistry
+909,2020,2100,1,Liquid;Soluble
+910,2020,2100,1,Liquid;Molar volume
+911,2020,2100,1,Liquid;Boiling point
+912,2020,2100,1,Liquid;Catalyst
+913,2020,2100,1,Liquid;Emulsion
+914,2020,2100,1,Liquid;Melting point
+915,2020,2100,1,Liquid;Mass spectrometer
+916,2020,2100,1,Alpha adrenergic receptor;Skin
+917,2020,2100,1,Skin;Collagen
+918,2020,2100,1,Skin;Osmosis
+919,2020,2100,1,Skin;Inhibin
+920,2020,2100,1,Homology (biology);Gag-onc fusion protein
+921,2020,2100,1,Homology (biology);Proto-oncogene proteins c-raf
+922,2020,2026,1,Locus (genetics);Haploid
+923,2020,2026,1,Locus (genetics);Diploid
+924,2020,2100,1,Surface plasmon resonance;Isothermal titration calorimeter
+925,2020,2100,1,Surface plasmon resonance;T-cell antigen receptors
+926,2020,2100,1,Plasmin;Alpha-macroglobulin
+927,2020,2100,1,Alpha-macroglobulin;Thrombin
+928,2020,2100,1,Alpha-macroglobulin;Conserved sequence
+929,2020,2100,1,Serine;Eif-2 kinase
+930,2020,2100,1,Serine;Proto-oncogene proteins c-raf
+931,2020,2100,1,Translation (biology);Gag-onc fusion protein
+932,2020,2100,1,Translation (biology);Thyroid hormone receptor
+933,2020,2100,1,Cysteine;Ldl receptor
+934,2020,2100,1,Tyrosine;Phosphoprotein
+935,2020,2100,1,Tyrosine;Protein-tyrosine-phosphatase
+936,2020,2100,1,Tyrosine;Tyrosine 3-monooxygenase
+937,2020,2100,1,Hydrophilic;Atp synthase
+938,2020,2100,1,Secondary structure;Talin protein
+939,2020,2100,1,Secondary structure;Tyrosine 3-monooxygenase
+940,2020,2026,1,Nervous system;Gastrula
+941,2020,2100,1,N-terminus;Ldl receptor
+942,2020,2100,1,Hormone;Granulocyte colony-stimulating factor
+943,2020,2026,1,Embryo;Gastrula
+944,2020,2100,1,Phospholipid bilayer;Nakatpase
+945,2020,2100,1,Atp synthase;Dissociation constant
+946,2020,2100,1,Atp synthase;Gradient
+947,2020,2100,1,Dissociation constant;Complex (chemistry)
+948,2020,2100,1,Gradient;Diffusion
+949,2020,2100,1,Proton pump;Bacteriorhodopsin
+950,2020,2100,1,Soluble;Complex (chemistry)
+951,2020,2100,1,Transformation (genetics);Protein-tyrosine-phosphatase
+952,2020,2100,1,Cell adhesion molecule;Selectin
+953,2020,2100,1,Cell adhesion molecule;Lymphocyte homing receptor
+954,2020,2100,1,Chemical equilibrium;Flavine
+955,2020,2100,1,Haploid;Human Genome Project
+956,2020,2100,1,Sequence motif;Protein-tyrosine-phosphatase
+957,2020,2100,1,Fibroblast growth factor;Gastrula
+958,2020,2100,1,Pharmaceutical;Calcitonin
+959,2020,2100,1,Nuclear localization signal;Gtpase
+960,2020,2100,1,Promoter (biology);Holoenzyme
+961,2020,2100,1,Mixture;Melting point
+962,2020,2100,1,Calcitonin;Calcitonin gene-related peptide
+963,2020,2100,1,Calcitonin;Calcitonin receptor
+964,2020,2100,1,Oxidation state;Tyrosine 3-monooxygenase
+965,2020,2100,1,Catalyst;Complex (chemistry)
+966,2020,2100,1,Nadh;Cell membrane transport
+967,2020,2100,1,Nadh;Steroid 17alpha-monooxygenase
+968,2020,2100,1,Metazoa;Dna virus
+969,2020,2100,1,Metazoa;Tata box
+970,2020,2100,1,Metazoa;Homeodomain protein
+971,2020,2100,1,Heat shock protein;Gamma-delta T-cell antigen receptor
+972,2020,2100,1,Heat of fusion;Melting point
+973,2020,2100,1,List of compounds;List of chemistry topics
+974,2020,2100,1,Cis face;Gtpase
+975,2020,2100,1,Gtpase;Fusion oncogene protein
+976,2020,2100,1,Gtpase;Ras gene
+977,2020,2100,1,Gtpase;Stimulatory gs G-protein
+978,2020,2100,1,Complement 3A;Igm
+979,2020,2100,1,Igm;Complement 5A
+980,2020,2100,1,Sequence (biology);Proto-oncogene proteins c-raf
+981,2020,2100,1,Cytoskeletal protein;Troponin
+982,2020,2100,1,Troponin;Proto-oncogene proteins c-raf
+983,2020,2100,1,Evolutionary developmental biology;Phylogeny
+984,2020,2100,1,Open reading frame;Rho factor
+985,2020,2100,1,Retrovirus;Proto-oncogene proteins c-raf
+986,2020,2100,1,Polymerase chain reaction;Phylogeny
+987,2020,2100,1,Eif-2;Recombinant interferon-gamma
+988,2020,2100,1,Elisa;Gamma-chain immunoglobulin
+989,2020,2100,1,Elisa;Microtiter plate
+990,2020,2100,1,Elisa;Mu-chain immunoglobulin
+991,2020,2100,1,Elisa;Recombinant protein
+992,2020,2100,1,Diploid;Embryonal development
+993,2020,2100,1,Diploid;Karyotype
+994,2020,2100,1,Gastrula;Bone morphogenetic protein
+995,2020,2100,1,Proto-oncogene;Ras protein
+996,2020,2100,1,Proto-oncogene;Ras gene
+997,2020,2100,1,Gag-onc fusion protein;Oncogenic retroviridae protein
+998,2020,2100,1,Neuropeptide Y;Gaba
+999,2020,2100,1,Gamma-chain immunoglobulin;Elispot
+1000,2020,2100,1,Elispot;Mu-chain immunoglobulin
+1001,2020,2100,1,Gaba;Kainic acid receptor
+1002,2020,2100,1,Hsp70;Rough ER
+1003,2020,2100,1,Hsp70;Smooth ER
+1004,2020,2100,1,Immediate-early protein;Dna-binding protein
+1005,2020,2100,1,Dna-binding protein;Plant protein
+1006,2020,2100,1,Virus (biology);Electron microscopy
+1007,2020,2100,1,Homozygote;P42 MAP kinase
+1008,2020,2100,1,Junk DNA;Nucleic acid repetitive sequence
+1009,2020,2100,1,Junk DNA;Retroviridae protein
+1010,2020,2100,1,Neurofilament protein;Sds-page
+1011,2020,2100,1,Thyroxine;Thyroid hormone receptor
+1012,2021,2100,1,Eukaryote;Base sequence
+1013,2021,2100,1,Eukaryote;Molecular sequence data
+1014,2021,2100,1,Amino acid;Chorionic gonadotropin
+1015,2021,2100,1,Peptide;Corticotropin-releasing hormone
+1016,2021,2026,1,Cell (biology);Excretion
+1017,2021,2100,1,Carbohydrate;Casein
+1018,2021,2100,1,Monomer;Keratin
+1019,2021,2100,1,Phosphorylation;Atrial natriuretic factor
+1020,2021,2100,1,Lysine;Catabolism
+1021,2021,2100,1,Lysine;Casein
+1022,2021,2100,1,Acid;Solution
+1023,2021,2100,1,Acid;Atomic orbital
+1024,2021,2100,1,Ammonia;Excretion
+1025,2021,2100,1,Protein subunit;Coenzyme Q - cytochrome c reductase
+1026,2021,2100,1,Axon;Vasopressin
+1027,2021,2026,1,Physiology;Respiration (physiology)
+1028,2021,2100,1,Potassium;Atrial natriuretic factor
+1029,2021,2100,1,Protein Data Bank;Estrogen receptor
+1030,2021,2100,1,Receptor (biochemistry);Alpha-msh
+1031,2021,2100,1,Agonist;Atrial natriuretic factor
+1032,2021,2100,1,Primary structure;Base sequence
+1033,2021,2100,1,Primary structure;Molecular sequence data
+1034,2021,2026,1,Aerobic respiration;Primary nutritional groups
+1035,2021,2100,1,Phosphorus;Casein
+1036,2021,2100,1,Skin;Alpha-msh
+1037,2021,2022,1,Skin;Keratin
+1038,2021,2100,1,Skin;Excretion
+1039,2021,2100,1,Skin;Bombesin
+1040,2021,2100,1,T cell;Chorionic gonadotropin
+1041,2021,2100,1,Locus (genetics);Atrial natriuretic factor
+1042,2021,2100,1,Thrombin;Thrombin receptor
+1043,2021,2100,1,Substrate (biochemistry);Casein
+1044,2021,2100,1,Substrate (biochemistry);Coenzyme Q - cytochrome c reductase
+1045,2021,2100,1,Neuropeptide;Alpha-msh
+1046,2021,2100,1,Solvent;Hydrogen-deuterium exchange
+1047,2021,2100,1,Ligand;Atrial natriuretic factor
+1048,2021,2100,1,Ligand;Iron-sulfur protein
+1049,2021,2100,1,Serotonin;Biogenic amine receptor
+1050,2021,2100,1,Sulfur;Keratin
+1051,2021,2100,1,Translation (biology);Atrial natriuretic factor
+1052,2021,2100,1,Cysteine;Atrial natriuretic factor
+1053,2021,2100,1,Hydrophobic;Chorionic gonadotropin
+1054,2021,2100,1,Amino acid sequence homology;Keratin
+1055,2021,2100,1,Keratin;Cytoskeletal protein
+1056,2021,2022,1,Keratin;Plant protein
+1057,2021,2100,1,N-terminus;Thrombin receptor
+1058,2021,2025,1,Ion channel;Chemiosmosis
+1059,2021,2022,1,Hormone;Excretion
+1060,2021,2100,1,Angiotensin receptor;Vasopressin
+1061,2021,2100,1,Oxytocin;Oxytocin receptor
+1062,2021,2100,1,Biotechnology;Base sequence
+1063,2021,2100,1,Biotechnology;Molecular sequence data
+1064,2021,2100,1,Signal peptide;Coenzyme Q - cytochrome c reductase
+1065,2021,2100,1,Haploid;Retroelement
+1066,2021,2100,1,Bombesin;Gastrin
+1067,2021,2100,1,Estrogen receptor;Hela cell
+1068,2021,2100,1,Oxidation state;Iron-sulfur protein
+1069,2021,2100,1,Heterotroph;Chemotroph
+1070,2021,2100,1,Casein;Phosphotyrosine
+1071,2021,2100,1,Complex (chemistry);Coenzyme Q - cytochrome c reductase
+1072,2021,2026,1,Diffusion;Respiration (physiology)
+1073,2021,2100,1,Cytokine receptor;Prolactin receptor
+1074,2021,2100,1,Luteinizing hormone;Inhibin
+1075,2021,2100,1,Luteinizing hormone;Thyrotropin
+1076,2021,2100,1,Photosystem II;Mass spectrometer
+1077,2021,2100,1,Repressor protein;Homeodomain protein
+1078,2021,2100,1,Repressor protein;Repressor
+1079,2021,2100,1,Neurokinin A;Neurokinin K
+1080,2022,2100,1,Bacteria;Cytochrome P-450
+1081,2022,2100,1,Developmental biology;Cytochrome P-450
+1082,2022,2100,1,Alpha helix;Cytochrome C
+1083,2022,2100,1,Enzyme;Interleukin-2 receptor
+1084,2022,2100,1,Starch;Disulfide bond
+1085,2022,2100,1,Starch;Disulfide bridge
+1086,2022,2100,1,Adenosine triphosphate;Protein-tyrosine kinase
+1087,2022,2100,1,Adenosine triphosphate;Proto-oncogene protein C-kit
+1088,2022,2100,1,Organic compound;Denaturation (biochemistry)
+1089,2022,2100,1,Phosphorylation;Transcription factor AP-1
+1090,2022,2100,1,Signal transduction;Interleukin-2 receptor
+1091,2022,2100,1,Signal transduction;Protein-tyrosine kinase
+1092,2022,2100,1,Signal transduction;Proto-oncogene protein C-kit
+1093,2022,2100,1,Neuron;Extracellular matrix protein
+1094,2022,2100,1,Major histocompatibility complex;Nucleic acid sequence homology
+1095,2022,2100,1,G protein-coupled receptor;Corticotropin-releasing hormone receptor
+1096,2022,2100,1,Epinephrine;Amino
+1097,2022,2100,1,Epinephrine;Krebs cycle
+1098,2022,2100,1,Protein Data Bank;Interleukin-2 receptor
+1099,2022,2100,1,Denaturation (biochemistry);International Union of Pure and Applied Chemistry
+1100,2022,2100,1,Denaturation (biochemistry);Genetic fingerprint
+1101,2022,2100,1,Yeast;Cytochrome P-450
+1102,2022,2100,1,G protein;Transducin
+1103,2022,2100,1,Endoplasmic reticulum;Cytochrome C
+1104,2022,2100,1,Endoplasmic reticulum;Cytochrome P-450
+1105,2022,2023,1,Amino;Serotonin
+1106,2022,2100,1,T cell;Erbb-2 receptor
+1107,2022,2100,1,Neuropeptide;Neurotensin
+1108,2022,2100,1,Ligand;Extracellular matrix protein
+1109,2022,2100,1,Cysteine;Cytochrome P-450
+1110,2022,2023,1,Tyrosine;Cytochrome C
+1111,2022,2100,1,Tyrosine;Protein-tyrosine kinase
+1112,2022,2100,1,Tyrosine;Proto-oncogene protein C-kit
+1113,2022,2100,1,Molecular evolution;Nucleic acid sequence homology
+1114,2022,2100,1,Globin;Nucleic acid sequence homology
+1115,2022,2100,1,Keratin;Intermediate filament protein
+1116,2022,2100,1,Keratin;Nucleic acid sequence homology
+1117,2022,2100,1,N-terminus;Interleukin-2 receptor
+1118,2022,2100,1,N-terminus;Transcription factor AP-1
+1119,2022,2100,1,Vasopressin;Vasopressin receptor
+1120,2022,2100,1,Nucleon;Element symbol
+1121,2022,2100,1,Bioaccumulation;Excretion
+1122,2022,2100,1,Bioaccumulation;Toxin
+1123,2022,2100,1,Medicine;Cytochrome P-450
+1124,2022,2100,1,Rhodopsin;Transducin
+1125,2022,2100,1,Estrogen receptor;Erbb-2 receptor
+1126,2022,2100,1,Concentration;Cytochrome P-450
+1127,2022,2100,1,Cytochrome C;Cladistics
+1128,2022,2100,1,Drosophila melanogaster;Cytochrome P-450
+1129,2022,2100,1,Inorganic chemistry;Disulfide bond
+1130,2022,2100,1,Inorganic chemistry;Disulfide bridge
+1131,2022,2100,1,Luteinizing hormone;Neurotensin
+1132,2022,2100,1,Elisa;Erbb-2 receptor
+1133,2022,2100,1,Epidermal growth factor receptor;Erbb-2 receptor
+1134,2022,2100,1,Erbb-2 receptor;Proto-oncogene
+1135,2022,2100,1,Prolactin;Neurotensin
+1136,2022,2100,1,Prolactin;Transcription factor AP-1
+1137,2022,2100,1,Osteocalcin;Transcription factor AP-1
+1138,2023,2100,1,Alpha helix;Hsp90
+1139,2023,2100,1,Antibody;Kappa-chain immunoglobulin
+1140,2023,2100,1,Glutamate;Rod outer segment
+1141,2023,2100,1,Hydrolysis;Catalytic domain
+1142,2023,2100,1,Acetylcholine;Neurokinin1 receptor
+1143,2023,2100,1,Potassium;Serotonin receptor
+1144,2023,2025,1,Genome;Integral membrane protein
+1145,2023,2100,1,Albumin;Blood proteins
+1146,2023,2100,1,Albumin;Transport protein
+1147,2023,2100,1,Albumin;Alpha-fetoprotein
+1148,2023,2100,1,Albumin;Thiamin
+1149,2023,2100,1,Beta sheet;Hsp90
+1150,2023,2100,1,Ligand;Neurokinin1 receptor
+1151,2023,2100,1,Serotonin;Feedback inhibition
+1152,2023,2100,1,Aspartic acid;Neurokinin1 receptor
+1153,2023,2100,1,Cysteine;Gaba receptor
+1154,2023,2100,1,Synapse;Rod outer segment
+1155,2023,2100,1,N-terminus;Hsp90
+1156,2023,2100,1,Vasopressin;Serotonin receptor
+1157,2023,2100,1,Oxytocin;Serotonin receptor
+1158,2023,2100,1,Molecular orbital;Catalytic domain
+1159,2023,2100,1,Arrestin;Neurokinin1 receptor
+1160,2023,2100,1,Arrestin;Rod outer segment
+1161,2023,2100,1,Signal peptide;Transmembrane protein
+1162,2023,2100,1,Rhodopsin;Rod outer segment
+1163,2023,2100,1,Double helix;Random coil
+1164,2023,2100,1,Catalytic domain;Nadh
+1165,2023,2100,1,Catalytic domain;Solvation
+1166,2023,2100,1,Catalytic domain;Chloride channel
+1167,2023,2100,1,Cloning;Serotonin receptor
+1168,2023,2100,1,Disulfide bond;Heavy-chain immunoglobulin
+1169,2023,2100,1,Disulfide bond;Kappa-chain immunoglobulin
+1170,2023,2100,1,Epidermal growth factor;Ldl receptor
+1171,2023,2100,1,Feedback inhibition;Pesticide
+1172,2023,2100,1,Prolactin;Serotonin receptor
+1173,2023,2100,1,Neurotensin;Neurotensin receptor
+1174,2024,2100,1,Molecular biology;Cholinergic receptor
+1175,2024,2100,1,Carboxylic acid;N-formylmethionine leucyl-phenylalanine
+1176,2024,2100,1,Valine;Cholinergic receptor
+1177,2024,2100,1,Acetylcholine;Cholinergic receptor
+1178,2024,2100,1,Solution;Transmembrane ATPase
+1179,2024,2100,1,Protein subunit;Cholinergic receptor
+1180,2024,2100,1,Muscle;Sodium channel
+1181,2024,2100,1,Neuron;Transforming growth factor alpha
+1182,2024,2100,1,Dendritic cell;Thrombomodulin
+1183,2024,2100,1,Amine;N-formylmethionine leucyl-phenylalanine
+1184,2024,2100,1,T cell;Cell surface receptor
+1185,2024,2100,1,Beta sheet;Tumor necrosis factors
+1186,2024,2100,1,Ligand;Cholinergic receptor
+1187,2024,2100,1,Ligand;Sodium channel
+1188,2024,2100,1,Mitochondrion;Lipoprotein
+1189,2024,2100,1,Hydrophobic;Transmembrane helix
+1190,2024,2100,1,Sequence homology;Tumor necrosis factors
+1191,2024,2100,1,Hemoglobin;Fetal protein
+1192,2024,2100,1,Ion channel;Ankyrin
+1193,2024,2100,1,Integral membrane protein;Cell surface receptor
+1194,2024,2100,1,Integral membrane protein;Thrombomodulin
+1195,2024,2100,1,Integral membrane protein;Thyrotropin receptor
+1196,2024,2100,1,Embryo;Fetal protein
+1197,2024,2100,1,Stem cell;Proto-oncogene proteins c-myc
+1198,2024,2100,1,Transmembrane ATPase;Nakatpase
+1199,2024,2100,1,Biological membrane;Catalyst
+1200,2024,2100,1,Cell adhesion molecule;Cadherin
+1201,2024,2100,1,Cell adhesion molecule;Cell surface receptor
+1202,2024,2100,1,Transmembrane protein;Cadherin
+1203,2024,2100,1,Transmembrane protein;Transmembrane helix
+1204,2024,2100,1,Transmembrane protein;Cytochrome c oxidase
+1205,2024,2100,1,Calcitonin gene-related peptide receptor;Transmembrane helix
+1206,2024,2100,1,Drosophila melanogaster;Proto-oncogene proteins c-myc
+1207,2024,2100,1,Cloning;N-formylmethionine leucyl-phenylalanine
+1208,2024,2100,1,Erythropoietin;Granulocyte colony-stimulating factor receptor
+1209,2024,2100,1,Superoxide;N-formylmethionine leucyl-phenylalanine
+1210,2024,2100,1,Epidermal growth factor;Proto-oncogene proteins c-myc
+1211,2024,2100,1,Proto-oncogene;Proto-oncogene proteins c-myc
+1212,2024,2100,1,Granulocyte colony-stimulating factor;Granulocyte colony-stimulating factor receptor
+1213,2024,2100,1,Triiodothyronine;Thyrotropin receptor
+1214,2025,2100,1,Gene;Nicotinic receptor
+1215,2025,2100,1,Dna;Structural biology
+1216,2025,2100,1,Polypeptide;Nicotinic receptor
+1217,2025,2100,1,Oxygen;Facilitated diffusion
+1218,2025,2100,1,Fatty acid;Bacterial outer membrane protein
+1219,2025,2100,1,Sh3 domain;List of basic biochemistry topics
+1220,2025,2100,1,Acetylcholine;Nicotinic receptor
+1221,2025,2100,1,Apoptosis;Bacterial outer membrane protein
+1222,2025,2100,1,Ester;Hydrolytic enzyme
+1223,2025,2100,1,Protein subunit;Structural biology
+1224,2025,2100,1,Signal transduction;Tumor necrosis factor receptor
+1225,2025,2100,1,Neuron;Nicotinic receptor
+1226,2025,2100,1,Electrophysiology;Nicotinic receptor
+1227,2025,2100,1,G protein-coupled receptor;Opioid receptor
+1228,2025,2100,1,G protein-coupled receptor;Somatotropin-releasing hormone
+1229,2025,2100,1,Primary structure;List of basic biochemistry topics
+1230,2025,2100,1,Thrombin;Intercellular adhesion molecule-1
+1231,2025,2100,1,Ligand;Intercellular adhesion molecule-1
+1232,2025,2100,1,Cysteine;Tumor necrosis factor receptor
+1233,2025,2100,1,Hydrophobic;Nicotinic receptor
+1234,2025,2100,1,Keratin;List of basic biochemistry topics
+1235,2025,2100,1,Ether;Hydrolytic enzyme
+1236,2025,2100,1,Dissociation constant;Intercellular adhesion molecule-1
+1237,2025,2100,1,Proton pump;List of basic biochemistry topics
+1238,2025,2100,1,Biological membrane;Halobacteria
+1239,2025,2100,1,Biological membrane;Vacuole
+1240,2025,2100,1,Biological membrane;Chloroplast membrane
+1241,2025,2100,1,Biological membrane;Membrane topology
+1242,2025,2100,1,Bacterial outer membrane protein;Cell adhesion molecule
+1243,2025,2100,1,Bacterial outer membrane protein;Molecular dynamics
+1244,2025,2100,1,Carrier protein;Rhodopsin
+1245,2025,2100,1,Molecular dynamics;Microfilament protein
+1246,2025,2100,1,Molecular dynamics;List of basic biochemistry topics
+1247,2025,2100,1,Halobacteria;Rhodopsin
+1248,2025,2100,1,Pharmaceutical;Somatotropin-releasing hormone
+1249,2025,2100,1,Estrogen receptor;Protein targeting
+1250,2025,2100,1,C4 photosynthesis;Vacuole
+1251,2025,2100,1,Cadherin;Intercellular adhesion molecule-1
+1252,2025,2100,1,Transmembrane helix;Hydrolytic enzyme
+1253,2025,2100,1,Diffusion;Nicotinic receptor
+1254,2025,2100,1,Structural biology;Circular dichroism
+1255,2025,2100,1,Structural biology;Hydrophobicity analysis
+1256,2025,2100,1,Kinetic energy;Nicotinic receptor
+1257,2025,2100,1,Metazoa;Microfilament protein
+1258,2025,2100,1,Environmental chemistry;List of basic biochemistry topics
+1259,2025,2100,1,Cytokine receptor;Tumor necrosis factor receptor
+1260,2025,2100,1,Gtpase;Hydrolytic enzyme
+1261,2025,2026,1,Opioid receptor;Enkephalin
+1262,2025,2100,1,Opioid receptor;Dynorphin
+1263,2025,2100,1,Opioid receptor;Somatostatin receptor
+1264,2025,2100,1,Elisa;List of basic biochemistry topics
+1265,2025,2100,1,Glycine receptor;Nicotinic receptor
+1266,2025,2100,1,Hsp70;Microfilament protein
+1267,2025,2100,1,Intercellular adhesion molecule-1;Vitronectin
+1268,2025,2100,1,Intercellular adhesion molecule-1;Selectin
+1269,2025,2100,1,Electron microscopy;List of basic biochemistry topics
+1270,2025,2100,1,Nerve growth factor;Tumor necrosis factor receptor
+1271,2025,2100,1,Sodium channel;Somatotropin-releasing hormone
+1272,2026,2100,1,Peptide;Kappa opioid receptor
+1273,2026,2100,1,Cell membrane;Cystic fibrosis transmembrane conductance regulator
+1274,2026,2100,1,Metabolic pathway;Lipid anchored protein
+1275,2026,2100,1,Ethanol;Mu opioid receptor
+1276,2026,2100,1,Apoptosis;Lipid anchored protein
+1277,2026,2100,1,Covalent bond;Lipid anchored protein
+1278,2026,2100,1,Ph;Sodium-hydrogen antiporter
+1279,2026,2100,1,Lysozyme;Structural domain
+1280,2026,2100,1,Aliphatic compound;Lipid anchored protein
+1281,2026,2100,1,Primary structure;Peptide initiation factor
+1282,2026,2100,1,Primary structure;Peptide termination factor
+1283,2026,2100,1,Mole (unit);Protein nuclear magnetic resonance spectroscopy
+1284,2026,2100,1,Beta-2 adrenergic receptor;Delta opioid receptor
+1285,2026,2100,1,Hydrophobic;Mucin
+1286,2026,2100,1,Ether;Peptide initiation factor
+1287,2026,2100,1,Ether;Peptide termination factor
+1288,2026,2100,1,Olfaction;List of biology topics
+1289,2026,2100,1,Buffer solution;Protein nuclear magnetic resonance spectroscopy
+1290,2026,2100,1,Membrane protein;Monosaccharide transport protein
+1291,2026,2100,1,Membrane protein;Sodium-hydrogen antiporter
+1292,2026,2100,1,Drosophila melanogaster;Structural domain
+1293,2026,2100,1,Chemical biology;Protein nuclear magnetic resonance spectroscopy
+1294,2026,2100,1,Vestibular system;List of biology topics
+1295,2026,2100,1,Protein nuclear magnetic resonance spectroscopy;Neurokinin A
+1296,2026,2100,1,Protein nuclear magnetic resonance spectroscopy;Chemical conformation
+1297,2026,2100,1,Hydrolytic enzyme;Lipid anchored protein
+1298,2026,2100,1,3' end;Peptide termination factor
+1299,2026,2100,1,Outline of biochemical techniques;List of biology topics
+1300,2027,2100,1,Glucose;Membrane glycoprotein
+1301,2027,2100,1,Cytosol;Membrane glycoprotein
+1302,2027,2100,1,Apoptosis;Nef gene product
+1303,2027,2100,1,Covalent bond;Membrane glycoprotein
+1304,2027,2100,1,Gtpase;Nef gene product
+1305,2027,2100,1,Mucin;Membrane glycoprotein
+1306,1600,2100,2,Cell (biology);Cell biology;Microscope
+1307,1700,2025,2,Fungi;Biochemistry;Evolution
+1308,1700,1735,2,Fungi;Biochemistry;Cell biology
+1309,1700,2100,2,Carbon;Mole (unit);Catalyst
+1310,1772,2100,2,Oxygen;Photosynthesis;Light reactions
+1311,1800,2100,2,Electron;Carbon;Atomic number
+1312,1800,2002,2,Bacteria;Cell (biology);Genetics
+1313,1800,2100,2,Amino acid;Antibiotic;Microbe
+1314,1800,2100,2,Metabolism;Lipid;Virus (biology)
+1315,1800,2100,2,Microbiology;Virus (biology);Virology
+1316,1804,2100,2,Cell nucleus;Cell (biology);Cell biology
+1317,1811,2100,2,Electron;Electronegativity;Chemical property
+1318,1822,2002,2,Immune system;Mutation;Evolution
+1319,1823,2020,2,Hydrogen;Hydrogenation;Catalyst
+1320,1832,2100,2,Carbon;Polymer;Organic chemistry
+1321,1832,2100,2,Carbon;Polymer;Catalyst
+1322,1833,2004,2,Cell (biology);Enzyme;Plasma membrane
+1323,1833,2100,2,Enzyme;Immune system;Virus (biology)
+1324,1838,2100,2,Fungi;Protein;Photosynthesis
+1325,1838,2002,2,Gene;Evolution;Plant protein
+1326,1838,1869,2,Protein;Amino acid;Mutation
+1327,1838,2100,2,Protein;Oxygen;Photosynthesis
+1328,1838,2100,2,Protein;Cell membrane;Protozoan proteins
+1329,1838,1869,2,Amino acid;Biochemistry;Plant protein
+1330,1838,2100,2,Lipid;Cell membrane;Plant protein
+1331,1839,2100,2,Polymer;Ribosome;Plant protein
+1332,1839,2100,2,Organic compound;Carboxylic acid;Fermentation (biochemistry)
+1333,1840,2025,2,Amino acid;Mitochondrion;Microbe
+1334,1842,2100,2,Biochemistry;Stereochemistry;Plant protein
+1335,1842,2100,2,Chirality (chemistry);Stereochemistry;Plant protein
+1336,1845,2100,2,Antibody;Cell membrane;Microbe
+1337,1845,2100,2,Antibody;Cell membrane;Plant protein
+1338,1845,2100,2,T cell;Immunoglobulin;B cell
+1339,1845,2100,2,T cell;B cell;Gamma-chain immunoglobulin
+1340,1845,2100,2,T cell;B cell;Mu-chain immunoglobulin
+1341,1863,2100,2,Lipid;Cell membrane;Cytoplasm
+1342,1869,2100,2,Cell nucleus;Dna;Cytoplasm
+1343,1869,2100,2,Dna;Protein;Amino acid
+1344,1869,2004,2,Dna;Enzyme;Plant protein
+1345,1869,2100,2,Dna;Carbon;Polymer
+1346,1869,2100,2,Dna;Carbon;Virus (biology)
+1347,1869,2100,2,Dna;Aromatic compound;Heterocyclic compound
+1348,1869,2100,2,Nucleic acid;Oxygen;Plant protein
+1349,1869,2100,2,Metabolism;Insulin;Plant protein
+1350,1870,2100,2,Dna;Macromolecule;Polymer
+1351,1879,2100,2,Chirality (chemistry);Phenylalanine;Aromatic compound
+1352,1897,2100,2,Metabolism;Lipid;Rough ER
+1353,1897,2100,2,Metabolism;Lipid;Smooth ER
+1354,1897,2100,2,Metabolism;Endoplasmic reticulum;Virus (biology)
+1355,1897,2100,2,Metabolism;Endoplasmic reticulum;Plant protein
+1356,1897,2100,2,Lipid;Cytoplasm;Cis face
+1357,1897,2100,2,Lipid;Endoplasmic reticulum;Cis face
+1358,1897,2100,2,Ribosome;Endoplasmic reticulum;Amino acid sequence
+1359,1900,2100,2,Protein;Cofactor (biochemistry);Biochemistry
+1360,1900,2100,2,Protein;Oxygen;Coenzyme
+1361,1900,2100,2,Cofactor (biochemistry);Biochemistry;Plant protein
+1362,1900,2100,2,Hydrogen;Coenzyme;Thiamin
+1363,1901,1903,2,Prokaryote;Protein;Cell membrane
+1364,1901,1905,2,Prokaryote;Amino acid;Thiamin
+1365,1901,2100,2,Protein folding;Ribosome;Plant protein
+1366,1905,2100,2,Eukaryote;Amino acid;Rough ER
+1367,1905,2100,2,Eukaryote;Amino acid;Smooth ER
+1368,1906,2100,2,Protein;Coenzyme;Phosphorylation
+1369,1906,2100,2,Protein;Phosphorylation;Cis face
+1370,1906,2100,2,Enzyme;Phosphorylation;Oxidative phosphorylation
+1371,1906,2100,2,Enzyme;Oxidative phosphorylation;Fermentation (biochemistry)
+1372,1906,2100,2,Lipid;Phosphorylation;Cis face
+1373,1908,2100,2,Immune system;Immunology;Gamma-chain immunoglobulin
+1374,1908,2100,2,Immune system;Immunology;Virus (biology)
+1375,1908,2100,2,Immune system;Immunology;Mu-chain immunoglobulin
+1376,1908,2100,2,Biotechnology;Immunology;Gamma-chain immunoglobulin
+1377,1908,2100,2,Biotechnology;Immunology;Virus (biology)
+1378,1908,2100,2,Biotechnology;Immunology;Mu-chain immunoglobulin
+1379,1909,2100,2,Electron;Atomic nucleus;Atomic radius
+1380,1912,2100,2,Hydrogen bond;Dna;Nitrogen
+1381,1912,1916,2,Hydrogen bond;Hydrogen;Electronegativity
+1382,1913,2100,2,Alpha helix;Amino acid;Plant protein
+1383,1916,2100,2,Hydrogen bond;Dna;Covalent bond
+1384,1916,2100,2,Dna;Carbon;Covalent bond
+1385,1916,2100,2,Dna;Covalent bond;Aromatic compound
+1386,1917,2100,2,Carbon;Covalent bond;Functional group
+1387,1917,2100,2,Carbon;Functional group;Oxidation number
+1388,1919,2100,2,Enzyme;Glutamate;Ph
+1389,1925,2100,2,Cell (biology);Phospholipid bilayer;Transformation (genetics)
+1390,1925,2100,2,Antibody;Immune system;Phospholipid bilayer
+1391,1925,2024,2,Phospholipid;Plasma membrane;Phospholipid bilayer
+1392,1925,2100,2,Lipid;Endoplasmic reticulum;Phospholipid bilayer
+1393,1925,2100,2,Ph;Phospholipid bilayer;Micelle
+1394,1927,2100,2,Chemical reaction;Redox;Catalyst
+1395,1927,2100,2,Electron;Aromatic compound;Computational chemistry
+1396,1927,2100,2,Electron;Redox;Cyclic electron flow
+1397,1927,2020,2,Electron;Redox;Light reactions
+1398,1927,2100,2,Glucose;Redox;Cell membrane transport
+1399,1927,2100,2,Hydrogen;Coenzyme;Redox
+1400,1927,2100,2,Hydrogen;Fermentation (biochemistry);Redox
+1401,1927,2020,2,Photophosphorylation;Redox;Light reactions
+1402,1927,2100,2,Ligand;Redox;Oxidation number
+1403,1927,2100,2,Redox;Phosphotyrosine;Thyroxine
+1404,1929,2100,2,Cell (biology);Adenosine triphosphate;Phospholipid bilayer
+1405,1929,1930,2,Metabolism;Ribose;Adenosine triphosphate
+1406,1929,2100,2,Metabolism;Adenosine triphosphate;Thiamin
+1407,1929,2100,2,Deoxyribose;Sugar;Thiamin
+1408,1929,2100,2,Coenzyme;Adenosine triphosphate;Glycolysis
+1409,1929,2100,2,Adenosine triphosphate;Nitrogen;Thiamin
+1410,1929,2100,2,Adenosine triphosphate;Glycolysis;Oxidative phosphorylation
+1411,1929,2100,2,Adenosine triphosphate;Glycolysis;Fermentation (biochemistry)
+1412,1929,2100,2,Adenosine triphosphate;Photosynthesis;Cell membrane transport
+1413,1929,2100,2,Adenosine triphosphate;Mitochondrion;Fermentation (biochemistry)
+1414,1929,2100,2,Adenosine triphosphate;Phospholipid bilayer;Cell membrane transport
+1415,1930,2100,2,Amino acid;Beta sheet;Plant protein
+1416,1930,2100,2,Oxygen;Photosynthesis;Chloroplast
+1417,1930,2100,2,Adenosine triphosphate;Photosynthesis;Chloroplast
+1418,1930,2100,2,Molecular biology;Microbe;Biotechnology
+1419,1930,2100,2,Molecular biology;Biotechnology;Virus (biology)
+1420,1931,2100,2,Coenzyme;Glycolysis;Alcoholic fermentation
+1421,1931,2100,2,Coenzyme;Adenosine;Functional group
+1422,1931,2100,2,Adenosine triphosphate;Adenosine diphosphate;Alcoholic fermentation
+1423,1931,2100,2,Ethanol;Alcoholic fermentation;Yeast
+1424,1932,2100,2,Electron;Aromatic compound;Molecular orbital
+1425,1932,2100,2,Cell membrane;Complement 3A;Complement membrane attack complex
+1426,1932,2100,2,Cell membrane;Complement membrane attack complex;Complement 5A
+1427,1932,2100,2,Cell membrane;Complement membrane attack complex;Gamma-chain immunoglobulin
+1428,1932,2100,2,Cell membrane;Complement membrane attack complex;Mu-chain immunoglobulin
+1429,1941,2100,2,Amino acid;Mutation;Ion channel gating
+1430,1941,2100,2,Lipid bilayer;Ph;Ion channel gating
+1431,1947,2100,2,Phosphorylation;Ion channel;Stimulatory gs G-protein
+1432,1951,2100,2,Genetic engineering;Insulin;Biotechnology
+1433,1951,2100,2,Genetic engineering;Insulin;Plant protein
+1434,1953,2100,2,Amino acid;Cell (biology);Adenovirus
+1435,1953,2100,2,Glucose;Acetyl CoA;Insulin
+1436,1953,2100,2,Adenosine triphosphate;Acetyl CoA;Glycolysis
+1437,1953,2100,2,Adenosine triphosphate;Acetyl CoA;Photosynthesis
+1438,1954,2100,2,Adenosine triphosphate;Glycolysis;Kinase
+1439,1954,2100,2,Lipid;Phosphorylation;Kinase
+1440,1954,2100,2,Leucine;Lysine;Amino acid sequence
+1441,1958,2100,2,Protein;Biomolecule;Oxygen
+1442,1958,2100,2,Protein;Biomolecule;Nitrogen
+1443,1958,2100,2,Biomolecule;Macromolecule;Plant protein
+1444,1958,2100,2,Biomolecule;Biochemistry;Organic compound
+1445,1959,2100,2,Biomolecule;Carbohydrate;Carbon
+1446,1959,2100,2,Biomolecule;Carbohydrate;Hydrogen
+1447,1959,2100,2,Metabolism;Carbohydrate;Biochemistry
+1448,1959,2100,2,Metabolism;Carbohydrate;Thyroxine
+1449,1959,2100,2,Carbohydrate;Carbon;Cellulose
+1450,1959,2100,2,Carbohydrate;Hydrogen;Coenzyme
+1451,1959,2100,2,Carbohydrate;Hydrogen;Photosynthesis
+1452,1959,2100,2,Carbohydrate;Oxygen;Deoxyribose
+1453,1959,2100,2,Carbohydrate;Deoxyribose;Sugar
+1454,1959,2100,2,Carbohydrate;Sugar;Microbe
+1455,1959,2100,2,Carbohydrate;Immune system;Phospholipid bilayer
+1456,1959,2100,2,Carbohydrate;Yeast;Microbe
+1457,1959,2100,2,Carbohydrate;Yeast;Fermentation (biochemistry)
+1458,1959,2100,2,Carbohydrate;Yeast;Cis face
+1459,1959,2100,2,Carbohydrate;Yeast;Plant protein
+1460,1960,2100,2,Amino acid;Immunoglobulin;Receptor protein-tyrosine kinase
+1461,1960,2100,2,Biochemistry;Kinase;Receptor protein-tyrosine kinase
+1462,1966,2100,2,Adenosine triphosphate;Photosynthesis;C4 photosynthesis
+1463,1969,2100,2,Endoplasmic reticulum;Ion channel gating;Transient receptor potential
+1464,1969,2100,2,Synapse;Ion channel gating;Transient receptor potential
+1465,1970,2100,2,Immune system;Blood proteins;Immunoglobulin
+1466,1970,2100,2,Immune system;Blood proteins;Gamma-chain immunoglobulin
+1467,1970,2100,2,Immune system;Blood proteins;Mu-chain immunoglobulin
+1468,1971,2100,2,Peptide bond;Posttranslational modification;Plant protein
+1469,1971,2100,2,Enzyme;Acetyl CoA;Posttranslational modification
+1470,1971,2018,2,Enzyme;Posttranslational modification;Plant protein
+1471,1971,2100,2,Carbohydrate;Acetyl CoA;Posttranslational modification
+1472,1971,2100,2,Lipid;Phosphorylation;Posttranslational modification
+1473,1971,2020,2,Cell membrane;Second messenger;Ion channel gating
+1474,1971,2100,2,Posttranslational modification;Amino acid sequence;Tyrosine
+1475,1971,2100,2,Protein structure prediction;Bioinformatics;Plant protein
+1476,1972,2018,2,Peptide;Peptide bond;Plant protein
+1477,1972,2100,2,Peptide;Cofactor (biochemistry);Plant protein
+1478,1977,2100,2,Dna sequence;Homology (biology);Evolution
+1479,1977,2100,2,Dna sequence;Evolution;Medicine
+1480,1978,2100,2,Protein folding;Chaperone (protein);Plant protein
+1481,1978,2100,2,Cell (biology);In vivo;Tata box
+1482,1978,2100,2,Nucleotide;Consensus sequence;Tata box
+1483,1979,2100,2,Somatostatin;Octreotide;Somatropin
+1484,1991,2100,2,Acetyl CoA;Histone;Mitosis
+1485,1991,2100,2,Mitosis;Mutation;Microbe
+1486,1994,2100,2,Brca1;Chromosome;Meiosis
+1487,1995,2100,2,Amino acid;Biochemistry;Water
+1488,1995,2100,2,Hydrogen;Photosynthesis;Water
+1489,1996,2100,2,Chemical compound;Chemical reaction;Aromatic compound
+1490,1996,2100,2,Chemical compound;Amino acid;Organic compound
+1491,1996,2100,2,Chemical compound;Organic compound;Aromatic compound
+1492,1997,2100,2,Carbohydrate;Monosaccharide;Coenzyme
+1493,1997,2100,2,Aliphatic compound;Organic chemistry;Aromatic compound
+1494,1998,2100,2,Amino acid;Cell membrane transport;Concentration gradient
+1495,1998,2100,2,Hydrophobic;Hydrophilic;Phospholipid bilayer
+1496,2002,2026,2,Organism;Developmental biology;Morphogenesis
+1497,2002,2100,2,Organism;Eukaryote;Evolutionary developmental biology
+1498,2002,2100,2,Organism;Immune system;Immunology
+1499,2002,2100,2,Organism;Immunology;In vivo
+1500,2002,2100,2,Cell (biology);Mitosis;Metaphase
+1501,2003,2100,2,Cell (biology);Oxidative phosphorylation;Cellular respiration
+1502,2003,2100,2,Cell (biology);Immunoglobulin;Cloning
+1503,2003,2100,2,Cell (biology);Cloning;Gamma-chain immunoglobulin
+1504,2003,2100,2,Cell (biology);Cloning;Mu-chain immunoglobulin
+1505,2003,2100,2,Sugar;Alcoholic fermentation;Cellular respiration
+1506,2003,2100,2,Sugar;Cellular respiration;Fermentation (biochemistry)
+1507,2003,2100,2,Immune system;Major histocompatibility complex;Recombinant interferon-gamma
+1508,2003,2100,2,Cell membrane;Cellular respiration;Cell membrane transport
+1509,2003,2100,2,Metabolic pathway;Glycolysis;Cytoplasm
+1510,2003,2100,2,Cellular respiration;Redox;Cell membrane transport
+1511,2003,2100,2,Biotechnology;Cloning;Gamma-chain immunoglobulin
+1512,2003,2100,2,Biotechnology;Cloning;Mu-chain immunoglobulin
+1513,2004,2100,2,Chemical reaction;Substrate (biochemistry);Catalyst
+1514,2004,2100,2,Archaea;Protein;Coenzyme
+1515,2004,2100,2,Archaea;Enzyme;Metabolic pathway
+1516,2004,2100,2,Macromolecule;Cytosol;Plasma membrane
+1517,2004,2025,2,Cell (biology);Enzyme;Cytosol
+1518,2004,2100,2,Enzyme;Active site;Enzyme inhibitor
+1519,2004,2013,2,Metabolism;Cytosol;Endoplasmic reticulum
+1520,2004,2100,2,Metabolism;Cytosol;Rough ER
+1521,2004,2100,2,Metabolism;Cytosol;Smooth ER
+1522,2004,2100,2,Biochemistry;Substrate (biochemistry);Kinase
+1523,2005,2026,2,Dna replication;Brca1;Meiosis
+1524,2005,2026,2,Dna replication;Meiosis;Interphase
+1525,2006,2100,2,Fungi;Mitosis;Sexual reproduction
+1526,2006,2100,2,Mitosis;Embryo;Sexual reproduction
+1527,2006,2100,2,Chromatid;Chiasma (genetics);Chromosomal crossover
+1528,2007,2100,2,B cell;Immune cell;Virus (biology)
+1529,2009,2100,2,Amino acid;Rna;Recombinant interferon-gamma
+1530,2009,2100,2,Rna;Lipid;Virus (biology)
+1531,2010,2026,2,Developmental biology;Rna;Gene expression
+1532,2010,2100,2,Dna;Amino acid;Biopolymer
+1533,2010,2100,2,Dna;Polysaccharide;Biopolymer
+1534,2010,2100,2,Protein;Rna;Signal recognition particle
+1535,2010,2100,2,Protein;Signal recognition particle;Rough ER
+1536,2010,2100,2,Protein;Signal recognition particle;Smooth ER
+1537,2010,2100,2,Biomolecule;Carbohydrate;Biopolymer
+1538,2010,2100,2,Mutation;Genome;Multiresistance
+1539,2010,2100,2,Adenovirus;Genome;P53
+1540,2010,2100,2,Genome;Conserved sequence;Genomics
+1541,2010,2100,2,Genome;Chromosome;Multiresistance
+1542,2010,2100,2,Genome;Bacterial conjugation;Multiresistance
+1543,2011,2100,2,Gene;Protein;Chromatin
+1544,2011,2100,2,Gene;Actin;Tata box
+1545,2011,2100,2,Gene;Actin;Plant protein
+1546,2011,2025,2,Cell (biology);Gene expression;Epigenetics
+1547,2011,2100,2,Cell (biology);Embryo;Epigenetics
+1548,2011,2100,2,Actin;Immune system;Mutation
+1549,2011,2100,2,Actin;Polymer;Plant protein
+1550,2011,2100,2,Adenosine triphosphate;Photosynthesis;Atpase
+1551,2011,2100,2,Photosynthesis;Plasma membrane;Atpase
+1552,2011,2100,2,Mitosis;Meiosis;Supercoil
+1553,2011,2100,2,Genome;Chromosome;Proto-oncogene proteins c-bcl-2
+1554,2011,2100,2,Genetic recombination;Sexual reproduction;Muller's ratchet
+1555,2011,2100,2,Genetic recombination;Genetics;Muller's ratchet
+1556,2011,2100,2,Genetic recombination;Double helix;Supercoil
+1557,2012,2100,2,Mitosis;Epigenetics;Centromere
+1558,2012,2100,2,Plasma membrane;G protein-coupled receptor;Transient receptor potential
+1559,2013,2100,2,Gene;Myosin;Evolutionary tree
+1560,2013,2100,2,Enzyme;Receptor (biochemistry);Plant protein
+1561,2013,2100,2,Metabolism;Vesicle (biology);Rough ER
+1562,2013,2100,2,Metabolism;Vesicle (biology);Smooth ER
+1563,2013,2100,2,Biochemistry;Receptor (biochemistry);Plant protein
+1564,2013,2100,2,Vesicle (biology);Neurotransmitter;G protein
+1565,2013,2100,2,Vesicle (biology);Endoplasmic reticulum;Endomembrane system
+1566,2013,2100,2,Ampa receptor;Glutamic acid;Nervous system
+1567,2013,2100,2,Ampa receptor;Synapse;Nervous system
+1568,2013,2100,2,Neurotransmitter;G protein-coupled receptor;Receptor (biochemistry)
+1569,2013,2100,2,Neurotransmitter;Receptor (biochemistry);Transport vesicle
+1570,2013,2100,2,Neurotransmitter;G protein;Transport vesicle
+1571,2013,2026,2,Mitosis;Mitotic spindle;Centromere
+1572,2013,2100,2,Apoptosis;Phospholipid bilayer;Transport vesicle
+1573,2013,2100,2,Genome;Conserved sequence;Evolutionary tree
+1574,2013,2100,2,Genome;Bacterial conjugation;Replication origin
+1575,2013,2100,2,Genome;Dna virus;Replication origin
+1576,2013,2100,2,Homology (biology);Conserved sequence;Evolutionary tree
+1577,2013,2100,2,Homology (biology);Evolution;Evolutionary tree
+1578,2013,2100,2,Conserved sequence;Bioinformatics;Evolutionary tree
+1579,2014,2100,2,Amino acid;Isomer;Chemical formula
+1580,2014,2100,2,Amino acid;Chemical formula;Organic chemistry
+1581,2014,2100,2,Sugar;Chemical formula;Thiamin
+1582,2014,2100,2,Lipid;Cell membrane;Passive transport
+1583,2014,2100,2,Cell membrane;Cell membrane transport;Passive transport
+1584,2014,2100,2,Acetic acid;Chemical formula;Benzene
+1585,2014,2100,2,Chemical formula;Glycine;Pyridine
+1586,2014,2100,2,Active transport;Passive transport;Ion channel gating
+1587,2015,2100,2,Fungi;Protein;Prion
+1588,2015,2100,2,Protein;Cofactor (biochemistry);Prion
+1589,2015,2100,2,Enzyme;Toxin;Venom (poison)
+1590,2015,2100,2,Chemical formula;Water;Soluble
+1591,2015,2100,2,Immunoglobulin;Memory B cell;Igg
+1592,2015,2100,2,Immunoglobulin;Toxin;Igg
+1593,2015,2100,2,Memory B cell;Igg;Gamma-chain immunoglobulin
+1594,2015,2100,2,Memory B cell;Igg;Mu-chain immunoglobulin
+1595,2015,2100,2,Toxin;Igg;Gamma-chain immunoglobulin
+1596,2015,2100,2,Toxin;Igg;Mu-chain immunoglobulin
+1597,2016,2100,2,Protein;Gamma-chain immunoglobulin;Helper T cell
+1598,2016,2100,2,Protein;Helper T cell;Mu-chain immunoglobulin
+1599,2016,2100,2,Cell (biology);Genetics;Chemistry basic topics
+1600,2016,2100,2,Antibody;Immune system;Helper T cell
+1601,2016,2100,2,Phosphorylation;Helper T cell;Recombinant interferon-gamma
+1602,2016,2100,2,Apoptosis;Gamma-chain immunoglobulin;Helper T cell
+1603,2016,2100,2,Apoptosis;Helper T cell;Mu-chain immunoglobulin
+1604,2017,2100,2,Cell (biology);Genetics;List of chemistry topics
+1605,2017,2100,2,Nobel Prize in Chemistry;Catalyst;List of chemistry topics
+1606,2017,2100,2,Nobel Prize in Chemistry;Inorganic chemistry;List of chemistry topics
+1607,2017,2100,2,Analytical chemistry;Environmental chemistry;List of chemistry topics
+1608,2018,2100,2,Protein;Peptide bond;Hydroxyl
+1609,2018,2100,2,Polypeptide;Chromatography;Plant protein
+1610,2018,2100,2,Disaccharide;Functional group;Hydroxyl
+1611,2018,2100,2,Carbohydrate;Oxygen;Fat
+1612,2018,2100,2,Carbohydrate;Fat;Insulin
+1613,2018,2100,2,Carbohydrate;Fat;Thyroxine
+1614,2018,2100,2,Fatty acid;Carboxylic acid;Hydroxyl
+1615,2018,2100,2,Organic compound;Ethanol;Hydroxyl
+1616,2018,2100,2,Functional group;Hydroxyl;Phosphotyrosine
+1617,2019,2100,2,Protein;Metabolism;Citric acid cycle
+1618,2019,2100,2,Cytoskeleton;Muscle;Plant protein
+1619,2019,2100,2,Protein folding;Translation (biology);Rough ER
+1620,2019,2100,2,Protein folding;Translation (biology);Smooth ER
+1621,2019,2025,2,Cell (biology);Cytosol;Translation (biology)
+1622,2019,2100,2,Metabolism;Adenosine triphosphate;Citric acid cycle
+1623,2019,2100,2,Carbohydrate;Fat;Citric acid cycle
+1624,2019,2026,2,Carbohydrate;Fat;Muscle
+1625,2019,2100,2,Protein synthesis;Translation (biology);Rough ER
+1626,2019,2100,2,Protein synthesis;Translation (biology);Smooth ER
+1627,2019,2100,2,Nitrogen;Ammonia;Amine
+1628,2019,2100,2,Nitrogen;Amine;Pyridine
+1629,2019,2100,2,Ampa receptor;Phosphorylation;Serine
+1630,2019,2100,2,Citric acid cycle;Oxidative phosphorylation;Microbe
+1631,2019,2100,2,Citric acid cycle;Oxidative phosphorylation;Redox
+1632,2019,2100,2,Citric acid cycle;Water;Microbe
+1633,2019,2100,2,Citric acid cycle;Water;Thiamin
+1634,2019,2100,2,Cytosol;Endoplasmic reticulum;Translation (biology)
+1635,2019,2100,2,Cytosol;Translation (biology);Rough ER
+1636,2019,2100,2,Cytosol;Translation (biology);Smooth ER
+1637,2019,2100,2,Posttranslational modification;Signal transduction;Translation (biology)
+1638,2019,2100,2,Posttranslational modification;Protein biosynthesis;Tyrosine
+1639,2020,2100,2,Electron;Electron transport chain;Redox
+1640,2020,2100,2,Protein;Phosphorylation;Transmembrane receptor
+1641,2020,2100,2,Amino acid;Hormone;Plant protein
+1642,2020,2100,2,Enzyme;Glutamate;Tyrosine 3-monooxygenase
+1643,2020,2100,2,Enzyme;Oxidation;Electron transport chain
+1644,2020,2100,2,Enzyme;Electron transport chain;Atp synthase
+1645,2020,2100,2,Enzyme;Electron transport chain;Cell membrane transport
+1646,2020,2100,2,Essential amino acid;Methionine;Cysteine
+1647,2020,2100,2,Glucose;Oxidation;Photosynthesis
+1648,2020,2100,2,Oxygen;Oxidation;Oxidative phosphorylation
+1649,2020,2100,2,Oxygen;Chloroplast;Electron transport chain
+1650,2020,2100,2,Adenosine triphosphate;Acetyl CoA;Oxidation
+1651,2020,2100,2,Adenosine triphosphate;Oxidation;Phosphorus
+1652,2020,2100,2,Adenosine triphosphate;Oxidation;Electron transport chain
+1653,2020,2100,2,Adenosine triphosphate;Mitochondrion;Atp synthase
+1654,2020,2100,2,Flavin adenine dinucleotide;Redox;Flavine
+1655,2020,2100,2,Nitrogen;Oxidation;Proton
+1656,2020,2100,2,Nitrogen;Oxidation;Ammonia
+1657,2020,2100,2,Nitrogen;Oxidation;Organic chemistry
+1658,2020,2100,2,Nitrogen;Ammonia;Amide
+1659,2020,2100,2,Ampa receptor;Insulin;Transmembrane receptor
+1660,2020,2100,2,Ampa receptor;Plasma membrane;Transmembrane receptor
+1661,2020,2100,2,Ampa receptor;Serine;Transmembrane receptor
+1662,2020,2100,2,Ampa receptor;Threonine;Transmembrane receptor
+1663,2020,2100,2,Ampa receptor;Transmembrane receptor;Ion channel
+1664,2020,2100,2,Phosphorylation;Serine;Tyrosine 3-monooxygenase
+1665,2020,2100,2,Phosphorylation;Transmembrane receptor;Ion channel gating
+1666,2020,2100,2,Carboxylic acid;Oxidation;Lactic acid
+1667,2020,2100,2,Carboxylic acid;Valine;N-terminus
+1668,2020,2100,2,Carboxylic acid;Glycine;N-terminus
+1669,2020,2100,2,Citric acid cycle;Oxidation;Water
+1670,2020,2100,2,Oxidation;Photosynthesis;Phosphotyrosine
+1671,2020,2100,2,Oxidation;Water;Lactic acid
+1672,2020,2100,2,Pyruvate;Fermentation (biochemistry);Lactic acid
+1673,2020,2100,2,Insulin;Transmembrane receptor;Ion channel gating
+1674,2020,2026,2,Neurotransmitter;Neuron;Transmembrane receptor
+1675,2020,2100,2,Neurotransmitter;Transmembrane receptor;Second messenger
+1676,2020,2100,2,Posttranslational modification;Serine;Cysteine
+1677,2020,2100,2,Posttranslational modification;Methionine;Cysteine
+1678,2020,2100,2,Active site;Tertiary structure;Amino acid sequence
+1679,2020,2100,2,Signal transduction;Hormone;Insulin-like growth factor I
+1680,2020,2100,2,Signal transduction;Hormone;Receptor protein-tyrosine kinase
+1681,2020,2100,2,Receptor (biochemistry);Transmembrane receptor;Ion channel gating
+1682,2020,2100,2,Aromatic amine;Pyrimidine;Cytosine
+1683,2020,2100,2,Aromatic amine;Cytosine;Aromatic compound
+1684,2020,2021,2,Glycine;N-terminus;Homeodomain protein
+1685,2020,2100,2,Translation (biology);Intein;Intron
+1686,2020,2100,2,Phospholipid bilayer;Proton pump;Cell membrane transport
+1687,2021,2100,2,Protein;Coenzyme;Iron-sulfur protein
+1688,2021,2100,2,Enzyme;Atp synthase;Chemiosmosis
+1689,2021,2023,2,Metabolism;Lipid;Catabolism
+1690,2021,2100,2,Metabolism;Catabolism;Catalyst
+1691,2021,2100,2,Hydrogen;Atomic mass unit;Hydrogen-deuterium exchange
+1692,2021,2100,2,Hydrogen;Crystallography;Hydrogen-deuterium exchange
+1693,2021,2100,2,Adenosine triphosphate;Oxidation;Catabolism
+1694,2021,2100,2,Adenosine triphosphate;Oxidative phosphorylation;Chemiosmosis
+1695,2021,2100,2,Adenosine triphosphate;Atp synthase;Photosystem II
+1696,2021,2100,2,Lipid;Fat;Catabolism
+1697,2021,2100,2,Fat;Acetic acid;Catabolism
+1698,2021,2023,2,Metabolic pathway;Glycolysis;Catabolism
+1699,2021,2023,2,Metabolic pathway;Substrate (biochemistry);Catabolism
+1700,2021,2100,2,Phosphorylation;Retinoblastoma protein;Cell cycle protein
+1701,2021,2100,2,Carboxylic acid;Ester;Organic nomenclature
+1702,2021,2100,2,Acetic acid;Chemical formula;Organic nomenclature
+1703,2021,2100,2,Oxidation;Catabolism;Lactic acid
+1704,2021,2100,2,Citric acid;Alcohol;Organic nomenclature
+1705,2021,2100,2,Photosynthesis;Photosystem II;Phosphotyrosine
+1706,2021,2100,2,Acid;Ammonia;Catalyst
+1707,2021,2100,2,Proton;Oxidative phosphorylation;Chemiosmosis
+1708,2021,2100,2,Ammonia;Catabolism;Urea
+1709,2021,2100,2,Genome;P53;Cell cycle protein
+1710,2021,2100,2,Genetics;Base sequence;Sequence motif
+1711,2021,2100,2,Genetics;Sequence motif;Molecular sequence data
+1712,2021,2100,2,Cell cycle protein;Cyclin;Cyclin E
+1713,2022,2100,2,Hydrogen bond;Dna;Disulfide bond
+1714,2022,2100,2,Hydrogen bond;Dna;Disulfide bridge
+1715,2022,2100,2,Hydrogen bond;Hydrogen;Disulfide bond
+1716,2022,2100,2,Hydrogen bond;Hydrogen;Disulfide bridge
+1717,2022,2100,2,Archaea;Hydrogen;Disulfide bond
+1718,2022,2100,2,Archaea;Hydrogen;Disulfide bridge
+1719,2022,2100,2,Protein;Oxygen;Cristae
+1720,2022,2100,2,Protein;Electron transport chain;Cristae
+1721,2022,2100,2,Protein;Cristae;Krebs cycle
+1722,2022,2100,2,Amino acid;Hydrogen;Amino
+1723,2022,2100,2,Amino acid;Mitochondrion;Cytochrome P-450
+1724,2022,2100,2,Protein folding;Denaturation (biochemistry);Plant protein
+1725,2022,2100,2,Peptide;Neuropeptide;Substance P
+1726,2022,2100,2,Cofactor (biochemistry);Enzyme;Cytochrome P-450
+1727,2022,2100,2,Enzyme;Tertiary structure;Denaturation (biochemistry)
+1728,2022,2100,2,Metabolism;Carbohydrate;Krebs cycle
+1729,2022,2100,2,Metabolism;Cytosol;Krebs cycle
+1730,2022,2100,2,Carbohydrate;Fat;Krebs cycle
+1731,2022,2100,2,Glucose;Oxidation;Krebs cycle
+1732,2022,2100,2,Glucose;Redox;Krebs cycle
+1733,2022,2100,2,Carbon;Glutamate;Krebs cycle
+1734,2022,2100,2,Carbon;Oxidation;Krebs cycle
+1735,2022,2100,2,Carbon;Functional group;Element symbol
+1736,2022,2100,2,Carbon;Redox;Krebs cycle
+1737,2022,2100,2,Hydrogen;Amino;Amide
+1738,2022,2100,2,Oxygen;Electron transport chain;Cytochrome C
+1739,2022,2100,2,Adenosine triphosphate;Nitrogen;Photolysis
+1740,2022,2100,2,Adenosine triphosphate;Oxidation;Disulfide bond
+1741,2022,2100,2,Adenosine triphosphate;Oxidation;Disulfide bridge
+1742,2022,2100,2,Adenosine triphosphate;Electron transport chain;Krebs cycle
+1743,2022,2100,2,Adenosine triphosphate;Photosystem I;Disulfide bond
+1744,2022,2100,2,Adenosine triphosphate;Photosystem I;Disulfide bridge
+1745,2022,2100,2,Flavin adenine dinucleotide;Redox;Krebs cycle
+1746,2022,2100,2,Fatty acid;Acetyl CoA;Krebs cycle
+1747,2022,2100,2,Cell membrane;Cytoplasm;Protein-tyrosine kinase
+1748,2022,2100,2,Cell membrane;Cytoplasm;Proto-oncogene protein C-kit
+1749,2022,2100,2,Nitrogen;Ammonia;Amino
+1750,2022,2100,2,Glutamate;Glycolysis;Krebs cycle
+1751,2022,2100,2,Glutamate;Proline;Krebs cycle
+1752,2022,2100,2,Glutamate;Glutamine;Krebs cycle
+1753,2022,2100,2,Ethanol;Ammonia;Amino
+1754,2022,2100,2,Oxidation;Water;Krebs cycle
+1755,2022,2100,2,Insulin;Disulfide bond;Plant protein
+1756,2022,2100,2,Posttranslational modification;Functional group;Disulfide bond
+1757,2022,2100,2,Posttranslational modification;Functional group;Disulfide bridge
+1758,2022,2100,2,Posttranslational modification;Nucleophile;Disulfide bridge
+1759,2022,2100,2,Mitosis;Cancer;Protein-tyrosine kinase
+1760,2022,2100,2,Mitosis;Cancer;Proto-oncogene protein C-kit
+1761,2022,2100,2,Mitosis;Chromatin;Protein-tyrosine kinase
+1762,2022,2100,2,Mitosis;Chromatin;Proto-oncogene protein C-kit
+1763,2022,2100,2,Apoptosis;Cancer;Extracellular matrix protein
+1764,2022,2100,2,Base (chemistry);Water;Element symbol
+1765,2022,2100,2,Base (chemistry);Amino;Solvent
+1766,2022,2100,2,Oxidative phosphorylation;Redox;Krebs cycle
+1767,2022,2100,2,Photophosphorylation;Redox;Photolysis
+1768,2022,2100,2,Water;Chemiosmosis;Cristae
+1769,2022,2100,2,Conserved sequence;Homeobox;Nucleic acid sequence homology
+1770,2022,2100,2,Sulfur;Disulfide bond;Oxidation number
+1771,2022,2100,2,Sulfur;Disulfide bridge;Thioredoxin
+1772,2022,2100,2,Sulfur;Disulfide bridge;Oxidation number
+1773,2022,2100,2,Collagen;Fibronectin;Transcription factor AP-1
+1774,2022,2100,2,Redox;Disulfide bridge;Thioredoxin
+1775,2022,2100,2,Oxidation state;Electronegativity;Element symbol
+1776,2022,2100,2,Nucleophile;Electrophile;Disulfide bond
+1777,2022,2100,2,Nucleophile;Electrophile;Disulfide bridge
+1778,2023,2100,2,Protein;Peptide bond;Random coil
+1779,2023,2100,2,Protein;Biochemistry;Feedback inhibition
+1780,2023,2100,2,Amino acid;Hydrogen;Catalytic domain
+1781,2023,2100,2,Amino acid;Nitrogen;Catalytic domain
+1782,2023,2100,2,Amino acid;Mutation;Catalytic domain
+1783,2023,2100,2,Dna replication;Mutation;Catalytic domain
+1784,2023,2100,2,Protein folding;Denaturation (biochemistry);Catalytic domain
+1785,2023,2100,2,Polypeptide;Enzyme;N-formylmethionine
+1786,2023,2100,2,Polypeptide;N-formylmethionine;Translation (biology)
+1787,2023,2100,2,Peptide bond;Covalent bond;Feedback inhibition
+1788,2023,2100,2,Cofactor (biochemistry);Adenosine triphosphate;Catalytic domain
+1789,2023,2100,2,Cofactor (biochemistry);Sulfur;Catalytic domain
+1790,2023,2100,2,Enzyme;Immune system;N-formylmethionine
+1791,2023,2100,2,Enzyme;Glutamate;Catalytic domain
+1792,2023,2100,2,Enzyme;Active site;Feedback inhibition
+1793,2023,2100,2,Enzyme;Tertiary structure;Catalytic domain
+1794,2023,2100,2,Enzyme;Enzyme inhibitor;Catalytic domain
+1795,2023,2100,2,Glucose;Photosynthesis;Feedback inhibition
+1796,2023,2100,2,Hydrogen;Redox;Catalytic domain
+1797,2023,2100,2,Adenosine triphosphate;Nitrogen;Catalytic domain
+1798,2023,2100,2,Adenosine triphosphate;Oxidation;Catalytic domain
+1799,2023,2100,2,Adenosine triphosphate;Photosynthesis;Feedback inhibition
+1800,2023,2100,2,Flavin adenine dinucleotide;Redox;Catalytic domain
+1801,2023,2100,2,Carboxylic acid;Oxidation;Catalytic domain
+1802,2023,2100,2,Ethanol;Glycine;Catalytic domain
+1803,2023,2100,2,Cytosol;N-formylmethionine;Mitochondrion
+1804,2023,2100,2,Cytosol;N-formylmethionine;Translation (biology)
+1805,2023,2100,2,Plasma membrane;Second messenger;Serotonin receptor
+1806,2023,2100,2,Denaturation (biochemistry);Transmembrane protein;Plant protein
+1807,2023,2100,2,Phosphorus;Redox;Catalytic domain
+1808,2023,2100,2,Amide;Glutamine;Catalytic domain
+1809,2023,2100,2,Serine;Cysteine;Catalytic domain
+1810,2023,2100,2,Serine;Cysteine;Feedback inhibition
+1811,2023,2100,2,Cysteine;Catalytic domain;Nucleophile
+1812,2023,2100,2,Cysteine;Catalytic domain;Cytochrome C
+1813,2023,2100,2,Cysteine;Nucleophile;Feedback inhibition
+1814,2023,2100,2,Phenylalanine;Tyrosine;Catalytic domain
+1815,2023,2100,2,Integral membrane protein;Photosystem I;Light reactions
+1816,2023,2100,2,Redox;Catalytic domain;Cytochrome C
+1817,2024,2100,2,Cell (biology);Enzyme;Cytochrome c oxidase
+1818,2024,2100,2,Enzyme;Electron transport chain;Cytochrome c oxidase
+1819,2024,2100,2,Adenosine triphosphate;Photosynthesis;Transmembrane ATPase
+1820,2024,2100,2,Adenosine triphosphate;Mitochondrion;Cytochrome c oxidase
+1821,2024,2100,2,Lipid;Fat;Lipoprotein
+1822,2024,2100,2,Cell membrane;Hormone;Cell surface receptor
+1823,2024,2100,2,Fat;Hydrophobic;Lipoprotein
+1824,2024,2100,2,Plasma membrane;Active transport;Transmembrane ATPase
+1825,2024,2100,2,Mitochondrion;Cytochrome C;Cytochrome c oxidase
+1826,2024,2100,2,Hydrophobic;Hydrophilic;Lipoprotein
+1827,2025,2100,2,Organism;Biochemistry;List of basic biochemistry topics
+1828,2025,2100,2,Gene;Myosin;Microfilament protein
+1829,2025,2100,2,Dna;Monomer;Microfilament protein
+1830,2025,2100,2,Dna;Covalent bond;Microfilament protein
+1831,2025,2100,2,Protein;Oxygen;Microfilament protein
+1832,2025,2100,2,Protein;Cell membrane;Protein targeting
+1833,2025,2100,2,Protein;Homology (biology);Microfilament protein
+1834,2025,2100,2,Protein;Electron transport chain;Carrier protein
+1835,2025,2100,2,Amino acid;P53;Microfilament protein
+1836,2025,2100,2,Amino acid;Conserved sequence;Microfilament protein
+1837,2025,2100,2,Cytoskeleton;Protein subunit;Microfilament protein
+1838,2025,2100,2,Cytoskeleton;Tubulin;Microfilament protein
+1839,2025,2100,2,Polypeptide;Protein subunit;Microfilament protein
+1840,2025,2100,2,Nucleic acid;Sugar;List of basic biochemistry topics
+1841,2025,2100,2,Cell (biology);In vivo;Microfilament protein
+1842,2025,2100,2,Enzyme;Immune system;Microfilament protein
+1843,2025,2100,2,Enzyme;Tertiary structure;List of basic biochemistry topics
+1844,2025,2100,2,Enzyme;Substrate (biochemistry);Carrier protein
+1845,2025,2100,2,Metabolism;Signal transduction;Microfilament protein
+1846,2025,2100,2,Metabolism;Signal transduction;List of basic biochemistry topics
+1847,2025,2100,2,Metabolism;Cellular respiration;List of basic biochemistry topics
+1848,2025,2100,2,Actin;Signal transduction;List of basic biochemistry topics
+1849,2025,2100,2,Myosin;Adenosine triphosphate;List of basic biochemistry topics
+1850,2025,2100,2,Myosin;Hydrolysis;Microfilament protein
+1851,2025,2100,2,Myosin;Hydrolysis;List of basic biochemistry topics
+1852,2025,2100,2,Carbohydrate;Fat;List of basic biochemistry topics
+1853,2025,2100,2,Carbohydrate;Photosynthesis;List of basic biochemistry topics
+1854,2025,2100,2,Rna;Adenosine;List of basic biochemistry topics
+1855,2025,2100,2,Phospholipid;Biological membrane;List of basic biochemistry topics
+1856,2025,2100,2,Lipid;Fat;List of basic biochemistry topics
+1857,2025,2100,2,Lipid;Hydrophilic;List of basic biochemistry topics
+1858,2025,2100,2,Lipid;Biological membrane;Structural biology
+1859,2025,2026,2,Vesicle (biology);Vacuole;Endomembrane system
+1860,2025,2100,2,Fat;Hydrophobic;List of basic biochemistry topics
+1861,2025,2100,2,Morphogenesis;Evolution;Microfilament protein
+1862,2025,2100,2,Molecular biology;Biotechnology;List of basic biochemistry topics
+1863,2025,2100,2,Lysine;Ubiquitin;List of basic biochemistry topics
+1864,2025,2100,2,Mitosis;Apoptosis;Microfilament protein
+1865,2025,2100,2,Acid;Covalent bond;List of basic biochemistry topics
+1866,2025,2100,2,Acid;Base (chemistry);Microfilament protein
+1867,2025,2100,2,Acid;Base (chemistry);List of basic biochemistry topics
+1868,2025,2100,2,Acid;Ph;Microfilament protein
+1869,2025,2100,2,Acid;Ph;List of basic biochemistry topics
+1870,2025,2100,2,Acid;Denaturation (biochemistry);Microfilament protein
+1871,2025,2100,2,Acid;Glutamic acid;Microfilament protein
+1872,2025,2100,2,Acid;Lactic acid;List of basic biochemistry topics
+1873,2025,2100,2,Protein subunit;Homology (biology);Microfilament protein
+1874,2025,2100,2,Axon;Nervous system;Microfilament protein
+1875,2025,2100,2,Neuron;Glutamic acid;Microfilament protein
+1876,2025,2100,2,Plasma membrane;Transmembrane protein;Facilitated diffusion
+1877,2025,2100,2,Plasma membrane;Facilitated diffusion;Passive transport
+1878,2025,2100,2,Tertiary structure;Denaturation (biochemistry);Structural biology
+1879,2025,2100,2,Cellular respiration;Redox;List of basic biochemistry topics
+1880,2025,2100,2,Translation (biology);Intron;Microfilament protein
+1881,2025,2100,2,Cysteine;Nucleophile;Microfilament protein
+1882,2025,2100,2,Hydrophobic;Hydrophilic;List of basic biochemistry topics
+1883,2025,2100,2,Ion channel;Potassium channel;Membrane protein
+1884,2025,2100,2,Ion channel;Bacterial outer membrane protein;Carrier protein
+1885,2025,2100,2,Ion channel;Peripheral membrane protein;Membrane protein
+1886,2025,2100,2,Ion channel;Carrier protein;Membrane protein
+1887,2025,2100,2,Ion channel;Carrier protein;Facilitated diffusion
+1888,2025,2100,2,Ion channel;Membrane protein;Plant protein
+1889,2025,2100,2,Biotechnology;Immunology;List of basic biochemistry topics
+1890,2025,2100,2,Biotechnology;Cloning;List of basic biochemistry topics
+1891,2025,2100,2,Biological membrane;Osmosis;List of basic biochemistry topics
+1892,2025,2100,2,Plasmid;Toxin;Microfilament protein
+1893,2025,2100,2,Carrier protein;Transmembrane protein;Facilitated diffusion
+1894,2025,2100,2,Carrier protein;Transmembrane protein;Cell membrane transport
+1895,2025,2100,2,Genetics;Cell biology;List of basic biochemistry topics
+1896,2025,2100,2,Toxin;In vivo;Microfilament protein
+1897,2025,2100,2,Cell biology;Immunology;List of basic biochemistry topics
+1898,2025,2100,2,Diffusion;Osmosis;List of basic biochemistry topics
+1899,2026,2100,2,Protein;Muscle;List of biology topics
+1900,2026,2100,2,Protein folding;Immune system;Structural domain
+1901,2026,2100,2,Protein folding;Immune system;List of biology topics
+1902,2026,2100,2,Protein folding;Ribosome;Peptide initiation factor
+1903,2026,2100,2,Protein folding;Ribosome;Peptide termination factor
+1904,2026,2100,2,Cell (biology);Molecular biology;Peptide initiation factor
+1905,2026,2100,2,Cell (biology);Molecular biology;Peptide termination factor
+1906,2026,2100,2,Cell (biology);Cellular respiration;List of biology topics
+1907,2026,2100,2,Enzyme;Immune system;List of biology topics
+1908,2026,2100,2,Enzyme;Evolutionary developmental biology;List of biology topics
+1909,2026,2100,2,Metabolism;Vitamin;List of biology topics
+1910,2026,2100,2,Metabolism;Signal transduction;List of biology topics
+1911,2026,2100,2,Actin;Signal transduction;List of biology topics
+1912,2026,2100,2,Antibody;Immune cell;List of biology topics
+1913,2026,2100,2,Carbohydrate;Immune system;List of biology topics
+1914,2026,2100,2,Adenosine triphosphate;Calvin cycle;List of biology topics
+1915,2026,2100,2,Rna;Activation energy;Peptide termination factor
+1916,2026,2100,2,Lipid;Fat;List of biology topics
+1917,2026,2100,2,Lipid;Cytoplasm;List of biology topics
+1918,2026,2100,2,Lipid;Dna virus;List of biology topics
+1919,2026,2100,2,Fatty acid;Carboxylic acid;Lipid anchored protein
+1920,2026,2100,2,Vesicle (biology);Neurotransmitter;List of biology topics
+1921,2026,2100,2,Protein synthesis;Endoplasmic reticulum;Peptide initiation factor
+1922,2026,2100,2,Protein synthesis;Endoplasmic reticulum;Peptide termination factor
+1923,2026,2100,2,Molecular biology;Biotechnology;List of biology topics
+1924,2026,2100,2,Glycolysis;Cytoplasm;List of biology topics
+1925,2026,2100,2,Cytoplasm;Axon;List of biology topics
+1926,2026,2100,2,Photosynthesis;Excretion;List of biology topics
+1927,2026,2100,2,Cytosol;Endoplasmic reticulum;Peptide initiation factor
+1928,2026,2100,2,Cytosol;Endoplasmic reticulum;Peptide termination factor
+1929,2026,2100,2,Mitosis;Apoptosis;List of biology topics
+1930,2026,2100,2,Apoptosis;Immunoglobulin;Structural domain
+1931,2026,2100,2,Apoptosis;Mitochondrion;List of biology topics
+1932,2026,2100,2,Apoptosis;Gamma-chain immunoglobulin;Structural domain
+1933,2026,2100,2,Apoptosis;Structural domain;Mu-chain immunoglobulin
+1934,2026,2100,2,Plasma membrane;Active transport;List of biology topics
+1935,2026,2100,2,Tertiary structure;Structural biology;List of biology topics
+1936,2026,2100,2,Ribosome;Endoplasmic reticulum;Peptide initiation factor
+1937,2026,2100,2,Ribosome;Endoplasmic reticulum;Peptide termination factor
+1938,2026,2100,2,Vaccine;Genetic recombination;List of biology topics
+1939,2026,2100,2,Protein Data Bank;Structural domain;Plant protein
+1940,2026,2100,2,Locus (genetics);Chromosome;List of biology topics
+1941,2026,2100,2,Locus (genetics);Genetic fingerprint;List of biology topics
+1942,2026,2100,2,Antibiotic;Translation (biology);List of biology topics
+1943,2026,2100,2,Molecular evolution;Evolution;Structural domain
+1944,2026,2100,2,Hormone;Excretion;List of biology topics
+1945,2026,2100,2,Biotechnology;Genomics;List of biology topics
+1946,2026,2100,2,Biotechnology;Immunology;List of biology topics
+1947,2026,2100,2,Biotechnology;Cloning;List of biology topics
+1948,2026,2100,2,Atomic nucleus;Hydrogen-deuterium exchange;Protein nuclear magnetic resonance spectroscopy
+1949,2026,2100,2,Microbiology;Heterotroph;List of biology topics
+1950,2026,2100,2,Microbiology;Microscope;List of biology topics
+1951,2026,2100,2,Microbiology;Mycology;List of biology topics
+1952,2026,2100,2,Microbiology;Virology;List of biology topics
+1953,2026,2100,2,Biodiversity;Marine biology;List of biology topics
+1954,2026,2100,2,Cladistics;Evolutionary tree;List of biology topics
+1955,2027,2100,2,Antibody;Immune system;Membrane glycoprotein
+1956,2027,2100,2,Immune system;Major histocompatibility complex;Membrane glycoprotein
+1957,1869,2100,3,Dna;Enzyme;Microbe;Gamma-chain immunoglobulin
+1958,1869,2100,3,Dna;Enzyme;Microbe;Mu-chain immunoglobulin
+1959,1903,2100,3,Cell (biology);Cell membrane;Cytoplasm;Cytoskeletal protein
+1960,1953,2100,3,Genetic code;Cell (biology);Ribosome;Plant protein
+1961,1954,2100,3,Essential amino acid;Leucine;Alanine;Plant protein
+1962,1971,2100,3,Leucine;Posttranslational modification;Alanine;Plant protein
+1963,1977,2100,3,Dna sequence;Nucleic acid;Cell (biology);Plant protein
+1964,1991,2100,3,Cell (biology);Cell membrane;Mitosis;Microbe
+1965,1995,2100,3,Hydrogen bond;Hydrogen;Covalent bond;Water
+1966,2004,2100,3,Archaea;Protein;Cytoskeleton;Cell membrane
+1967,2004,2025,3,Archaea;Protein;Cytoskeleton;Plasma membrane
+1968,2004,2100,3,Archaea;Protein;Cell membrane;Virus (biology)
+1969,2005,2100,3,Protein;Dna replication;Cell (biology);Virus (biology)
+1970,2005,2100,3,Dna replication;Cell (biology);Enzyme;Plant protein
+1971,2013,2100,3,Cytosol;Plasma membrane;Endoplasmic reticulum;Transport vesicle
+1972,2019,2100,3,Cell (biology);Biochemistry;Protein biosynthesis;Plant protein
+1973,2019,2100,3,Rna;Molecular biology;Protein biosynthesis;Translation (biology)
+1974,2021,2100,3,Cell (biology);Cell membrane;Mitosis;Cell cycle protein
+1975,2023,2100,3,Metabolism;Adenosine triphosphate;Nucleotide;Feedback inhibition
+1976,2025,2100,3,Gene;Biochemistry;Evolution;Microfilament protein
+1977,2025,2100,3,Protein;Cell (biology);Metabolism;Microfilament protein
+1978,2025,2100,3,Amino acid;Rna;Lipid;Structural biology
+1979,2025,2100,3,Cytoskeleton;Cell membrane;Cytoplasm;Microfilament protein
+1980,2026,2100,3,Cell (biology);Biochemistry;Adenosine triphosphate;List of biology topics
+1981,2026,2100,3,Cell (biology);Gene expression;Genetics;List of biology topics
+1982,2026,2100,3,Cell (biology);Transformation (genetics);Plasmid;List of biology topics
+1983,2026,2100,3,Enzyme;Immune system;Gamma-chain immunoglobulin;Structural domain
+1984,2026,2100,3,Enzyme;Immune system;Structural domain;Mu-chain immunoglobulin
+1985,2026,2100,3,Genetic recombination;Evolution;Evolutionary tree;List of biology topics

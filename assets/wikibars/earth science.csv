@@ -1,0 +1,74 @@
+i,birth,death,dim,nodes
+0,-4000,2100,0,Hydrology
+1,-3000,263,0,Physics
+2,-800,263,0,Geography
+3,-800,-799,0,Cartography
+4,100,200,0,Mesosphere
+5,132,1600,0,Geophysics
+6,132,1603,0,Seismology
+7,180,400,0,Geomorphology
+8,253,1603,0,Volcanology
+9,800,2013,0,New York, NY
+10,1926,2002,0,Holism
+11,1936,2013,0,Gravimetry
+12,1941,2013,0,Chelsea House Publishers
+13,2012,2013,0,Crystallography
+14,200,2013,1,Earth (planet);Cartography
+15,263,2013,1,Earth (planet);Surveying
+16,400,2013,1,Physics;Science
+17,400,2013,1,Science;Cartography
+18,401,2004,1,Meteorology;Atmospheric physics
+19,1600,2013,1,Earth (planet);Dynamo theory
+20,1603,2002,1,Geology;Earth (planet)
+21,1603,2013,1,Geology;Geochronology
+22,1603,2003,1,Geology;Geomorphology
+23,1609,2013,1,Planetary science;Geophysics
+24,1700,2013,1,Geography;Biogeography
+25,1735,2013,1,Biology;Life
+26,1769,2013,1,Marine biology;Physical oceanography
+27,1832,2013,1,Cartography;Geographical Information System
+28,1832,2013,1,Surveying;Geographical Information System
+29,1832,1839,1,Hydrology;Geographical Information System
+30,1832,2013,1,Climatology;Geographical Information System
+31,1839,2013,1,Geochemistry;Geostatistics
+32,1839,2013,1,Soil science;Geostatistics
+33,1900,1901,1,Plate tectonics;Geophysics
+34,1901,2013,1,Geochemistry;Marine geology
+35,1901,2013,1,Geodynamics;Mineralogy
+36,1901,2013,1,Structural geology;Historical geology
+37,1901,2013,1,Marine geology;Physical oceanography
+38,1902,2013,1,Geophysics;Economic geology
+39,1902,2013,1,Petrology;Economic geology
+40,1902,2013,1,Mineralogy;Economic geology
+41,1902,2013,1,Economic geology;Structural geology
+42,1903,2013,1,Geomorphology;Tectonics
+43,1904,2013,1,Magma;Volcanology
+44,1904,2013,1,Magma;Tectonics
+45,1905,2013,1,Geochronology;Geomagnetic
+46,1905,2013,1,Magma;Geomagnetic
+47,1941,2001,1,Geography;Geosphere
+48,1941,2013,1,Magnetosphere;Geosphere
+49,1941,2013,1,Geosphere;Cryosphere
+50,1942,2013,1,Geosphere;Geomicrobiology
+51,2002,2013,1,Earth science;Chronology
+52,2002,2013,1,Chemistry;Pedosphere
+53,2002,2013,1,Hydrology;Physical geography
+54,2002,2003,1,Physical geography;Climatology
+55,2002,2013,1,Edaphology;Environmental geology
+56,2002,2013,1,Engineering geology;Environmental geology
+57,2002,2013,1,Hydrogeology;Environmental geology
+58,2002,2013,1,Environmental geology;Historical geology
+59,2003,2013,1,Geology;Pedology (soil study)
+60,2003,2013,1,Biology;Pedology (soil study)
+61,2003,2013,1,Science;Gemology
+62,2003,2013,1,Geodesy;Geodynamics
+63,2003,2013,1,Geodesy;Geomorphology
+64,2003,2013,1,Geodesy;Environmental science
+65,2003,2013,1,Erosion;Engineering geology
+66,2003,2013,1,Mineralogy;Gemology
+67,2004,2013,1,Magma;Crust (geology)
+68,2004,2013,1,Stratigraphy;Sedimentology
+69,2004,2013,1,Marine geology;Sedimentology
+70,2005,2013,1,Atmospheric sciences;Meridional flow
+71,2003,2013,2,Glaciology;Meteorology;Climatology
+72,2003,2013,2,Climatology;Geomorphology;Pedology (soil study)

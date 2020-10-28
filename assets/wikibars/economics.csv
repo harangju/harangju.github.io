@@ -1,0 +1,633 @@
+i,birth,death,dim,nodes
+0,-5000,2100,0,Debt
+1,-4500,2014,0,Commodity market
+2,-3000,600,0,Trade
+3,-1754,800,0,Bank
+4,-500,-499,0,Tax
+5,-405,1700,0,Gresham's law
+6,-300,2015,0,Actuary
+7,-300,1200,0,Economic geography
+8,100,1865,0,Operations research
+9,136,2100,0,Slavery
+10,140,1700,0,Seven generation sustainability
+11,150,1701,0,Charity shop
+12,300,900,0,Local currency
+13,300,600,0,Socialism
+14,300,1400,0,Sweatshop
+15,301,2016,0,Competition law
+16,412,800,0,Gold standard
+17,500,1300,0,Time-based currency
+18,600,1700,0,Shock therapy (economics)
+19,1300,1389,0,Price control
+20,1500,1600,0,Bullionism
+21,1600,1700,0,Moral hazard
+22,1600,1700,0,Mathematical economics
+23,1776,1870,0,New classical macroeconomics
+24,1800,1918,0,Surplus value
+25,1800,1937,0,Poverty threshold
+26,1805,1911,0,Regression analysis
+27,1829,1942,0,Terms of trade
+28,1890,1891,0,Price elasticity of demand
+29,1920,1933,0,Price discrimination
+30,1930,2014,0,Subsistence agriculture
+31,1932,1956,0,Elasticity of substitution
+32,1970,2005,0,The Experience Economy
+33,1975,1993,0,Policy-ineffectiveness proposition
+34,1985,2015,0,Dead cat bounce
+35,1994,2100,0,Triple bottom line
+36,2020,2021,0,Distribution (business)
+37,100,2100,1,Laffer curve;Tax, tariff and trade
+38,600,2100,1,Debt;Social welfare provision
+39,900,2015,1,Currency;Euro
+40,900,2100,1,Currency;Islamic economic jurisprudence
+41,1200,2100,1,Trade;Globalization
+42,1300,2100,1,Gold standard;Unit of account
+43,1300,2100,1,Euro;Unit of account
+44,1329,2100,1,Monetary policy;Monetary economics
+45,1400,2100,1,Inflation;Tax, tariff and trade
+46,1450,2014,1,Capitalism;Tax, tariff and trade
+47,1470,2100,1,Price control;Rent control
+48,1500,2100,1,Globalization;Unemployment
+49,1500,2100,1,Unemployment;Social welfare provision
+50,1600,2018,1,Central bank;Inflation
+51,1600,2100,1,Bank;Fractional-reserve banking
+52,1601,2100,1,Monetary economics;Money multiplier
+53,1602,2100,1,Purchasing power parity;Depreciation (currency)
+54,1602,2100,1,Debt;Depreciation (currency)
+55,1694,2100,1,Debt;Government debt
+56,1694,2100,1,Government debt;Tax, tariff and trade
+57,1700,2014,1,Economics;Inflation
+58,1700,1935,1,Economics;Gold standard
+59,1700,2100,1,Economics;Local currency
+60,1700,2100,1,Economics;Interest
+61,1700,2100,1,Economics;Economic geography
+62,1700,2100,1,Economics;Rent control
+63,1700,2100,1,Economic model;Value added tax
+64,1700,2100,1,Trade;Political economy
+65,1700,2100,1,Trade;Import substitution industrialization
+66,1700,2100,1,Mercantilism;Tariff
+67,1700,2100,1,Tariff;Free trade
+68,1700,2100,1,Tariff;Import substitution industrialization
+69,1700,2015,1,Tariff;Tax, tariff and trade
+70,1700,2100,1,Wealth;Bullionism
+71,1700,2100,1,Capitalism;Laissez-faire
+72,1700,2100,1,Human capital;Social welfare provision
+73,1701,2100,1,Money;Output (economics)
+74,1701,2100,1,Agent (economics);Central bank
+75,1701,2100,1,Gross domestic product;Potential output
+76,1701,2100,1,Local purchasing;Industrial policy
+77,1702,2021,1,Consumption (economics);Trade
+78,1702,2100,1,Currency;Value (economics)
+79,1702,2100,1,Pareto efficiency;Utility
+80,1702,2100,1,Wealth;Value (economics)
+81,1702,2020,1,Marginal cost;Cost curve
+82,1703,2100,1,Pareto efficiency;Externality
+83,1703,2100,1,Marginal cost;Value of life
+84,1703,2100,1,Globalization;Value of life
+85,1714,2100,1,Game theory;Edgeworth box
+86,1714,2100,1,Game theory;Global game
+87,1714,2100,1,Competition;Wealth
+88,1723,2100,1,Bank;Entrepreneur
+89,1723,2100,1,Debt;Entrepreneur
+90,1724,2100,1,Financial capital;Entrepreneur
+91,1738,2100,1,Game theory;Expected utility hypothesis
+92,1750,2100,1,Purchasing power parity;Industrialisation
+93,1767,2100,1,Supply and demand;Minimum wage
+94,1767,2100,1,Supply and demand;Islamic economic jurisprudence
+95,1768,2100,1,Supply and demand;Economic graph
+96,1776,2100,1,Mercantilism;Classical economics
+97,1776,2021,1,Free trade;Classical economics
+98,1776,1940,1,Classical economics;Invisible hand
+99,1776,2017,1,Classical economics;Unemployment
+100,1789,2100,1,Debt;United States public debt
+101,1794,2100,1,Money;Decentralization
+102,1800,2100,1,Consumption (economics);Homo economicus
+103,1800,2100,1,Austrian School;Marginalism
+104,1800,2021,1,Austrian School;Unemployment
+105,1800,2100,1,Subjective theory of value;Value (economics)
+106,1800,2100,1,Subjective theory of value;Expected utility hypothesis
+107,1800,2100,1,Mercantilism;Economic policy
+108,1800,2100,1,Perfect competition;Supply and demand
+109,1800,1971,1,Monetary policy;Economic policy
+110,1800,2100,1,Bretton Woods System;Reserve currency
+111,1800,2100,1,Bretton Woods System;Tariff
+112,1800,2100,1,Bretton Woods System;Gold standard
+113,1800,2100,1,Business cycle;Value (economics)
+114,1800,2100,1,Industrial Revolution;History of economic thought
+115,1800,2021,1,Supply and demand;Labor theory of value
+116,1800,1993,1,Classical economics;Classical general equilibrium model
+117,1800,2100,1,Unemployment;List of recessions in the United States
+118,1801,2100,1,Central bank;Monetary reform
+119,1801,2100,1,Competition;Monopoly profit
+120,1801,2100,1,Trade;Depression (economics)
+121,1801,2100,1,Austrian School;Imputation (economics)
+122,1801,2100,1,Austrian School;Monetary reform
+123,1801,2100,1,Bretton Woods System;Depression (economics)
+124,1801,2100,1,Gold standard;Monetary reform
+125,1801,2021,1,Depression (economics);Business cycle
+126,1801,2021,1,Depression (economics);Unemployment
+127,1801,2100,1,Imputation (economics);Labor theory of value
+128,1817,2100,1,Trade;Comparative advantage
+129,1817,2015,1,Free trade;Comparative advantage
+130,1817,2100,1,Comparative advantage;Marginal cost
+131,1833,2100,1,Game theory;Tragedy of the commons
+132,1833,2100,1,Sustainable development;Tragedy of the commons
+133,1839,2100,1,Utility;Intertemporal equilibrium
+134,1839,2100,1,Nash equilibrium;Intertemporal equilibrium
+135,1839,2100,1,Nash equilibrium;Trust (social sciences)
+136,1865,1933,1,Supply and demand;Energy economics
+137,1869,2100,1,Economic growth;Industrialisation
+138,1869,2100,1,Economic growth;Capitalism
+139,1870,2019,1,Dynamic stochastic general equilibrium;Economic growth
+140,1870,1934,1,Dynamic stochastic general equilibrium;Economic policy
+141,1870,1994,1,Game theory;General equilibrium
+142,1870,2021,1,Heterodox economics;Austrian School
+143,1870,2100,1,Heterodox economics;Ecological economics
+144,1870,1993,1,Heterodox economics;Labor theory of value
+145,1870,1971,1,Monetary policy;Comparative statics
+146,1870,2100,1,Standard of living;Minimum wage
+147,1870,2100,1,Endogenous growth theory;Human capital
+148,1870,2100,1,General equilibrium;Marginal rate of substitution
+149,1870,2100,1,General equilibrium;Intertemporal equilibrium
+150,1871,2021,1,Central bank;Money supply
+151,1871,2100,1,Money supply;Heterodox economics
+152,1871,2100,1,Money supply;Business cycle
+153,1872,2100,1,Currency;Hyperinflation
+154,1890,2100,1,Tariff;Georgism
+155,1890,2100,1,Land (economics);Georgism
+156,1890,2100,1,Georgism;Income tax
+157,1890,2100,1,Georgism;Sales tax
+158,1894,2100,1,Value (economics);Opportunity cost
+159,1894,2100,1,Comparative advantage;Opportunity cost
+160,1895,2100,1,Game theory;Nobel Memorial Prize in Economic Sciences
+161,1895,2100,1,Competition;Profit (economics)
+162,1895,2100,1,Austrian School;Nobel Memorial Prize in Economic Sciences
+163,1895,2100,1,Output (economics);Division of labor
+164,1895,2100,1,Industrialisation;Division of labor
+165,1895,2100,1,Capitalism;Profit (economics)
+166,1895,2100,1,Capitalism;Division of labor
+167,1895,2100,1,Classical economics;Division of labor
+168,1900,2100,1,Economic development;Economic growth
+169,1900,2100,1,Economic development;Social welfare provision
+170,1900,2100,1,Mercantilism;Informal sector
+171,1900,2100,1,Behavioral economics;Homo economicus
+172,1900,2100,1,Behavioral economics;Institutional economics
+173,1900,2100,1,Neoliberalism;Capitalism
+174,1900,2100,1,Neoliberalism;Political economy
+175,1900,2100,1,Neoliberalism;Import substitution industrialization
+176,1900,2100,1,Neoliberalism;Living wage
+177,1900,2021,1,Capitalism;Institutional economics
+178,1900,2100,1,Globalization;Informal sector
+179,1900,2100,1,Human capital;Human resources
+180,1901,2100,1,Principal–agent problem;Informal sector
+181,1905,2100,1,Debt;Lorenz curve
+182,1910,2100,1,Econometrics;Energy economics
+183,1911,2100,1,Econometrics;Ordinary least squares
+184,1914,2100,1,Gross domestic product;Economic indicator
+185,1914,2100,1,Consumer price index;Economic indicator
+186,1914,2100,1,Utility;Subgame perfect equilibrium
+187,1914,2100,1,Unemployment;Economic indicator
+188,1918,2100,1,Bankruptcy;Social Credit
+189,1918,2100,1,Value (economics);Social Credit
+190,1918,2100,1,Monetary reform;Social Credit
+191,1920,2100,1,Phillips curve;Inflation
+192,1920,2021,1,Economic calculation problem;Capitalism
+193,1920,2014,1,Economic calculation problem;Supply and demand
+194,1921,2015,1,Autarky;Comparative advantage
+195,1925,2100,1,Appropriate technology;Sustainable development
+196,1930,1935,1,Gross domestic product;Spending multiplier
+197,1930,2100,1,Bank;Quantitative easing
+198,1930,2100,1,Money multiplier;Spending multiplier
+199,1933,2100,1,Microeconomics;Behavioral economics
+200,1933,2100,1,Econometrics;Economic history
+201,1933,2100,1,Free trade;Factor price equalization
+202,1933,2100,1,Minimum wage;Monopsony
+203,1934,2100,1,Welfare economics;Microeconomics
+204,1934,2100,1,Welfare economics;Invisible hand
+205,1934,2100,1,Macroeconomics;Living wage
+206,1934,2100,1,Microeconomics;Contract curve
+207,1934,2100,1,Indifference curve;Contract curve
+208,1934,2100,1,Contract curve;Edgeworth box
+209,1934,2100,1,Contract curve;Marginal rate of substitution
+210,1934,2100,1,Price elasticity of demand;Joint product pricing
+211,1935,2100,1,Adaptive expectations;Cobweb model
+212,1935,2019,1,Adaptive expectations;Phillips curve
+213,1935,2100,1,Aggregate demand;Real versus nominal value (economics)
+214,1935,2100,1,Aggregate demand;Investment
+215,1935,2100,1,Aggregate demand;Aggregate supply
+216,1935,2100,1,Production function;Regression analysis
+217,1936,2100,1,Econometrics;Financial econometrics
+218,1937,2100,1,Game theory;Industrial organization
+219,1937,2100,1,Income;Interest
+220,1937,2100,1,Income;Income tax
+221,1937,2100,1,Income;Gini coefficient
+222,1937,2100,1,Income;Social welfare provision
+223,1938,2100,1,Economies of scale;Natural monopoly
+224,1938,2100,1,Ecological economics;Environmental economics
+225,1938,2100,1,Natural capital;Safe trade
+226,1939,2021,1,Marxian economics;Capitalism
+227,1939,2100,1,Marxian economics;Political economy
+228,1939,2100,1,Marxian economics;Surplus value
+229,1940,2100,1,Appropriate technology;Capital (economics)
+230,1940,2100,1,Capital (economics);Globalization
+231,1940,2100,1,Capital (economics);Natural capital
+232,1940,2100,1,Dynamic programming;Backward induction
+233,1941,2100,1,Tax;Investment specific technological progress
+234,1941,2100,1,Capital (economics);International trade
+235,1941,2100,1,Capital (economics);Investment specific technological progress
+236,1941,2021,1,Economic calculation problem;Factors of production
+237,1941,2100,1,International trade;Economic geography
+238,1941,1956,1,Factors of production;Human capital
+239,1942,2100,1,Gross domestic product;Transfer payment
+240,1942,2100,1,Trade;Transfer payment
+241,1942,2100,1,International trade;List of economic reports by U.S. government agencies
+242,1942,2015,1,Tariff;Import
+243,1942,2100,1,Tariff;International economics
+244,1942,2100,1,Supply and demand;International economics
+245,1943,2100,1,Welfare economics;Big Push Model
+246,1943,2100,1,Macroeconomics;Big Push Model
+247,1943,2100,1,Decentralization;Big Push Model
+248,1943,2100,1,Autarky;Big Push Model
+249,1943,2100,1,Big Push Model;Economies of scale
+250,1943,2100,1,Big Push Model;Complementary good
+251,1943,2100,1,Big Push Model;Externality
+252,1943,2100,1,Big Push Model;Perfect competition
+253,1943,2100,1,Big Push Model;Virtuous circle and vicious circle
+254,1945,2100,1,Capital (economics);Gross private domestic investment
+255,1945,2100,1,Sales tax;Hauser's Law
+256,1945,2100,1,Hauser's Law;Laffer curve
+257,1945,2100,1,Laffer curve;Supply-side economics
+258,1946,2100,1,Tax;Underground economy
+259,1946,2100,1,Euro;Underground economy
+260,1946,2100,1,Socialist economics;Underground economy
+261,1946,2100,1,Rent control;Underground economy
+262,1948,2100,1,Unemployment;Okun's law
+263,1950,2014,1,Transaction cost;Trade
+264,1951,1994,1,Agent-based computational economics;Game theory
+265,1951,2002,1,Agent-based computational economics;Welfare economics
+266,1951,2019,1,Agent-based computational economics;Macroeconomics
+267,1956,2100,1,Consumption (economics);Exogenous growth model
+268,1956,2100,1,Investment;Exogenous growth model
+269,1956,2100,1,Microeconomics;Exogenous growth model
+270,1956,2100,1,Free trade;Exogenous growth model
+271,1956,2100,1,Depreciation (economics);Exogenous growth model
+272,1958,2100,1,Market failure;Heterodox economics
+273,1958,1993,1,Market failure;Microeconomics
+274,1958,2100,1,Market failure;Natural monopoly
+275,1958,2100,1,Cost;Cost–benefit analysis
+276,1959,2100,1,Supply and demand;Transport economics
+277,1960,2100,1,Pareto efficiency;Coase theorem
+278,1960,2100,1,Law and economics;Coase theorem
+279,1960,2100,1,Human capital;Instructional capital
+280,1960,2100,1,Elasticity (economics);Price elasticity of demand
+281,1960,2100,1,Elasticity (economics);Elasticity of substitution
+282,1961,2100,1,Community-based economics;Local purchasing
+283,1961,2100,1,Community-based economics;Local currency
+284,1967,2100,1,Tax;Comprehensive Income Policy Agreement
+285,1967,2100,1,Comprehensive Income Policy Agreement;Globalization
+286,1970,2013,1,Pareto efficiency;Chicago School of Economics
+287,1970,2100,1,Inflation;Cost-push inflation
+288,1970,1993,1,Chicago School of Economics;Law and economics
+289,1970,2100,1,Chicago School of Economics;Economic history
+290,1970,2100,1,Chicago School of Economics;Homo economicus
+291,1970,2100,1,Chicago School of Economics;History of economic thought
+292,1970,1993,1,General equilibrium;Keynesian economics
+293,1970,1993,1,Keynesian economics;Exogenous growth model
+294,1970,2100,1,Keynesian economics;Rent control
+295,1970,2100,1,Lucas critique;Representative agent
+296,1971,2100,1,Laissez-faire;Fiscal policy
+297,1971,2100,1,Fiscal policy;United States public debt
+298,1972,2100,1,Market failure;Pigovian tax
+299,1972,2100,1,Externality;Pigovian tax
+300,1975,2100,1,General equilibrium;Nairu
+301,1975,2100,1,Minimum wage;Nairu
+302,1979,2100,1,Expected utility hypothesis;Prospect theory
+303,1980,2100,1,Human development theory;Poverty
+304,1980,2100,1,Human development theory;Islamic economic jurisprudence
+305,1980,2100,1,Living wage;Reaganomics
+306,1980,2100,1,Reaganomics;Supply-side economics
+307,1981,2100,1,Economic growth;Uneconomic growth
+308,1981,2100,1,Ecological economics;Uneconomic growth
+309,1985,2100,1,Monetary policy;Menu cost
+310,1985,2100,1,Supply and demand;Menu cost
+311,1986,2100,1,Purchasing power parity;Big Mac Index
+312,1987,2100,1,Ecological economics;Nanoeconomics
+313,1990,2100,1,Social capital;Jane Jacobs
+314,1990,2100,1,Social capital;Trust (social sciences)
+315,1991,2100,1,Economies of scale;List of community topics
+316,1991,2100,1,Value (economics);List of community topics
+317,1991,2100,1,Cooperative;List of community topics
+318,1991,2100,1,Social capital;List of community topics
+319,1991,2100,1,Tragedy of the commons;List of community topics
+320,1992,2021,1,Economic calculation problem;Rational choice theory
+321,1992,2100,1,Human capital;Rational choice theory
+322,1993,1994,1,Rational expectations;Game theory
+323,1993,2019,1,Rational expectations;Chicago School of Economics
+324,1993,2100,1,Zero-sum;Comparative advantage
+325,1993,2100,1,Zero-sum;Utility
+326,1993,2100,1,Zero-sum;Rational choice theory
+327,1993,2100,1,Zero-sum;Marginal utility
+328,1993,2100,1,Purchasing power parity;Neoclassical economics
+329,1993,2100,1,Bretton Woods System;Neoclassical economics
+330,1993,2100,1,Capital intensity;Isoquant
+331,1993,2100,1,Isoquant;Indifference curve
+332,1993,2100,1,Isoquant;Rational choice theory
+333,1993,2100,1,Isoquant;Elasticity of substitution
+334,1994,2100,1,Computational economics;Econometrics
+335,1994,2100,1,Market failure;New Keynesian economics
+336,1994,2100,1,Coase theorem;Social cost
+337,1994,2100,1,Social cost;Marginal cost
+338,1994,2100,1,Social cost;Pigovian tax
+339,1995,2100,1,Behavioral economics;Experimental economics
+340,1995,2100,1,Social cost;Total cost of ownership
+341,1995,2100,1,Regression analysis;Managerial economics
+342,1995,2100,1,Operations research;Managerial economics
+343,1995,2100,1,Kaldor-hicks efficiency;Managerial economics
+344,1996,2100,1,Expected utility hypothesis;Neuroeconomics
+345,1996,2100,1,Nanoeconomics;Neuroeconomics
+346,1998,2100,1,Risk-free bond;Risk-free interest rate
+347,2000,2100,1,Efficient-market hypothesis;Financial economics
+348,2001,2100,1,Information asymmetry;Big Push Model
+349,2001,2100,1,Market anomaly;Efficient-market hypothesis
+350,2001,2100,1,Efficient-market hypothesis;Transparency (market)
+351,2002,2100,1,Information economics;Experimental economics
+352,2004,2100,1,Distribution (economics);National Income and Product Accounts
+353,2004,2100,1,National Income and Product Accounts;Gross value added
+354,2005,2100,1,Factors of production;Income inequality metrics
+355,2005,2100,1,Value (economics);Production theory basics
+356,2005,2100,1,Industrial Revolution;Production theory basics
+357,2005,2100,1,Income;Income inequality metrics
+358,2005,2100,1,Distribution of wealth;Elasticity (economics)
+359,2005,2100,1,Distribution of wealth;Fair trade
+360,2005,2100,1,Economic policy;Income inequality metrics
+361,2005,2100,1,Value added;Surplus value
+362,2005,2100,1,Money creation;Price control
+363,2005,2100,1,Investment specific technological progress;Production theory basics
+364,2005,2100,1,Production theory basics;Surplus value
+365,2005,2100,1,Production theory basics;Productivism
+366,2007,2100,1,Competition;Deflation
+367,2007,2100,1,Deflation;Recession
+368,2008,2100,1,Social cost;Friedman rule
+369,2012,2100,1,Public good;Free-rider problem
+370,2012,2100,1,Public good;Natural monopoly
+371,2013,2100,1,Game theory;Public choice theory
+372,2013,2100,1,Investment;Market economy
+373,2013,2100,1,Market failure;Market economy
+374,2013,2100,1,Factors of production;Market economy
+375,2013,2018,1,Bretton Woods System;Market economy
+376,2013,2021,1,Market economy;Supply and demand
+377,2013,2018,1,Market economy;Classical economics
+378,2013,2100,1,Market economy;Public good
+379,2013,2100,1,Market economy;Industrial policy
+380,2013,2100,1,Market economy;Price control
+381,2013,2100,1,Public choice theory;Political economy
+382,2013,2100,1,Public choice theory;Public good
+383,2013,2100,1,Homo economicus;Efficiency wages
+384,2013,2100,1,Opportunity cost;Efficiency wages
+385,2013,2100,1,Minimum wage;Efficiency wages
+386,2013,2100,1,Efficiency wages;Public good
+387,2013,2100,1,Efficiency wages;Elasticity (economics)
+388,2014,2020,1,Market (economics);Market failure
+389,2014,2100,1,Market (economics);Balance of payments
+390,2014,2100,1,Market (economics);Underground economy
+391,2014,2100,1,Cash crop;Supply and demand
+392,2014,2100,1,Cash crop;Underground economy
+393,2015,2100,1,Finance;Market (economics)
+394,2015,2100,1,Finance;Invisible hand
+395,2015,2100,1,Finance;Energy economics
+396,2015,2100,1,Welfare economics;Contestable market
+397,2015,2021,1,Market (economics);Labour economics
+398,2015,2100,1,Commodity;Cash crop
+399,2015,2100,1,Commodity;Electricity market
+400,2015,2100,1,Purchasing power parity;List of international trade topics
+401,2015,2100,1,List of international trade topics;Cash crop
+402,2015,2100,1,List of international trade topics;Fair trade
+403,2015,2100,1,List of international trade topics;Gresham's law
+404,2015,2100,1,List of international trade topics;Trade facilitation
+405,2015,2100,1,Chicago School of Economics;Labour economics
+406,2015,2100,1,Labour economics;Informal sector
+407,2016,2100,1,Finance;Fisher equation
+408,2016,2100,1,Finance;Sunk costs
+409,2016,2100,1,Finance;List of scholarly journals in economics
+410,2016,2100,1,Competition;Market concentration
+411,2016,2100,1,Arbitrage;Currency
+412,2016,2100,1,Commodity;Cartel
+413,2016,2100,1,Commodity;Store of value
+414,2016,2100,1,Microeconomics;Scarcity
+415,2016,2100,1,Microeconomics;Missing market
+416,2016,2100,1,Financial capital;Store of value
+417,2016,2100,1,Behavioral economics;Sunk costs
+418,2016,2100,1,Oligopoly;Cartel
+419,2016,2100,1,List of international trade topics;List of business law topics
+420,2016,2100,1,Wealth;Store of value
+421,2016,2100,1,Competition law;List of business law topics
+422,2016,2100,1,Supply and demand;Real estate economics
+423,2016,2100,1,Income;Yield (finance)
+424,2016,2017,1,Chicago School of Economics;Monetarism
+425,2016,2100,1,Monetarism;Measures of national income and output
+426,2016,2100,1,Law and economics;List of business law topics
+427,2016,2100,1,Consumer;Social Credit
+428,2016,2100,1,Urban economics;Real estate economics
+429,2016,2100,1,Cooperative;List of business law topics
+430,2016,2100,1,Scarcity;Social Credit
+431,2016,2100,1,Quantitative easing;Yield (finance)
+432,2016,2100,1,Sales tax;List of business law topics
+433,2016,2100,1,List of accounting topics;List of business law topics
+434,2017,2100,1,Competition;Evolutionary economics
+435,2017,2100,1,Good (economics);Supply and demand
+436,2017,2100,1,Good (economics);Free good
+437,2017,2100,1,Good (economics);Underground economy
+438,2017,2100,1,Microeconomics;Utility maximization problem
+439,2017,2100,1,Econometrics;Endogeneity (economics)
+440,2017,2100,1,Economic system;Bretton Woods System
+441,2017,2100,1,Economic system;Catch-up effect
+442,2017,2100,1,Economic system;Consumer
+443,2017,2100,1,Economic system;Coase theorem
+444,2017,2100,1,Economic system;Property rights (economics)
+445,2017,2100,1,Economic system;List of recessions in the United States
+446,2017,2100,1,Perfect competition;Economic rent
+447,2017,2100,1,Virtuous circle and vicious circle;Endogeneity (economics)
+448,2017,2100,1,Monetary policy;Real business-cycle theory
+449,2017,2100,1,Value (economics);Hedonic regression
+450,2017,2100,1,Homo economicus;Utility maximization problem
+451,2017,2100,1,Quantity theory of money;Social Credit
+452,2017,2100,1,Consumer;Utility maximization problem
+453,2017,2100,1,Consumer;Endogeneity (economics)
+454,2017,2100,1,Consumer price index;Hedonic regression
+455,2017,2018,1,Utility;Utility maximization problem
+456,2017,2100,1,Economic problem;Scarcity
+457,2017,2100,1,Scarcity;Evolutionary economics
+458,2017,2100,1,Endogeneity (economics);Preference
+459,2017,2100,1,Regression analysis;Hedonic regression
+460,2017,2100,1,Gross national product;Underground economy
+461,2017,2100,1,Hedonic regression;Real estate economics
+462,2018,2100,1,Investment;Production-possibility frontier
+463,2018,2100,1,Capital (economics);Investment (macroeconomics)
+464,2018,2100,1,Good (economics);Monopoly
+465,2018,2100,1,Economic system;Bioeconomics (biophysical)
+466,2018,2100,1,Economic system;Entrepreneurial economics
+467,2018,2100,1,Financial capital;Means of production
+468,2018,2100,1,Bank;Saving
+469,2018,2100,1,Deflation;Monopoly
+470,2018,2100,1,Network effect;Value (economics)
+471,2018,2100,1,Network effect;Transport economics
+472,2018,2100,1,Factors of production;Entrepreneurial economics
+473,2018,2100,1,Ecological economics;Regenerative economic theory
+474,2018,2100,1,Gold standard;Price specie flow mechanism
+475,2018,2020,1,Monopoly;Marginal cost
+476,2018,2100,1,Monopoly;Government-granted monopoly
+477,2018,2019,1,Monopoly;Monopsony
+478,2018,2100,1,Monopoly;Islamic economic jurisprudence
+479,2018,2100,1,Income;Saving
+480,2018,2100,1,Income;Luxury goods
+481,2018,2100,1,Fiscal policy;Trade pact
+482,2018,2100,1,Fiscal policy;Investment (macroeconomics)
+483,2018,2100,1,Consumer sovereignty;Consumer theory
+484,2018,2100,1,Consumer theory;Substitution effect
+485,2018,2100,1,Consumer theory;Inferior good
+486,2018,2100,1,Consumer theory;Consumerism
+487,2018,2100,1,Edgeworth box;Production-possibility frontier
+488,2018,2100,1,Marginal rate of substitution;Production-possibility frontier
+489,2018,2100,1,National Income and Product Accounts;Saving
+490,2018,2100,1,Human capital;Investment (macroeconomics)
+491,2018,2100,1,Entrepreneurial economics;Entrepreneurship
+492,2018,2100,1,Fisher separation theorem;Production-possibility frontier
+493,2018,2100,1,Price discrimination;Tying (commerce)
+494,2018,2100,1,Public bad;Seven generation sustainability
+495,2019,2100,1,Market (economics);Coase conjecture
+496,2019,2100,1,Pareto efficiency;X-efficiency
+497,2019,2100,1,Economic growth;Infrastructural capital
+498,2019,2100,1,Network effect;Economies of agglomeration
+499,2019,2100,1,Network effect;Infrastructural capital
+500,2019,2100,1,Substitute good;General equilibrium
+501,2019,2020,1,Substitute good;Consumer theory
+502,2019,2100,1,Perfect competition;Limit price
+503,2019,2100,1,Means of production;Infrastructural capital
+504,2019,2100,1,Profit (economics);List of management topics
+505,2019,2100,1,Monopoly;Cournot competition
+506,2019,2100,1,Monopoly;X-efficiency
+507,2019,2021,1,Monopoly;Geographical pricing
+508,2019,2100,1,Supply and demand;Cournot competition
+509,2019,2100,1,Cost;Economies of agglomeration
+510,2019,2100,1,Chicago School of Economics;Imperfect competition
+511,2019,2100,1,Coase conjecture;Consumer
+512,2019,2100,1,Collusion;Cournot competition
+513,2019,2100,1,Urban economics;Economies of agglomeration
+514,2019,2100,1,Consumer theory;Social welfare function
+515,2019,2100,1,Inferior good;Income elasticity of demand (YED)
+516,2019,2100,1,Cost curve;Cournot competition
+517,2019,2100,1,Cost curve;Infrastructural capital
+518,2019,2100,1,Duopoly;Cournot competition
+519,2019,2100,1,Market power;Tying (commerce)
+520,2019,2100,1,Deadweight loss;Minimum wage
+521,2019,2100,1,Deadweight loss;Georgism
+522,2019,2100,1,Division of labor;Economies of agglomeration
+523,2019,2100,1,Nash equilibrium;Model (macroeconomics)
+524,2019,2100,1,Price elasticity of demand;Income elasticity of demand (YED)
+525,2019,2100,1,Operations research;List of production topics
+526,2019,2100,1,Human resources;List of management topics
+527,2019,2100,1,Entrepreneurship;List of management topics
+528,2019,2100,1,Income elasticity of demand (YED);Value of life
+529,2019,2100,1,Value of life;Infrastructural capital
+530,2019,2100,1,Infrastructural capital;Instructional capital
+531,2019,2100,1,Job hunting;Search theory
+532,2019,2020,1,Price discrimination;Two-part tariff
+533,2019,2100,1,Model (macroeconomics);Social welfare function
+534,2019,2100,1,Workers' self-management;List of management topics
+535,2019,2100,1,List of accounting topics;List of management topics
+536,2020,2100,1,Market structure;Market failure
+537,2020,2100,1,Market structure;Oligopoly
+538,2020,2100,1,Market structure;X-efficiency
+539,2020,2100,1,Market structure;Herfindahl index
+540,2020,2100,1,Tax;Real estate investor
+541,2020,2100,1,Market (economics);Real estate investor
+542,2020,2100,1,Financial instrument;Depreciation (currency)
+543,2020,2100,1,Financial instrument;Environmental finance
+544,2020,2100,1,Heterodox economics;Jel classification codes
+545,2020,2100,1,Methodological individualism;Rational choice theory
+546,2020,2100,1,Methodological individualism;Social welfare function
+547,2020,2100,1,Ceteris paribus;Supply and demand
+548,2020,2100,1,Ceteris paribus;Cross elasticity of demand
+549,2020,2100,1,Bank;Real estate investor
+550,2020,2100,1,Deflation;Real estate investor
+551,2020,2100,1,Substitute good;Real estate investor
+552,2020,2100,1,Economic surplus;Nanoeconomics
+553,2020,2100,1,Virtuous circle and vicious circle;Economic equilibrium
+554,2020,2100,1,Bioeconomics (biophysical);Productivity
+555,2020,2100,1,Productivity;Catch-up effect
+556,2020,2100,1,Productivity;Intertemporal equilibrium
+557,2020,2100,1,Productivity;Efficiency wages
+558,2020,2100,1,Productivity;Production theory basics
+559,2020,2100,1,Balance of trade;Depreciation (currency)
+560,2020,2100,1,Balance of trade;Price specie flow mechanism
+561,2020,2100,1,Balance of trade;Social Credit
+562,2020,2100,1,Balance of trade;United States public debt
+563,2020,2100,1,Laissez-faire;Subsidy
+564,2020,2100,1,Imperfect competition;Economic equilibrium
+565,2020,2100,1,Public choice theory;Jel classification codes
+566,2020,2100,1,Public choice theory;Subsidy
+567,2020,2100,1,Economic equilibrium;Pigovian tax
+568,2020,2100,1,Comprehensive Income Policy Agreement;Employment
+569,2020,2100,1,Employment;Human resources
+570,2020,2100,1,Employment;Job hunting
+571,2020,2100,1,Employment;Model (macroeconomics)
+572,2020,2100,1,Employment;List of business law topics
+573,2020,2100,1,Forecasting;Regression analysis
+574,2020,2100,1,Forecasting;Model (macroeconomics)
+575,2020,2100,1,Consumer surplus;Elasticity (economics)
+576,2020,2100,1,Consumer surplus;Two-part tariff
+577,2020,2100,1,Entrepreneur;Overhead (business)
+578,2020,2100,1,Jel classification codes;Mathematical economics
+579,2020,2100,1,Jel classification codes;International economics
+580,2020,2100,1,Subsidy;Pigovian tax
+581,2020,2100,1,Subsidy;Transfer payment
+582,2020,2100,1,Quality of life;Happiness economics
+583,2020,2100,1,Quality of life;Infrastructural capital
+584,2020,2100,1,Quality of life;Uneconomic growth
+585,2020,2100,1,Herfindahl index;Concentration ratio
+586,2020,2100,1,Wage;Price control
+587,2020,2100,1,Wage;Social Credit
+588,2020,2100,1,List of topics in industrial organization;Transfer pricing
+589,2020,2100,1,Agricultural policy;Tax, tariff and trade
+590,2020,2100,1,Luxury goods;Veblen good
+591,2020,2100,1,Tying (commerce);Product bundling
+592,2021,2100,1,Investment;Keynesian formula
+593,2021,2100,1,Tax;Keynesian formula
+594,2021,2100,1,Purchasing power parity;Interest rate parity
+595,2021,2100,1,Substitute good;Interest rate parity
+596,2021,2100,1,Economic surplus;Keynesian formula
+597,2021,2100,1,Economic surplus;Perspectives on Capitalism
+598,2021,2100,1,Recession;Keynesian formula
+599,2021,2100,1,Value (economics);List of marketing topics
+600,2021,2100,1,Charity shop;List of marketing topics
+601,2021,2100,1,Consumer;List of marketing topics
+602,2021,2100,1,Economic equilibrium;Interest rate parity
+603,2021,2100,1,Utility;List of marketing topics
+604,2021,2100,1,Consumerism;List of marketing topics
+605,2021,2100,1,Ethical consumerism;List of marketing topics
+606,2021,2100,1,Profit maximization;List of marketing topics
+607,2021,2100,1,Forecasting;List of marketing topics
+608,2021,2100,1,National Income and Product Accounts;Keynesian formula
+609,2021,2100,1,Price elasticity of demand;List of marketing topics
+610,2021,2100,1,Entrepreneurship;Perspectives on Capitalism
+611,2021,2100,1,Income tax;Perspectives on Capitalism
+612,2021,2100,1,Price discrimination;List of marketing topics
+613,2022,2100,1,Balance of payments;International finance
+614,2022,2100,1,Purchasing power parity;International finance
+615,1935,2100,2,Aggregate demand;Monetary policy;Unemployment
+616,1943,2100,2,Big Push Model;Factors of production;Output (economics)
+617,1971,2100,2,Business cycle;Fiscal policy;Keynesian economics
+618,1971,2100,2,Business cycle;Fiscal policy;Tax, tariff and trade
+619,1993,2100,2,Production function;Neoclassical economics;Exogenous growth model
+620,2018,2100,2,Aggregate demand;Fiscal policy;Saving
+621,2018,2100,2,Gross domestic product;Inflation;Demand-pull inflation
+622,2019,2100,2,Monetary policy;Comparative statics;Model (macroeconomics)
+623,2019,2100,2,Neoclassical economics;Keynesian economics;Model (macroeconomics)
+624,2020,2100,2,Monopoly;Monopsony;List of topics in industrial organization
+625,2020,2100,2,Opportunity cost;Economic rent;List of topics in industrial organization
+626,2021,2100,2,Neoclassical economics;Classical economics;Perspectives on Capitalism
+627,2021,2100,2,Neoclassical economics;Rational choice theory;Perspectives on Capitalism
+628,2021,2100,2,Neoclassical economics;Keynesian economics;Perspectives on Capitalism
+629,2021,2100,2,Recession;Unemployment;Perspectives on Capitalism
+630,2021,2100,2,Means of production;Socialist economics;Perspectives on Capitalism
+631,2021,2100,2,Herfindahl index;Market share;List of marketing topics

@@ -1,0 +1,54 @@
+i,birth,death,dim,nodes
+0,-2600,2100,0,Writing systems
+1,-1900,-500,0,Language
+2,-522,-500,0,Etymology
+3,1798,1962,0,Autism
+4,1940,1956,0,Neural network
+5,-500,-300,1,Phonetics;Linguistic layers
+6,-500,1700,1,Etymology;Linguistic layers
+7,-499,2100,1,Anthropological linguistics;Linguistic layers
+8,-498,2100,1,Linguistic layers;Stratificational linguistics
+9,-400,2100,1,Philosophy of mind;Philosophy of language
+10,400,2100,1,Corpus linguistics;Linguistic layers
+11,1632,1960,1,Semiotics;Linguistic layers
+12,1700,1930,1,Neuroscience;Philosophy of mind
+13,1700,2100,1,Cybernetics;Cognitive psychology
+14,1700,1950,1,Historical-comparative linguistics;Language families and languages
+15,1736,1956,1,Cognition;Computer science
+16,1736,1957,1,Computer science;Interdisciplinary
+17,1800,1930,1,Neuroscience;Neurolinguistics
+18,1800,1970,1,Perception;Cognitive psychology
+19,1800,2100,1,Perception;Historical-comparative linguistics
+20,1800,2100,1,Linguistics basic topics;Orthography
+21,1800,2100,1,Orthography;List of linguistic topics
+22,1900,2100,1,Psychology;Structuralism
+23,1900,2100,1,Cognitive psychology;Cognitive behaviour therapy
+24,1912,2100,1,Alan Turing;Cryptanalysis
+25,1949,1956,1,Computer science;Herbert A. Simon
+26,1949,2100,1,Cognitive psychology;Herbert A. Simon
+27,1951,2018,1,Alan Turing;Noam Chomsky
+28,1959,2100,1,Language acquisition;Creole language
+29,1959,2100,1,Machine learning;Constructed language
+30,1961,2100,1,Psychology;Transformational-generative grammar
+31,1961,1962,1,Computer science;Formal language
+32,1962,2100,1,Speech therapy;Speech processing
+33,1964,2100,1,Semantics;Natural language understanding
+34,1964,2100,1,Natural language understanding;Speech recognition
+35,1981,2100,1,Conceptual metaphor;Moral Politics
+36,1986,2100,1,Robotics;Artificial life
+37,2020,2100,1,Anthropology;Structuralism
+38,2020,2100,1,Epistemology;Lexicology
+39,2020,2100,1,Epistemology;Philosophy of language
+40,2020,2100,1,Prescription and description;List of linguistic topics
+41,1800,2100,2,Constructed language;Language families and languages;Linguistics basic topics
+42,1800,2100,2,Constructed language;Language families and languages;List of linguistic topics
+43,1900,2100,2,Theoretical linguistics;Phonetics;Linguistic layers
+44,1951,2100,2,Comparative linguistics;Philology;Etymology
+45,1951,2100,2,Comparative linguistics;Philology;Linguistic layers
+46,1957,2100,2,Philosophy;Interdisciplinary;Computational linguistics
+47,1960,2100,2,Computational linguistics;Linguistic layers;Speech recognition
+48,1961,2100,2,Pragmatics;Sociolinguistics;Linguistic layers
+49,1970,2100,2,Cognitive neuroscience;Cognitive psychology;Embodied philosophy
+50,2019,2100,2,Philosophy;Interdisciplinary;Cognitive Science Society
+51,2020,2100,2,Anthropology;Interdisciplinary;Computational linguistics
+52,2020,2100,2,Anthropology;Interdisciplinary;Cognitive Science Society

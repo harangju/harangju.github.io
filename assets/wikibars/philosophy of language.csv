@@ -1,0 +1,115 @@
+i,birth,death,dim,nodes
+0,-400,2100,0,Philosophy of language
+1,-343,-342,0,Aristotle
+2,-300,-298,0,Syntax
+3,500,2100,0,European Summer School in Logic, Language and Information
+4,1200,1848,0,Failure to refer
+5,1632,1634,0,Semiotics
+6,1700,1889,0,Family resemblance
+7,1797,2018,0,César Chesneau Dumarsais
+8,1846,1900,0,F. H. Bradley
+9,1882,1902,0,Otto Neurath
+10,1885,1891,0,Susan Stebbing
+11,1886,2100,0,Franz Rosenzweig
+12,1900,1951,0,Linguistic relativity
+13,1903,1910,0,George Orwell
+14,1907,2018,0,Archie J. Bahm
+15,1926,2018,0,Ingeborg Bachmann
+16,1942,2018,0,Þorsteinn Gylfason
+17,1959,2018,0,S. Morris Engel
+18,1974,1991,0,Journal of Logic, Language and Information
+19,1993,2018,0,Cheung Kam Ching
+20,2009,2018,0,William C. Dowling
+21,2009,2100,0,Theoretical definition
+22,2010,2011,0,Metalanguage
+23,2011,2100,0,Unilalianism
+24,1100,2100,1,Peter Abelard;Aristotle
+25,1632,2100,1,Syntax;Semeiotic
+26,1632,2100,1,Aristotle;Semeiotic
+27,1634,2100,1,Sign (semiotics);Sphota
+28,1635,2100,1,Intension;Sign (semiotics)
+29,1635,2100,1,Cognitive synonymy;Denotation
+30,1900,2100,1,Private language argument;Semeiotic
+31,1900,2100,1,Friedrich Waismann;Ordinary language philosophy
+32,1901,2100,1,Logical atomism;Colloquial language
+33,1901,2100,1,Semiotics;Language-game
+34,1906,1960,1,Rudolf Carnap;Nelson Goodman
+35,1906,2018,1,Stanley Cavell;Nelson Goodman
+36,1907,2100,1,Ordinary language philosophy;Stipulative definition
+37,1909,2100,1,Max Black;Susan Stebbing
+38,1913,2100,1,Paul Grice;Aristotle
+39,1914,2100,1,Syntax;Logical form
+40,1919,2100,1,Direction of fit;G. E. M. Anscombe
+41,1920,2100,1,Logical positivism;Direct reference theory
+42,1940,2100,1,Structuralism;Jacques Bouveresse
+43,1942,2018,1,Aristotle;John McDowell
+44,1946,2100,1,Aristotle;Kit Fine
+45,1951,2100,1,George Orwell;Noam Chomsky
+46,1951,2018,1,J. L. Austin;Noam Chomsky
+47,1951,2100,1,Noam Chomsky;Structuralism
+48,1951,2018,1,Noam Chomsky;Nelson Goodman
+49,1951,2100,1,Noam Chomsky;Universal grammar
+50,1957,2100,1,Intension;Concept
+51,1957,2100,1,Artificial intelligence;Concept
+52,1958,2100,1,P. F. Strawson;Truthbearer
+53,1958,2100,1,Interpretation (logic);Truthbearer
+54,1958,2100,1,Logical form;Truthbearer
+55,1958,2100,1,Concept;Truthbearer
+56,1960,2100,1,Semantics;Denotation
+57,1960,2100,1,Semantics;Semiotics
+58,1960,2100,1,Saul Kripke;Disquotational principle
+59,1961,2100,1,Language of thought;Semantics
+60,1961,2100,1,Language of thought;Artificial intelligence
+61,1961,2100,1,Language of thought;Gilbert Ryle
+62,1961,2100,1,Noam Chomsky;Martian scientist
+63,1962,2100,1,Analytic-synthetic distinction;Robert Stalnaker
+64,1962,2100,1,Analytic-synthetic distinction;Noam Chomsky
+65,1970,2100,1,Aboutness;Language of thought
+66,1970,1971,1,Causal theory of reference;Keith Donnellan
+67,1971,2100,1,Semantics;Donkey pronoun
+68,1971,2100,1,Donkey pronoun;Supposition theory
+69,1971,2100,1,Donkey pronoun;Gareth Evans (philosopher)
+70,1976,2100,1,Ambiguity;Direct reference theory
+71,1976,2100,1,Vagueness;Epistemicism
+72,1976,2100,1,Precising definition;Stipulative definition
+73,1977,2100,1,Ambiguity;Pragmatics
+74,1978,2100,1,Semantic externalism;Symbol grounding
+75,1978,2100,1,Semantics;Symbol grounding
+76,1978,2100,1,Causal theory of reference;Symbol grounding
+77,1978,2100,1,Semeiotic;Social semiotics
+78,2018,2100,1,Andrea Bonomi (philosopher);List of philosophers of language
+79,2018,2100,1,David Efird;List of philosophers of language
+80,2018,2100,1,Henri Bergson;List of philosophers of language
+81,2018,2100,1,John Etchemendy;List of philosophers of language
+82,2018,2100,1,Virgil Aldrich;List of philosophers of language
+83,2018,2100,1,List of philosophers of language;William Alston
+84,2018,2100,1,List of philosophers of language;Walter Benjamin
+85,2018,2100,1,List of philosophers of language;F. H. Bradley
+86,2018,2100,1,List of philosophers of language;William Crathorn
+87,2018,2100,1,List of philosophers of language;Zeno Vendler
+88,2020,2100,1,Reference;Intension
+89,2020,2100,1,Reference;Causal theory of reference
+90,2020,2100,1,Reference;Supposition theory
+91,2020,2100,1,Meaning (linguistics);Semantics
+92,2020,2100,1,Meaning (linguistics);Proposition
+93,2020,2100,1,Meaning (linguistics);Cognitive synonymy
+94,2020,2100,1,Proposition;Ramsey sentence
+95,2020,2100,1,Proposition;Colloquial language
+96,2020,2100,1,Proposition;Family resemblance
+97,2020,2100,1,Definition;Symbol
+98,2020,2100,1,Definition;Genus–differentia definition
+99,2020,2100,1,Definition;Lexical definition
+100,2020,2100,1,Mental representation;Concept
+101,2020,2100,1,Mental representation;Symbol
+102,2020,2100,1,Nominalism;Nino Cocchiarella
+103,2020,2100,1,Extensional definition;Enumerative definition
+104,2020,2100,1,Use–mention distinction;Redundancy theory of truth
+105,2020,2100,1,Use–mention distinction;Truthbearer
+106,1960,2100,2,Semantics;Rudolf Carnap;Verification theory
+107,1962,2100,2,Meaning (philosophy of language);Alfred Jules Ayer;Analytic-synthetic distinction
+108,2018,2100,2,J. L. Austin;P. F. Strawson;List of philosophers of language
+109,2018,2100,2,J. L. Austin;Stanley Cavell;List of philosophers of language
+110,2018,2100,2,Saul Kripke;David Kellogg Lewis;List of philosophers of language
+111,2018,2100,2,P. F. Strawson;David Kellogg Lewis;List of philosophers of language
+112,2018,2100,2,David Kellogg Lewis;Robert Brandom;List of philosophers of language
+113,2018,2100,2,John McDowell;Gareth Evans (philosopher);List of philosophers of language

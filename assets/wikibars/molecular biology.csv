@@ -1,0 +1,399 @@
+i,birth,death,dim,nodes
+0,-1900,2100,0,Cell nucleus
+1,-1900,-1800,0,Diabetes mellitus
+2,-1900,1966,0,Translation
+3,-1900,-1799,0,Down syndrome
+4,-1900,-1700,0,Prostate cancer
+5,-1900,-1800,0,Double helix
+6,-1900,1869,0,Nucleic acid double helix
+7,-1900,1845,0,Monoclonal antibody
+8,-1800,1833,0,Pyrimidine
+9,100,501,0,Adenosine deaminase deficiency
+10,100,1952,0,Yeast artificial chromosome
+11,165,205,0,Gene therapy
+12,180,1838,0,Avidin
+13,300,352,0,Ataxia-telangiectasia
+14,500,501,0,Primary immunodeficiency
+15,700,1869,0,Insertion sequence
+16,1590,1880,0,Pronucleus
+17,1943,1947,0,Fragile X syndrome
+18,1969,1991,0,Alagille syndrome
+19,2020,2100,0,Gre
+20,-1800,2100,1,Animal model;Bacteriophage
+21,-1800,2100,1,Animal model;Parkinson's disease
+22,-1800,2100,1,Bacteriophage;Antibiotic resistance
+23,-1800,2100,1,Heredity;Antibiotic resistance
+24,-1800,2100,1,Heredity;Selection (biology)
+25,-1700,1880,1,Animal model;Cancer
+26,100,1928,1,Cell (biology);Heredity
+27,142,1869,1,Bacteriophage;Bacteria
+28,142,2100,1,Bacteria;Phage
+29,200,2100,1,Phage;Site-specific recombination
+30,220,1869,1,Mutation;Somatic cells
+31,352,751,1,Leukemia;Down syndrome
+32,352,2100,1,Leukemia;Bone marrow transplantation
+33,751,2100,1,Heredity;Congenital
+34,751,2100,1,Bacteria;Congenital
+35,1691,2100,1,Down syndrome;Hirschsprung's disease
+36,1833,1838,1,Enzyme;Antibiotic resistance
+37,1833,1869,1,Enzyme;Phage
+38,1833,1869,1,Enzyme;Double helix
+39,1833,1869,1,Enzyme;Human immunodeficiency virus
+40,1834,1959,1,Enzyme;Sigma factor
+41,1834,1959,1,Bacteria;Sigma factor
+42,1838,2100,1,Protein;Electrophoresis
+43,1838,1869,1,Protein;Gene therapy
+44,1839,1869,1,Binding site;Double helix
+45,1840,2100,1,Enzyme;Chloramphenicol acetyltransferase
+46,1840,2100,1,Bacteria;Chloramphenicol acetyltransferase
+47,1844,1978,1,Guanine;Huntington's disease
+48,1845,2100,1,Antibody;Ataxia-telangiectasia
+49,1846,2100,1,Gene therapy;Sickle-cell disease
+50,1846,2100,1,Cystic fibrosis;Sickle-cell disease
+51,1846,2100,1,Heredity;Sickle-cell disease
+52,1847,2100,1,Bacteria;Immunotherapy
+53,1847,2100,1,Lymphocyte;Immunotherapy
+54,1847,2100,1,Immunotherapy;Monoclonal antibody
+55,1868,1869,1,Purine;Base-pair substitution
+56,1868,2100,1,Neurofibromatosis;Base-pair substitution
+57,1869,1911,1,Dna;Heredity
+58,1869,1966,1,Missense mutation;Base-pair substitution
+59,1870,2100,1,Homology (biology);Gene conversion
+60,1870,1885,1,Antibody;Glycosylation
+61,1870,2100,1,Cloning;Monoclonal antibody
+62,1880,1952,1,Chromosome;Antibiotic resistance
+63,1880,2100,1,Chromosome;Metaphase
+64,1880,1911,1,Chromosome;Selection (biology)
+65,1881,1905,1,Allele;Chromosome
+66,1881,2004,1,Allele;Bone marrow transplantation
+67,1881,1962,1,Chromosome;Genetic marker
+68,1885,2100,1,Uracil;Birth defect
+69,1899,2100,1,Enzyme;S1 nuclease
+70,1903,2100,1,Adenosine deaminase deficiency;Genotype
+71,1904,1911,1,Mutation;Polymorphism (biology)
+72,1905,2100,1,Mendelian inheritance;Lod score
+73,1905,2020,1,Karyotype;Sex chromosome
+74,1905,2100,1,Structural motif;Lod score
+75,1912,2100,1,Autosome;Adenosine deaminase deficiency
+76,1912,2100,1,Autosome;Congenital
+77,1912,2100,1,Adenosine deaminase deficiency;Dominance (genetics)
+78,1930,2100,1,Molecular biology;Monoclonal antibody
+79,1930,2100,1,Syndrome;Ellis-van Creveld syndrome
+80,1931,1952,1,Gene;Reporter gene
+81,1931,1952,1,Bacteria;Reporter gene
+82,1938,2100,1,Dna;Chromosomal translocation
+83,1938,2100,1,Karyotype;Chromosomal translocation
+84,1949,2100,1,Homology (biology);Conservation (genetics)
+85,1949,2100,1,Homology (biology);Highly conserved sequence
+86,1949,2100,1,Conservation (genetics);Gene knockout
+87,1949,2100,1,Gene knockout;Highly conserved sequence
+88,1951,2000,1,Homology (biology);Restriction fragment length polymorphism
+89,1951,2000,1,Polymorphism (biology);Restriction fragment length polymorphism
+90,1952,2100,1,Phenotype;Replica plating
+91,1953,2100,1,Adenovirus;Cystic fibrosis
+92,1960,1962,1,Adenine;Trna
+93,1960,2100,1,Primer extension;Transcription start site
+94,1961,2100,1,Cystic fibrosis;Deoxyribonuclease (DNase)
+95,1962,1978,1,Dna polymerase;Origin of replication
+96,1962,2100,1,Hematopoietic stem cell;Fibroblasts
+97,1962,2100,1,Non-coding DNA;Origin of replication
+98,1963,2100,1,Genetic linkage;Gene mapping
+99,1963,2100,1,Congenital;Gene mapping
+100,1963,2100,1,Origin of replication;Phagemid
+101,1964,2002,1,Nucleotide;Snrna
+102,1965,1978,1,Nucleotide;Consensus sequence
+103,1965,2009,1,Nucleotide;Direct repeat
+104,1965,2100,1,Sequence motif;Restriction endonuclease
+105,1965,2100,1,Sequence motif;Structural motif
+106,1966,2100,1,Adenine;Kozak sequence
+107,1966,2100,1,Adenovirus;Codon usage bias
+108,1966,2100,1,Start codon;Open reading frame
+109,1966,2100,1,Bacteria;Shine-dalgarno sequence
+110,1966,2100,1,Mutation;Shine-dalgarno sequence
+111,1966,2100,1,Consensus sequence;Kozak sequence
+112,1966,2100,1,Upstream and downstream (DNA);Shine-dalgarno sequence
+113,1970,2100,1,Gene;Tumor suppressor
+114,1973,2100,1,Trna;Endonuclease
+115,1974,2100,1,Cystic fibrosis;Dnase
+116,1975,2100,1,Polyclonal antibodies;Hybridoma
+117,1977,2100,1,Dna;Genomic library
+118,1977,2100,1,Denaturation (biochemistry);Hybridization probe
+119,1977,2100,1,Autoradiography;Hybridization probe
+120,1977,2100,1,Dna polymerase;Dideoxyribonucleotide
+121,1977,1981,1,Antibody;Hybridization probe
+122,1977,2100,1,Primer extension;Hybridization probe
+123,1977,2100,1,Phosphodiester bond;Dideoxyribonucleotide
+124,1978,2100,1,Acrylamide gels;Autoradiography
+125,1978,2100,1,Autoradiography;In situ hybridization
+126,1978,2100,1,In situ hybridization;Gene mapping
+127,1978,2100,1,In situ hybridization;Transcription start site
+128,1978,2100,1,In situ hybridization;Riboprobe
+129,1979,2100,1,Autoradiography;Polyacrylamide gel
+130,1979,2100,1,Karyotype;Centromere
+131,1979,1980,1,Human Genome Project;Yeast artificial chromosome
+132,1980,2100,1,Adenovirus;Shuttle vector
+133,1980,2100,1,Plasmid;Shuttle vector
+134,1980,2100,1,Centromere;Shuttle vector
+135,1980,2100,1,Gene mapping;Contig
+136,1980,2100,1,Consensus sequence;Contig
+137,1980,2100,1,Origin of replication;Shuttle vector
+138,1981,2100,1,In situ hybridization;Physical map (genetics)
+139,1981,2100,1,Genetic linkage;Physical map (genetics)
+140,1981,2100,1,Contig;Physical map (genetics)
+141,1982,2000,1,Ribozyme;Snrna
+142,1982,2100,1,Ribozyme;Selection (biology)
+143,1983,2100,1,Severe combined immunodeficiency;Transposon
+144,1983,2100,1,Severe combined immunodeficiency;Transposition (genetics)
+145,1983,2100,1,Gene therapy;Transposition (genetics)
+146,1983,2100,1,Gene duplication;Transposition (genetics)
+147,1983,2100,1,Transposon;Consensus sequence
+148,1983,2100,1,Transposon;Gene conversion
+149,1983,2100,1,Consensus sequence;Transposition (genetics)
+150,1983,2100,1,Gene conversion;Transposition (genetics)
+151,1984,2100,1,Mendelian inheritance;Simple Sequence Repeats
+152,1984,2100,1,Sequence motif;Microsatellite (genetics)
+153,1984,2100,1,Sequence motif;Simple Sequence Repeats
+154,1984,2100,1,Genetic linkage;Microsatellite (genetics)
+155,1984,2100,1,Genetic linkage;Simple Sequence Repeats
+156,1984,2100,1,Microsatellite (genetics);Fragile X syndrome
+157,1984,2100,1,Fragile X syndrome;Simple Sequence Repeats
+158,1990,2100,1,Adenovirus;Apoptosis
+159,1990,2100,1,Apoptosis;Chaperone protein
+160,1990,2020,1,Apoptosis;Transcription start site
+161,1990,2100,1,Homology (biology);Rnai
+162,1990,2100,1,Parkinson's disease;Rnai
+163,1990,2100,1,Rnai;Phosphorylation
+164,1990,2100,1,Rnai;Binding site
+165,1990,2100,1,Rnai;Centromere
+166,1991,2100,1,Apoptosis;Suicide gene
+167,1991,2100,1,Gene therapy;Suicide gene
+168,1991,2100,1,Autosomal dominant;Translation
+169,1991,2100,1,Ataxia-telangiectasia;Recessive
+170,1991,2100,1,Recessive;Translation
+171,1991,2100,1,Lymphocyte;Autoimmune lymphoproliferative syndrome
+172,1991,2100,1,E. coli;Suicide gene
+173,1994,2100,1,Leukemia;Brca2
+174,1994,2100,1,Brca1;Missense mutation
+175,1997,2100,1,Transgene;Human artificial chromosome
+176,1997,2100,1,Frameshift mutation;Reading frame
+177,1998,2100,1,Deletion (genetics);Frameshift mutation
+178,1999,2100,1,Polymorphism (biology);Oligodeoxyribonucleotide
+179,2000,2003,1,Molecular weight size marker;Genetic marker
+180,2000,2002,1,Oligonucleotide;Rna splicing
+181,2000,2100,1,Rna splicing;Point mutation
+182,2000,2001,1,Rna splicing;Post-translational modification
+183,2001,2002,1,Dna polymerase;Cdna library
+184,2001,2100,1,Plasmid;Cdna library
+185,2001,2100,1,Cloning;Cdna library
+186,2001,2010,1,Gene expression;Frameshift mutation
+187,2001,2020,1,Cdna library;Genomic library
+188,2001,2100,1,Cdna library;S1 nuclease
+189,2002,2100,1,Recombinant DNA;Insert (molecular biology)
+190,2002,2100,1,Gene;Inducer
+191,2002,2100,1,Oligonucleotide;Band shift assay
+192,2002,2100,1,Oligonucleotide;Gel shift assay
+193,2002,2100,1,Oligonucleotide;Gene knockdown
+194,2002,2100,1,Diabetes mellitus;Promoter (biology)
+195,2002,2100,1,Haploinsufficiency;Tumor suppressor gene
+196,2002,2100,1,Band shift assay;Primer extension
+197,2002,2100,1,Primer extension;Cdna
+198,2002,2100,1,Primer extension;Gel shift assay
+199,2002,2100,1,Ribonucleic acid;Ligase
+200,2002,2100,1,Gene expression;Insert (molecular biology)
+201,2002,2100,1,Genomic library;Insert (molecular biology)
+202,2002,2100,1,Gene knockdown;Snrna
+203,2003,2100,1,Dna;Nuclease protection assay
+204,2003,2100,1,Leukemia;Precursor mRNA
+205,2003,2100,1,Plasmid;Expression vector
+206,2003,2100,1,Primer extension;Nuclease protection assay
+207,2003,2100,1,Genetic recombination;Heteroduplex DNA
+208,2003,2100,1,Nucleic acid double helix;Heteroduplex DNA
+209,2003,2100,1,Gene knockdown;Lipofectin
+210,2004,2100,1,Expression vector;Multiple cloning site
+211,2008,2100,1,Genome;Palindromic sequence
+212,2008,2100,1,Peptide;Palindromic sequence
+213,2008,2009,1,Stem-loop;Palindromic sequence
+214,2008,2100,1,Palindromic sequence;Leucine zipper
+215,2009,2100,1,Centromere;Inverted repeat
+216,2009,2100,1,Helix-loop-helix;Palindromic sequence
+217,2009,2100,1,Structural motif;Recognition sequence
+218,2020,2100,1,Sds-page;P53
+219,2020,2100,1,Molecular weight size marker;Kilobase
+220,2020,2100,1,Diploid;Somatic cells
+221,2020,2100,1,Locus (genetics);Haploid
+222,2020,2100,1,Nucleotide;Amino acids
+223,2020,2100,1,Junk DNA;Pseudogene
+224,2020,2100,1,Junk DNA;Microsatellite (genetics)
+225,2020,2100,1,Junk DNA;Intergenic
+226,2020,2100,1,Junk DNA;Simple Sequence Repeats
+227,2020,2100,1,Transposon;Dna ligase
+228,2020,2100,1,Anti-sense strand;Sirna
+229,2020,2100,1,Mrna;Coding sequence
+230,2020,2100,1,Mrna;Exonuclease
+231,2020,2100,1,Mrna;Fluorescence in situ hybridization
+232,2020,2100,1,Mrna;Kozak sequence
+233,2020,2100,1,Rnai;Secondary structure
+234,2020,2100,1,Sirna;Antisense
+235,2020,2100,1,Sirna;Antisense strand
+236,2020,2100,1,Sirna;Ribonucleic acid
+237,2020,2100,1,Sirna;Transfection
+238,2020,2100,1,Sirna;Lipofectin
+239,2020,2100,1,Sirna;Non-coding strand
+240,2020,2100,1,Sirna;Transposition (genetics)
+241,2020,2100,1,Epitope;Tertiary structure
+242,2020,2100,1,Human Genome Project;Haploid
+243,2020,2100,1,Primer extension;5' end
+244,2020,2100,1,Haploid;Lod score
+245,2020,2100,1,Haploid;Somatic cells
+246,2020,2100,1,Sticky and blunt ends;Clone (genetics)
+247,2020,2100,1,Clone (genetics);Physical map (genetics)
+248,2020,2100,1,Brca2;Secondary structure
+249,2020,2100,1,Brca2;Side chain
+250,2020,2100,1,Side chain;Leucine zipper
+251,2020,2100,1,Cdna library;Rrna
+252,2020,2100,1,Trna;Tertiary structure
+253,2020,2100,1,Trna;5' end
+254,2020,2100,1,Rrna;Precursor mRNA
+255,2020,2100,1,Dna ligase;Transposition (genetics)
+256,2020,2100,1,Restriction endonuclease;5' end
+257,2020,2100,1,Sticky end;Sub-cloning
+258,2020,2100,1,Coding sequence;Reverse transcription
+259,2020,2100,1,Codon;Multicistronic message
+260,2020,2100,1,Polydactyly;Ellis-van Creveld syndrome
+261,2020,2100,1,Polydactyly;Selection (biology)
+262,2020,2100,1,Exonuclease;Klenow fragment
+263,2020,2100,1,Repetitive DNA;Intergenic
+264,2020,2100,1,Human immunodeficiency virus;Ribonuclease
+265,2020,2100,1,Ribonuclease;Nuclease protection assay
+266,2020,2100,1,Amino acids;Leucine zipper
+267,2020,2100,1,Annealing (biology);Simple Sequence Repeats
+268,2020,2100,1,Transcription start site;Rnase protection assay
+269,2020,2100,1,Transcription start site;Rt-pcr
+270,2020,2100,1,Transgenic;Germ line
+271,2020,2100,1,Transposition (genetics);Hemophilia
+272,1898,2100,2,Glycoprotein;Glycosylation;Golgi apparatus
+273,1898,2100,2,Glycoprotein;Golgi apparatus;Human immunodeficiency virus
+274,1905,2100,2,Homologous recombination;Genetic recombination;Lod score
+275,1907,2100,2,Animal model;Transformation (genetics);Cancer
+276,1908,2100,2,Dna;Transformation (genetics);Transfection
+277,1908,2100,2,Dna;Bacteria;Transfection
+278,1928,2100,2,Dna;Bacteria;Competence (biology)
+279,1930,2100,2,Molecular biology;Animal model;Transformation (genetics)
+280,1950,2100,2,Mutation;Polymorphism (biology);Restriction endonuclease
+281,1952,2001,2,Dna;Bacteria;Multicopy plasmid
+282,1952,2100,2,Dna;Cloning;Multicopy plasmid
+283,1952,2100,2,Bacteria;Antibiotic resistance;Plasmid
+284,1959,2100,2,Enzyme;Transcription start site;Sigma factor
+285,1959,2002,2,Bacteria;Transcription start site;Sigma factor
+286,1960,2002,2,Cytosine;Pyrimidine;Trna
+287,1961,2100,2,Genome;Chromosome;Animal model
+288,1961,2100,2,Genome;Animal model;Bacteriophage
+289,1961,2100,2,Genome;Animal model;Genetic engineering
+290,1961,2100,2,Genome;Antibiotic resistance;Mutation
+291,1961,2100,2,Genome;Mutation;Selection (biology)
+292,1961,2100,2,Enzyme;Glycosylation;Post-translational processing
+293,1962,2100,2,Allele;Chromosome;Locus (genetics)
+294,1963,1991,2,Genotype;Phenotype;Haploinsufficiency
+295,1965,2100,2,Nucleobase;Nucleotide;Complementarity (molecular biology)
+296,1965,2100,2,Start codon;Coding sequence;Stop codon
+297,1965,2100,2,Nucleotide;Dna sequencing;Complementarity (molecular biology)
+298,1965,2100,2,Nucleotide;Complementarity (molecular biology);Nucleic acid double helix
+299,1965,2100,2,Nucleotide;Complementarity (molecular biology);Transcription start site
+300,1965,2100,2,Nucleotide;Nuclear run-on;Transcription start site
+301,1967,2100,2,Point mutation;Nonsense mutation;Termination codon
+302,1970,2100,2,Enzyme;Antibiotic resistance;Reverse transcriptase
+303,1972,2100,2,Recombinant DNA;Dna sequencing;Animal model
+304,1977,2100,2,Nucleotide;Complementarity (molecular biology);Hybridization probe
+305,1978,2100,2,Dna;Adenovirus;Dna replication
+306,1978,2100,2,Dna;Dna replication;Heredity
+307,1978,2100,2,Acrylamide gels;Electrophoresis;Northern blot
+308,1978,2100,2,Antibiotic resistance;Plasmid;Cosmid
+309,1978,2100,2,Cosmid;Origin of replication;Multicopy plasmid
+310,1979,2100,2,Electrophoresis;Northern blot;Polyacrylamide gel
+311,1979,2100,2,Denaturation (biochemistry);Western blot;Polyacrylamide gel
+312,1979,2100,2,Enzyme;Polymerase;Supercoil
+313,1979,2100,2,Dna sequencing;Complementarity (molecular biology);Nucleic acid hybridization
+314,1979,2100,2,Complementarity (molecular biology);Hybridization probe;Nucleic acid hybridization
+315,1979,2100,2,Genetic recombination;Double helix;Supercoil
+316,1981,2100,2,Electrophoresis;Northern blot;Slot blot
+317,1981,2100,2,Western blot;Antibody;Blotting
+318,1982,2002,2,Ribosome;Trna;Ribozyme
+319,1983,2100,2,Chromosome;Transposon;Reverse transcriptase
+320,1983,2100,2,Chromosome;Reverse transcriptase;Transposition (genetics)
+321,1983,2100,2,Cancer;Transposon;Mutation
+322,1983,2100,2,Cancer;Mutation;Transposition (genetics)
+323,1983,2100,2,Transposon;Bacteria;Antibiotic resistance
+324,1983,2100,2,Transposon;Bacteria;E. coli
+325,1983,2100,2,Bacteria;Antibiotic resistance;Transposition (genetics)
+326,1984,2100,2,Dna polymerase;Transposon;Microsatellite (genetics)
+327,1984,2100,2,Dna polymerase;Transposon;Simple Sequence Repeats
+328,1984,2100,2,Gene duplication;Transposon;Microsatellite (genetics)
+329,1984,2100,2,Gene duplication;Transposon;Simple Sequence Repeats
+330,1984,2100,2,Transposon;Plasmid;Microsatellite (genetics)
+331,1984,2100,2,Transposon;Plasmid;Simple Sequence Repeats
+332,1984,2100,2,Mutation;Huntington's disease;Microsatellite (genetics)
+333,1984,2100,2,Mutation;Huntington's disease;Simple Sequence Repeats
+334,1990,2100,2,Transgene;Genetic engineering;Rnai
+335,1990,2100,2,Transgene;Rnai;Plasmid
+336,1990,2100,2,Transposon;Rnai;Plasmid
+337,1990,2100,2,Rnai;Plasmid;Transgenic
+338,1991,2100,2,Transcription (genetics);Anti-sense strand;Complementarity (molecular biology)
+339,1991,2100,2,Dominance (genetics);Autosomal dominant;Chromosome
+340,1991,2004,2,Dominance (genetics);Chromosome;Recessive
+341,1991,2100,2,Apoptosis;Autosomal dominant;Chromosome
+342,1991,2100,2,Apoptosis;Chromosome;Recessive
+343,1991,2100,2,Transgene;Anti-sense strand;Rnai
+344,1994,2100,2,Chromosome;Locus (genetics);Brca2
+345,2000,2100,2,Messenger RNA;Rna splicing;Exon
+346,2000,2001,2,Messenger RNA;Rna splicing;Operon
+347,2000,2100,2,Rna splicing;Ribozyme;Transcription start site
+348,2000,2100,2,Rna splicing;Reading frame;Human immunodeficiency virus
+349,2001,2100,2,Dna;Genotype;Gene expression
+350,2001,2100,2,Transposon;Intron;Exon
+351,2001,2100,2,Transposon;Intron;Base-pair substitution
+352,2001,2100,2,Intron;Exon;Transposition (genetics)
+353,2001,2100,2,Rnai;Gene expression;Oncogene
+354,2002,2100,2,Dna;Gene expression;Tumor suppressor gene
+355,2002,2100,2,Transcription (genetics);Complementarity (molecular biology);Antisense
+356,2002,2100,2,Transcription (genetics);Complementarity (molecular biology);Antisense strand
+357,2002,2100,2,Transcription (genetics);Complementarity (molecular biology);Non-coding strand
+358,2002,2100,2,Transcription (genetics);Rna splicing;Antisense
+359,2002,2100,2,Transcription (genetics);Rna splicing;Antisense strand
+360,2002,2100,2,Transcription (genetics);Rna splicing;Non-coding strand
+361,2002,2100,2,Gel electrophoresis;Agarose gel;Band shift assay
+362,2002,2100,2,Gel electrophoresis;Agarose gel;Gel shift assay
+363,2002,2100,2,Ethidium bromide;Band shift assay;Polyacrylamide gel
+364,2002,2100,2,Ethidium bromide;Polyacrylamide gel;Gel shift assay
+365,2002,2100,2,Transgene;Rnai;Antisense
+366,2002,2100,2,Transgene;Rnai;Antisense strand
+367,2002,2100,2,Transgene;Rnai;Non-coding strand
+368,2002,2100,2,Transposon;Reverse transcriptase;Cdna
+369,2002,2100,2,Bacteria;Antibiotic resistance;Sub-cloning
+370,2002,2100,2,Bacteria;Gene expression;Sub-cloning
+371,2002,2100,2,Reverse transcriptase;Cdna;Cdna library
+372,2002,2100,2,Reverse transcriptase;Cdna;Transposition (genetics)
+373,2003,2100,2,Guanine;Dna sequencing;Single nucleotide polymorphism
+374,2003,2100,2,Genome;Microsatellite (genetics);Single nucleotide polymorphism
+375,2003,2100,2,Gene;Allele;Single nucleotide polymorphism
+376,2003,2100,2,Nucleotide;Precursor mRNA;Snrna
+377,2003,2100,2,Cancer;Rnai;Single nucleotide polymorphism
+378,2003,2100,2,Intron;Exon;Precursor mRNA
+379,2003,2100,2,Intron;Microsatellite (genetics);Single nucleotide polymorphism
+380,2003,2100,2,Intron;Precursor mRNA;Snrna
+381,2003,2100,2,Phenotype;Polymorphism (biology);Single nucleotide polymorphism
+382,2003,2100,2,Polymorphism (biology);Microsatellite (genetics);Single nucleotide polymorphism
+383,2003,2100,2,Missense mutation;Single nucleotide polymorphism;Nonsense mutation
+384,2004,2100,2,Genome;Single nucleotide polymorphism;Transition (genetics)
+385,2004,2100,2,Nucleotide;Single nucleotide polymorphism;Transition (genetics)
+386,2005,2100,2,Point mutation;Transition (genetics);Transversion
+387,2009,2100,2,Nucleotide;Stem-loop;Inverted repeat
+388,2009,2100,2,Complementarity (molecular biology);Palindromic sequence;Inverted repeat
+389,2020,2100,2,Cell nucleus;Mrna;Transcription start site
+390,2020,2100,2,Rna polymerase;Inducer;Genetic repression
+391,2020,2100,2,Mrna;Promoter (biology);Transcription start site
+392,2020,2100,2,Mrna;Nonsense mutation;Termination codon
+393,2020,2100,2,Trna;Codon;Termination codon
+394,2020,2100,2,Codon;Base-pair substitution;Termination codon
+395,1978,2100,3,Dna;Dna replication;Bacteria;Transcription start site
+396,1991,2100,3,Genotype;Recessive;Phenotype;Haploinsufficiency
+397,2010,2100,3,Genome;Gene;Mutation;Revertant

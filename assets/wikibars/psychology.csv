@@ -1,0 +1,2600 @@
+i,birth,death,dim,nodes
+0,-2400,2100,0,Homosexuality
+1,-2200,100,0,Program evaluation
+2,-2000,-300,0,Dream
+3,-1550,1999,0,Enuresis
+4,-700,-300,0,Psychopathy
+5,-550,216,0,Dementia
+6,-500,-300,0,Music psychology
+7,-400,293,0,Twin study
+8,-400,300,0,Histrionic personality disorder
+9,-400,-300,0,Philosophy of mind
+10,-400,1950,0,Rhetoric
+11,-387,130,0,Cognitive psychology
+12,-307,216,0,Hedonism
+13,-300,216,0,Circadian rhythm
+14,-300,1800,0,Premature ejaculation
+15,-300,1801,0,Phonology
+16,100,211,0,Psychiatric hospital
+17,100,1930,0,Foundations of Cyclopean Perception
+18,122,216,0,Substance abuse
+19,150,1800,0,Neuro-linguistic programming
+20,200,1300,0,Neurosyphilis
+21,250,1800,0,Aphasia
+22,250,1798,0,Nonverbal communication
+23,300,1800,0,Intimate relationship
+24,300,549,0,Sodomy
+25,800,801,0,Comparative psychology
+26,900,1651,0,Incest
+27,900,1800,0,Melancholia
+28,1000,1886,0,Catharsis
+29,1160,2025,0,Autodidacticism
+30,1200,2009,0,Mnemonic
+31,1300,1920,0,Rage (emotion)
+32,1300,2100,0,Paraskevidekatriaphobia
+33,1400,1700,0,Tourette syndrome
+34,1469,1752,0,Machiavellianism
+35,1515,2017,0,Prudence
+36,1557,1798,0,Properception
+37,1600,1960,0,Feral child
+38,1614,1615,0,Metabolism
+39,1623,2020,0,Erotomania
+40,1690,1935,0,Synesthesia
+41,1700,2006,0,Behavioral neuroscience
+42,1700,1862,0,Sympathetic nervous system
+43,1700,1800,0,Occupational therapy
+44,1700,1900,0,Mesmerism
+45,1700,1901,0,Taphophobia
+46,1710,1800,0,Egocentric predicament
+47,1760,1935,0,Perspective (cognitive)
+48,1797,1898,0,Formication
+49,1798,2018,0,Color psychology
+50,1800,1900,0,Token economy
+51,1800,2020,0,Dipsomania
+52,1800,1882,0,Parapsychology
+53,1800,1885,0,Maternal deprivation
+54,1800,1932,0,Ideomotor effect
+55,1800,1892,0,Decay theory
+56,1800,1893,0,Intergender
+57,1800,1961,0,Psychology of religion
+58,1818,1909,0,Solitary confinement
+59,1860,2019,0,Ergophobia
+60,1864,1945,0,Da Costa's syndrome
+61,1865,1875,0,Biofeedback
+62,1879,1908,0,Germaphobia
+63,1888,1930,0,Multisensory integration
+64,1888,1900,0,Theophylline
+65,1892,1931,0,Altered state of consciousness
+66,1892,1900,0,Senile plaques
+67,1892,1985,0,Pick's disease
+68,1893,1940,0,Anomie
+69,1897,1943,0,Audience effect
+70,1898,1938,0,Psychology of learning
+71,1900,2100,0,Early childhood education
+72,1900,1934,0,Dependency need
+73,1900,1911,0,Quantitative trait locus
+74,1900,1983,0,Kohlberg's stages of moral development
+75,1900,2025,0,Knowledge management
+76,1913,1992,0,Health and Human Services
+77,1920,2020,0,People skills
+78,1924,2007,0,Hawthorne effect
+79,1930,1965,0,Chaining
+80,1930,1950,0,Organizational communication
+81,1930,1970,0,Proactivity
+82,1933,1950,0,Stockholm syndrome
+83,1938,2020,0,Transfer (propaganda)
+84,1939,2020,0,Sensory preconditioning
+85,1944,2017,0,Epiphany (feeling)
+86,1947,1960,0,Victim blaming
+87,1948,1949,0,Auditory processing disorder
+88,1950,1980,0,Intelligence amplification
+89,1950,2022,0,Re-evaluation Counseling
+90,1950,1951,0,Double bind
+91,1953,1968,0,Brainstorming
+92,1960,2025,0,Strategic planning
+93,1970,1971,0,Erotophobia
+94,1970,1971,0,Timeline of psychology
+95,1970,2020,0,Institute of Transpersonal Psychology
+96,1970,1973,0,Mind map
+97,1971,2025,0,Dual-coding theory
+98,1974,2020,0,Hopfield net
+99,1984,2013,0,Involutional melancholia
+100,1988,2020,0,Bidirectional associative memory
+101,1996,1997,0,Journal of Health Psychology
+102,2005,2025,0,Six Thinking Hats
+103,2007,2019,0,Australian Psychological Society
+104,2010,2013,0,Gratification
+105,2010,2020,0,Decision analysis
+106,2020,2100,0,Fetal alcohol syndrome
+107,2020,2022,0,Flattery
+108,2020,2021,0,Genetic predisposition
+109,2020,2022,0,Insult
+110,2020,2022,0,Curiosity
+111,2020,2022,0,Compersion
+112,2020,2021,0,Pain disorder
+113,2020,2100,0,Speaker recognition
+114,2020,2025,0,Mental calculation
+115,2020,2025,0,Speech act
+116,2020,2025,0,Allophilia
+117,2020,2025,0,Sapience
+118,2020,2025,0,Active learning
+119,2020,2025,0,Visual learning
+120,2020,2025,0,Dereistic thinking
+121,2020,2025,0,Identification (information)
+122,2020,2025,0,Philomath
+123,120,2100,1,Phrenology;Philosophy of mind
+124,150,2100,1,Twin study;Nurture
+125,216,712,1,Dementia;Dead inside (concept)
+126,216,712,1,Dementia;Unipolar depression
+127,216,2100,1,Psychosis;Major depression
+128,216,300,1,Psychosis;Dead inside (concept)
+129,216,300,1,Psychosis;Unipolar depression
+130,216,1909,1,Anhedonia;Major depression
+131,216,1300,1,Anhedonia;Dead inside (concept)
+132,216,1300,1,Anhedonia;Unipolar depression
+133,216,1979,1,Circadian rhythm;Dead inside (concept)
+134,216,1979,1,Circadian rhythm;Unipolar depression
+135,293,2100,1,Substance abuse;Mmpi-2
+136,293,2100,1,Psychopathy;Mmpi-2
+137,300,1800,1,Mental disorder;Major depressive disorder
+138,300,1700,1,Mental disorder;Dementia
+139,300,1785,1,Mental disorder;Community mental health service
+140,300,1963,1,Substance abuse;Mental illness
+141,300,2100,1,Twin study;Mental illness
+142,300,1800,1,Mental illness;Community mental health service
+143,301,2100,1,Learned helplessness;Dead inside (concept)
+144,301,2100,1,Learned helplessness;Unipolar depression
+145,301,2100,1,Mental illness;Logorrhea (psychology)
+146,301,2021,1,Mental illness;Somatization disorder
+147,370,1801,1,Bulimia nervosa;Mental illness
+148,400,712,1,Anorexia nervosa;Dead inside (concept)
+149,400,712,1,Anorexia nervosa;Unipolar depression
+150,400,712,1,Bulimia nervosa;Cibophobia
+151,400,2100,1,Social anxiety disorder;Mental illness
+152,400,2100,1,Cibophobia;Fixation (psychology)
+153,549,2100,1,Iq;Sexual deviation
+154,549,2100,1,Human sexuality;Sexual deviation
+155,605,2100,1,Minnesota Multiphasic Personality Inventory;Test (assessment)
+156,629,2100,1,Congenital disorder;Dyspareunia
+157,645,2100,1,Intellectual disability;Mental illness
+158,645,2100,1,Intellectual disability;Congenital disorder
+159,646,2100,1,Intellectual disability;Moron (psychology)
+160,646,2100,1,Expressive language disorder;Mental age
+161,700,2100,1,Hypertension;Impotence
+162,713,2100,1,Psychiatric hospital;Suicide watch
+163,886,1300,1,Diagnostic and Statistical Manual of Mental Disorders;Dead inside (concept)
+164,886,1800,1,Diagnostic and Statistical Manual of Mental Disorders;Rorschach inkblot test
+165,886,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Sexual deviation
+166,886,1300,1,Diagnostic and Statistical Manual of Mental Disorders;Unipolar depression
+167,1538,1989,1,Cognitive psychology;Educational psychology
+168,1550,2100,1,Exhibitionism;Sexual deviation
+169,1595,2021,1,Malingering;Conversion disorder
+170,1600,2025,1,Science;Scientific method
+171,1600,2100,1,Abnormal psychology;Mind-body problem
+172,1600,2100,1,Comparative psychology;Reasoning
+173,1600,2100,1,Mind-body problem;Circadian rhythm
+174,1600,1930,1,Mind-body problem;Philosophy of mind
+175,1600,2100,1,Experimental group;Informed consent
+176,1600,2100,1,Iq;Reasoning
+177,1600,2100,1,Informed consent;True experiment
+178,1601,2025,1,Cognitive psychology;Inference
+179,1603,2100,1,Explanation;Understanding
+180,1603,2100,1,Idea;Mind-body dualism
+181,1603,2025,1,Idea;Understanding
+182,1604,2100,1,Symbol;Reasoning
+183,1616,2100,1,Mental illness;Stressor
+184,1646,2100,1,Psychosis;Hallucination
+185,1647,2100,1,Conversion disorder;Hallucinosis
+186,1647,2100,1,Lucid dream;Hallucinosis
+187,1651,2100,1,Antipositivism;Scientific method
+188,1652,2100,1,Gregariousness;Neuroticism Extraversion Openness Personality Inventory
+189,1700,2100,1,Neuroscience;Mental illness
+190,1700,2025,1,Cognitive psychology;Creativity
+191,1700,2100,1,Social group;Social psychology (psychology)
+192,1700,2100,1,Comparative psychology;Biological psychology
+193,1700,2100,1,Mental disorder;Moral treatment
+194,1700,2020,1,Intelligence quotient;Attention-deficit hyperactivity disorder
+195,1700,2100,1,Attention-deficit hyperactivity disorder;Twin study
+196,1700,2100,1,Major depression;Creativity
+197,1700,2100,1,Scientific control;Placebo effect
+198,1700,2100,1,Mental illness;Moral treatment
+199,1700,2100,1,Psychiatric hospital;Moral treatment
+200,1700,2100,1,Psychiatric hospital;Münchausen syndrome
+201,1700,2100,1,Social psychology (psychology);Informed consent
+202,1700,2100,1,Social psychology (psychology);Random assignment
+203,1700,2100,1,Malingering;Placebo effect
+204,1700,2100,1,Malingering;Münchausen syndrome
+205,1700,2100,1,Creativity;Dead inside (concept)
+206,1700,2100,1,Creativity;Intelligence test
+207,1700,2100,1,Creativity;Unipolar depression
+208,1700,2100,1,Informed consent;Placebo effect
+209,1769,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Neurosis
+210,1783,2100,1,Intellectual disability;Idiot savant
+211,1783,2100,1,Idiot savant;Feeble-minded
+212,1785,2100,1,Intelligence quotient;Collective intelligence
+213,1785,2100,1,Intelligence quotient;Group synergy
+214,1785,2100,1,Crowd psychology;Group synergy
+215,1785,2100,1,Deinstitutionalisation;Institutionalization
+216,1790,1961,1,Dissociation (psychology);Conversion disorder
+217,1790,2100,1,Dissociation (psychology);Emotional conflict
+218,1797,2100,1,Schizophrenia;Biological psychology
+219,1797,2100,1,Schizophrenia;Delayed sleep phase syndrome
+220,1797,2100,1,Schizophrenia;Mmpi-2
+221,1797,2100,1,Schizophrenia;Nurture
+222,1797,2100,1,Schizophrenia;Rorschach inkblot test
+223,1798,1950,1,Intellectual disability;Autism
+224,1798,2100,1,Autism;Group synergy
+225,1798,2100,1,Habituation;Tourette syndrome
+226,1798,2100,1,Neurosis;Functional symptom
+227,1799,2010,1,Social cognition;Cognitive psychology
+228,1799,2100,1,Social cognition;Schizophrenia
+229,1800,1971,1,Perception;Cognitive psychology
+230,1800,2100,1,Perception;Experimental psychology
+231,1800,2100,1,Perception;Sensory neuroscience
+232,1800,2100,1,Perception;Hallucination
+233,1800,2100,1,Perception;Cibophobia
+234,1800,2100,1,Perception;Mmpi-2
+235,1800,1931,1,Attention;Neuropsychology
+236,1800,2100,1,Attention;Attention-deficit hyperactivity disorder
+237,1800,2100,1,Emotion;Metabolism
+238,1800,2100,1,Emotion;Mental health
+239,1800,2025,1,Emotion;Cibophobia
+240,1800,2100,1,Clinical psychology;Personality test
+241,1800,1961,1,Clinical psychology;Mental health
+242,1800,2100,1,Clinical psychology;Malingering
+243,1800,1989,1,Cognitive psychology;Applied psychology
+244,1800,1989,1,Neuropsychology;Applied psychology
+245,1800,2100,1,Cognitive neuropsychology;Sensory adaptation
+246,1800,1989,1,Psychophysics;Biological psychology
+247,1800,1963,1,Minnesota Multiphasic Personality Inventory;Psychological tests
+248,1800,2100,1,Mental disorder;Manic-depressive illness
+249,1800,2100,1,Mind-body dualism;Pedophile
+250,1800,1900,1,Psychotherapy;Memory suppression
+251,1800,2100,1,Behaviorism;Autism
+252,1800,1989,1,Behaviorism;Social psychology (psychology)
+253,1800,2100,1,Behaviorism;Philosophy of mind
+254,1800,2100,1,Behaviorism;Nurture
+255,1800,1900,1,Behaviorism;Sexual deviation
+256,1800,2100,1,Intelligence quotient;Pedophile
+257,1800,2100,1,Substance abuse;Pedophile
+258,1800,2100,1,Psychological testing;Neuroticism Extraversion Openness Personality Inventory
+259,1800,2100,1,Dementia;Behavioral neurology
+260,1800,2100,1,Schizophrenia;Diathesis–stress model
+261,1800,2100,1,Psychosis;Behavioral neurology
+262,1800,1874,1,Diagnostic and Statistical Manual of Mental Disorders;Paranoid schizophrenia
+263,1800,1891,1,Diagnostic and Statistical Manual of Mental Disorders;Pedophile
+264,1800,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Frigidity
+265,1800,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Pedophilia
+266,1800,2020,1,Diagnostic and Statistical Manual of Mental Disorders;Sexual aversion disorder
+267,1800,1900,1,Social anxiety disorder;Manic-depressive illness
+268,1800,2100,1,Autism;Behavioral neurology
+269,1800,2100,1,Major depression;Behavioural genetics
+270,1800,2100,1,Scientific control;Pedophile
+271,1800,2100,1,Habituation;Sensory adaptation
+272,1800,2100,1,Behavioural genetics;Dead inside (concept)
+273,1800,2100,1,Behavioural genetics;Nurture
+274,1800,2100,1,Behavioural genetics;Unipolar depression
+275,1800,2100,1,Phrenology;Psychological tests
+276,1800,2100,1,Iq;Psychological tests
+277,1800,2100,1,Leadership;Self-help
+278,1800,2100,1,Incest;Pedophile
+279,1800,2100,1,Circadian rhythm;Manic-depressive illness
+280,1800,2100,1,Educational psychology;Functional psychology
+281,1800,2100,1,Instinct;Nurture
+282,1800,2100,1,Frigidity;Homosexuality
+283,1800,2100,1,Homosexuality;Sexual aversion disorder
+284,1800,2100,1,Premature ejaculation;Sexual aversion disorder
+285,1800,2100,1,Manic-depressive illness;Neurosyphilis
+286,1801,1989,1,Experimental psychology;Theoretical psychology
+287,1801,2100,1,Dream;Sensation (psychology)
+288,1801,2100,1,Dream;Emotion and memory
+289,1801,2100,1,Mind-body dualism;Sensation (psychology)
+290,1801,2100,1,Psychotherapy;Vegetotherapy
+291,1801,2100,1,Behaviorism;Value theory
+292,1801,2100,1,Aphasia;Alogia
+293,1801,2100,1,Dementia;Alogia
+294,1801,2100,1,Alogia;Intellectual disability
+295,1801,2100,1,Retrograde amnesia;Memory suppression
+296,1801,2100,1,Psychiatrist;Psychopathy
+297,1801,2100,1,Psychiatrist;Iatrogenic illness
+298,1801,2100,1,Conduct disorder;Intelligence test
+299,1801,1989,1,Applied psychology;Traffic psychology
+300,1801,2100,1,Borderline personality disorder;Idealization and devaluation
+301,1801,2100,1,Family therapy;List of credentials in psychology
+302,1801,2100,1,Circadian rhythm;Interpersonal and social rhythm therapy
+303,1801,2100,1,Circadian rhythm;Social rhythm therapy
+304,1802,2020,1,Applied psychology;Systems psychology
+305,1802,2100,1,Family therapy;Systems psychology
+306,1802,2100,1,Informed consent;Substance intoxication
+307,1802,1989,1,Systems psychology;Theoretical psychology
+308,1822,2100,1,Thought experiment;Mind-body dualism
+309,1834,2100,1,Psychiatrist;Homosexual panic
+310,1834,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Homosexual panic
+311,1841,2100,1,Collective intelligence;Wisdom of crowds
+312,1853,2100,1,Ganser syndrome;Substance intoxication
+313,1857,2100,1,Child sexual abuse;Incest
+314,1857,2100,1,Child sexual abuse;Pedophilia
+315,1860,2018,1,Euphoria;Manic-depressive illness
+316,1862,2100,1,Facial expression;Nonverbal communication
+317,1863,2100,1,Facial expression;Pathognomy
+318,1864,2100,1,Delusion;Guilty but mentally ill
+319,1865,2018,1,Schizophrenia;Grandiose delusions
+320,1865,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Folie à deux
+321,1871,2100,1,Mind-body problem;Evolutionary psychology
+322,1871,1989,1,Evolutionary psychology;Applied psychology
+323,1871,2100,1,Evolutionary psychology;Mental illness
+324,1874,2100,1,Facial expression;Catatonic schizophrenia
+325,1874,2100,1,Aphasia;Catatonic schizophrenia
+326,1874,2100,1,Catatonic schizophrenia;Comorbidity
+327,1875,2100,1,Attention-deficit hyperactivity disorder;Electroencephalography
+328,1875,2100,1,Electroencephalography;Biological psychology
+329,1875,2100,1,Electroencephalography;Manic-depressive illness
+330,1875,2100,1,Electroencephalography;Münchausen syndrome
+331,1880,2100,1,Mental disorder;Depersonalization disorder
+332,1880,2100,1,Dementia;Cognitive test
+333,1880,2100,1,Cognitive test;Philosophy of mind
+334,1880,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Cotard delusion
+335,1882,2100,1,Memory consolidation;Memory suppression
+336,1885,2100,1,Psychoanalysis;Complex (psychology)
+337,1885,2013,1,Psychoanalysis;Psychoanalytic theory
+338,1885,1900,1,Psychoanalysis;Major depression
+339,1885,1900,1,Psychoanalysis;Dead inside (concept)
+340,1885,2100,1,Psychoanalysis;Memory suppression
+341,1885,1900,1,Psychoanalysis;Unipolar depression
+342,1885,2100,1,Cognitive psychology;Psychoanalyst
+343,1885,2013,1,Idea;Psychoanalyst
+344,1885,1932,1,Psychoanalytic theory;Psychoanalyst
+345,1885,1900,1,Mental health;Psychoanalyst
+346,1885,1900,1,Anorexia nervosa;Psychoanalyst
+347,1885,2100,1,Aphasia;Psychoanalyst
+348,1885,2100,1,Face perception;Recollection
+349,1885,2100,1,Retrograde amnesia;Recollection
+350,1885,1971,1,Neurosis;Psychoanalyst
+351,1885,1961,1,Child sexual abuse;Psychoanalyst
+352,1885,2100,1,Fixation (psychology);Psychoanalyst
+353,1885,2100,1,Explicit memory;Recollection
+354,1886,2100,1,Symbol;Analytical psychology
+355,1886,2100,1,Extraversion and introversion;Analytical psychology
+356,1886,1989,1,Psychotherapy;Analytical psychology
+357,1886,1908,1,Anorexia nervosa;Body dysmorphic disorder
+358,1886,1908,1,Body dysmorphic disorder;Cibophobia
+359,1886,2100,1,Transference;Psychodynamic therapy
+360,1886,2100,1,Cathexis;Psychoanalyst
+361,1886,2100,1,Psychoanalyst;The Symbolic
+362,1887,2100,1,Paraphilia;Sexual fetishism
+363,1887,1975,1,Sexual fetishism;Sexual deviation
+364,1887,2100,1,Popular psychology;Inner child
+365,1888,2100,1,Deception;Self-deception
+366,1889,2014,1,Dissociation (psychology);Minimisation (psychology)
+367,1889,2100,1,Minimisation (psychology);Deception
+368,1890,2100,1,Hypnotic;Substance dependence
+369,1890,2100,1,Philosophy of mind;Moral psychology
+370,1891,2100,1,Social norm;Personality disorder
+371,1891,2100,1,Psychopathy;Mythomania
+372,1891,2100,1,Psychopathy;Pseudologia
+373,1891,2100,1,Histrionic personality disorder;Pseudologia
+374,1891,2100,1,Lie;Mythomania
+375,1891,2100,1,Lie;Pseudologia
+376,1891,2100,1,Ganser syndrome;Mythomania
+377,1891,2100,1,Ganser syndrome;Pseudologia
+378,1892,1975,1,American Psychological Association;Psychoanalytic theory
+379,1892,2100,1,American Psychological Association;Intelligence test
+380,1892,2100,1,American Psychological Association;Quantitative psychology
+381,1892,2100,1,American Psychological Association;Psychology of combat
+382,1892,2100,1,Schizophrenia;Renfield's syndrome
+383,1892,2100,1,Paraphilia;Renfield's syndrome
+384,1892,2100,1,Decay theory;Proactive interference
+385,1892,2100,1,Decay theory;Retroactive inhibition
+386,1892,2100,1,Decay theory;Retroactive interference
+387,1893,2100,1,American Psychological Association;Doctor of Psychology
+388,1893,2100,1,Sexual orientation;Femininity
+389,1893,2100,1,Major depression;Thalamus
+390,1893,2100,1,Dead inside (concept);Thalamus
+391,1893,2100,1,Thalamus;Declarative memory
+392,1893,2100,1,Thalamus;Recollection
+393,1893,2100,1,Thalamus;Unipolar depression
+394,1894,2100,1,Social psychology (psychology);Social psychology (sociology)
+395,1894,2100,1,Leadership;Social psychology (sociology)
+396,1894,2100,1,Interference theory;Memory inhibition
+397,1894,2100,1,Memory inhibition;Proactive inhibition
+398,1894,2100,1,Memory inhibition;Proactive interference
+399,1894,2100,1,Memory inhibition;Retroactive inhibition
+400,1894,2100,1,Memory inhibition;Retroactive interference
+401,1897,2010,1,Cognitive psychology;Cognitive development
+402,1898,2008,1,Mental disorder;Dermatillomania
+403,1898,2100,1,Behaviorism;Law of effect
+404,1899,2100,1,Compulsive behavior;Substance dependence
+405,1899,2100,1,Compulsive behavior;Psychoanalyst
+406,1899,2100,1,Compulsive behavior;Mythomania
+407,1899,2100,1,Compulsive behavior;Pseudologia
+408,1900,2100,1,Emotion;Rational emotive therapy
+409,1900,2100,1,Emotion;Rational-emotive therapy
+410,1900,2100,1,Phenomenology (psychology);Psychoanalyst
+411,1900,2100,1,Phenomenology (psychology);Graz School
+412,1900,2100,1,Psychoanalysis;Humanistic psychology
+413,1900,2020,1,Operant conditioning;Behaviorism
+414,1900,2100,1,Scientific method;Multiple personality disorder
+415,1900,2100,1,Problem solving;Marital therapy
+416,1900,2100,1,Problem solving;Marriage guidance
+417,1900,2100,1,Problem solving;Relationship counseling
+418,1900,2100,1,Cognitive psychology;General intelligence factor
+419,1900,2100,1,Idea;Rational emotive therapy
+420,1900,2100,1,Idea;Rational-emotive therapy
+421,1900,1989,1,Experimental psychology;Developmental psychology
+422,1900,2100,1,Self-actualization;Humanistic psychology
+423,1900,1963,1,Psychodynamics;Mmpi-2
+424,1900,2100,1,Attachment theory;Mental illness
+425,1900,2100,1,Attachment theory;Psychodynamic theory
+426,1900,2100,1,Attachment theory;Maternal deprivation
+427,1900,2100,1,Attachment theory;Multiple personality disorder
+428,1900,2100,1,Attachment theory;Marital therapy
+429,1900,2100,1,Attachment theory;Marriage guidance
+430,1900,1990,1,Attachment theory;Megalomania
+431,1900,2100,1,Attachment theory;Relationship counseling
+432,1900,2100,1,Attachment theory;Memory suppression
+433,1900,2100,1,Personality test;Relationship counseling
+434,1900,2100,1,Conscientiousness;Neuroticism Extraversion Openness Personality Inventory
+435,1900,1950,1,Mental disorder;Psychoactive drug
+436,1900,2100,1,Mental disorder;Psychotropic medication
+437,1900,2100,1,Mental disorder;Nymphophilia
+438,1900,2019,1,Mental disorder;Psychoactive
+439,1900,2100,1,Mind-body problem;Structuralism
+440,1900,2100,1,Mind-body problem;Hidden observer
+441,1900,2100,1,Catharsis;Psychodynamic theory
+442,1900,2100,1,Developmental psychology;Evolutionary developmental psychology
+443,1900,2100,1,Gender identity;Intergender
+444,1900,2100,1,Self-esteem;Assertiveness
+445,1900,2022,1,Self-esteem;Major depressive disorder
+446,1900,2100,1,Self-esteem;Bulimia nervosa
+447,1900,1970,1,Self-esteem;Major depression
+448,1900,2100,1,Self-esteem;Pedophile
+449,1900,1970,1,Self-esteem;Dead inside (concept)
+450,1900,1970,1,Self-esteem;Unipolar depression
+451,1900,2100,1,Assertiveness;Neuroticism Extraversion Openness Personality Inventory
+452,1900,2100,1,Cognitive behavioral therapy;Marital therapy
+453,1900,2100,1,Cognitive behavioral therapy;Marriage guidance
+454,1900,2100,1,Cognitive behavioral therapy;Relationship counseling
+455,1900,2100,1,Dementia;Alzheimer's disease
+456,1900,2100,1,Orientation (mental);Alzheimer's disease
+457,1900,2100,1,Alzheimer's disease;Biological psychology
+458,1900,2100,1,Cognitive test;General intelligence factor
+459,1900,2100,1,Hypnotic;Psychoactive drug
+460,1900,2100,1,Hypnotic;Psychotropic medication
+461,1900,2100,1,Hypnotic;Psychoactive
+462,1900,2100,1,Psychiatrist;Individual psychology
+463,1900,2100,1,Hedonism;Megalomania
+464,1900,2100,1,Anhedonia;Conditioning, operant
+465,1900,2100,1,Anhedonia;Operant behavior
+466,1900,1950,1,Social anxiety disorder;Psychoactive drug
+467,1900,2100,1,Psychoactive drug;Euphoria
+468,1900,2100,1,Flow (psychology);Multiple personality disorder
+469,1900,2100,1,Family therapy;Marital therapy
+470,1900,2100,1,Family therapy;Marriage guidance
+471,1900,2100,1,Family therapy;Relationship counseling
+472,1900,2100,1,Psychotropic medication;Intravenous
+473,1900,2100,1,Habituation;Behaviour therapy
+474,1900,2100,1,Habituation;Conditioning, operant
+475,1900,1970,1,Habituation;Operant behavior
+476,1900,2100,1,Behavioral economics;Token economy
+477,1900,2100,1,Narcissistic personality disorder;Mythomania
+478,1900,2020,1,Narcissistic personality disorder;Pseudologia
+479,1900,2100,1,Malingering;Psychosomatic disorders
+480,1900,1905,1,Comorbidity;Megalomania
+481,1900,2100,1,Leadership;Conditioning, operant
+482,1900,2100,1,Leadership;Operant behavior
+483,1900,2100,1,Individual psychology;Psychoanalyst
+484,1900,1989,1,Humanistic psychology;Educational psychology
+485,1900,2100,1,Cognitive elite;General intelligence factor
+486,1900,2100,1,Educational psychology;Conditioning, operant
+487,1900,2022,1,Educational psychology;Operant behavior
+488,1900,2100,1,Rational emotive therapy;Compulsive behavior
+489,1900,2100,1,Instinct;Functional autonomy
+490,1900,2100,1,Compulsive behavior;Rational-emotive therapy
+491,1900,2100,1,Conditioning, operant;Learning curve
+492,1900,1938,1,Conditioning, operant;Token economy
+493,1900,2100,1,Learning curve;Operant behavior
+494,1900,1938,1,Token economy;Operant behavior
+495,1900,2100,1,Cross-sectional study;Multiple personality disorder
+496,1900,2100,1,Encoding (memory);Recollection
+497,1900,2100,1,Envy;Marital therapy
+498,1900,2100,1,Envy;Marriage guidance
+499,1900,2100,1,Envy;Relationship counseling
+500,1900,2100,1,Insanity defense;Multiple personality disorder
+501,1900,2100,1,Parapsychology;Multiple personality disorder
+502,1900,2100,1,Self-help;Marital therapy
+503,1900,2100,1,Self-help;Marriage guidance
+504,1900,2100,1,Self-help;Relationship counseling
+505,1900,2100,1,Homosexuality;Nymphophilia
+506,1900,2100,1,Intravenous;Psychoactive
+507,1900,2100,1,Psychoactive;Theophylline
+508,1901,2100,1,Sociology;Longitudinal study
+509,1901,2100,1,Abnormal psychology;Psychopathology
+510,1901,2100,1,Psychoanalytic theory;Psychopathology
+511,1901,2100,1,Conscientiousness;Perfectionism (psychology)
+512,1901,2100,1,Perfectionism (psychology);Self-esteem
+513,1901,2100,1,Perfectionism (psychology);Mental illness
+514,1901,2100,1,Minnesota Multiphasic Personality Inventory;Psychopathology
+515,1901,2100,1,Mental disorder;Animal hoarding
+516,1901,2013,1,Psychopathology;Mental illness
+517,1901,2100,1,Psychopathology;Sexual deviation
+518,1901,2100,1,Aggression;Attention-deficit hyperactivity disorder
+519,1901,2100,1,Aggression;Social psychology (psychology)
+520,1901,2100,1,Psychotherapy;Modelling (psychology)
+521,1901,2100,1,Attribution theory;Psychological projection
+522,1901,2100,1,Developmental psychology;Longitudinal study
+523,1901,2100,1,Developmental psychology;Modelling (psychology)
+524,1901,2025,1,Self-esteem;Need
+525,1901,2100,1,Procrastination;Attention-deficit hyperactivity disorder
+526,1901,2100,1,Procrastination;Rational emotive therapy
+527,1901,2100,1,Procrastination;Rational-emotive therapy
+528,1901,2100,1,Hypnotic;Insomnia
+529,1901,2100,1,Denial;Animal hoarding
+530,1901,2100,1,Denial;Psychological projection
+531,1901,2100,1,Insomnia;Delayed sleep phase syndrome
+532,1901,2100,1,Insomnia;Placebo effect
+533,1901,2100,1,Autism;British Psychological Society
+534,1901,2100,1,Psychological projection;Psychoanalyst
+535,1901,2100,1,Psychological projection;Mythomania
+536,1901,2100,1,Psychological projection;Pseudologia
+537,1901,2100,1,Avoidant personality disorder;Inferiority complex
+538,1901,2100,1,Narcissistic personality disorder;Egomania
+539,1901,2100,1,Charisma;Referent power
+540,1901,2100,1,Individual psychology;Classical Adlerian psychotherapy
+541,1901,2100,1,Conditioning, operant;Shaping (psychology)
+542,1901,2022,1,Shaping (psychology);Operant behavior
+543,1901,2100,1,Cross-sectional study;Longitudinal study
+544,1901,2100,1,Egomania;Megalomania
+545,1901,2100,1,Factorial ANOVA;Longitudinal study
+546,1901,2100,1,Free association (psychology);Psychodynamic therapy
+547,1902,2100,1,Abuse;Mental illness
+548,1902,2100,1,Psychological projection;Introjection
+549,1902,2100,1,Superiority complex;Individual psychology
+550,1903,2100,1,Intervention (counseling);Eating disorder
+551,1903,2100,1,Intervention (counseling);Rational emotive therapy
+552,1903,2100,1,Self-esteem;Neglect
+553,1903,1950,1,Autism;Bullying
+554,1904,2100,1,Cognitive behavioral therapy;Oppositional defiant disorder
+555,1905,2100,1,Pedophile;Three Essays on the Theory of Sexuality
+556,1905,2100,1,Psychoanalyst;Three Essays on the Theory of Sexuality
+557,1905,2100,1,Human sexuality;Three Essays on the Theory of Sexuality
+558,1908,2100,1,Hallucination;Childhood disintegrative disorder
+559,1908,1950,1,Hallucination;Disintegrative disorder
+560,1908,1950,1,Autism;Childhood disintegrative disorder
+561,1908,1950,1,Autism;Disintegrative disorder
+562,1908,2100,1,Disintegrative disorder;Speech perception
+563,1909,2100,1,Sympathetic nervous system;Self-injury
+564,1909,1972,1,Sympathetic nervous system;Self-punishment
+565,1909,2100,1,Biofeedback;Self-injury
+566,1909,2100,1,Biofeedback;Self-punishment
+567,1909,2100,1,Death drive;Instinct
+568,1909,2100,1,Theophylline;Self-injury
+569,1909,2100,1,Theophylline;Self-punishment
+570,1909,2100,1,Solitary confinement;Self-punishment
+571,1910,2100,1,Psychopathology;Ego psychology
+572,1910,2100,1,Psychotherapy;Psychodrama
+573,1910,1934,1,Psychoanalyst;Ego psychology
+574,1913,2100,1,Adaptation;Evolutionary psychology
+575,1913,2100,1,Adaptation;Properception
+576,1913,2100,1,Oedipus complex;Delusion and Dream in Jensen's Gradiva
+577,1913,2100,1,Oedipus complex;Homosexuality
+578,1913,2100,1,Oedipus complex;Pedophilia
+579,1914,2100,1,Neurosis;Transference neurosis
+580,1914,2100,1,Psychodynamic therapy;Working through
+581,1917,1963,1,Extraversion and introversion;Group Dynamics (Myers-Briggs)
+582,1917,1963,1,Extraversion and introversion;Parenting (Myers-Briggs)
+583,1917,1963,1,Extraversion and introversion;Relationships (Myers-Briggs)
+584,1917,2100,1,Socionics;Group Dynamics (Myers-Briggs)
+585,1917,2100,1,Socionics;Parenting (Myers-Briggs)
+586,1917,2100,1,Socionics;Relationships (Myers-Briggs)
+587,1917,2100,1,Sensation (psychology);Group Dynamics (Myers-Briggs)
+588,1917,2100,1,Sensation (psychology);Parenting (Myers-Briggs)
+589,1917,2100,1,Sensation (psychology);Relationships (Myers-Briggs)
+590,1917,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Group Dynamics (Myers-Briggs)
+591,1917,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Parenting (Myers-Briggs)
+592,1917,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Relationships (Myers-Briggs)
+593,1920,2100,1,Temperament;Psychiatrist
+594,1920,2100,1,Temperament;Megalomania
+595,1920,1964,1,Extraversion and introversion;16 Personality Factors
+596,1920,2100,1,16 Personality Factors;Mental health
+597,1920,2100,1,Abuse;Narcissistic rage
+598,1920,2100,1,Psychotherapy;Gestalt theoretical psychotherapy
+599,1920,2100,1,Borderline personality disorder;Narcissistic rage
+600,1920,2100,1,Psychological projection;Narcissistic rage
+601,1920,2100,1,Biological psychology;Psychopharmacology
+602,1920,2100,1,Psychopharmacology;Kleptomania
+603,1920,2100,1,Psychopharmacology;Marital therapy
+604,1920,2100,1,Psychopharmacology;Marriage guidance
+605,1920,2100,1,Psychopharmacology;Relationship counseling
+606,1920,2100,1,Psychopharmacology;Psychoactive
+607,1920,2100,1,Neurosis;Narcissistic rage
+608,1921,2100,1,Socionics;Psychological types
+609,1921,2100,1,Complex (psychology);Psychological types
+610,1921,2100,1,Collective unconscious;Dream transference
+611,1921,2100,1,Behavioural genetics;Differential psychology
+612,1921,2100,1,Differential psychology;Evolutionary developmental psychology
+613,1921,2100,1,Telepathy;Dream transference
+614,1921,2100,1,Group polarization;Self propaganda
+615,1923,2100,1,Major depression;Schema (psychology)
+616,1923,2100,1,Schema (psychology);Dead inside (concept)
+617,1923,2100,1,Schema (psychology);Reading (activity)
+618,1923,2100,1,Schema (psychology);Unipolar depression
+619,1924,2100,1,Feeling;Touch
+620,1924,2100,1,Feeling;Psychological types
+621,1924,2100,1,Social group;Social distance
+622,1924,2100,1,Social distance;Human sexuality
+623,1925,2100,1,Cognitive behavioral therapy;Asperger syndrome
+624,1925,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Asperger syndrome
+625,1925,2100,1,Asperger syndrome;Nonverbal communication
+626,1925,2020,1,Asperger syndrome;Autism
+627,1925,2100,1,Social distance;Social distance scale
+628,1925,2100,1,Encounter group;Psychodrama
+629,1930,2100,1,Cognitive science;Electroencephalography
+630,1930,2100,1,16 Personality Factors;Sensitivity (human)
+631,1930,2100,1,Sensitivity (human);Autism
+632,1930,2100,1,Sensitivity (human);Occupational therapy
+633,1930,2100,1,Sensitivity (human);Femininity
+634,1930,2100,1,Sensitivity (human);Touch
+635,1930,2100,1,Body image;Body dysmorphic disorder
+636,1930,2100,1,Psychological testing;Thematic Apperception Test
+637,1930,2100,1,Schizophrenia;Thematic Apperception Test
+638,1930,2100,1,Psychiatrist;Relational disorder
+639,1930,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Relational disorder
+640,1930,2100,1,Personality disorder;Thematic Apperception Test
+641,1930,2100,1,Twin study;Steppingstone theory
+642,1930,2100,1,Family therapy;Psychological repression
+643,1930,2100,1,Substance dependence;Steppingstone theory
+644,1930,2100,1,Psychoanalyst;Mirror stage
+645,1930,2100,1,Longitudinal study;Steppingstone theory
+646,1930,2100,1,Relational disorder;Marital therapy
+647,1930,2100,1,Relational disorder;Marriage guidance
+648,1930,2100,1,Relational disorder;Relationship counseling
+649,1930,1963,1,Psychological tests;Thematic Apperception Test
+650,1931,2100,1,Consciousness;Delirium
+651,1931,2100,1,Consciousness;Psychoactive drug
+652,1931,2100,1,Consciousness;Psychotropic medication
+653,1931,2019,1,Consciousness;Psychoactive
+654,1931,2100,1,Sociology;Gaze
+655,1931,2100,1,Cognitive psychology;Spatial-temporal reasoning
+656,1931,2100,1,Critical theory;Critical psychology
+657,1931,2100,1,Intimate relationship;Libido
+658,1931,2100,1,Self-esteem;Isolation (psychology)
+659,1931,2100,1,Evolutionary psychology;Psychological adaptation
+660,1931,2100,1,Affectional orientation;Libido
+661,1931,2100,1,Libido;Major depression
+662,1931,2100,1,Libido;Psychological repression
+663,1931,2100,1,Libido;Pedophile
+664,1931,2021,1,Libido;Ego psychology
+665,1931,2100,1,Libido;Dead inside (concept)
+666,1931,2100,1,Libido;Unipolar depression
+667,1931,2025,1,Cognitive bias;Behavioral economics
+668,1931,2100,1,Cognitive bias;Psychological Review
+669,1931,2025,1,Cognitive bias;Group synergy
+670,1931,2100,1,Bioenergetic analysis;Transference
+671,1931,2100,1,Bioenergetic analysis;Oedipus complex
+672,1931,2100,1,Psychoanalyst;Gaze
+673,1932,2025,1,Self-awareness;Cognitive test
+674,1932,2100,1,Self-awareness;Properception
+675,1932,2100,1,Libido;Mortido
+676,1932,2100,1,Cognitive bias;Depressive realism
+677,1932,2100,1,Beyond the Pleasure Principle;Death drive
+678,1932,2100,1,Beyond the Pleasure Principle;Psychoanalyst
+679,1932,2100,1,Beyond the Pleasure Principle;Narcissistic rage
+680,1932,2100,1,Death drive;Mortido
+681,1932,2100,1,Social psychology (psychology);Depressive realism
+682,1933,2100,1,Motivation;Placebo effect
+683,1933,2100,1,Motivation;Psychology of combat
+684,1933,2100,1,Depth psychology;Behaviorism
+685,1933,2100,1,Mental disorder;Cognitive shift
+686,1933,1989,1,Developmental psychology;Pre- and perinatal psychology
+687,1933,2100,1,Self-consciousness;Neuroticism Extraversion Openness Personality Inventory
+688,1933,1969,1,Analytical psychology;Psyche (psychology)
+689,1933,2100,1,Psyche (psychology);Humanistic psychology
+690,1933,2100,1,Transference;Displacement (psychology)
+691,1933,2100,1,Schizoid personality disorder;Fantasy (psychology)
+692,1933,2100,1,Pedophile;Fantasy (psychology)
+693,1933,2100,1,Self-deception;Rationalization (psychology)
+694,1933,2100,1,Fantasy (psychology);Psychodrama
+695,1933,2100,1,Fantasy (psychology);Pedophilia
+696,1933,2100,1,Fantasy (psychology);Megalomania
+697,1933,2100,1,Fantasy (psychology);Thematic Apperception Test
+698,1933,2100,1,Fantasy (psychology);Transference neurosis
+699,1933,2100,1,Group Dynamics (Myers-Briggs);Projective test
+700,1933,2100,1,Projective test;Parenting (Myers-Briggs)
+701,1933,2100,1,Projective test;Relationships (Myers-Briggs)
+702,1934,2100,1,Maslow's hierarchy of needs;Developmental psychology
+703,1934,2100,1,Mental health;Host (psychology)
+704,1934,2100,1,Post-traumatic stress disorder;Interview
+705,1934,2100,1,Libido;Sexual desire
+706,1934,2100,1,Schizophrenia;Avolition
+707,1934,2100,1,Anticathexis;Id, ego and super-ego
+708,1934,2100,1,Id, ego and super-ego;Instinct
+709,1934,2100,1,Id, ego and super-ego;Ego ideal
+710,1934,2100,1,Aphanisis;Sexual desire
+711,1934,2100,1,Sexual desire;Human sexuality
+712,1934,2100,1,Sexual desire;Hypoactive sexual desire disorder
+713,1934,2100,1,Sexual desire;Frigidity
+714,1934,1962,1,Sexual desire;Sexual aversion disorder
+715,1934,1935,1,Applied psychology;Industrial and organizational psychology
+716,1934,2100,1,Industrial and organizational psychology;Psychological tests
+717,1934,2100,1,Avolition;Megalomania
+718,1934,2100,1,Malingering;Secondary gain
+719,1934,2013,1,Displacement (psychology);Sublimation (psychology)
+720,1934,2100,1,Dissociative identity disorder;Host (psychology)
+721,1934,2100,1,Rationalization (psychology);Social desirability
+722,1934,2013,1,Fantasy (psychology);Projective identification
+723,1934,2100,1,Host (psychology);Multiple personality disorder
+724,1934,2100,1,Taboo;Social desirability
+725,1935,2100,1,Working memory;Encoding (memory)
+726,1935,2100,1,Working memory;Proactive inhibition
+727,1935,2100,1,Working memory;Proactive interference
+728,1935,2100,1,Working memory;Retroactive inhibition
+729,1935,2100,1,Working memory;Retroactive interference
+730,1935,2100,1,Intelligence quotient;Immediate memory
+731,1935,2100,1,Valence (psychology);Feedback loop
+732,1935,2100,1,Alzheimer's disease;Immediate memory
+733,1935,2100,1,Dyslexia;Immediate memory
+734,1935,2100,1,Death drive;Destrudo
+735,1935,2100,1,Philosophy of mind;Subjective reality
+736,1935,2100,1,Psychoanalyst;Destrudo
+737,1935,2100,1,Thalamus;Immediate memory
+738,1935,2100,1,Regression (psychology);Megalomania
+739,1935,2100,1,Immediate memory;Decay theory
+740,1935,2100,1,Immediate memory;Interference theory
+741,1936,2100,1,Cognition;Psychoactive drug
+742,1936,2020,1,Cognition;Psychotropic medication
+743,1936,2100,1,Cognition;Disintegrative disorder
+744,1936,1937,1,Cognition;Psychoactive
+745,1936,2100,1,The Imaginary (psychoanalysis);Narcissistic rage
+746,1937,2100,1,Cognition;Mental status examination
+747,1937,2100,1,Working memory;Wechsler adult intelligence scale
+748,1937,2100,1,Cognitive psychology;Innate ideas
+749,1937,2100,1,Idea;Innate ideas
+750,1937,2100,1,Dream;Hypnopompic
+751,1937,2100,1,Psychological testing;Wechsler adult intelligence scale
+752,1937,2100,1,Orientation (mental);Mental status examination
+753,1937,2100,1,Rationality;Hypnopompic
+754,1937,2100,1,Block design test;Wechsler adult intelligence scale
+755,1937,2100,1,Cognitive space;Memory-prediction framework
+756,1937,2100,1,Instinct;Innate ideas
+757,1937,2025,1,Self-deception;Self-knowledge (psychology)
+758,1937,2100,1,Self-help;Positive Mental Attitude
+759,1937,2100,1,Self-help;Recovery International
+760,1937,2100,1,Neuropsychological test;Wechsler adult intelligence scale
+761,1937,2100,1,Free association (psychology);State-dependent learning
+762,1937,2100,1,Recollection;State-dependent learning
+763,1938,2100,1,Comparative psychology;Continuous reinforcement
+764,1938,2100,1,Comparative psychology;Reinforcer
+765,1938,2100,1,Anhedonia;Continuous reinforcement
+766,1938,2100,1,Anhedonia;Reinforcer
+767,1938,2100,1,Learned helplessness;Continuous reinforcement
+768,1938,2100,1,Learned helplessness;Reinforcer
+769,1938,2100,1,Reinforcement;Substance dependence
+770,1938,2025,1,Reinforcement;Feedback loop
+771,1938,2100,1,Reinforcement;Role theory
+772,1938,2100,1,Psychopharmacology;Continuous reinforcement
+773,1938,2100,1,Psychopharmacology;Reinforcer
+774,1938,2100,1,Leadership;Continuous reinforcement
+775,1938,2019,1,Leadership;Reinforcer
+776,1938,2100,1,Wakefulness;False awakening
+777,1939,2100,1,Mental status;Serial sevens
+778,1940,1989,1,Counseling psychology;Applied psychology
+779,1940,2100,1,Counseling psychology;Marital therapy
+780,1940,2100,1,Counseling psychology;Marriage guidance
+781,1940,2100,1,Counseling psychology;Relationship counseling
+782,1940,2100,1,Attachment theory;Affectional bond
+783,1940,2100,1,Abuse;Reactive attachment disorder
+784,1940,2100,1,Developmental psychology;Socialization
+785,1940,2100,1,Intellectual disability;Reactive attachment disorder
+786,1940,2022,1,Amnesia;Retrograde amnesia
+787,1940,2100,1,Amnesia;Behavioral neurology
+788,1940,2100,1,Amnesia;Mental illness
+789,1940,2100,1,Socialization;Nurture
+790,1940,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Mathematics disorder
+791,1940,2100,1,Reactive attachment disorder;Comorbidity
+792,1940,2100,1,Dyslexia;Mathematics disorder
+793,1940,2100,1,Iq;Dyscalculia
+794,1940,2100,1,Iq;Mathematics disorder
+795,1940,2100,1,General intelligence factor;Social learning theory
+796,1940,2100,1,Congenital disorder;Rehabilitation counseling
+797,1940,2100,1,Human sexuality;Social learning theory
+798,1941,2100,1,Attribution theory;Gestalt psychology
+799,1941,2100,1,Socialization;Social skills
+800,1941,2100,1,Social skills;Disintegrative disorder
+801,1941,2100,1,Learning disability;Dyslexia
+802,1941,2100,1,Gestalt psychology;Educational psychology
+803,1941,2100,1,Gestalt psychology;Functional autonomy
+804,1941,2100,1,Gestalt psychology;Gestalt therapy
+805,1941,2100,1,Gestalt psychology;Graz School
+806,1941,2100,1,Codependency;Dependent personality disorder
+807,1941,2100,1,Codependency;Self-help
+808,1941,2100,1,Groupthink;Group synergy
+809,1941,2100,1,Groupthink;Mindset
+810,1941,2100,1,Groupthink;Polarization (psychology)
+811,1941,2100,1,Groupthink;Risky shift
+812,1941,2100,1,Groupthink;Wisdom of crowds
+813,1943,2100,1,Attachment theory;Drive Theory
+814,1943,2100,1,Psychotherapy;William Alanson White Institute
+815,1943,2100,1,Major depressive disorder;Multidisciplinary Association for Psychedelic Studies
+816,1943,2100,1,Psychiatrist;Drive Theory
+817,1943,2100,1,Death drive;Drive Theory
+818,1943,2100,1,Substance dependence;Multidisciplinary Association for Psychedelic Studies
+819,1943,2100,1,Drive Theory;Social facilitation
+820,1945,2100,1,Thousand-yard stare;Shell shock
+821,1945,2100,1,Shell shock;Psychology of combat
+822,1946,2025,1,Chunking (psychology);Reading (activity)
+823,1947,2100,1,Systematic desensitization;Conditioning, operant
+824,1947,1965,1,Systematic desensitization;Operant behavior
+825,1948,2100,1,Schema (psychology);Cognitive map
+826,1948,2025,1,Mental model;Cognitive map
+827,1948,2025,1,Cognitive map;Operations research
+828,1948,2100,1,Cognitive map;Declarative memory
+829,1949,2100,1,Cognitive psychology;Spatial memory
+830,1949,2100,1,Schizophrenia;Circumstantiality
+831,1949,2100,1,Logorrhea (psychology);Circumstantiality
+832,1949,2100,1,Transactional analysis;Psychodynamic theory
+833,1949,2100,1,Psycholinguistics;Lapsus linguae
+834,1950,2010,1,Cognitivism (psychology);Cognitive psychology
+835,1950,2100,1,Scientific method;Cognitive revolution
+836,1950,2025,1,Working memory;L-dopa
+837,1950,2100,1,Problem solving;Cognitive load
+838,1950,2100,1,Attribution (psychology);Attributional bias
+839,1950,2100,1,Cognitive psychology;Cognitive revolution
+840,1950,2100,1,Metabolism;Stress (medicine)
+841,1950,2100,1,American Psychological Association;Personal construct psychology
+842,1950,2100,1,Locus of control;Attribution theory
+843,1950,2100,1,Locus of control;Self-esteem
+844,1950,2100,1,Locus of control;Educational psychology
+845,1950,2100,1,Dream;L-dopa
+846,1950,2100,1,Aggression;Attributional bias
+847,1950,2100,1,Psychotherapy;Personal construct psychology
+848,1950,2100,1,Psychotherapy;Personal construct theory
+849,1950,2100,1,Post-traumatic stress disorder;Apathy
+850,1950,2100,1,Post-traumatic stress disorder;Stress (medicine)
+851,1950,2100,1,Developmental psychology;Attributional bias
+852,1950,2100,1,Developmental psychology;Stress (medicine)
+853,1950,1972,1,Sympathetic nervous system;Stress (medicine)
+854,1950,2100,1,Libido;L-dopa
+855,1950,2100,1,Apathy;Positive psychology
+856,1950,2100,1,Apathy;Flow (psychology)
+857,1950,2100,1,Apathy;Learned helplessness
+858,1950,2100,1,Hypertension;Stress (medicine)
+859,1950,2100,1,Antipsychotic;Impotence
+860,1950,2100,1,Amnesia;Highway hypnosis
+861,1950,2100,1,Psyche (psychology);Personal construct psychology
+862,1950,1961,1,Cognitive bias;Attributional bias
+863,1950,2100,1,Insomnia;L-dopa
+864,1950,1961,1,L-dopa;Psychotropic medication
+865,1950,1961,1,L-dopa;Psychoactive
+866,1950,2100,1,Positive psychology;Positive Mental Attitude
+867,1950,1989,1,Applied psychology;Community psychology
+868,1950,2100,1,Applied psychology;Attributional bias
+869,1950,2100,1,Audience effect;Cognitive load
+870,1950,2100,1,Cognitive load;Schema (psychology)
+871,1950,2100,1,Cognitive load;Subvocalization
+872,1950,2100,1,Stress management;Stress (medicine)
+873,1950,2100,1,Stress (medicine);Deception
+874,1950,2100,1,Stress (medicine);Circadian rhythm
+875,1950,2100,1,Stress (medicine);Thematic Apperception Test
+876,1950,2100,1,Stress (medicine);Psychosomatic disorders
+877,1950,2100,1,Cognitive therapy;Self-injury
+878,1950,2100,1,Cognitive therapy;Self-punishment
+879,1950,2100,1,Schema (psychology);Personal construct psychology
+880,1950,2100,1,Schema (psychology);Personal construct theory
+881,1950,2100,1,Cognitive revolution;Recollection
+882,1950,2100,1,Stockholm syndrome;Personality alteration
+883,1951,2100,1,Inference;Indirect realism
+884,1951,2100,1,Delirium;Aids dementia complex
+885,1951,2100,1,Major depressive disorder;Aids dementia complex
+886,1951,2100,1,Aids dementia complex;Face perception
+887,1951,2100,1,Aids dementia complex;Phenotype
+888,1951,2100,1,Aids dementia complex;Metabolite
+889,1951,2100,1,Psychiatrist;Medical model
+890,1951,2100,1,Family therapy;Schizophreniform disorder
+891,1951,2100,1,Occupational therapy;Schizophreniform disorder
+892,1952,2100,1,Social group;Deindividuation
+893,1952,2100,1,Deindividuation;Polarization (psychology)
+894,1952,2100,1,Deindividuation;Risky shift
+895,1954,2100,1,Psychophysics;Detection theory
+896,1954,2100,1,Evolutionary psychology;Prescriptions regarding gender roles
+897,1954,2100,1,Libido;Prescriptions regarding gender roles
+898,1954,2100,1,Socialization;Prescriptions regarding gender roles
+899,1954,2100,1,Paraphilia;Prescriptions regarding gender roles
+900,1954,2100,1,Rhetoric;Prescriptions regarding gender roles
+901,1954,2100,1,Double bind;Prescriptions regarding gender roles
+902,1954,2022,1,Prescriptions regarding gender roles;Role theory
+903,1956,2100,1,Phenotype;Schizotypal personality disorder
+904,1958,2100,1,Cognitive bias;Anchoring
+905,1958,2100,1,Audience effect;Social influence
+906,1958,2100,1,Social influence;Need
+907,1958,2022,1,Social influence;Leadership
+908,1958,2100,1,Social influence;Social facilitation
+909,1958,2100,1,Social influence;Looking glass self
+910,1958,2100,1,Neurosis;Fundamental Interpersonal Relations Orientation
+911,1958,2100,1,Dependency need;Fundamental Interpersonal Relations Orientation
+912,1959,2022,1,Social influence;Psychological manipulation
+913,1959,2019,1,Social psychology (psychology);Compliance (psychology)
+914,1959,2100,1,Histrionic personality disorder;Psychological manipulation
+915,1959,2100,1,Semantic memory;Explicit memory
+916,1959,2100,1,Semantic memory;Semantic dementia
+917,1959,2100,1,Psychological manipulation;Mind control
+918,1959,2100,1,Psychological manipulation;Personality alteration
+919,1960,2100,1,Inductive reasoning;Confirmation bias
+920,1960,2100,1,Cognitive psychology;Computational theory of mind
+921,1960,2100,1,Cognitive psychology;Dichotic listening
+922,1960,2100,1,Psychophysiology;Electroencephalography
+923,1960,2100,1,Locus of control;Just-world phenomenon
+924,1960,2100,1,Mental health;Just-world phenomenon
+925,1960,2100,1,Evolutionary psychology;Computational theory of mind
+926,1960,2100,1,Child abuse;Reactive attachment disorder
+927,1960,2100,1,Cognitive bias;Confirmation bias
+928,1960,2100,1,Cognitive bias;Just-world phenomenon
+929,1960,2100,1,Denial;Just-world phenomenon
+930,1960,2100,1,Social norm;Just-world phenomenon
+931,1960,1989,1,Community psychology;Environmental psychology
+932,1960,2100,1,Social influence;Social proof
+933,1960,2100,1,Bullying;Just-world phenomenon
+934,1960,1963,1,Rationality;Just-world phenomenon
+935,1960,2100,1,Psychopathy;Just-world phenomenon
+936,1960,2100,1,Psychopathy;Sluggishly progressing schizophrenia
+937,1960,2025,1,Reasoning;Problem-based learning
+938,1960,2100,1,Confirmation bias;Manic-depressive illness
+939,1960,2100,1,Psychological manipulation;Victim playing
+940,1960,2100,1,Self-help;One-upmanship
+941,1960,2100,1,Labeling theory;Parenting (Myers-Briggs)
+942,1960,2100,1,Labeling theory;Relationships (Myers-Briggs)
+943,1960,2100,1,Semantics;Recollection
+944,1960,2100,1,Mean World Syndrome;Availability heuristic
+945,1960,2100,1,Münchausen syndrome;Victim playing
+946,1960,2100,1,Narcissistic rage;Self psychology
+947,1960,2100,1,Polarization (psychology);Social proof
+948,1960,2100,1,Social proof;Risky shift
+949,1961,2100,1,Psychophysiology;List of psychological research methods
+950,1961,2100,1,Psychophysiology;Psychological research methods
+951,1961,1964,1,16 Personality Factors;Anxiety
+952,1961,2021,1,Anxiety;Body image
+953,1961,2100,1,Anxiety;Biological psychology
+954,1961,2100,1,Anxiety;Social distance
+955,1961,2100,1,Anxiety;Narcissistic rage
+956,1961,2100,1,Anxiety;Neuroticism Extraversion Openness Personality Inventory
+957,1961,2100,1,Anxiety;Sluggishly progressing schizophrenia
+958,1961,2100,1,Mind-body problem;Ideasthesia
+959,1961,2100,1,Evolutionary psychology;How the Mind Works
+960,1961,2100,1,List of psychological research methods;Twin study
+961,1961,2100,1,List of psychological research methods;Scientific control
+962,1961,2100,1,List of psychological research methods;Cohort effect
+963,1961,2100,1,List of psychological research methods;Cross-sectional study
+964,1961,2100,1,List of psychological research methods;Interview
+965,1961,2100,1,List of psychological research methods;Quantitative psychological research
+966,1961,2100,1,Child abuse;Journal of Psychohistory
+967,1961,2100,1,Alzheimer's disease;Short term memory
+968,1961,2100,1,Amnesia;Short term memory
+969,1961,1989,1,Community psychology;Ecological psychology
+970,1961,2100,1,Social skills;List of cognitive biases
+971,1961,2100,1,Twin study;Psychological research methods
+972,1961,2100,1,Dysfunctional family;Deception
+973,1961,2100,1,Dysfunctional family;Codependency
+974,1961,2100,1,Scientific control;Psychological research methods
+975,1961,2100,1,Conceptual model;Semantics
+976,1961,2100,1,Social psychology (psychology);Milgram experiment
+977,1961,2100,1,Cohort effect;Psychological research methods
+978,1961,2100,1,Cross-sectional study;Psychological research methods
+979,1961,2100,1,Short term memory;Semantics
+980,1961,2100,1,Idiot savant;Ideasthesia
+981,1961,2100,1,Synesthesia;Ideasthesia
+982,1961,2100,1,Ideasthesia;Semantics
+983,1961,2100,1,Semantics;Language disorder
+984,1961,2100,1,Interview;Psychological research methods
+985,1961,2100,1,Psychohistory;Journal of Psychohistory
+986,1961,2100,1,Quantitative psychological research;Psychological research methods
+987,1961,2100,1,Milieu therapy;Therapeutic community
+988,1962,2100,1,Thought;Dementia
+989,1962,2100,1,Thought;Conceptual model
+990,1962,2100,1,Thought;Marital therapy
+991,1962,2100,1,Thought;Marriage guidance
+992,1962,2100,1,Thought;Relationship counseling
+993,1962,2100,1,Behavioural sciences;Conceptual model
+994,1962,2100,1,Anxiety;Separation anxiety disorder
+995,1962,2013,1,Anxiety;Reaction formation
+996,1962,2100,1,Psychotherapy;Existential therapy
+997,1962,2100,1,Gender identity;Dysphoria
+998,1962,2100,1,Sexual dysfunction;Antidepressant
+999,1962,2100,1,Sexual dysfunction;Impotence
+1000,1962,2020,1,Sexual dysfunction;Paraphilia
+1001,1962,2100,1,Anticipation (emotion);Glossophobia
+1002,1962,2100,1,Separation anxiety disorder;Nyctophobia
+1003,1962,2100,1,Autism spectrum;Stimming
+1004,1962,2100,1,British Psychological Society;British Journal of Social Psychology
+1005,1962,2100,1,Euphoria;Dysphoria
+1006,1962,2100,1,Reaction formation;Psychodynamic theory
+1007,1962,2100,1,Conversion disorder;Mass hysteria
+1008,1962,2100,1,Stimming;Self-injury
+1009,1963,2100,1,Explanation;Making excuses
+1010,1963,2025,1,Cognitive psychology;Cognitive style
+1011,1963,2025,1,Idea;Introspection
+1012,1963,2100,1,Intelligence (trait);Iq
+1013,1963,2100,1,Intelligence (trait);Cognitive elite
+1014,1963,2025,1,Intelligence (trait);Understanding
+1015,1963,2100,1,Intelligence (trait);Social learning theory
+1016,1963,2100,1,Aggression;Making excuses
+1017,1963,2100,1,Psychotherapy;Paradoxical intention
+1018,1963,2100,1,Introspection;Group Dynamics (Myers-Briggs)
+1019,1963,2100,1,Introspection;Parenting (Myers-Briggs)
+1020,1963,2100,1,Introspection;Relationships (Myers-Briggs)
+1021,1963,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Making excuses
+1022,1963,2100,1,Reaction formation;Making excuses
+1023,1963,2100,1,Neurosis;Paradoxical intention
+1024,1963,2025,1,Cognitive style;Group synergy
+1025,1963,2100,1,Rhetoric;Making excuses
+1026,1963,2100,1,Regression (psychology);Making excuses
+1027,1963,2100,1,Semantics;Proxemics
+1028,1964,2100,1,Trait theory;Neurosis
+1029,1964,2100,1,Trait theory;Narcissism
+1030,1964,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Malignant narcissism
+1031,1964,2100,1,Journal of Psychohistory;Psychobiography
+1032,1965,2100,1,Self-actualization;Mid-life crisis
+1033,1965,2100,1,Self-awareness;Mid-life crisis
+1034,1965,2100,1,Trait theory;Psychometrics
+1035,1965,2100,1,Trait theory;Personality trait
+1036,1965,2100,1,Post-traumatic stress disorder;Character structure
+1037,1965,2100,1,Gender identity;Cultural dimensions
+1038,1965,2100,1,Applied behavior analysis;Pedophile
+1039,1965,2100,1,Nonverbal communication;Cultural dimensions
+1040,1965,2100,1,Stressor;Mid-life crisis
+1041,1965,2100,1,Social psychology (psychology);Personality trait
+1042,1965,2100,1,Rational emotive therapy;Psychometrics
+1043,1965,2100,1,Psychometrics;Multiple personality disorder
+1044,1965,2100,1,Psychometrics;Intelligence test
+1045,1965,2100,1,Psychometrics;Just-world phenomenon
+1046,1965,2100,1,Psychometrics;Mathematical psychology
+1047,1965,2100,1,Psychometrics;Quantitative psychology
+1048,1965,2100,1,Psychometrics;Rational-emotive therapy
+1049,1965,2100,1,Cultural dimensions;Social distance
+1050,1965,2100,1,Intimacy;Mid-life crisis
+1051,1966,2100,1,Emotion;Lethologica
+1052,1966,2100,1,Major depressive disorder;Self-criticism
+1053,1966,2100,1,Aphasia;Lethologica
+1054,1966,2100,1,Dementia;Lethologica
+1055,1966,2100,1,Animal hoarding;Diogenes syndrome
+1056,1966,2100,1,Psychoactive drug;Lethologica
+1057,1966,2100,1,Iq;Emotional intelligence
+1058,1966,2100,1,Catatonia;Diogenes syndrome
+1059,1966,2100,1,Humanistic psychology;Emotional intelligence
+1060,1966,2100,1,Predictive validity;Group Dynamics (Myers-Briggs)
+1061,1966,2100,1,Predictive validity;Parenting (Myers-Briggs)
+1062,1966,2100,1,Predictive validity;Relationships (Myers-Briggs)
+1063,1966,2100,1,Personality trait;Content validity
+1064,1966,2100,1,Personality trait;Eysenck Personality Questionnaire
+1065,1966,2100,1,Personality trait;Self-criticism
+1066,1966,2100,1,Emotional intelligence;Group synergy
+1067,1966,2100,1,Eysenck Personality Questionnaire;Group Dynamics (Myers-Briggs)
+1068,1966,2100,1,Eysenck Personality Questionnaire;Mass hysteria
+1069,1966,2100,1,Eysenck Personality Questionnaire;Parenting (Myers-Briggs)
+1070,1966,2100,1,Eysenck Personality Questionnaire;Relationships (Myers-Briggs)
+1071,1966,2100,1,Psycholinguistics;Lethologica
+1072,1966,2100,1,Lethologica;Phonology
+1073,1967,2100,1,Post-traumatic stress disorder;Flooding (psychology)
+1074,1967,2100,1,Psychology Today;Daydream
+1075,1967,2100,1,Psychology Today;Group Dynamics (Myers-Briggs)
+1076,1967,2100,1,Psychology Today;Narcissistic rage
+1077,1967,2100,1,Psychology Today;Parenting (Myers-Briggs)
+1078,1967,2100,1,Psychology Today;Rational-emotive therapy
+1079,1967,2100,1,Psychology Today;Relationships (Myers-Briggs)
+1080,1967,2100,1,Schizophrenia;Punitive psychiatry in the Soviet Union
+1081,1967,2022,1,Systematic desensitization;Flooding (psychology)
+1082,1967,2100,1,Flooding (psychology);Psychological repression
+1083,1967,2100,1,Psychopathy;Punitive psychiatry in the Soviet Union
+1084,1967,2100,1,Psychological repression;Primal therapy
+1085,1967,2100,1,Histrionic personality disorder;Punitive psychiatry in the Soviet Union
+1086,1967,2025,1,Creativity;Lateral thinking
+1087,1967,2025,1,Reasoning;Lateral thinking
+1088,1967,2100,1,Homosexuality;Punitive psychiatry in the Soviet Union
+1089,1967,2100,1,Xenophobia;Punitive psychiatry in the Soviet Union
+1090,1967,2100,1,Wechsler adult intelligence scale;Wechsler Preschool and Primary Scale of Intelligence
+1091,1968,2025,1,Systems thinking;Creative problem solving
+1092,1968,2100,1,Psychology Today;Shadow (psychology)
+1093,1968,2100,1,Self-esteem;Shadow (psychology)
+1094,1968,1969,1,Analytical psychology;Shadow (psychology)
+1095,1968,2100,1,Shadow (psychology);Psychological projection
+1096,1968,2100,1,Shadow (psychology);Creativity
+1097,1968,2025,1,List of cognitive biases;Creative problem solving
+1098,1969,2100,1,American Psychological Association;California School of Professional Psychology
+1099,1969,2100,1,Socialization;Self (Jung)
+1100,1969,2100,1,Psychopharmacology;California School of Professional Psychology
+1101,1969,2100,1,Megalomania;Self (Jung)
+1102,1970,2100,1,Psychological resilience;Mental health
+1103,1970,2025,1,Clinical psychology;Mindfulness (psychology)
+1104,1970,2100,1,Cognitive psychology;Mental management
+1105,1970,2100,1,Systems thinking;Activity theory
+1106,1970,1989,1,Activity theory;Behaviorism
+1107,1970,2100,1,Post-traumatic stress disorder;Narrative therapy
+1108,1970,2100,1,Behavioral medicine;Substance abuse
+1109,1970,2100,1,Behavioral medicine;Applied behavior analysis
+1110,1970,2100,1,Behavioral medicine;Biofeedback
+1111,1970,2100,1,Behavioral medicine;Occupational therapy
+1112,1970,2100,1,Behavioral medicine;Medical model
+1113,1970,2100,1,Child abuse;Genie (feral child)
+1114,1970,2100,1,Cognitive bias;Representativeness heuristic
+1115,1970,2100,1,Behavior modification;Flooding (psychology)
+1116,1970,2100,1,Archetypal psychology;Major depression
+1117,1970,2100,1,Archetypal psychology;Dead inside (concept)
+1118,1970,2100,1,Archetypal psychology;Unipolar depression
+1119,1970,2100,1,Nonverbal communication;Genie (feral child)
+1120,1970,2100,1,Social skills;Genie (feral child)
+1121,1970,2100,1,General intelligence factor;Organizational citizenship behavior
+1122,1970,2100,1,Creativity;Mentoring
+1123,1970,2100,1,Wakefulness;Mindfulness (psychology)
+1124,1970,2100,1,Mindfulness (psychology);Gestalt therapy
+1125,1971,2100,1,Psychological resilience;Psychological trauma
+1126,1971,2100,1,Social cognition;Actor-observer bias
+1127,1971,2100,1,Attribution (psychology);Actor-observer bias
+1128,1971,2100,1,Symbol;Jungian psychology
+1129,1971,2100,1,Extraversion and introversion;Jungian psychology
+1130,1971,2100,1,Actor-observer bias;Attribution theory
+1131,1971,2100,1,Post-traumatic stress disorder;Psychological trauma
+1132,1971,2100,1,Psychology Today;Adolescence
+1133,1971,2100,1,Adolescence;Behavioral medicine
+1134,1971,2100,1,Adolescence;Developmental psychology
+1135,1971,2100,1,Adolescence;Nymphophilia
+1136,1971,2100,1,Adolescence;Renfield's syndrome
+1137,1971,2100,1,History of psychology;Nurture
+1138,1971,2100,1,Behavior modification;Medical psychology
+1139,1971,1989,1,Applied psychology;Medical psychology
+1140,1971,2100,1,Medical psychology;Psychopharmacology
+1141,1971,2100,1,Archetypal psychology;Jungian psychology
+1142,1971,2100,1,Dysthymia;Depressive personality disorder
+1143,1971,2100,1,Psychological repression;Psychological trauma
+1144,1971,2100,1,Psychological trauma;Elective mutism
+1145,1971,2100,1,Psychological trauma;Feral child
+1146,1971,2100,1,Psychological trauma;Just-world phenomenon
+1147,1971,2100,1,Psychological trauma;Recollection
+1148,1971,2025,1,Fluid and crystallized intelligence;Group synergy
+1149,1972,1992,1,Suicide;Emotional dysregulation
+1150,1972,2100,1,Adolescence;Relational aggression
+1151,1972,2100,1,Adolescence;Dental fear
+1152,1972,2100,1,Adolescence;Identity crisis (psychology)
+1153,1972,2100,1,Child development;Childhood disintegrative disorder
+1154,1972,2100,1,Child development;Mental illness
+1155,1972,2100,1,Child development;Disintegrative disorder
+1156,1972,2100,1,Child development;Psychology, Philosophy and Physiology
+1157,1972,2100,1,Erikson's stages of psychosocial development;Identity crisis (psychology)
+1158,1972,2100,1,Cognitive behavioral therapy;Motor skills disorder
+1159,1972,2100,1,Fight-or-flight response;Multiple personality disorder
+1160,1972,2100,1,Sluggish cognitive tempo;Emotional dysregulation
+1161,1972,2021,1,Derealization;Schizotypal personality disorder
+1162,1972,1973,1,Derealization;Psychological trauma
+1163,1972,2100,1,Occupational therapy;Motor skills disorder
+1164,1972,2100,1,Dyslexia;Motor skills disorder
+1165,1972,2100,1,Socioeconomic status;Congenital disorder
+1166,1972,2020,1,Socioeconomic status;Intelligence test
+1167,1972,2100,1,Motor skills disorder;Multisensory integration
+1168,1973,2100,1,Arousal;Extraversion and introversion
+1169,1973,2100,1,Arousal;Fight-or-flight response
+1170,1973,2100,1,Anxiety;Mental confusion
+1171,1973,2100,1,Child development;Inheritance of intelligence
+1172,1973,2100,1,Intelligence quotient;Inheritance of intelligence
+1173,1973,2100,1,Erikson's stages of psychosocial development;Developmental stage theories
+1174,1973,2100,1,Relational aggression;Passive–aggressive behavior
+1175,1973,2100,1,Clique;Socioeconomic status
+1176,1973,2100,1,Phenotype;Inheritance of intelligence
+1177,1973,2100,1,Cognitive bias;Selective abstraction
+1178,1973,2100,1,Fight-or-flight response;Surprise (emotion)
+1179,1973,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Dysgraphia
+1180,1973,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Passive–aggressive behavior
+1181,1973,2100,1,Oppositional defiant disorder;Passive–aggressive behavior
+1182,1973,2100,1,Developmental disorder;Developmental coordination disorder
+1183,1973,2100,1,Neglect;Passive–aggressive behavior
+1184,1973,2100,1,Learning disability;Dysgraphia
+1185,1973,2100,1,Dyslexia;Picture thinking
+1186,1973,2100,1,Cognitive therapy;Selective abstraction
+1187,1973,2100,1,Cognitive distortion;Selective abstraction
+1188,1973,2100,1,Socioeconomic status;Inheritance of intelligence
+1189,1973,2100,1,Auditory processing disorder;Picture thinking
+1190,1973,2100,1,Developmental coordination disorder;Dysgraphia
+1191,1973,2100,1,Developmental coordination disorder;Picture thinking
+1192,1973,2100,1,Encoding (memory);Dysgraphia
+1193,1973,2100,1,Psychological manipulation;Passive–aggressive behavior
+1194,1973,2100,1,Dysgraphia;Motor skills disorder
+1195,1973,2100,1,Image schema;Picture thinking
+1196,1973,1974,1,Klismaphilia;Sexual deviation
+1197,1974,2100,1,Arousal;Waking states
+1198,1974,2100,1,Mind-body dualism;Propositional attitude
+1199,1974,2100,1,Major depressive disorder;Burnout (psychology)
+1200,1974,2100,1,Sexual dysfunction;Sexual arousal
+1201,1974,2100,1,Bipolar disorder;Ultradian
+1202,1974,2100,1,Industrial and organizational psychology;Burnout (psychology)
+1203,1974,2020,1,Dyslexia;Wechsler Intelligence Scale for Children
+1204,1974,2100,1,Burnout (psychology);Cognitive restructuring
+1205,1974,2100,1,Burnout (psychology);Neuroticism Extraversion Openness Personality Inventory
+1206,1974,2100,1,Circadian rhythm;Ultradian
+1207,1974,2100,1,Dissociative disorder;Psychogenic amnesia
+1208,1974,2100,1,Mental status examination;Propositional attitude
+1209,1974,2100,1,Thalamus;Waking states
+1210,1974,2100,1,Perspective (cognitive);Propositional attitude
+1211,1974,2100,1,Lie;Propositional attitude
+1212,1974,2100,1,Wechsler Intelligence Scale for Children;Psychological tests
+1213,1974,2100,1,Surprise (emotion);Propositional attitude
+1214,1975,2100,1,Cognitivism (psychology);Human computer interaction
+1215,1975,2100,1,Social science;Human computer interaction
+1216,1975,2100,1,Self-awareness;Large Group Awareness Training
+1217,1975,2100,1,Catharsis;Large Group Awareness Training
+1218,1975,2100,1,Activity theory;Human computer interaction
+1219,1975,2100,1,Dementia;Echopraxia
+1220,1975,2100,1,Id, ego and super-ego;Large Group Awareness Training
+1221,1975,2100,1,Autism spectrum;Echopraxia
+1222,1975,2100,1,Sexual arousal;Subliminal advertising
+1223,1975,2100,1,Sexual arousal;Subliminal perception
+1224,1975,2100,1,Reinforcement;Subliminal advertising
+1225,1975,2100,1,Reinforcement;Subliminal perception
+1226,1975,2100,1,Flooding (psychology);Large Group Awareness Training
+1227,1975,2100,1,Biofeedback;Large Group Awareness Training
+1228,1975,2100,1,Cognitive restructuring;Cognitive interventions
+1229,1975,2100,1,Stress (medicine);Large Group Awareness Training
+1230,1975,2100,1,Cognitive therapy;Large Group Awareness Training
+1231,1975,2100,1,Echopraxia;Tourette syndrome
+1232,1975,2100,1,Echopraxia;Latah
+1233,1975,2100,1,Encounter group;Large Group Awareness Training
+1234,1975,2100,1,Group psychotherapy;Large Group Awareness Training
+1235,1975,2100,1,Large Group Awareness Training;Lifespring
+1236,1975,2100,1,Large Group Awareness Training;Neuro-linguistic programming
+1237,1975,2100,1,Sensory threshold;Subliminal advertising
+1238,1975,2100,1,Sensory threshold;Subliminal perception
+1239,1976,2100,1,Anorgasmia;Sexual response cycle
+1240,1976,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Sexual response cycle
+1241,1976,2100,1,Beck's cognitive triad;Rorschach inkblot test
+1242,1976,2100,1,Echolalia;Palilalia
+1243,1977,2100,1,Münchausen syndrome by proxy;Psychological trauma
+1244,1977,2100,1,Echolalia;Pronoun reversal
+1245,1979,2100,1,Cognitive psychology;Prospect theory
+1246,1979,2100,1,Anxiety;Seasonal affective disorder
+1247,1979,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Chinese Classification of Mental Disorders
+1248,1979,2100,1,Scientific control;Barnes maze
+1249,1980,2100,1,Thought;Free-floating anxiety
+1250,1980,2025,1,Sociology;Distributed cognition
+1251,1980,1999,1,Mental disorder;Gender identity disorder
+1252,1980,2100,1,Suicide;Free-floating anxiety
+1253,1980,2100,1,Gender identity;Gender identity disorder
+1254,1980,2020,1,Sexual dysfunction;Free-floating anxiety
+1255,1980,1981,1,Diagnostic and Statistical Manual of Mental Disorders;Gender identity disorder
+1256,1980,2100,1,Insomnia;Hysterical neurosis
+1257,1980,2100,1,Borderline personality disorder;Hysterical neurosis
+1258,1980,2021,1,Derealization;Free-floating anxiety
+1259,1980,2100,1,Mental illness;Hysteria
+1260,1980,2100,1,Histrionic personality disorder;Hysterical neurosis
+1261,1980,2025,1,Schema (psychology);Situational awareness
+1262,1980,2025,1,Mental model;Situational awareness
+1263,1980,2100,1,Somatization disorder;Hysterical neurosis
+1264,1980,2021,1,Hysteria;Psychoanalyst
+1265,1980,2100,1,Hysteria;Mmpi-2
+1266,1980,2100,1,Free-floating anxiety;Mixed anxiety-depressive disorder
+1267,1982,2100,1,Acceptance and commitment therapy;Brief psychotherapy
+1268,1982,2100,1,Acceptance and commitment therapy;Applied behavior analysis
+1269,1982,2100,1,Acceptance and commitment therapy;Cibophobia
+1270,1982,2100,1,Acceptance and commitment therapy;Dermatillomania
+1271,1982,2100,1,Acceptance and commitment therapy;Mindfulness (psychology)
+1272,1982,2100,1,Acceptance and commitment therapy;Free-floating anxiety
+1273,1982,2100,1,Acceptance and commitment therapy;Marital therapy
+1274,1982,2100,1,Acceptance and commitment therapy;Marriage guidance
+1275,1982,2100,1,Acceptance and commitment therapy;Relationship counseling
+1276,1986,2100,1,Anhedonia;Multiple-complex Developmental Disorder
+1277,1986,2100,1,Social skills;Multiple-complex Developmental Disorder
+1278,1986,2100,1,Avolition;Multiple-complex Developmental Disorder
+1279,1986,2100,1,Dyslexia;Multiple-complex Developmental Disorder
+1280,1986,2100,1,Catatonia;Multiple-complex Developmental Disorder
+1281,1986,2100,1,Tourette syndrome;Multiple-complex Developmental Disorder
+1282,1986,2100,1,Narcissism;Multiple-complex Developmental Disorder
+1283,1986,2100,1,Dysgraphia;Multiple-complex Developmental Disorder
+1284,1986,2100,1,Synesthesia;Multiple-complex Developmental Disorder
+1285,1987,2100,1,Experimental psychology;Ironic process theory
+1286,1988,2100,1,Social cognition;Social neuroscience
+1287,1988,2100,1,The American Psychologist;Social neuroscience
+1288,1989,2100,1,List of psychology disciplines;Behavioural genetics
+1289,1989,2100,1,List of psychology disciplines;Distributed cognition
+1290,1989,2100,1,List of psychology disciplines;Parapsychology
+1291,1989,2100,1,List of psychology disciplines;Psychology of religion
+1292,1990,2100,1,Social group;Interpersonal relationships
+1293,1990,2100,1,Interpersonal relationships;Inference
+1294,1990,2100,1,Interpersonal relationships;Intimate relationship
+1295,1990,2100,1,Interpersonal relationships;Locus of control
+1296,1990,2100,1,Interpersonal relationships;Gender role
+1297,1990,2100,1,Interpersonal relationships;Asperger syndrome
+1298,1990,2100,1,Locus of control;Self control
+1299,1990,2100,1,Humanistic psychology;Post-cognitivist psychology
+1300,1990,2100,1,Self-determination theory;Human Givens
+1301,1990,2100,1,Regression (psychology);Paraphilic infantilism
+1302,1990,2100,1,Holland Codes;Parenting (Myers-Briggs)
+1303,1990,2100,1,Holland Codes;Relationships (Myers-Briggs)
+1304,1990,2100,1,Self control;Recovery International
+1305,1990,2100,1,Semantics;Quantum Psychology
+1306,1990,2100,1,Paraphilic infantilism;Lovemap
+1307,1991,2100,1,Psychopathology;Sexual masochism
+1308,1991,2100,1,Sexual dysfunction;Sexual masochism
+1309,1991,2100,1,Social norm;Sexual masochism
+1310,1991,2100,1,Femininity;Sexual masochism
+1311,1991,2100,1,Human sexuality;Sexual masochism
+1312,1991,2100,1,Exhibitionism;Sexual masochism
+1313,1992,2100,1,Schizophrenia;Thought insertion
+1314,1992,2100,1,International Classification of Diseases;Premature ejaculation
+1315,1992,2020,1,Complex post-traumatic stress disorder;Somatization disorder
+1316,1992,2100,1,Reasoning;Rational choice theory
+1317,1992,2100,1,Thought insertion;Multiple-complex Developmental Disorder
+1318,1993,2100,1,Substance abuse;Anti-social behaviour
+1319,1993,2100,1,Anti-social behaviour;Social norm
+1320,1993,2100,1,Anti-social behaviour;Diagnostic and Statistical Manual of Mental Disorders
+1321,1993,2020,1,Anti-social behaviour;Conduct disorder
+1322,1993,2100,1,Reactive attachment disorder;Disinhibited attachment disorder
+1323,1993,2100,1,Echolalia;Lovaas technique
+1324,1993,2100,1,Shaping (psychology);Lovaas technique
+1325,1993,2100,1,Decision theory;Mathematical psychology
+1326,1993,2025,1,Decision theory;Mindset
+1327,1993,2025,1,Decision theory;Situational awareness
+1328,1993,2100,1,Lovaas technique;Stimming
+1329,1994,2100,1,Emotion;Forgiveness
+1330,1994,2100,1,Social science;Forgiveness
+1331,1994,2100,1,Behavioral economics;Loss aversion
+1332,1994,2100,1,Decision theory;Loss aversion
+1333,1994,2100,1,Prospect theory;Pseudocertainty effect
+1334,1995,2100,1,Evolutionary psychology;Ecopsychology
+1335,1995,2100,1,Environmental psychology;Ecopsychology
+1336,1997,2100,1,British Journal of Social Psychology;List of scientific journals in psychology
+1337,1997,2025,1,Mental model;Theory of Constraints
+1338,1999,2021,1,Phobia;Mental health disorders
+1339,1999,2020,1,Dementia;Mental health disorders
+1340,1999,2020,1,Conduct disorder;Mental health disorders
+1341,1999,2020,1,Social anxiety disorder;Mental health disorders
+1342,1999,2020,1,Derealization;Mental health disorders
+1343,1999,2100,1,British Psychological Society;Mental health disorders
+1344,1999,2100,1,Circadian rhythm sleep disorder;Mental health disorders
+1345,1999,2020,1,Mental health disorders;Somatization disorder
+1346,1999,2100,1,Mental health disorders;Developmental coordination disorder
+1347,1999,2100,1,Mental health disorders;Tourette syndrome
+1348,1999,2100,1,Mental health disorders;Dyspareunia
+1349,1999,2100,1,Mental health disorders;Language disorder
+1350,2000,2100,1,Delirium;Cognitive disorder
+1351,2000,2100,1,Cognitive disorder;Multiple personality disorder
+1352,2000,2100,1,Thalamus;Gustation
+1353,2003,2100,1,Symbol;Tree of Knowledge System
+1354,2003,2100,1,Behaviorism;Tree of Knowledge System
+1355,2003,2100,1,Facial expression;Tree of Knowledge System
+1356,2003,2100,1,Socialization;The Blank Slate
+1357,2003,2100,1,Asperger syndrome;Pervasive developmental disorders
+1358,2003,2100,1,Mental illness;Pervasive developmental disorders
+1359,2005,2100,1,Feeling;Stages of faith development
+1360,2005,2100,1,Developmental psychology;Stages of faith development
+1361,2005,2100,1,Kohlberg's stages of moral development;Stages of faith development
+1362,2005,2100,1,Stages of faith development;Psychology of religion
+1363,2006,2100,1,Gender role;Homophobia
+1364,2006,2100,1,Developmental psychology;Advanced Placement Psychology
+1365,2006,2100,1,Sexual orientation;Homophobia
+1366,2006,2100,1,Advanced Placement Psychology;History of psychology
+1367,2006,2100,1,Advanced Placement Psychology;List of psychological research methods
+1368,2006,2100,1,Advanced Placement Psychology;Psychological testing
+1369,2006,2100,1,Neurological disorder;Agraphia
+1370,2006,2100,1,Neurological disorder;Dementia
+1371,2006,2100,1,Neurological disorder;Attention-deficit hyperactivity disorder
+1372,2006,2100,1,Neurological disorder;Developmental coordination disorder
+1373,2006,2100,1,Neurological disorder;Motor skills disorder
+1374,2006,2100,1,Antipathy;Homophobia
+1375,2006,2100,1,Transsexual;Homophobia
+1376,2006,2100,1,Homophobia;Marital therapy
+1377,2006,2100,1,Homophobia;Marriage guidance
+1378,2006,2100,1,Homophobia;Relationship counseling
+1379,2006,2100,1,Test-retest reliability;Mmpi-2
+1380,2007,2100,1,Self-esteem;Phonological disorder
+1381,2007,2100,1,Neurological disorder;Phonological disorder
+1382,2007,2100,1,Intellectual disability;Phonological disorder
+1383,2007,2020,1,Diagnostic and Statistical Manual of Mental Disorders;Hypersomnia
+1384,2007,2100,1,Bullying;Phonological disorder
+1385,2007,2100,1,Demand characteristics;Experimenter's bias
+1386,2007,2100,1,Speech perception;Phonological disorder
+1387,2007,2100,1,Middle age;Mid-life crisis
+1388,2008,2100,1,Perception;Theory of Cognitive development
+1389,2008,2100,1,Operant conditioning;Theory of Cognitive development
+1390,2008,2100,1,Inductive reasoning;Theory of Cognitive development
+1391,2008,2100,1,Self-actualization;Theory of Cognitive development
+1392,2008,2100,1,Adaptation;Theory of Cognitive development
+1393,2008,2100,1,Anti-social behaviour;Theory of Cognitive development
+1394,2008,2100,1,General intelligence factor;Piaget's theory of cognitive development
+1395,2008,2100,1,Schema (psychology);Theory of Cognitive development
+1396,2008,2100,1,Creativity;Theory of Cognitive development
+1397,2008,2100,1,Psychometrics;Theory of Cognitive development
+1398,2008,2100,1,Piaget's theory of cognitive development;Developmental stage theories
+1399,2008,2100,1,Developmental stage theories;Theory of Cognitive development
+1400,2008,2100,1,Kohlberg's stages of moral development;Theory of Cognitive development
+1401,2008,2100,1,Theory of Cognitive development;Transduction (psychology)
+1402,2009,2100,1,Clinical psychology;Madonna-whore complex
+1403,2009,2100,1,Metacognition;Evolutionary psychology
+1404,2009,2100,1,Metacognition;Rational emotive therapy
+1405,2009,2025,1,Metacognition;Mindfulness (psychology)
+1406,2009,2100,1,Metacognition;Lethologica
+1407,2009,2025,1,Metacognition;Recollection
+1408,2009,2100,1,Metacognition;Rational-emotive therapy
+1409,2009,2100,1,Idea;Ideation (idea generation)
+1410,2009,2010,1,Libido;Phallic stage
+1411,2009,2100,1,Borderline personality disorder;Madonna-whore complex
+1412,2009,2100,1,Oedipus complex;Madonna-whore complex
+1413,2009,2100,1,Suicidal ideation;Ideation (idea generation)
+1414,2009,2100,1,General intelligence factor;Conservation (psychology)
+1415,2009,2100,1,General intelligence factor;Theory of multiple intelligences
+1416,2009,2100,1,Conservation (psychology);Theory of Cognitive development
+1417,2009,2100,1,Brainstorming;Ideation (idea generation)
+1418,2009,2100,1,Intimacy;Madonna-whore complex
+1419,2009,2100,1,Ideation (idea generation);Rorschach inkblot test
+1420,2010,2100,1,Cognition;Integral psychology
+1421,2010,2100,1,Psychoanalysis;Integral psychology
+1422,2010,2100,1,Mental function;Attribution (psychology)
+1423,2010,2025,1,Mental function;Metacognition
+1424,2010,2100,1,Idea;Integral psychology
+1425,2010,2100,1,Psychodynamics;Adolescent psychology
+1426,2010,2100,1,Interpersonal relationships;Electra complex
+1427,2010,2100,1,Intimate relationship;Adolescent psychology
+1428,2010,2021,1,Electra complex;Oedipus complex
+1429,2010,2100,1,Electra complex;Fixation (psychology)
+1430,2010,2100,1,American Psychological Association;Adolescent psychology
+1431,2010,2100,1,Behaviorism;Integral psychology
+1432,2010,2100,1,Psychology Today;Adolescent psychology
+1433,2010,2100,1,Behavioral medicine;Adolescent psychology
+1434,2010,2100,1,Developmental psychology;Integral psychology
+1435,2010,2100,1,Adolescent psychology;Pituitary gland
+1436,2010,2100,1,Adolescent psychology;Introspection
+1437,2010,2100,1,Adolescent psychology;Self-consciousness
+1438,2010,2100,1,Adolescent psychology;Intelligence quotient
+1439,2010,2100,1,Adolescent psychology;Erikson's stages of psychosocial development
+1440,2010,2100,1,Adolescent psychology;Gender identity
+1441,2010,2100,1,Adolescent psychology;Self-esteem
+1442,2010,2100,1,Adolescent psychology;Relational aggression
+1443,2010,2100,1,Adolescent psychology;Clique
+1444,2010,2100,1,Jungian psychology;Process Oriented Psychology
+1445,2010,2100,1,Biofeedback;Integral psychology
+1446,2010,2100,1,Body psychotherapy;Process Oriented Psychology
+1447,2010,2100,1,Collective consciousness;Integral psychology
+1448,2010,2100,1,Piaget's theory of cognitive development;Integral psychology
+1449,2010,2100,1,Psychodrama;Integral psychology
+1450,2010,2100,1,Theory of multiple intelligences;Integral psychology
+1451,2010,2100,1,Gestalt therapy;Integral psychology
+1452,2010,2100,1,Gestalt therapy;Process Oriented Psychology
+1453,2010,2100,1,Integral psychology;Kohlberg's stages of moral development
+1454,2010,2100,1,Process Oriented Psychology;Self (Jung)
+1455,2010,2100,1,Process Oriented Psychology;Play therapy
+1456,2011,2100,1,Id, ego and super-ego;Mob psychology
+1457,2011,2100,1,Bystander effect;Mob psychology
+1458,2011,2100,1,Collective consciousness;Mob psychology
+1459,2011,2100,1,Groupthink;Mob psychology
+1460,2011,2100,1,Crowd manipulation;Mob psychology
+1461,2011,2100,1,Deindividuation;Mob psychology
+1462,2011,2100,1,Smart mob;Mob psychology
+1463,2013,2100,1,Acting out;Defence mechanism
+1464,2013,2100,1,Selfishness;Altruism
+1465,2013,2100,1,Altruism;Defence mechanism
+1466,2013,2100,1,Altruism;Moral psychology
+1467,2013,2100,1,Altruism;Neuroticism Extraversion Openness Personality Inventory
+1468,2013,2100,1,Procrastination;Defence mechanism
+1469,2013,2100,1,Borderline personality disorder;Impulse control disorder
+1470,2013,2100,1,List of cognitive biases;Defence mechanism
+1471,2013,2100,1,Mental illness;Factitious disorder
+1472,2013,2100,1,Hypochondriasis;Defence mechanism
+1473,2013,2100,1,Hypochondriasis;Mass hysteria
+1474,2013,2100,1,Hypochondriasis;Mmpi-2
+1475,2013,2100,1,Hypochondriasis;Münchausen syndrome
+1476,2013,2100,1,Münchausen syndrome by proxy;Factitious disorder
+1477,2013,2100,1,Compensation (psychology);Defence mechanism
+1478,2013,2100,1,Defence mechanism;Psychological manipulation
+1479,2013,2100,1,Defence mechanism;Human sexuality
+1480,2013,2100,1,Defence mechanism;Personal boundaries
+1481,2013,2100,1,Defence mechanism;Ego ideal
+1482,2013,2100,1,Defence mechanism;Regression (psychology)
+1483,2013,2100,1,Defence mechanism;Developmental stage theories
+1484,2013,2100,1,Defence mechanism;Envy
+1485,2013,2100,1,Defence mechanism;Forgiveness
+1486,2013,2100,1,Defence mechanism;Gratitude
+1487,2013,2100,1,Factitious disorder;Pseudologia
+1488,2013,2100,1,Self control;Impulse control disorder
+1489,2013,2021,1,Impulse control disorder;Kleptomania
+1490,2014,2100,1,Aggression;Coping skill
+1491,2014,2100,1,Acting out;Designated patient
+1492,2014,2100,1,Substance abuse;Impulse (psychology)
+1493,2014,2100,1,Sympathetic nervous system;Coping skill
+1494,2014,2100,1,Altruism;Designated patient
+1495,2014,2100,1,Socialization;Impulse (psychology)
+1496,2014,2100,1,Social norm;Reciprocity (social psychology)
+1497,2014,2100,1,Dysfunctional family;Designated patient
+1498,2014,2100,1,Family therapy;Designated patient
+1499,2014,2100,1,Psychological projection;Designated patient
+1500,2014,2100,1,Paraphilia;Impulse (psychology)
+1501,2014,2100,1,Stress management;Coping skill
+1502,2014,2100,1,Stressor;Coping skill
+1503,2014,2100,1,Münchausen syndrome by proxy;Designated patient
+1504,2014,2100,1,Coping skill;Social support
+1505,2014,2100,1,Destrudo;Impulse (psychology)
+1506,2014,2100,1,Impulse (psychology);Exhibitionism
+1507,2014,2100,1,Impulse (psychology);Lethologica
+1508,2015,2100,1,Perception;Irrational anger
+1509,2015,2100,1,Attribution (psychology);Irrational anger
+1510,2015,2100,1,Gender role;Child directed speech
+1511,2015,2100,1,Psychopathology;Relational frame theory
+1512,2015,2100,1,Aggression;Irrational anger
+1513,2015,2100,1,Phobia;Irrational anger
+1514,2015,2100,1,Eating disorder;Irrational anger
+1515,2015,2016,1,Affect display;Apathy
+1516,2015,2020,1,Valence (psychology);Anger
+1517,2015,2100,1,Body language;Child directed speech
+1518,2015,2100,1,Body language;Rapport
+1519,2015,2100,1,Child abuse;Irrational anger
+1520,2015,2100,1,Major depressive disorder;Child directed speech
+1521,2015,2100,1,Selfishness;Irrational anger
+1522,2015,2100,1,Hypertension;Irrational anger
+1523,2015,2100,1,Rage (emotion);Anger
+1524,2015,2100,1,Anger;Fight-or-flight response
+1525,2015,2100,1,Anger;Obsessive-compulsive personality disorder
+1526,2015,2100,1,Anger;Rational emotive therapy
+1527,2015,2100,1,Anger;Distressed personality type
+1528,2015,2020,1,Anger;Rational-emotive therapy
+1529,2015,2100,1,Social skills;Irrational anger
+1530,2015,2100,1,Bullying;Child directed speech
+1531,2015,2100,1,Bullying;Irrational anger
+1532,2015,2100,1,Neurosis;Irrational anger
+1533,2015,2100,1,Child directed speech;Socioeconomic status
+1534,2015,2100,1,Sadomasochism;Paraphilic infantilism
+1535,2015,2100,1,Sadomasochism;Madonna-whore complex
+1536,2015,2100,1,Sadomasochism;Masochistic personality disorder
+1537,2015,2100,1,Criticism;Irrational anger
+1538,2015,2100,1,Thalamus;Irrational anger
+1539,2015,2100,1,Irrational anger;Melancholia
+1540,2016,2025,1,Feeling;Intuition (knowledge)
+1541,2016,2025,1,Cognition;Intuition (knowledge)
+1542,2016,2100,1,Affect (psychology);Sympathetic nervous system
+1543,2016,2100,1,Affect (psychology);Euphoria
+1544,2016,2100,1,Affect (psychology);Obsessive-compulsive personality disorder
+1545,2016,2100,1,Suffering;Neurological disorder
+1546,2016,2100,1,Suffering;Psychomotor agitation
+1547,2016,2100,1,Suffering;Humiliation
+1548,2016,2100,1,Suffering;Telepathy
+1549,2016,2100,1,Interpersonal relationships;Jealousy
+1550,2016,2100,1,Intuition (knowledge);Nonverbal communication
+1551,2016,2025,1,Intuition (knowledge);Phrenology
+1552,2016,2100,1,Intuition (knowledge);Instinct
+1553,2016,2025,1,Intuition (knowledge);Brainstorming
+1554,2016,2100,1,Intuition (knowledge);Preconscious
+1555,2016,2100,1,Intuition (knowledge);Rapport
+1556,2016,2025,1,Introspection;Belief
+1557,2016,2100,1,Anger;Righteous indignation
+1558,2016,2100,1,Anger;Sexual arousal disorders
+1559,2016,2100,1,Sexual desire;Sexual arousal disorders
+1560,2016,2100,1,Hostility;Personal construct psychology
+1561,2016,2100,1,Belief;Stages of faith development
+1562,2016,2100,1,Belief;Test (assessment)
+1563,2016,2100,1,Blunted affect;Psychopathy
+1564,2016,2100,1,Blunted affect;Hypochondriasis
+1565,2016,2100,1,Stress (medicine);Sexual arousal disorders
+1566,2016,2100,1,Defence mechanism;Patience
+1567,2016,2100,1,Tourette syndrome;Coprophilia
+1568,2016,2100,1,Coprophilia;Sadomasochism
+1569,2016,2100,1,Sadomasochism;Martyr complex
+1570,2017,2100,1,Affect (psychology);Psychomotor retardation
+1571,2017,2018,1,Motivation;Volition (psychology)
+1572,2017,2100,1,Volition (psychology);Mind-body dualism
+1573,2017,2100,1,Suffering;Pleasure principle (psychology)
+1574,2017,2100,1,Suffering;Sentience
+1575,2017,2100,1,Suffering;Psychological pain
+1576,2017,2018,1,Mood (psychology);Major depressive disorder
+1577,2017,2100,1,Mood (psychology);Psychoactive drug
+1578,2017,2100,1,Emotional expression;Self-awareness
+1579,2017,2023,1,Self-concept;Developmental psychology
+1580,2017,2100,1,Self-concept;Looking glass self
+1581,2017,2100,1,Self-concept;Megalomania
+1582,2017,2100,1,Adolescent psychology;Cognitive dissonance
+1583,2017,2100,1,Cognitive dissonance;Attributional bias
+1584,2017,2025,1,Cognitive dissonance;Belief
+1585,2017,2100,1,Cognitive dissonance;Psychological repression
+1586,2017,2100,1,Cognitive dissonance;Narcissistic rage
+1587,2017,2100,1,Major depressive disorder;Psychomotor retardation
+1588,2017,2100,1,Aphasia;Multi-infarct dementia
+1589,2017,2100,1,Apathy;Multi-infarct dementia
+1590,2017,2018,1,Id, ego and super-ego;Pleasure principle (psychology)
+1591,2017,2100,1,Antidepressant;Psychological pain
+1592,2017,2100,1,Prejudice;Belief
+1593,2017,2100,1,Prejudice;Social psychology (psychology)
+1594,2017,2100,1,Prejudice;Contact hypothesis
+1595,2017,2100,1,Prejudice;Defence mechanism
+1596,2017,2100,1,Prejudice;Criticism
+1597,2017,2100,1,Prejudice;Ageing
+1598,2017,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Multi-infarct dementia
+1599,2017,2100,1,Humiliation;Sexual sadism
+1600,2017,2025,1,Belief;Magical thinking
+1601,2017,2025,1,Belief;Model (abstract)
+1602,2017,2100,1,Need;Pleasure principle (psychology)
+1603,2017,2025,1,Cognitive restructuring;Magical thinking
+1604,2017,2100,1,Waxy flexibility;Psychomotor retardation
+1605,2017,2025,1,Mental model;Model (abstract)
+1606,2017,2100,1,Magical thinking;Defence mechanism
+1607,2017,2100,1,Magical thinking;Theory of Cognitive development
+1608,2017,2100,1,Psychoanalyst;Insight
+1609,2017,2020,1,Sadistic personality disorder;Sexual sadism
+1610,2017,2100,1,Thalamus;Multi-infarct dementia
+1611,2017,2025,1,Rational choice theory;Model (abstract)
+1612,2017,2025,1,Perspective (cognitive);Proposition
+1613,2017,2100,1,Insight;Megalomania
+1614,2017,2100,1,Insight;Psychodynamic therapy
+1615,2017,2025,1,Semantics;Model (abstract)
+1616,2017,2100,1,Lovemap;Stigmatic/eligibilic paraphilia
+1617,2018,2025,1,Mental function;Evaluation
+1618,2018,2100,1,Evaluation;Insight
+1619,2018,2100,1,Evaluation;Irrational anger
+1620,2018,2100,1,Behavior;Phenotype
+1621,2018,2019,1,Behavior;Bipolar disorder
+1622,2018,2100,1,Behavior;Psychoactive drug
+1623,2018,2100,1,Behavior;Social neuroscience
+1624,2018,2100,1,Behavior;Psychopathy
+1625,2018,2025,1,Behavior;Reasoning
+1626,2018,2025,1,Behavior;Instinct
+1627,2018,2100,1,Behavior;Demand characteristics
+1628,2018,2100,1,Behavior;Drive Theory
+1629,2018,2025,1,Behavior;Self control
+1630,2018,2100,1,Behavior;Irrational anger
+1631,2018,2100,1,Behavior;Model of hierarchical complexity
+1632,2018,2019,1,Behavior;Manic-depressive illness
+1633,2018,2100,1,Abnormal psychology;Egodystonic
+1634,2018,2100,1,Abnormal psychology;Egosyntonic
+1635,2018,2100,1,Locus of control;Self-efficacy
+1636,2018,2100,1,Catharsis;Resistance (psychology)
+1637,2018,2100,1,Behaviorism;Selective distortion
+1638,2018,2100,1,Anorexia nervosa;Egodystonic
+1639,2018,2100,1,Anorexia nervosa;Egosyntonic
+1640,2018,2100,1,Cognitive dissonance;Ambivalence
+1641,2018,2100,1,Cognitive dissonance;Egodystonic
+1642,2018,2100,1,Cognitive dissonance;Egosyntonic
+1643,2018,2100,1,Cognitive dissonance;Selective distortion
+1644,2018,2100,1,Valence (psychology);Ambivalence
+1645,2018,2100,1,Gratification;Reality principle
+1646,2018,2100,1,Alzheimer's disease;Mood swing
+1647,2018,2100,1,Ambivalence;Procrastination
+1648,2018,2100,1,Ambivalence;Madonna-whore complex
+1649,2018,2100,1,Anger;Intermittent explosive disorder
+1650,2018,2100,1,Mood disorder;Irrational anger
+1651,2018,2100,1,Prejudice;Halo effect
+1652,2018,2100,1,Prejudice;Group-serving bias
+1653,2018,2100,1,Prejudice;Selective distortion
+1654,2018,2100,1,Antilocution;Antipathy
+1655,2018,2100,1,Learned helplessness;Self-efficacy
+1656,2018,2100,1,Mania;Mmpi-2
+1657,2018,2100,1,Psychological projection;Group-serving bias
+1658,2018,2100,1,Burnout (psychology);Self-efficacy
+1659,2018,2100,1,Self-efficacy;General intelligence factor
+1660,2018,2100,1,General intelligence factor;Halo effect
+1661,2018,2100,1,Confirmation bias;Selective distortion
+1662,2018,2100,1,Groupthink;Group-serving bias
+1663,2018,2100,1,Lie;Group-serving bias
+1664,2018,2100,1,Egodystonic;Insight
+1665,2018,2100,1,Egodystonic;Ego-dystonic sexual orientation
+1666,2018,2100,1,Insight;Egosyntonic
+1667,2018,2100,1,Insight;Imagination
+1668,2018,2100,1,Ego-dystonic sexual orientation;Egosyntonic
+1669,2018,2100,1,Group polarization;Selective distortion
+1670,2018,2100,1,Group-serving bias;Xenophobia
+1671,2018,2100,1,Multiple personality disorder;Imagination
+1672,2018,2100,1,Mind control;Thought-terminating cliché
+1673,2018,2100,1,Thought-terminating cliché;Personality alteration
+1674,2019,2100,1,Cognitive psychology;Folk psychology
+1675,2019,2025,1,Metacognition;Awareness
+1676,2019,2100,1,Neuropsychology;Learning
+1677,2019,2100,1,Volition (psychology);Habit (psychology)
+1678,2019,2100,1,Behavior;Social interaction
+1679,2019,2025,1,Behavior;Learning
+1680,2019,2100,1,Behavior;Attachment disorder
+1681,2019,2100,1,Behavior;Aversives
+1682,2019,2025,1,Behavior;Outline of psychology
+1683,2019,2100,1,Behavior;Folk psychology
+1684,2019,2100,1,Behavior;Health psychology
+1685,2019,2100,1,Social interaction;Attachment theory
+1686,2019,2100,1,Social interaction;Autism spectrum
+1687,2019,2100,1,Social interaction;Psychology, Philosophy and Physiology
+1688,2019,2100,1,Suffering;Aversives
+1689,2019,2100,1,Suffering;Punishment
+1690,2019,2100,1,Attachment theory;Attachment disorder
+1691,2019,2020,1,American Psychological Association;Health psychology
+1692,2019,2020,1,Dream;Fear
+1693,2019,2100,1,Habit (psychology);Cognitive behavioral therapy
+1694,2019,2100,1,Habit (psychology);Procrastination
+1695,2019,2100,1,Habit (psychology);Behavior modification
+1696,2019,2100,1,Habit (psychology);Fixation (psychology)
+1697,2019,2100,1,Habit (psychology);Paradoxical intention
+1698,2019,2100,1,Habit (psychology);Reading (activity)
+1699,2019,2100,1,Habit (psychology);Theory of Cognitive development
+1700,2019,2025,1,Intelligence (trait);Learning
+1701,2019,2100,1,Mental disorder;Attachment disorder
+1702,2019,2100,1,Aggression;Hypermasculinity
+1703,2019,2100,1,Fear;Fear of flying
+1704,2019,2100,1,Fear;Homophobia
+1705,2019,2100,1,Fear;Mean World Syndrome
+1706,2019,2100,1,Fear;Taphophobia
+1707,2019,2100,1,Child development;Attachment disorder
+1708,2019,2100,1,Executive functions;Autism spectrum
+1709,2019,2100,1,Executive functions;Neuropsychological test
+1710,2019,2100,1,Executive functions;Immediate memory
+1711,2019,2100,1,History of psychology;Archetype
+1712,2019,2100,1,Learning;Learned helplessness
+1713,2019,2100,1,Learning;Habituation
+1714,2019,2100,1,Learning;Learning curve
+1715,2019,2100,1,Learning;Interference theory
+1716,2019,2100,1,Learning;Psychology of programming
+1717,2019,2100,1,Learning;Psychology, Philosophy and Physiology
+1718,2019,2100,1,Learning;Structural communication
+1719,2019,2100,1,Behavior modification;Punishment
+1720,2019,2100,1,Archetype;Jungian psychology
+1721,2019,2100,1,Archetype;Schema (psychology)
+1722,2019,2100,1,Social skills;Persuasion
+1723,2019,2100,1,Mania;Disinhibition
+1724,2019,2100,1,Aversives;Lovaas technique
+1725,2019,2100,1,Punishment;Role theory
+1726,2019,2100,1,Self-efficacy;Self-regulated learning
+1727,2019,2100,1,Echolalia;Imitation
+1728,2019,2100,1,Socioeconomic status;Health psychology
+1729,2019,2100,1,Obsessive-compulsive personality disorder;Disinhibition
+1730,2019,2100,1,Educational psychology;Self-regulated learning
+1731,2019,2100,1,Philosophy of mind;Noetic theory
+1732,2019,2100,1,Rhetoric;Persuasion
+1733,2019,2100,1,Persuasion;Mind control
+1734,2019,2100,1,Persuasion;Personality alteration
+1735,2019,2100,1,Imitation;Theory of Cognitive development
+1736,2019,2100,1,Exaggeration;Hypermasculinity
+1737,2019,2100,1,Health psychology;Journal of Health Psychology
+1738,2019,2100,1,Health psychology;Type A and Type B personality theory
+1739,2019,2100,1,Hypermasculinity;Sexual masochism
+1740,2019,2100,1,Logotherapy;Noetic theory
+1741,2020,2025,1,Thought;Stream of consciousness (psychology)
+1742,2020,2100,1,Motivation;Stereotypes
+1743,2020,2100,1,Classical conditioning;Placebo effect
+1744,2020,2100,1,Classical conditioning;Mind control
+1745,2020,2100,1,Classical conditioning;Nyctophobia
+1746,2020,2100,1,Classical conditioning;Personality alteration
+1747,2020,2100,1,Classical conditioning;State-dependent learning
+1748,2020,2100,1,Hermeneutics;Integral psychology
+1749,2020,2100,1,Attribution (psychology);Stereotypes
+1750,2020,2100,1,Behavior;Endogeny
+1751,2020,2100,1,Idea;Stereotypes
+1752,2020,2100,1,Social interaction;Theory of mind
+1753,2020,2100,1,Social interaction;Social rejection
+1754,2020,2100,1,Inference;Sense of time
+1755,2020,2100,1,Attachment theory;Trust (sociology)
+1756,2020,2100,1,Gender role;Stereotypes
+1757,2020,2100,1,Empathy;Emotional intelligence
+1758,2020,2100,1,Empathy;Femininity
+1759,2020,2100,1,Empathy;Telepathy
+1760,2020,2100,1,Empathy;Group-serving bias
+1761,2020,2100,1,Empathy;Irrational anger
+1762,2020,2100,1,Empathy;Marital therapy
+1763,2020,2100,1,Empathy;Marriage guidance
+1764,2020,2100,1,Empathy;Self psychology
+1765,2020,2100,1,Empathy;Person-centered therapy
+1766,2020,2100,1,Personality test;Organizational psychology
+1767,2020,2100,1,Personality test;Myers–briggs Type Indicator
+1768,2020,2100,1,Myers-briggs Type Indicator;Neuroticism Extraversion Openness Personality Inventory
+1769,2020,2100,1,Myers-briggs Type Indicator;Psychological types
+1770,2020,2100,1,Aggression;Social rejection
+1771,2020,2100,1,Fear;Castration anxiety
+1772,2020,2100,1,Panic attack;Motor skills disorder
+1773,2020,2100,1,Attention seeking;Histrionic personality disorder
+1774,2020,2100,1,Attention seeking;Münchausen syndrome by proxy
+1775,2020,2100,1,Behaviorism;Association (psychology)
+1776,2020,2100,1,Behaviorism;Reactance (psychology)
+1777,2020,2100,1,Fundamental attribution error;Attributional bias
+1778,2020,2100,1,Fundamental attribution error;Social psychology (psychology)
+1779,2020,2100,1,Adaptive behavior;Intellectual disability
+1780,2020,2100,1,Coping (psychology);Attention-deficit hyperactivity disorder
+1781,2020,2100,1,Coping (psychology);Avoidant personality disorder
+1782,2020,2100,1,Coping (psychology);Dissociation (psychology)
+1783,2020,2100,1,Coping (psychology);Burnout (psychology)
+1784,2020,2100,1,Coping (psychology);Cognitive appraisal
+1785,2020,2100,1,Coping (psychology);Frustration
+1786,2020,2100,1,Coping (psychology);Just-world phenomenon
+1787,2020,2100,1,Coping (psychology);Mythomania
+1788,2020,2100,1,Coping (psychology);Pseudologia
+1789,2020,2100,1,Adolescent psychology;Theory of mind
+1790,2020,2100,1,Adolescent psychology;Human behavior
+1791,2020,2100,1,Adolescent psychology;Social rejection
+1792,2020,2100,1,Executive functions;Learning disorders
+1793,2020,2100,1,Self-consciousness;Paranoia
+1794,2020,2100,1,Theory of mind;Schizophrenia
+1795,2020,2100,1,Theory of mind;Attributional bias
+1796,2020,2100,1,Theory of mind;Belief
+1797,2020,2100,1,Theory of mind;Philosophy of mind
+1798,2020,2100,1,Theory of mind;Group synergy
+1799,2020,2100,1,Theory of mind;Intelligence test
+1800,2020,2100,1,Human behavior;Environmental psychology
+1801,2020,2100,1,Cognitive dissonance;Frustration
+1802,2020,2100,1,Self-esteem;Shame
+1803,2020,2100,1,Self-esteem;Stereotypes
+1804,2020,2100,1,Relational aggression;Social status
+1805,2020,2100,1,Social rejection;Bullying
+1806,2020,2100,1,Social rejection;Avoidant personality disorder
+1807,2020,2100,1,Social rejection;Sexual masochism
+1808,2020,2100,1,Substance abuse;Organizational psychology
+1809,2020,2100,1,Learning;Association (psychology)
+1810,2020,2100,1,Learning;Evolutionary educational psychology
+1811,2020,2100,1,Learning;Imprinting (psychology)
+1812,2020,2100,1,Hypnotherapy;Ideomotor effect
+1813,2020,2100,1,Hypnotherapy;Integral psychology
+1814,2020,2100,1,Hypnotherapy;Transderivational search
+1815,2020,2100,1,Dsm-5;Münchausen syndrome by proxy
+1816,2020,2021,1,Dsm-5;Impulse control disorder
+1817,2020,2021,1,Dsm-5;Punitive psychiatry in the Soviet Union
+1818,2020,2100,1,Neurological disorder;Motor coordination
+1819,2020,2100,1,Dysarthria;Phonological disorder
+1820,2020,2100,1,Aids dementia complex;Alexithymia
+1821,2020,2100,1,Alexithymia;Blunted affect
+1822,2020,2100,1,Alexithymia;Cibophobia
+1823,2020,2100,1,Alexithymia;Multiple-complex Developmental Disorder
+1824,2020,2100,1,Schizophrenia;Desensitization (psychology)
+1825,2020,2100,1,Schizophrenia;Sense of time
+1826,2020,2100,1,Self (psychology);Alter ego
+1827,2020,2100,1,Self (psychology);Self (Jung)
+1828,2020,2100,1,Self (psychology);Self-knowledge (psychology)
+1829,2020,2100,1,Psychiatrist;Learning disabilities
+1830,2020,2100,1,Psychiatrist;Learning disorders
+1831,2020,2100,1,Individuation;Jungian psychology
+1832,2020,2100,1,Individuation;Mid-life crisis
+1833,2020,2100,1,Cognitive bias;Stereotypes
+1834,2020,2100,1,Icd-10;Developmental disorder
+1835,2020,2100,1,Icd-10;Hyperkinetic disorder
+1836,2020,2100,1,Icd-10;Münchausen syndrome by proxy
+1837,2020,2100,1,Icd-10;Dermatillomania
+1838,2020,2100,1,Icd-10;Mixed anxiety-depressive disorder
+1839,2020,2100,1,Icd-10;Megalomania
+1840,2020,2100,1,Icd-10;Thought insertion
+1841,2020,2100,1,Icd-10;Mythomania
+1842,2020,2100,1,Icd-10;Pseudologia
+1843,2020,2100,1,Icd-10;Sexual sadism
+1844,2020,2100,1,Icd-10;Sluggishly progressing schizophrenia
+1845,2020,2100,1,Superego;Psychological repression
+1846,2020,2100,1,Superego;Developmental lines
+1847,2020,2022,1,Confidence;Frustration
+1848,2020,2100,1,Confidence;Trust (sociology)
+1849,2020,2100,1,Antilocution;Discrimination
+1850,2020,2100,1,Antipathy;Stereotypes
+1851,2020,2100,1,Discrimination;Social psychology (psychology)
+1852,2020,2100,1,Discrimination;Contact hypothesis
+1853,2020,2100,1,Discrimination;Homosexuality
+1854,2020,2100,1,Discrimination;Group-serving bias
+1855,2020,2100,1,Discrimination;Irrational anger
+1856,2020,2100,1,Sympathy;Stress (medicine)
+1857,2020,2100,1,Sympathy;Münchausen syndrome by proxy
+1858,2020,2100,1,Sympathy;Conditioning, operant
+1859,2020,2100,1,Sympathy;Continuous reinforcement
+1860,2020,2100,1,Sympathy;Reinforcer
+1861,2020,2100,1,Sympathy;Telepathy
+1862,2020,2100,1,Sympathy;Münchausen syndrome
+1863,2020,2100,1,Sympathy;Operant behavior
+1864,2020,2100,1,Sympathy;Social distance scale
+1865,2020,2100,1,Paranoia;Pronoia (psychology)
+1866,2020,2100,1,Paranoia;Involutional melancholia
+1867,2020,2100,1,Paranoia;Mmpi-2
+1868,2020,2100,1,Impotence;Stage fright
+1869,2020,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Remorse
+1870,2020,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Puer Aeternus
+1871,2020,2100,1,Stage fright;Social anxiety disorder
+1872,2020,2100,1,Insomnia;Nightmare
+1873,2020,2100,1,Social anxiety disorder;Social inhibition
+1874,2020,2100,1,Passion (emotion);Telepathy
+1875,2020,2100,1,Radical behaviorism;Self control
+1876,2020,2100,1,Behavior modification;Desensitization (psychology)
+1877,2020,2100,1,Organizational psychology;Content validity
+1878,2020,2100,1,Archetype;Coulrophobia
+1879,2020,2100,1,Archetype;Stereotypes
+1880,2020,2100,1,Archetype;Puer Aeternus
+1881,2020,2100,1,Yerkes-dodson law;Audience effect
+1882,2020,2100,1,Yerkes-dodson law;Social facilitation
+1883,2020,2100,1,Keirsey Temperament Sorter;Artisan temperament
+1884,2020,2100,1,Keirsey Temperament Sorter;Psychological types
+1885,2020,2100,1,Asian psychology;Philippine psychology
+1886,2020,2100,1,Developmental disorder;Learning disabilities
+1887,2020,2100,1,Developmental disorder;Learning disorders
+1888,2020,2100,1,Reactive attachment disorder;Grandiosity
+1889,2020,2100,1,Communication disorder;Logorrhea (psychology)
+1890,2020,2100,1,Communication disorder;Mental health disorders
+1891,2020,2100,1,Communication disorder;Expressive language disorder
+1892,2020,2100,1,Communication disorder;Touch
+1893,2020,2100,1,Stereotypic movement disorder;Mental health disorders
+1894,2020,2100,1,Positive reinforcement;Conditioning, operant
+1895,2020,2100,1,Positive reinforcement;Continuous reinforcement
+1896,2020,2100,1,Positive reinforcement;Reinforcer
+1897,2020,2100,1,Positive reinforcement;Lovaas technique
+1898,2020,2100,1,Positive reinforcement;Operant behavior
+1899,2020,2100,1,Attributional bias;Evolutionary educational psychology
+1900,2020,2100,1,Audience effect;Social inhibition
+1901,2020,2100,1,Social influence;Trust (sociology)
+1902,2020,2100,1,Social inhibition;Avoidant personality disorder
+1903,2020,2100,1,Paresthesia;Touch
+1904,2020,2100,1,Psychotropic medication;Social status
+1905,2020,2100,1,Humiliation;Social status
+1906,2020,2100,1,Awareness;Mozart Effect
+1907,2020,2100,1,Punishment;Authority
+1908,2020,2100,1,Desensitization (psychology);Properception
+1909,2020,2100,1,Dyslexia;Mozart Effect
+1910,2020,2100,1,Behaviour therapy;Respondent conditioning
+1911,2020,2100,1,Naturalistic observation;Social psychology (psychology)
+1912,2020,2100,1,Naturalistic observation;Experimenter's bias
+1913,2020,2100,1,Belief;Trust (sociology)
+1914,2020,2100,1,The Principles of Psychology;Stream of consciousness (psychology)
+1915,2020,2100,1,Psychopathy;Boldness
+1916,2020,2100,1,Boldness;Shame
+1917,2020,2100,1,Shame;Dermatillomania
+1918,2020,2100,1,Shame;Defence mechanism
+1919,2020,2100,1,Shame;Making excuses
+1920,2020,2100,1,Iq;Mozart Effect
+1921,2020,2100,1,British Journal of Social Psychology;Stereotypes
+1922,2020,2100,1,Cognitive restructuring;Splitting (psychology)
+1923,2020,2100,1,Social psychology (psychology);Confabulation
+1924,2020,2100,1,Social psychology (psychology);External validity
+1925,2020,2100,1,Hubris;Megalomania
+1926,2020,2100,1,Grandiosity;Irrational anger
+1927,2020,2100,1,Echolalia;Thought disorder
+1928,2020,2100,1,Obsessive-compulsive disorder;Circumstantiality
+1929,2020,2100,1,Obsessive-compulsive disorder;Impulse (psychology)
+1930,2020,2100,1,Circadian rhythm;Endogeny
+1931,2020,2100,1,Circadian rhythm;Sense of time
+1932,2020,2100,1,Neo-piagetian theories of cognitive development;Reasoning
+1933,2020,2022,1,Mental health disorders;Dissociative fugue
+1934,2020,2100,1,Splitting (psychology);Designated patient
+1935,2020,2100,1,Splitting (psychology);Madonna-whore complex
+1936,2020,2100,1,Splitting (psychology);Making excuses
+1937,2020,2100,1,Magical thinking;Thought disorder
+1938,2020,2100,1,Rational emotive therapy;Transpersonal psychology
+1939,2020,2100,1,Compensation (psychology);Frustration
+1940,2020,2100,1,Frustration;Emotional conflict
+1941,2020,2100,1,Frustration;Passive–aggressive behavior
+1942,2020,2100,1,Social status;Greed
+1943,2020,2100,1,Social status;Irrational anger
+1944,2020,2100,1,Social status;Stereotypes
+1945,2020,2100,1,Social status;Psychoactive
+1946,2020,2100,1,Social status;Social psychology (sociology)
+1947,2020,2100,1,Conditioning, operant;Emotional blackmail
+1948,2020,2100,1,Negative reinforcement;Continuous reinforcement
+1949,2020,2100,1,Negative reinforcement;Reinforcer
+1950,2020,2100,1,Negative reinforcement;Operant behavior
+1951,2020,2100,1,Superficial charm;Continuous reinforcement
+1952,2020,2100,1,Superficial charm;Reinforcer
+1953,2020,2100,1,Superficial charm;Operant behavior
+1954,2020,2100,1,Emotional blackmail;Continuous reinforcement
+1955,2020,2100,1,Emotional blackmail;Reinforcer
+1956,2020,2100,1,Emotional blackmail;Transactional analysis
+1957,2020,2100,1,Emotional blackmail;Irrational anger
+1958,2020,2100,1,Emotional blackmail;Operant behavior
+1959,2020,2100,1,Personality trait;Trust (sociology)
+1960,2020,2100,1,Flashbulb memory;Declarative memory
+1961,2020,2100,1,Tourette syndrome;Thought disorder
+1962,2020,2100,1,Coulrophobia;Sadistic personality disorder
+1963,2020,2100,1,Creative problem solving;Mozart Effect
+1964,2020,2100,1,List of counseling topics;Marital therapy
+1965,2020,2100,1,List of counseling topics;Marriage guidance
+1966,2020,2100,1,List of counseling topics;Relationship counseling
+1967,2020,2100,1,Critical period;Imprinting (psychology)
+1968,2020,2100,1,Social stigma;Punitive psychiatry in the Soviet Union
+1969,2020,2100,1,Social stigma;Sexual masochism
+1970,2020,2100,1,Social stigma;Stigmatic/eligibilic paraphilia
+1971,2020,2100,1,Encoding (memory);Stereotypes
+1972,2020,2100,1,Personal boundaries;Observational learning
+1973,2020,2100,1,Personal boundaries;Trust (sociology)
+1974,2020,2100,1,Confabulation;Memory suppression
+1975,2020,2100,1,Confabulation;Mythomania
+1976,2020,2100,1,Confabulation;Pseudologia
+1977,2020,2022,1,Disappointment;Resentment
+1978,2020,2100,1,Dual diagnosis;Learning disorders
+1979,2020,2100,1,Imitation;Observational learning
+1980,2020,2100,1,Vulnerability;Just-world phenomenon
+1981,2020,2100,1,Role-playing;Encounter group
+1982,2020,2100,1,Role-playing;Multiple personality disorder
+1983,2020,2100,1,Role-playing;Paraphilic infantilism
+1984,2020,2100,1,Endogenous depression;Endogeny
+1985,2020,2100,1,Endogeny;Exogeny
+1986,2020,2100,1,Academic;Large Group Awareness Training
+1987,2020,2100,1,External validity;True experiment
+1988,2020,2100,1,Reactivity (psychology);Experimenter's bias
+1989,2020,2100,1,Reactivity (psychology);Social desirability
+1990,2020,2100,1,F-scale (personality test);Authoritarian personality
+1991,2020,2100,1,Touch;Sense of time
+1992,2020,2100,1,Free-floating anxiety;Motor coordination
+1993,2020,2100,1,Motor coordination;Klinefelter syndrome
+1994,2020,2100,1,Motor coordination;Theory of Cognitive development
+1995,2020,2100,1,Theory of multiple intelligences;Learning theory (education)
+1996,2020,2100,1,Labeling theory;Stereotypes
+1997,2020,2100,1,Intimacy;Trust (sociology)
+1998,2020,2100,1,Transpersonal psychology;Transpersonal
+1999,2020,2100,1,Transpersonal psychology;Process Oriented Psychology
+2000,2020,2100,1,Transpersonal psychology;Rational-emotive therapy
+2001,2020,2100,1,Observational learning;Lovaas technique
+2002,2020,2100,1,Impulse control disorder;Substance-related disorder
+2003,2020,2100,1,Innate ideas;Anamnesis (philosophy)
+2004,2020,2100,1,Popular psychology;Puer Aeternus
+2005,2020,2100,1,Transpersonal;Integral psychology
+2006,2020,2100,1,Kohlberg's stages of moral development;Structured interview
+2007,2020,2100,1,Active intellect;Noetic theory
+2008,2020,2100,1,Déjà vu;Recollection
+2009,2020,2100,1,Resentment;Surprise (emotion)
+2010,2020,2100,1,Victim blaming;Victimology
+2011,2020,2100,1,Schadenfreude;Marriage guidance
+2012,2020,2100,1,Schadenfreude;Relationship counseling
+2013,2020,2100,1,Self-pity;Rational-emotive therapy
+2014,2020,2100,1,Research methods;Psychological research methods
+2015,2020,2100,1,Inter-rater reliability;Thematic Apperception Test
+2016,2020,2100,1,Inter-rater reliability;Rorschach inkblot test
+2017,2020,2100,1,Inter-rater reliability;Social distance scale
+2018,2020,2100,1,Stereotypes;Cultural identity
+2019,2020,2100,1,Stereotypes;Role reversal
+2020,2020,2100,1,Internal consistency;Neuroticism Extraversion Openness Personality Inventory
+2021,2020,2100,1,Internal consistency;Thematic Apperception Test
+2022,2020,2100,1,Mozart Effect;Spatial-temporal reasoning
+2023,2020,2100,1,Mozart Effect;Psychoacoustics
+2024,2020,2100,1,Nightmare;Psychology of combat
+2025,2020,2100,1,Suicidology;Psychological pain
+2026,2020,2100,1,Voyeurism;Sexual deviation
+2027,2020,2100,1,Voyeurism;Sexual masochism
+2028,2020,2100,1,Lifetime prevalence;Steppingstone theory
+2029,2020,2100,1,Reactance (psychology);Reverse psychology
+2030,2020,2100,1,Scale (social sciences);Social distance scale
+2031,2020,2100,1,Psychoactive;Reuptake
+2032,2020,2100,1,Psychological tests;Psychological assessment
+2033,2020,2100,1,Psychological assessment;Rational-emotive therapy
+2034,2020,2100,1,Integral theory (Ken Wilber);Theory of Cognitive development
+2035,2021,2100,1,Motivation;Latent learning
+2036,2021,2100,1,Psychological resilience;Emotional insecurity
+2037,2021,2100,1,Classical conditioning;Latent learning
+2038,2021,2100,1,Scientific method;Psychosexual stages
+2039,2021,2100,1,Attitude (psychology);Emotional insecurity
+2040,2021,2100,1,Cognitive psychology;Mentalism (psychology)
+2041,2021,2100,1,Cognitive psychology;Society of Mind theory
+2042,2021,2100,1,Behavior;Skinner box
+2043,2021,2100,1,Thought experiment;Thinking
+2044,2021,2100,1,Social interaction;Praise
+2045,2021,2100,1,Psychophysics;Thinking
+2046,2021,2100,1,Suffering;Emotional insecurity
+2047,2021,2100,1,Attachment theory;Psychology of Monogamy
+2048,2021,2100,1,Mental disorder;Multimodal Therapy
+2049,2021,2100,1,Mental disorder;Multimodal therapy
+2050,2021,2100,1,Mental disorder;Self-loathing
+2051,2021,2100,1,Aggression;Emotional insecurity
+2052,2021,2100,1,Abuse;Masking (personality)
+2053,2021,2100,1,Phobia;Claustrophobia
+2054,2021,2100,1,Panic attack;Aura (symptom)
+2055,2021,2100,1,Panic attack;Claustrophobia
+2056,2021,2100,1,Panic attack;Psychological dependency
+2057,2021,2100,1,Suicide;Pathological gambling
+2058,2021,2100,1,Developmental psychology;Psychosexual stages
+2059,2021,2100,1,Pituitary gland;Practical equine psychology
+2060,2021,2100,1,Theory of mind;Cognitive specialization
+2061,2021,2100,1,Human behavior;Physiological psychology
+2062,2021,2100,1,Egocentrism;Selfishness
+2063,2021,2100,1,Egocentrism;Histrionic personality disorder
+2064,2021,2100,1,Egocentrism;Schema (psychology)
+2065,2021,2100,1,Egocentrism;Narcissism
+2066,2021,2100,1,Sexual orientation;Self-loathing
+2067,2021,2100,1,Gender identity;Penis envy
+2068,2021,2100,1,Self-esteem;Hypomanic episode
+2069,2021,2100,1,Self-esteem;Narcissistic parent
+2070,2021,2100,1,Social rejection;Atypical depression
+2071,2021,2100,1,Social rejection;Conformity
+2072,2021,2100,1,Social rejection;Masking (personality)
+2073,2021,2100,1,Substance abuse;Emotional insecurity
+2074,2021,2100,1,Social anxiety;Autism
+2075,2021,2100,1,Social anxiety;Avoidant personality disorder
+2076,2021,2100,1,Social anxiety;Schizotypal personality disorder
+2077,2021,2100,1,Behavioral neuroscience;Physiological psychology
+2078,2021,2100,1,Facial expression;Praise
+2079,2021,2100,1,Body language;Practical equine psychology
+2080,2021,2100,1,Cognitive behavioral therapy;Blood-injection-injury type phobia
+2081,2021,2100,1,Cognitive behavioral therapy;Entomophobia
+2082,2021,2100,1,Cognitive behavioral therapy;Hemophobia
+2083,2021,2100,1,Dsm-5;Entomophobia
+2084,2021,2100,1,Neurological disorder;Physiological psychology
+2085,2021,2100,1,Schizophrenia;Word salad (mental health)
+2086,2021,2100,1,Psyche (psychology);Emotional insecurity
+2087,2021,2100,1,Fight-or-flight response;Emetophobia
+2088,2021,2100,1,Fight-or-flight response;Practical equine psychology
+2089,2021,2100,1,Anhedonia;Psychological dependency
+2090,2021,2100,1,Paranoia;Depressive position
+2091,2021,2100,1,Paranoia;Paranoid-schizoid position
+2092,2021,2100,1,Social norm;Conformity
+2093,2021,2100,1,Diagnostic and Statistical Manual of Mental Disorders;Hemophobia
+2094,2021,2100,1,Generalized anxiety disorder;School phobia
+2095,2021,2100,1,Social anxiety disorder;School phobia
+2096,2021,2100,1,Association (psychology);Latent learning
+2097,2021,2100,1,Positive reinforcement;Psychological dependency
+2098,2021,2100,1,Major depression;Grief
+2099,2021,2100,1,Gestalt psychology;Thinking
+2100,2021,2100,1,Social influence;Praise
+2101,2021,2100,1,Social influence;Conformity
+2102,2021,2100,1,Aura (symptom);Paresthesia
+2103,2021,2100,1,Aura (symptom);Derealization
+2104,2021,2100,1,Aura (symptom);Properception
+2105,2021,2100,1,Bullying;School phobia
+2106,2021,2100,1,Bullying;Self-loathing
+2107,2021,2100,1,Scientific control;Physiological psychology
+2108,2021,2100,1,Reinforcement;Praise
+2109,2021,2100,1,Reinforcement;School phobia
+2110,2021,2100,1,Punishment;Conformity
+2111,2021,2100,1,Behavioral economics;Skinner box
+2112,2021,2100,1,Conceptual model;Thinking
+2113,2021,2100,1,Pleasure principle (psychology);Depressive position
+2114,2021,2100,1,Pleasure principle (psychology);Paranoid-schizoid position
+2115,2021,2100,1,Death drive;Depressive position
+2116,2021,2100,1,Death drive;Paranoid-schizoid position
+2117,2021,2100,1,Praise;Transfer (propaganda)
+2118,2021,2100,1,Emptiness;Grief
+2119,2021,2100,1,Psychological abuse;Radical Psychology Network
+2120,2021,2100,1,Persecutory delusions;Splitting (psychology)
+2121,2021,2100,1,Persecutory delusions;Social stigma
+2122,2021,2100,1,Persecutory delusions;Victim playing
+2123,2021,2100,1,Social psychology (psychology);Conformity
+2124,2021,2100,1,Cognitive therapy;School phobia
+2125,2021,2100,1,Obsessive-compulsive disorder;Depersonalization
+2126,2021,2100,1,Neo-piagetian theories of cognitive development;Thinking
+2127,2021,2100,1,Mental health disorders;Grief
+2128,2021,2100,1,Thinking;Ego psychology
+2129,2021,2100,1,Thinking;Propositional attitude
+2130,2021,2100,1,Splitting (psychology);Depressive position
+2131,2021,2100,1,Splitting (psychology);Paranoid-schizoid position
+2132,2021,2100,1,Reasoning;Conformity
+2133,2021,2100,1,Instinct;Practical equine psychology
+2134,2021,2100,1,Social status;Conformity
+2135,2021,2100,1,Compulsive behavior;Psychosexual stages
+2136,2021,2100,1,Negative reinforcement;Pathological gambling
+2137,2021,2100,1,Conformity;Stages of faith development
+2138,2021,2100,1,Substance dependence;Psychological dependency
+2139,2021,2100,1,Control freak;Emotional insecurity
+2140,2021,2100,1,Hysteria;Psychosexual stages
+2141,2021,2100,1,Somatoform disorder;Iatrogenic illness
+2142,2021,2100,1,Coping skill;Grief
+2143,2021,2100,1,Emotional conflict;Depressive position
+2144,2021,2100,1,Emotional conflict;Paranoid-schizoid position
+2145,2021,2100,1,Grief;Dead inside (concept)
+2146,2021,2100,1,Grief;Human bonding
+2147,2021,2100,1,Grief;Marital therapy
+2148,2021,2100,1,Grief;Marriage guidance
+2149,2021,2100,1,Grief;Relationship counseling
+2150,2021,2100,1,Grief;Unipolar depression
+2151,2021,2100,1,Coprophilia;Psychosexual stages
+2152,2021,2100,1,Hypomanic episode;Regression (psychology)
+2153,2021,2100,1,Emotional insecurity;Vulnerability
+2154,2021,2100,1,Human bonding;Sibling
+2155,2021,2100,1,Observational learning;Sibling
+2156,2021,2100,1,Remorse;Self-loathing
+2157,2022,2100,1,Affect (psychology);List of emotions
+2158,2022,2100,1,Operant conditioning;Interpersonal skills
+2159,2022,2100,1,Sociology;Norm (sociology)
+2160,2022,2100,1,Explanation;Norm (sociology)
+2161,2022,2100,1,Working memory;Serial position effect
+2162,2022,2100,1,Social cognition;Interpersonal skills
+2163,2022,2100,1,Social interaction;Rejection (emotion)
+2164,2022,2100,1,Suffering;List of emotions
+2165,2022,2025,1,Inference;Catastrophization
+2166,2022,2100,1,Intimate relationship;Rejection (emotion)
+2167,2022,2100,1,Attachment theory;Security blanket
+2168,2022,2100,1,Empathy;Power (sociology)
+2169,2022,2025,1,Empathy;List of emotions
+2170,2022,2100,1,Anxiety;Burn Syndrome
+2171,2022,2100,1,Anxiety;Security blanket
+2172,2022,2100,1,Conscientiousness;Planning
+2173,2022,2100,1,Mental disorder;Psychogenic pain
+2174,2022,2100,1,Fear;Shyness
+2175,2022,2100,1,Psychotherapy;Lacrimation
+2176,2022,2100,1,Suicide;Postvention
+2177,2022,2100,1,Executive functions;Planning
+2178,2022,2100,1,Self-consciousness;Shyness
+2179,2022,2100,1,Egocentrism;Critical thinking
+2180,2022,2100,1,Gender identity;Power (sociology)
+2181,2022,2100,1,Self-esteem;Shyness
+2182,2022,2100,1,Social rejection;Psychogenic pain
+2183,2022,2100,1,Social anxiety;Shyness
+2184,2022,2100,1,Social anxiety;Hierarchy of needs
+2185,2022,2100,1,Social anxiety;Specific social phobia
+2186,2022,2100,1,Evolutionary psychology;Trypanophobia
+2187,2022,2025,1,Learning;Value (personal and cultural)
+2188,2022,2100,1,Valence (psychology);Norm (sociology)
+2189,2022,2100,1,Body language;Norm (sociology)
+2190,2022,2100,1,Aphasia;Prodrome
+2191,2022,2100,1,Apathy;List of emotions
+2192,2022,2100,1,Altruism;Value (personal and cultural)
+2193,2022,2100,1,Gratification;Power (sociology)
+2194,2022,2100,1,Gratification;List of emotions
+2195,2022,2100,1,Alzheimer's disease;Serial position effect
+2196,2022,2100,1,Ambivalence;Catastrophization
+2197,2022,2100,1,Ambivalence;List of emotions
+2198,2022,2100,1,Denial;Power (sociology)
+2199,2022,2100,1,Socialization;Interpersonal skills
+2200,2022,2100,1,Sympathy;List of emotions
+2201,2022,2100,1,Insomnia;Prodrome
+2202,2022,2100,1,Insomnia;Trypanophobia
+2203,2022,2100,1,Neglect;List of emotions
+2204,2022,2100,1,Hyperkinetic disorder;Interpersonal skills
+2205,2022,2100,1,Social skills;Rejection (emotion)
+2206,2022,2100,1,Borderline personality disorder;Interpersonal skills
+2207,2022,2100,1,Electroencephalography;Grand mal epilepsy
+2208,2022,2100,1,Positive reinforcement;Power (sociology)
+2209,2022,2100,1,Planning;Thinking
+2210,2022,2100,1,Planning;Prospection
+2211,2022,2100,1,Psychological projection;Blame
+2212,2022,2100,1,Aura (symptom);Grand mal epilepsy
+2213,2022,2100,1,Aura (symptom);Prodrome
+2214,2022,2100,1,Bullying;Power (sociology)
+2215,2022,2100,1,Bullying;Rejection (emotion)
+2216,2022,2100,1,Aversion therapy;Unconditioned stimulus
+2217,2022,2100,1,Aversion therapy;Unconditioned response
+2218,2022,2100,1,Desensitization (psychology);Trypanophobia
+2219,2022,2100,1,Behavioral economics;Value (personal and cultural)
+2220,2022,2100,1,Behaviour therapy;Trypanophobia
+2221,2022,2100,1,Euphoria;Prodrome
+2222,2022,2100,1,Manic episode;Depressive Disorder Not Otherwise Specified
+2223,2022,2100,1,Praise;Blame
+2224,2022,2100,1,Praise;Catastrophization
+2225,2022,2100,1,Blame;Irrational anger
+2226,2022,2100,1,Dissociation (psychology);Serial position effect
+2227,2022,2100,1,Iq;Delusional disorder
+2228,2022,2100,1,Idealization and devaluation;Catastrophization
+2229,2022,2100,1,Idealization and devaluation;Power (sociology)
+2230,2022,2100,1,Distrust;Burn Syndrome
+2231,2022,2100,1,Burn Syndrome;Monomania
+2232,2022,2100,1,Burn Syndrome;Pronoia (psychology)
+2233,2022,2100,1,Delusional disorder;Münchausen syndrome by proxy
+2234,2022,2100,1,Delusional disorder;Erotomania
+2235,2022,2100,1,Bystander effect;Power (sociology)
+2236,2022,2100,1,Minimisation (psychology);Catastrophization
+2237,2022,2100,1,Catastrophization;Hubris
+2238,2022,2100,1,Catastrophization;Malingering
+2239,2022,2100,1,Catastrophization;Cognitive therapy
+2240,2022,2100,1,Catastrophization;Displacement (psychology)
+2241,2022,2100,1,Catastrophization;Superiority complex
+2242,2022,2100,1,Flattery;Power (sociology)
+2243,2022,2100,1,Cognitive therapy;Trypanophobia
+2244,2022,2100,1,Neurosis;Hierarchy of needs
+2245,2022,2100,1,Cathexis;List of emotions
+2246,2022,2100,1,Stage theory;Centration
+2247,2022,2100,1,Incest;Norm (sociology)
+2248,2022,2100,1,Psychological trauma;Trypanophobia
+2249,2022,2100,1,Psychological trauma;Security blanket
+2250,2022,2100,1,Claustrophobia;List of emotions
+2251,2022,2100,1,Rational emotive therapy;Value (personal and cultural)
+2252,2022,2025,1,Reasoning;Critical thinking
+2253,2022,2100,1,Frustration;Security blanket
+2254,2022,2100,1,Learning curve;Serial position effect
+2255,2022,2100,1,Negative reinforcement;Power (sociology)
+2256,2022,2100,1,Superficial charm;Power (sociology)
+2257,2022,2100,1,Emotional blackmail;Power (sociology)
+2258,2022,2025,1,Groupthink;Critical thinking
+2259,2022,2100,1,Hysteria;List of emotions
+2260,2022,2100,1,Emotional intelligence;Interpersonal skills
+2261,2022,2100,1,Grief;Postvention
+2262,2022,2100,1,Grief;Security blanket
+2263,2022,2100,1,Value (personal and cultural);Cultural dimensions
+2264,2022,2100,1,Value (personal and cultural);Rational-emotive therapy
+2265,2022,2100,1,Psychological manipulation;Unconditioned stimulus
+2266,2022,2100,1,Psychological manipulation;Unconditioned response
+2267,2022,2100,1,Human sexuality;Power (sociology)
+2268,2022,2100,1,Personal boundaries;Power (sociology)
+2269,2022,2100,1,Isolation (psychology);List of emotions
+2270,2022,2100,1,Envy;Power (sociology)
+2271,2022,2100,1,Gratitude;List of emotions
+2272,2022,2100,1,Lie;Power (sociology)
+2273,2022,2025,1,Emotion and memory;List of emotions
+2274,2022,2100,1,Insight;List of emotions
+2275,2022,2100,1,F-scale (personality test);Power (sociology)
+2276,2022,2100,1,Power (sociology);Authority
+2277,2022,2100,1,Hierarchy of needs;Intimacy
+2278,2022,2100,1,Reciprocal liking;List of emotions
+2279,2022,2100,1,Interpersonal skills;People skills
+2280,2022,2100,1,Interstimulus interval;Unconditioned stimulus
+2281,2022,2100,1,Interstimulus interval;Serial position effect
+2282,2022,2100,1,Melancholia;List of emotions
+2283,2022,2100,1,Recollection;Serial position effect
+2284,2022,2100,1,List of emotions;Schadenfreude
+2285,2022,2100,1,List of emotions;Self-pity
+2286,2022,2100,1,Rejection (emotion);Sociometry
+2287,2022,2100,1,Sensory preconditioning;Unconditioned response
+2288,2023,2100,1,Behavior;Social role
+2289,2023,2100,1,Temperament;Individual differences psychology
+2290,2023,2100,1,Personality test;Occupational psychology
+2291,2023,2100,1,Mental health;Social role
+2292,2023,2100,1,Anxiety;Erythrophobia
+2293,2023,2100,1,Fear;Morbid jealousy
+2294,2023,2100,1,Suicide;Morbid jealousy
+2295,2023,2100,1,Psychology Today;Introversion
+2296,2023,2100,1,Cognitive dissonance;Social role
+2297,2023,2100,1,Substance abuse;Occupational psychology
+2298,2023,2025,1,Learning;Study Skills
+2299,2023,2100,1,Procrastination;Study Skills
+2300,2023,2100,1,Analytical psychology;Introversion
+2301,2023,2100,1,Individuation;Self actualization
+2302,2023,2100,1,Anger;Erythrophobia
+2303,2023,2100,1,Superego;Ideas of reference
+2304,2023,2100,1,Prediction;Planning
+2305,2023,2100,1,Prediction;Social psychology (psychology)
+2306,2023,2100,1,Prediction;Regression analysis
+2307,2023,2100,1,Passion (emotion);Erythrophobia
+2308,2023,2100,1,Jungian psychology;Introversion
+2309,2023,2100,1,Yerkes-dodson law;Individual differences psychology
+2310,2023,2100,1,Electroencephalography;Tonic–clonic seizure
+2311,2023,2100,1,Mania;Love styles
+2312,2023,2100,1,Psychological projection;Morbid jealousy
+2313,2023,2100,1,Social influence;Ideas of reference
+2314,2023,2100,1,Aura (symptom);Tonic–clonic seizure
+2315,2023,2100,1,Reinforcement;Social role
+2316,2023,2100,1,Iq;Individual differences psychology
+2317,2023,2100,1,Ideas of reference;Confirmation bias
+2318,2023,2100,1,Ideas of reference;Personal boundaries
+2319,2023,2100,1,Ideas of reference;Substance intoxication
+2320,2023,2100,1,Fixation (psychology);Love styles
+2321,2023,2100,1,Classical Adlerian psychotherapy;Self actualization
+2322,2023,2100,1,Humanistic psychology;Self actualization
+2323,2023,2100,1,Codependency;Love styles
+2324,2023,2100,1,Neo-piagetian theories of cognitive development;Individual differences psychology
+2325,2023,2100,1,Splitting (psychology);Persecution complex
+2326,2023,2100,1,Critical psychology;Structure-agency debate
+2327,2023,2100,1,Personality trait;Social role
+2328,2023,2100,1,Content validity;Occupational psychology
+2329,2023,2025,1,Critical thinking;Problem shaping
+2330,2023,2025,1,Critical thinking;Study Skills
+2331,2023,2100,1,Value (personal and cultural);Individual differences psychology
+2332,2023,2100,1,Social stigma;Persecution complex
+2333,2023,2100,1,Thalamus;Introversion
+2334,2023,2100,1,Norm (sociology);Oral stage
+2335,2023,2100,1,Egodystonic;Morbid jealousy
+2336,2023,2100,1,Egosyntonic;Morbid jealousy
+2337,2023,2100,1,Transactional analysis;Social role
+2338,2023,2100,1,Shyness;Introversion
+2339,2023,2100,1,Shyness;Loner
+2340,2023,2100,1,Role-playing;Social role
+2341,2023,2100,1,Performance anxiety;Performance psychology
+2342,2023,2100,1,Eysenck Personality Questionnaire;Introversion
+2343,2023,2100,1,Longitudinal study;Introversion
+2344,2023,2100,1,Social role;Propositional attitude
+2345,2023,2100,1,Social role;Reactance (psychology)
+2346,2023,2100,1,Gestalt therapy;Self actualization
+2347,2023,2100,1,Institutionalization;Structure-agency debate
+2348,2023,2025,1,Mnemonic;Study Skills
+2349,2023,2100,1,Victim playing;Persecution complex
+2350,2023,2100,1,Occupational psychology;Transfer of training
+2351,2023,2100,1,Person-centered therapy;Self actualization
+2352,2023,2100,1,Mind map;Study Skills
+2353,2023,2025,1,Speed reading;Study Skills
+2354,2024,2100,1,Attachment theory;Regulatory Focus Theory
+2355,2024,2100,1,Gender role;Womb envy
+2356,2024,2100,1,Habit (psychology);Regulatory Focus Theory
+2357,2024,2100,1,Anxiety;Paranoid disorder
+2358,2024,2100,1,Orientation (mental);Regulatory Focus Theory
+2359,2024,2100,1,Prediction;Integrative complexity
+2360,2024,2100,1,Prediction;Regulatory Focus Theory
+2361,2024,2100,1,Nonverbal communication;Regulatory Focus Theory
+2362,2024,2100,1,Positive reinforcement;Regulatory Focus Theory
+2363,2024,2100,1,Distrust;Paranoid disorder
+2364,2024,2100,1,Monomania;Paranoid disorder
+2365,2024,2100,1,Pronoia (psychology);Paranoid disorder
+2366,2024,2025,1,Creativity;Problem finding
+2367,2024,2100,1,Psychometrics;Integrative complexity
+2368,2024,2100,1,Negative reinforcement;Regulatory Focus Theory
+2369,2024,2100,1,Value (personal and cultural);Regulatory Focus Theory
+2370,2024,2100,1,Envy;Womb envy
+2371,2024,2100,1,Perspective (cognitive);Integrative complexity
+2372,2024,2100,1,Penis envy;Womb envy
+2373,2025,2100,1,Adaptation;List of thinking-related topic lists
+2374,2025,2100,1,Neurofeedback;List of thinking-related topic lists
+2375,2025,2100,1,Organizational communication;List of thinking-related topic lists
+2376,2025,2100,1,Criticism;List of thinking-related topic lists
+2377,2025,2100,1,Foolishness;List of thinking-related topic lists
+2378,2025,2100,1,Free association (psychology);List of thinking-related topic lists
+2379,2025,2100,1,High IQ society;List of thinking-related topic lists
+2380,2025,2100,1,Ideas bank;List of thinking-related topic lists
+2381,2025,2100,1,Hyperthymesia;List of thinking-related topic lists
+2382,2025,2100,1,Memory and aging;List of thinking-related topic lists
+2383,2025,2100,1,Neuro-linguistic programming;List of thinking-related topic lists
+2384,2025,2100,1,Transfer of training;List of thinking-related topic lists
+2385,2025,2100,1,Prudence;List of thinking-related topic lists
+2386,2025,2100,1,Theophylline;List of thinking-related topic lists
+2387,2025,2100,1,Visual thinking;List of thinking-related topic lists
+2388,1684,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Borderline personality disorder;Cibophobia
+2389,1684,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Borderline personality disorder;Dead inside (concept)
+2390,1684,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Borderline personality disorder;Unipolar depression
+2391,1700,1800,2,Substance abuse;Attention-deficit hyperactivity disorder;Dead inside (concept)
+2392,1700,1800,2,Substance abuse;Attention-deficit hyperactivity disorder;Unipolar depression
+2393,1700,1970,2,Diagnostic and Statistical Manual of Mental Disorders;Attention-deficit hyperactivity disorder;Borderline personality disorder
+2394,1785,2100,2,Major depression;Mental illness;Involuntary commitment
+2395,1785,2100,2,Mental illness;Involuntary commitment;Guilty but mentally ill
+2396,1797,1800,2,Suicide;Schizophrenia;Psychosis
+2397,1800,2100,2,Mental health;Schizophrenia;Mental illness
+2398,1800,2100,2,Mental health;Mental illness;Guilty but mentally ill
+2399,1800,2100,2,Psychotherapy;Borderline personality disorder;Cibophobia
+2400,1800,2100,2,Suicide;Borderline personality disorder;Manic-depressive illness
+2401,1800,2100,2,Psychosis;Bipolar II disorder;Manic-depressive illness
+2402,1874,2100,2,Schizophrenia;Catatonic schizophrenia;Catatonia
+2403,1874,2100,2,Schizophrenia;Catatonia;Dead inside (concept)
+2404,1874,2100,2,Schizophrenia;Catatonia;Unipolar depression
+2405,1883,2018,2,Cyclothymia;Bipolar II disorder;Manic-depressive illness
+2406,1891,2100,2,Suicide;Personality disorder;Mental illness
+2407,1891,2020,2,Suicide;Personality disorder;Manic-depressive illness
+2408,1899,2100,2,Major depressive disorder;Psychomotor agitation;Catatonic schizophrenia
+2409,1900,2100,2,Psychotherapy;Cognitive behavioral therapy;Psychodynamic theory
+2410,1900,2100,2,Suicide;Borderline personality disorder;Multiple personality disorder
+2411,1900,2100,2,Post-traumatic stress disorder;Cognitive behavioral therapy;Dead inside (concept)
+2412,1900,2100,2,Post-traumatic stress disorder;Cognitive behavioral therapy;Unipolar depression
+2413,1900,2100,2,Eating disorder;Anorexia nervosa;Multiple personality disorder
+2414,1900,2100,2,Anorexia nervosa;Cognitive behavioral therapy;Dead inside (concept)
+2415,1900,2100,2,Anorexia nervosa;Cognitive behavioral therapy;Unipolar depression
+2416,1900,2100,2,Cognitive behavioral therapy;Dementia;Dead inside (concept)
+2417,1900,2100,2,Cognitive behavioral therapy;Dementia;Manic-depressive illness
+2418,1900,2100,2,Cognitive behavioral therapy;Dementia;Unipolar depression
+2419,1900,2100,2,Cognitive behavioral therapy;Conduct disorder;Attention-deficit hyperactivity disorder
+2420,1900,2100,2,Alzheimer's disease;Psychosis;Dead inside (concept)
+2421,1900,2100,2,Alzheimer's disease;Psychosis;Unipolar depression
+2422,1900,2100,2,Alzheimer's disease;Dead inside (concept);Informed consent
+2423,1900,2100,2,Alzheimer's disease;Informed consent;Unipolar depression
+2424,1900,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Personality disorder;Multiple personality disorder
+2425,1900,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Personality disorder;Megalomania
+2426,1900,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Borderline personality disorder;Megalomania
+2427,1900,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Dissociation (psychology);Multiple personality disorder
+2428,1904,2100,2,Oppositional defiant disorder;Family therapy;Mental illness
+2429,1905,2100,2,Mental illness;Paranoid personality disorder;Comorbidity
+2430,1908,1961,2,Diagnostic and Statistical Manual of Mental Disorders;Mental illness;Obsessive-compulsive personality disorder
+2431,1908,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Cibophobia;Obsessive-compulsive personality disorder
+2432,1909,2100,2,Suicide;Major depressive disorder;Self-injury
+2433,1909,2100,2,Suicide;Major depressive disorder;Self-punishment
+2434,1909,2100,2,Eating disorder;Anorexia nervosa;Self-injury
+2435,1909,2100,2,Eating disorder;Anorexia nervosa;Self-punishment
+2436,1909,2100,2,Eating disorder;Substance abuse;Self-injury
+2437,1909,2100,2,Eating disorder;Substance abuse;Self-punishment
+2438,1909,2100,2,Major depressive disorder;Anhedonia;Self-punishment
+2439,1937,2100,2,Dementia;Dead inside (concept);Mental status examination
+2440,1937,2100,2,Dementia;Mental status examination;Unipolar depression
+2441,1937,2100,2,Psychiatrist;Dead inside (concept);Mental status examination
+2442,1937,2100,2,Psychiatrist;Mental status examination;Unipolar depression
+2443,1950,2100,2,Dementia;Antipsychotic;Mental illness
+2444,1950,2100,2,Schizophrenia;Antipsychotic;Catatonic schizophrenia
+2445,1950,2100,2,Alzheimer's disease;Psychosis;Antipsychotic
+2446,1950,2020,2,Antidepressant;Social anxiety disorder;Manic-depressive illness
+2447,1951,2100,2,Phobia;Antidepressant;Self-injury
+2448,1951,2100,2,Phobia;Antidepressant;Self-punishment
+2449,1956,2100,2,Personality disorder;Mental illness;Schizotypal personality disorder
+2450,1960,2100,2,Child abuse;Borderline personality disorder;Dead inside (concept)
+2451,1960,2100,2,Child abuse;Borderline personality disorder;Unipolar depression
+2452,1961,2100,2,Anxiety;Anorexia nervosa;Psychoanalyst
+2453,1961,2100,2,Anxiety;Child abuse;Dissociative identity disorder
+2454,1961,2100,2,Anxiety;Child abuse;Dead inside (concept)
+2455,1961,2100,2,Anxiety;Child abuse;Multiple personality disorder
+2456,1961,2100,2,Anxiety;Child abuse;Unipolar depression
+2457,1961,2100,2,Anxiety;Major depressive disorder;Stress (medicine)
+2458,1961,2100,2,Anxiety;Cognitive behavioral therapy;Rational-emotive therapy
+2459,1962,2100,2,Suicide;Adjustment disorder;Dead inside (concept)
+2460,1962,2100,2,Suicide;Adjustment disorder;Unipolar depression
+2461,1965,2100,2,Applied behavior analysis;Token economy;Continuous reinforcement
+2462,1965,2100,2,Applied behavior analysis;Token economy;Reinforcer
+2463,1965,2100,2,Applied behavior analysis;Token economy;Operant behavior
+2464,1969,2100,2,Analytical psychology;Collective unconscious;Anima and animus
+2465,1970,2100,2,Anxiety;Cognitive behavioral therapy;Mindfulness (psychology)
+2466,1970,2100,2,Cognitive behavioral therapy;Borderline personality disorder;Mindfulness (psychology)
+2467,1970,2100,2,Anhedonia;Dysthymia;Major depression
+2468,1970,2100,2,Anhedonia;Dysthymia;Dead inside (concept)
+2469,1970,2100,2,Anhedonia;Dysthymia;Unipolar depression
+2470,1970,2100,2,Behavior modification;Reinforcement;Continuous reinforcement
+2471,1970,2100,2,Behavior modification;Reinforcement;Reinforcer
+2472,1970,2100,2,Behavior modification;Reinforcement;Operant behavior
+2473,1971,2100,2,Collective unconscious;Anima and animus;Jungian psychology
+2474,1971,2100,2,Shadow (psychology);Id, ego and super-ego;Jungian psychology
+2475,1971,2100,2,Borderline personality disorder;Emptiness;Self-punishment
+2476,1971,2100,2,Psychological trauma;Münchausen syndrome;Self-punishment
+2477,1973,2100,2,Psychological trauma;Dissociative disorder;Self-punishment
+2478,1974,2100,2,Cognitive behavioral therapy;Cognitive restructuring;Pedophile
+2479,1979,2018,2,Diagnostic and Statistical Manual of Mental Disorders;Seasonal affective disorder;Dead inside (concept)
+2480,1979,2018,2,Diagnostic and Statistical Manual of Mental Disorders;Seasonal affective disorder;Unipolar depression
+2481,1989,2100,2,Personality psychology;List of psychology disciplines;Cognitive psychology
+2482,1989,2100,2,Clinical psychology;List of psychology disciplines;Humanistic psychology
+2483,1989,2100,2,List of psychology disciplines;Behaviorism;Positive psychology
+2484,1989,2100,2,List of psychology disciplines;Behaviorism;Humanistic psychology
+2485,1990,2100,2,Interpersonal relationships;Mental illness;Narcissistic personality disorder
+2486,1992,2100,2,Dissociation (psychology);Complex post-traumatic stress disorder;Multiple personality disorder
+2487,1995,2100,2,Circadian rhythm;Dead inside (concept);Premenstrual dysphoric disorder
+2488,1995,2100,2,Circadian rhythm;Premenstrual dysphoric disorder;Unipolar depression
+2489,1999,2100,2,Bulimia nervosa;Borderline personality disorder;Mental health disorders
+2490,1999,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Personality disorder;Mental health disorders
+2491,1999,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Mental health disorders;Substance dependence
+2492,1999,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Mental health disorders;Gender identity disorder
+2493,2013,2100,2,Psychosis;Defence mechanism;Mindfulness (psychology)
+2494,2013,2100,2,Borderline personality disorder;Defence mechanism;Mindfulness (psychology)
+2495,2013,2100,2,Psychological repression;Neurosis;Defence mechanism
+2496,2014,2100,2,Neurosis;Coping skill;Psychoanalyst
+2497,2016,2100,2,Sexual arousal;Coprophilia;Sexual deviation
+2498,2016,2100,2,Female sexual arousal disorder;Hypoactive sexual desire disorder;Sexual arousal disorders
+2499,2017,2100,2,Mood (psychology);Cyclothymia;Manic-depressive illness
+2500,2017,2100,2,Dead inside (concept);Psychomotor retardation;Informed consent
+2501,2017,2100,2,Psychomotor retardation;Informed consent;Unipolar depression
+2502,2018,2100,2,Psychiatrist;Mood disorder;Dead inside (concept)
+2503,2018,2100,2,Psychiatrist;Mood disorder;Multiple personality disorder
+2504,2018,2100,2,Psychiatrist;Mood disorder;Unipolar depression
+2505,2018,2100,2,Mania;Catatonia;Manic-depressive illness
+2506,2019,2100,2,Anxiety;Fear;Psychoactive
+2507,2020,2100,2,Classical conditioning;Systematic desensitization;Operant behavior
+2508,2020,2100,2,Attitude (psychology);Organizational psychology;Persuasion
+2509,2020,2100,2,Psychotherapy;Anxiety disorder;Panic disorder
+2510,2020,2100,2,Suicide;Anxiety disorder;Post-traumatic stress disorder
+2511,2020,2100,2,Anxiety disorder;Post-traumatic stress disorder;Child abuse
+2512,2020,2100,2,Dsm-5;Anhedonia;Manic-depressive illness
+2513,2020,2100,2,Dsm-5;Diagnostic and Statistical Manual of Mental Disorders;Dysthymia
+2514,2020,2100,2,Dsm-5;Diagnostic and Statistical Manual of Mental Disorders;Pedophile
+2515,2020,2100,2,Dsm-5;Diagnostic and Statistical Manual of Mental Disorders;Mental health disorders
+2516,2020,2100,2,Dsm-5;Diagnostic and Statistical Manual of Mental Disorders;Dermatillomania
+2517,2020,2100,2,Dsm-5;Oppositional defiant disorder;Mental illness
+2518,2020,2100,2,Dsm-5;Reactive attachment disorder;Mental health disorders
+2519,2020,2100,2,Dsm-5;Mania;Mental illness
+2520,2020,2100,2,Dsm-5;Mania;Catatonia
+2521,2020,2100,2,Dsm-5;Mania;Dermatillomania
+2522,2020,2100,2,Dsm-5;Mania;Manic-depressive illness
+2523,2020,2100,2,Dsm-5;Mania;Megalomania
+2524,2020,2100,2,Dsm-5;Depersonalization disorder;Mental health disorders
+2525,2020,2100,2,Dsm-5;Catatonic schizophrenia;Schizoaffective disorder
+2526,2020,2100,2,Dsm-5;Complex post-traumatic stress disorder;Multiple personality disorder
+2527,2020,2100,2,Dsm-5;Mental health disorders;Conversion disorder
+2528,2020,2100,2,Dsm-5;Conversion disorder;Dissociative disorder
+2529,2020,2100,2,Dsm-5;Conversion disorder;Multiple personality disorder
+2530,2020,2100,2,Dementia;Mental illness;Social stigma
+2531,2020,2100,2,Dementia;Mental health disorders;Social stigma
+2532,2020,2100,2,Intellectual disability;Learning disabilities;Mental illness
+2533,2020,2100,2,Psychosis;Paranoia;Mental illness
+2534,2020,2100,2,Psychosis;Paranoia;Defence mechanism
+2535,2020,2100,2,Icd-10;Social anxiety disorder;Manic-depressive illness
+2536,2020,2100,2,Icd-10;Depersonalization disorder;Dissociation (psychology)
+2537,2020,2100,2,Icd-10;Dissociation (psychology);Conversion disorder
+2538,2020,2100,2,Icd-10;Mental health disorders;Somatization disorder
+2539,2020,2100,2,Icd-10;Mental health disorders;Conversion disorder
+2540,2020,2100,2,Icd-10;Mental health disorders;Gender identity disorder
+2541,2020,2100,2,Icd-10;Mental health disorders;Pedophilia
+2542,2020,2100,2,Paranoia;Mental illness;Paranoid personality disorder
+2543,2020,2100,2,Mania;Grandiosity;Megalomania
+2544,2021,2100,2,Panic attack;Agoraphobia;Major depressive disorder
+2545,2021,2100,2,Self-esteem;Self-loathing;Self-punishment
+2546,2021,2100,2,Substance abuse;Kleptomania;Pathological gambling
+2547,2021,2100,2,Agoraphobia;Dsm-5;Mental health disorders
+2548,2021,2100,2,Agoraphobia;Dsm-5;Free-floating anxiety
+2549,2021,2100,2,Dsm-5;Somatoform disorder;Multiple personality disorder
+2550,2021,2100,2,Dsm-5;Depersonalization;Multiple personality disorder
+2551,2021,2100,2,Id, ego and super-ego;Ego psychology;Psychosexual stages
+2552,2021,2100,2,Mood disorder;Atypical depression;Dead inside (concept)
+2553,2021,2100,2,Mood disorder;Atypical depression;Unipolar depression
+2554,2021,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Personality disorder;Pathological gambling
+2555,2021,2100,2,Panic disorder;Mental health disorders;Somatoform disorder
+2556,2021,2100,2,Borderline personality disorder;Depersonalization;Multiple personality disorder
+2557,2021,2100,2,Psychological repression;Neurosis;Psychosexual stages
+2558,2021,2100,2,Dissociation (psychology);Dissociative identity disorder;Depersonalization
+2559,2021,2100,2,Grandiosity;Megalomania;Narcissistic parent
+2560,2021,2100,2,Conversion disorder;Hysteria;Somatoform disorder
+2561,2021,2100,2,Narcissism;Megalomania;Narcissistic parent
+2562,2022,2100,2,Phobia;Behaviorism;Unconditioned stimulus
+2563,2022,2100,2,Phobia;Behaviorism;Unconditioned response
+2564,2022,2100,2,Behaviorism;Operant behavior;Unconditioned response
+2565,2022,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Personality disorder;Catastrophization
+2566,2022,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Grandiose delusions;Delusional disorder
+2567,2022,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Major depression;Depressive Disorder Not Otherwise Specified
+2568,2022,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Burn Syndrome;Delusional disorder
+2569,2022,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Burn Syndrome;Dementia praecox
+2570,2022,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Delusional disorder;Mental health disorders
+2571,2022,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Dead inside (concept);Depressive Disorder Not Otherwise Specified
+2572,2022,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Depressive Disorder Not Otherwise Specified;Unipolar depression
+2573,2022,2100,2,Systematic desensitization;Operant behavior;Unconditioned response
+2574,2022,2100,2,Dissociative identity disorder;Dissociative amnesia;Memory suppression
+2575,2022,2100,2,Shaping (psychology);Operant behavior;Unconditioned response
+2576,2022,2100,2,Spontaneous recovery;Unconditioned stimulus;Operant behavior
+2577,2022,2100,2,Spontaneous recovery;Operant behavior;Unconditioned response
+2578,2022,2100,2,Dissociative disorder;Dissociative amnesia;Multiple personality disorder
+2579,2023,2100,2,List of psychology disciplines;Industrial and organizational psychology;Individual differences psychology
+2580,2023,2100,2,List of psychology disciplines;Educational psychology;Individual differences psychology
+2581,2023,2100,2,Attitude (psychology);Persuasion;Occupational psychology
+2582,2023,2100,2,British Psychological Society;Health psychology;Occupational psychology
+2583,2023,2100,2,Burn Syndrome;Paranoid personality disorder;Ideas of reference
+2584,2024,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Delusional disorder;Paranoid disorder
+2585,2024,2100,2,Diagnostic and Statistical Manual of Mental Disorders;Dementia praecox;Paranoid disorder
+2586,2024,2100,2,Ideas of reference;Schizotypal personality disorder;Paranoid disorder
+2587,2025,2100,2,Perception;Awareness;List of thinking-related topic lists
+2588,2025,2100,2,Motivation;Volition (psychology);List of thinking-related topic lists
+2589,2025,2100,2,Personality psychology;Cognitive psychology;List of thinking-related topic lists
+2590,2025,2100,2,Attitude (psychology);Persuasion;List of thinking-related topic lists
+2591,2025,2100,2,Attitude (psychology);Self-perception theory;List of thinking-related topic lists
+2592,2025,2100,2,Behavior;Awareness;List of thinking-related topic lists
+2593,2025,2100,2,Behavior;Self-perception theory;List of thinking-related topic lists
+2594,2025,2100,2,Self-concept;Self-awareness;List of thinking-related topic lists
+2595,2025,2100,2,Self-concept;Self-esteem;List of thinking-related topic lists
+2596,2025,2100,2,Self-concept;Schema (psychology);List of thinking-related topic lists
+2597,2025,2100,2,Self-awareness;Introspection;List of thinking-related topic lists
+2598,2025,2100,2,Value (personal and cultural);Value theory;List of thinking-related topic lists

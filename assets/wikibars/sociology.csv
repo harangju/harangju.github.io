@@ -1,0 +1,767 @@
+i,birth,death,dim,nodes
+0,-8000,2100,0,Literacy
+1,-7000,1980,0,Deforestation
+2,-4000,1654,0,Technology
+3,-3500,200,0,War
+4,-3100,1000,0,Patriarchy
+5,-3000,1450,0,Trade
+6,-3000,-1999,0,Law
+7,-3000,1655,0,Information technology
+8,-3000,1900,0,Masculinity
+9,-2400,1900,0,Homosexuality
+10,-2000,-1999,0,Medicine
+11,-1700,300,0,Prostitution
+12,-1550,1500,0,Colonialism
+13,-700,190,0,Judaism
+14,-700,200,0,Democracy
+15,-700,200,0,Hegemony
+16,-700,1797,0,Psychopathy
+17,-500,1700,0,Environmentalism
+18,-400,1796,0,Ontology
+19,-330,600,0,Education
+20,-326,2100,0,Debt bondage
+21,-300,1601,0,Automation
+22,100,110,0,Feminism
+23,100,1200,0,Intelligence quotient
+24,107,1963,0,Christian Church
+25,112,1950,0,Alcoholism
+26,147,400,0,Immigration
+27,150,1840,0,Black Panther Party
+28,150,151,0,Trade union
+29,200,1200,0,Fascism
+30,200,2017,0,Anabaptist
+31,200,1600,0,Peasant
+32,230,1900,0,Coup d'état
+33,256,2020,0,Birth rate
+34,284,1700,0,Bureaucracy
+35,750,1400,0,Core countries
+36,1200,2016,0,Profanity
+37,1300,1900,0,Femininity
+38,1425,1600,0,Clan
+39,1500,1513,0,Agrarian society
+40,1500,1723,0,Homelessness
+41,1500,1700,0,Reserve army of labour
+42,1516,2019,0,Ghetto
+43,1600,1800,0,Experiment
+44,1600,2011,0,Gang
+45,1600,2018,0,Meritocracy
+46,1786,1936,0,Sampling (statistics)
+47,1792,2100,0,Health maintenance organization
+48,1796,1840,0,Counter-revolutionary
+49,1800,1937,0,Poverty threshold
+50,1800,2017,0,Animism
+51,1800,1890,0,Biological determinism
+52,1800,1818,0,Multilineal evolution
+53,1800,1944,0,Systems theory
+54,1854,1942,0,Arms industry
+55,1870,1900,0,Pragmatism
+56,1883,1978,0,Universal health care
+57,1894,1926,0,Social control
+58,1900,2100,0,Chicago Area Project
+59,1927,2016,0,Fetishism
+60,1929,2020,0,Demographic transition
+61,1938,2100,0,Economies of scale
+62,1944,2021,0,The Great Transformation (book)
+63,1950,2019,0,Asch conformity experiments
+64,1950,2021,0,Brainwashing
+65,1950,2016,0,Status inconsistency
+66,1960,1961,0,Civil religion
+67,1960,2018,0,Conglomerate (company)
+68,1960,1961,0,Conversation analysis
+69,1960,2016,0,Sociology of language
+70,1961,2021,0,Megalopolis (city type)
+71,1971,2100,0,Amae
+72,2000,2100,0,Assisted living
+73,2003,2008,0,Affirmative action
+74,2014,2015,0,Cash crop
+75,2014,2015,0,Hunter-gatherer
+76,2020,2085,0,Exponential growth
+77,2020,2021,0,Bystander effect
+78,2020,2100,0,Secondary labor market
+79,-1999,2100,1,Technology;Bioethics
+80,200,2100,1,State (polity);Politics
+81,202,2100,1,Rebellion;Authority
+82,300,2100,1,Rape;Catholicism
+83,300,2100,1,Law;Catholicism
+84,313,2100,1,Civil rights;State (polity)
+85,1086,2100,1,Sociology;Multiculturalism
+86,1086,2100,1,Sociology;Science
+87,1087,2100,1,Terrorism;Sociology of terrorism
+88,1087,2100,1,Sociological theory;Paradigm
+89,1087,2100,1,State (polity);Sociology of terrorism
+90,1087,2100,1,Marriage;Dyad (sociology)
+91,1088,2100,1,Dialectic;Rationality
+92,1200,2100,1,Collective punishment;Total war
+93,1400,2100,1,Nature;Materialism
+94,1500,2100,1,Sexism;Communal riot
+95,1500,2100,1,Racism;Communal riot
+96,1500,2100,1,Unemployment;Welfare (financial aid)
+97,1500,2100,1,Communal riot;Globalization
+98,1513,2100,1,Economy;Trade
+99,1516,2100,1,Capitalism;Futurology
+100,1516,2100,1,Technology;Futurology
+101,1516,2100,1,Total war;Futurology
+102,1544,2100,1,Public health;Moral panic
+103,1544,2100,1,Moral panic;Mass media
+104,1600,2100,1,Communism;State (polity)
+105,1600,2100,1,Racism;Race (classification of human beings)
+106,1600,2100,1,Colonialism;Race (classification of human beings)
+107,1600,2100,1,Civil rights;Race (classification of human beings)
+108,1600,2100,1,Capitalism;Race (classification of human beings)
+109,1600,2100,1,Race (classification of human beings);Hegemony
+110,1600,2100,1,Race (classification of human beings);Paradigm
+111,1600,2100,1,Abortion;Murder
+112,1600,2100,1,Sect;Cult
+113,1600,2100,1,Communal riot;Cult
+114,1600,2100,1,Hegemony;Proto-globalization
+115,1601,2100,1,State (polity);Arms race
+116,1602,2100,1,Paradigm;Political realism
+117,1655,2100,1,Gross domestic product;Industrial production
+118,1655,2100,1,Gross domestic product;Tertiary sector of economic activity
+119,1655,2100,1,Public health;Tertiary sector of economic activity
+120,1655,2100,1,Mass media;Tertiary sector of economic activity
+121,1700,2100,1,Racism;Classism
+122,1700,2100,1,Civil rights;Interest group
+123,1700,2100,1,Applied science;Ecology
+124,1700,2100,1,State (polity);Urbanization
+125,1700,2020,1,Nationalism;Communal riot
+126,1700,2100,1,Nationalism;Socialism
+127,1700,2100,1,Nationalism;Sovereignty
+128,1700,2100,1,Government;Laissez-faire
+129,1700,2100,1,Interest group;Abortion
+130,1700,2100,1,Interest group;Feminism
+131,1700,2100,1,Interest group;Mass media
+132,1700,2100,1,Trade;Political economy
+133,1700,2100,1,Politics;Working class
+134,1700,2100,1,Law;Political economy
+135,1700,2100,1,Bourgeoisie;Urbanization
+136,1700,2100,1,Urbanization;Public health
+137,1700,2100,1,Age of Enlightenment;Intelligentsia
+138,1700,2100,1,Civil society;Participatory democracy
+139,1700,1818,1,Working class;Socialism
+140,1700,2100,1,Working class;Welfare (financial aid)
+141,1701,2100,1,Politics;Rationalization (sociology)
+142,1701,2100,1,Urbanization;Youth welfare
+143,1701,2100,1,Age of Enlightenment;Rationalization (sociology)
+144,1701,2100,1,Globalization;Rationalization (sociology)
+145,1701,2100,1,Immigration;Youth welfare
+146,1723,2100,1,Wealth;Entrepreneur
+147,1723,2100,1,Corporation;Entrepreneur
+148,1723,2100,1,Entrepreneur;Mass media
+149,1750,2100,1,State (polity);Industrialisation
+150,1750,2100,1,Periphery countries;Industrialisation
+151,1751,1970,1,Division of labour;Trade
+152,1751,2100,1,Division of labour;Industrialisation
+153,1752,2021,1,Globalization;Industrial sociology
+154,1789,2100,1,World-systems theory;Nation state
+155,1790,2100,1,Citizenship;Immigration
+156,1796,2100,1,Environmentalism;Ideology
+157,1796,2021,1,Race (classification of human beings);Ideology
+158,1796,2100,1,Feminism;Ideology
+159,1796,2100,1,Communal riot;Ideology
+160,1796,2100,1,Ideology;Patriarchy
+161,1796,2100,1,Ideology;Public sphere
+162,1798,2100,1,Cultural imperialism;Industrialisation
+163,1800,2100,1,Qualitative research;Methodology
+164,1800,2100,1,Verstehen;Antipositivism
+165,1800,2100,1,Communism;Anarchism
+166,1800,2100,1,Prostitution;Amalgamation (history)
+167,1800,2100,1,Anarchism;Government
+168,1800,2100,1,Popular culture;Consumerism
+169,1800,2100,1,Popular culture;Politics
+170,1800,2100,1,Amalgamation (history);Cohabitation
+171,1800,2100,1,Amalgamation (history);Rape
+172,1800,2100,1,Amalgamation (history);Multiculturalism
+173,1800,2100,1,Law;Profession
+174,1800,1970,1,Urbanization;Modernity
+175,1800,2100,1,Bureaucracy;Mass society
+176,1800,2100,1,Renaissance;Modernity
+177,1800,2100,1,Collective representation;Mass society
+178,1800,2100,1,Representative democracy;Modernity
+179,1800,2100,1,Modernity;Feudalism
+180,1801,2100,1,Agrarian society;Industrial society
+181,1801,2100,1,Technology;Industrial society
+182,1801,2100,1,Mass society;Industrial society
+183,1801,2100,1,Information technology;Industrial society
+184,1801,2100,1,Industrial society;Mechanization
+185,1818,2100,1,Education;Marxism
+186,1818,2100,1,Fascism;Marxism
+187,1818,2100,1,Dialectic;Marxism
+188,1840,2100,1,Trade union;Industrial democracy
+189,1845,1970,1,Nature;Historical materialism
+190,1848,2100,1,Fascism;Revolution
+191,1848,1981,1,Communism;Revolution
+192,1848,2100,1,Revolution;Democracy
+193,1848,2100,1,Revolution;Counter-revolutionary
+194,1875,2100,1,Public health;Infrastructure
+195,1876,2100,1,Means of production;Industrial democracy
+196,1876,2100,1,Means of production;Infrastructure
+197,1877,2100,1,Political economy;Labour power
+198,1877,2100,1,Rationality;Scientific management
+199,1878,2100,1,Totem;Family
+200,1889,2100,1,Deviance (sociology);Crime
+201,1889,2100,1,Deviance (sociology);Relativism
+202,1893,2100,1,Anomie;Conscience collective
+203,1893,2100,1,State (polity);Conscience collective
+204,1893,2017,1,Marxism;Conscience collective
+205,1893,2100,1,Bureaucracy;Conscience collective
+206,1893,2100,1,Civil society;Conscience collective
+207,1893,2100,1,Democracy;Conscience collective
+208,1893,2100,1,Totem;Conscience collective
+209,1893,2100,1,Collective consciousness;Collective representation
+210,1893,2100,1,Conscience collective;Materialism
+211,1893,2100,1,Conscience collective;Paradigm
+212,1899,2100,1,Collective punishment;Resistance movement
+213,1900,2100,1,Gender;Civil rights
+214,1900,2100,1,Gender;Marriage
+215,1900,2100,1,Genocide;Rape
+216,1900,2100,1,Great Depression;Unemployment
+217,1900,2100,1,Great Depression;Futurology
+218,1900,2100,1,Sexism;Gendering
+219,1900,2100,1,Wealth;Oligarchy
+220,1900,2100,1,Aids;Colonialism
+221,1900,2100,1,Aids;Gross domestic product
+222,1900,2100,1,Aids;Unemployment
+223,1900,2100,1,Colonialism;Gendering
+224,1900,2100,1,Civil rights;Liberal democracy
+225,1900,2100,1,Capitalism;Neoliberalism
+226,1900,2100,1,Judaism;Gendering
+227,1900,2100,1,Underclass;Lumpenproletariat
+228,1900,2100,1,Nationalism;Kinship
+229,1900,2100,1,Nationalism;Cultural pluralism
+230,1900,2100,1,Government;Autocracy
+231,1900,2100,1,Government;Oligarchy
+232,1900,2100,1,Pluralism (political philosophy);Liberal democracy
+233,1900,2100,1,Postmodernism;Modernity
+234,1900,2021,1,Feminism;Gendering
+235,1900,2100,1,Biological determinism;Gendering
+236,1900,2100,1,Police brutality;Violence
+237,1900,2100,1,Laissez-faire;Imperialism
+238,1900,2100,1,Catholicism;Imperialism
+239,1900,2100,1,Imperialism;Cultural imperialism
+240,1900,2100,1,Imperialism;World-systems theory
+241,1900,2100,1,Citizenship;Urbanism
+242,1900,2100,1,Civil society;Post-fordism
+243,1900,2100,1,Democracy;Neoliberalism
+244,1900,2100,1,Liberal democracy;Representative democracy
+245,1900,2100,1,Kinship;Clan
+246,1900,2100,1,Kinship;Ontology
+247,1900,2100,1,Violence;Domestic violence
+248,1900,2100,1,Violence;Jingoism
+249,1900,2100,1,Political economy;Neoliberalism
+250,1900,2100,1,Consciousness;Phenomenology (philosophy)
+251,1900,2100,1,Created environment;Urbanism
+252,1900,2100,1,Phenomenology (philosophy);Existentialism
+253,1900,2100,1,Feedback;Theories and sociology of the history of science
+254,1900,2100,1,Total war;Gendering
+255,1900,2100,1,Militarism;Futurology
+256,1900,2100,1,Fordism;Post-fordism
+257,1900,2100,1,Gendering;Existentialism
+258,1901,2021,1,Gender;Prejudice
+259,1901,2100,1,Gender;Polylogism
+260,1901,2100,1,Education;Prejudice
+261,1901,2006,1,Sexism;Prejudice
+262,1901,2100,1,Heterosexuality;Aids
+263,1901,2100,1,Aids;Chronic (medical)
+264,1901,2100,1,Chronic (medical);Alzheimer's disease
+265,1901,2100,1,Chronic (medical);Public health
+266,1901,2100,1,State (polity);War economy
+267,1901,2100,1,Black Panther Party;Surveillance
+268,1901,2100,1,Surveillance;Liberal democracy
+269,1901,2100,1,Diaspora;Nation state
+270,1901,2100,1,Democracy;Polyarchy
+271,1901,2100,1,Ideology;Sociology of the family
+272,1901,2100,1,Total war;War economy
+273,1901,2100,1,Militarism;War economy
+274,1901,2100,1,Post-industrial society;Post-fordism
+275,1901,2100,1,Post-industrial society;Behavioral economics
+276,1901,2100,1,Matriarchy;Matrilineality
+277,1902,2100,1,Interest group;Pluralism (political theory)
+278,1902,2100,1,Pluralism (political theory);Polyarchy
+279,1910,2100,1,Third World;Rural sociology
+280,1913,2100,1,Nation state;Stateless nation
+281,1913,2100,1,Sovereignty;Stateless nation
+282,1914,2100,1,Middle class;Boomerang generation
+283,1914,2100,1,Middle class;Cultural deprivation
+284,1920,2017,1,Ethnography;Ethnic group
+285,1920,2100,1,Riot;Ethnic group
+286,1920,2100,1,Liberal democracy;Ethnic group
+287,1920,2100,1,Ideology;Totalitarianism
+288,1920,2100,1,Ethnic group;Stateless nation
+289,1920,2100,1,Mass media;Totalitarianism
+290,1921,2100,1,Economy;Autarky
+291,1921,2100,1,Endogamy;Ethnic group
+292,1921,2100,1,Autarky;Nationalism
+293,1921,2100,1,Autarky;Mercantilism
+294,1922,2100,1,Autarky;Social solidarity
+295,1922,2100,1,Bioethics;Social solidarity
+296,1922,2100,1,Kinship;Social solidarity
+297,1922,2100,1,Classism;Social solidarity
+298,1924,2100,1,Multiculturalism;Sociology of immigration
+299,1926,1970,1,Michel Foucault;Modernity
+300,1927,2100,1,The Archaeology of Knowledge;Methodology
+301,1930,2100,1,Unemployment;Mixed economy
+302,1930,2100,1,Capitalism;Mixed economy
+303,1930,2100,1,Kinship;Kin selection
+304,1930,1970,1,Ideology;Critical theory
+305,1930,2100,1,Ideology;Leipzig school (sociology)
+306,1930,2100,1,Critical theory;Pragmatism
+307,1931,2100,1,Symbolic interactionism;Communal riot
+308,1931,2100,1,Symbolic interactionism;Pragmatism
+309,1931,2100,1,Critical theory;Metanarrative
+310,1932,2100,1,Symbolic interactionism;Sexual script
+311,1935,2100,1,Quantitative research;Positivism
+312,1935,2100,1,Ecosystem;Feedback
+313,1937,2100,1,Income;Intelligence quotient
+314,1937,2100,1,Income;Welfare (financial aid)
+315,1940,2100,1,Socialization;Anomie
+316,1940,2100,1,Socialization;Kinship
+317,1940,2007,1,Socialization;Ideology
+318,1940,2100,1,Politics;Status class
+319,1940,2015,1,Kinship;Status class
+320,1940,2100,1,Third World;First World
+321,1940,2100,1,Post-industrial society;Status class
+322,1942,2100,1,Military-industrial complex;Bureaucracy
+323,1944,2100,1,Medical sociology;Bioethics
+324,1945,2100,1,Deviance (sociology);Alternative society
+325,1945,2100,1,Deviance (sociology);Deviant subculture
+326,1945,2100,1,War;Alternative society
+327,1945,2100,1,War;Deviant subculture
+328,1945,2100,1,Racism;Alternative society
+329,1945,2100,1,Racism;Deviant subculture
+330,1945,2100,1,Prostitution;Alternative society
+331,1945,2100,1,Prostitution;Deviant subculture
+332,1945,2100,1,Alternative society;Anarchism
+333,1945,2100,1,Alternative society;Nuclear family
+334,1945,2100,1,Alternative society;Mental disorder
+335,1945,2100,1,Alternative society;Middle class
+336,1945,2100,1,Alternative society;Revolution
+337,1945,2100,1,Alternative society;Environmentalism
+338,1945,2100,1,Alternative society;Popular culture
+339,1945,2100,1,Alternative society;Capitalism
+340,1945,2100,1,Anarchism;Deviant subculture
+341,1945,2100,1,Nuclear family;Deviant subculture
+342,1945,2100,1,Mental disorder;Deviant subculture
+343,1945,2100,1,Middle class;Deviant subculture
+344,1945,2100,1,Revolution;Deviant subculture
+345,1945,2100,1,Environmentalism;Deviant subculture
+346,1945,2019,1,Popular culture;Deviant subculture
+347,1945,2100,1,Capitalism;Deviant subculture
+348,1946,2100,1,Demography;Baby boomer
+349,1946,2100,1,Baby boomer;Consumerism
+350,1946,2100,1,Baby boomer;Homosexuality
+351,1946,2100,1,Baby boomer;Feminism
+352,1949,2100,1,Underdevelopment;Democracy
+353,1949,2100,1,Dependency theory;Multilineal evolution
+354,1950,2100,1,Life expectancy;Infant mortality
+355,1950,2100,1,Life expectancy;Ecology
+356,1950,2100,1,Life expectancy;First World
+357,1950,2100,1,Life expectancy;Schizophrenia
+358,1950,2100,1,Colonialism;Modernization
+359,1950,2100,1,Technology;Modernization
+360,1950,2100,1,Consumerism;Modernization
+361,1950,2100,1,Mass society;Modernization
+362,1950,2100,1,Third World;Modernization
+363,1950,1970,1,Critical theory;Modernization
+364,1950,1970,1,Dependency theory;Modernization
+365,1950,2100,1,World-systems theory;Modernization
+366,1953,2100,1,Underdevelopment;New international division of labour
+367,1954,2100,1,Gender role;Patriarchy
+368,1956,2100,1,Capitalism;Neocolonialism
+369,1956,2100,1,Medicare (United States);Welfare (financial aid)
+370,1956,2100,1,Imperialism;Neocolonialism
+371,1960,2100,1,Great Depression;Catholic Worker
+372,1960,2100,1,Sexism;Women's liberation movement
+373,1960,2100,1,Racism;White privilege
+374,1960,2100,1,Insurgency;Law
+375,1960,2100,1,Postmodernism;Post-structuralism
+376,1960,2100,1,Feminism;Women's liberation movement
+377,1960,2100,1,Sociobiology;Polygamy
+378,1960,2100,1,Cultural capital;Status class
+379,1960,2100,1,Symbolic interactionism;Labeling theory
+380,1960,2100,1,Public health;Physician Assistant
+381,1960,2100,1,Globalization;Sociology of race
+382,1960,2100,1,Relativism;Sociology of science and technology
+383,1960,2100,1,Patriarchy;Women's liberation movement
+384,1960,2100,1,Sociology of knowledge;Sociology of science and technology
+385,1961,1970,1,Sociology of religion;Globalization
+386,1961,2100,1,Authoritarianism;Organizational studies
+387,1961,2100,1,Authoritarianism;Government
+388,1961,2100,1,Authoritarianism;Pluralism (political philosophy)
+389,1961,2100,1,Authoritarianism;Interest group
+390,1961,2100,1,Authoritarianism;Underdevelopment
+391,1961,2100,1,Authoritarianism;Insurgency
+392,1961,2100,1,Authoritarianism;Hegemony
+393,1961,2100,1,Authoritarianism;Deviant subculture
+394,1961,2100,1,Authoritarianism;Totalitarianism
+395,1961,2100,1,Authoritarianism;Intelligentsia
+396,1962,2100,1,Microsociology;Phenomenology (philosophy)
+397,1962,2100,1,Capitalism;Comparative sociology
+398,1962,2100,1,Differential association;Phenomenology (philosophy)
+399,1962,2019,1,Differential association;Ethnomethodology
+400,1963,2100,1,Macrosociology;War
+401,1963,2100,1,Macrosociology;Third World
+402,1963,2100,1,Macrosociology;Immigration
+403,1963,2100,1,Macrosociology;Family
+404,1967,2100,1,Income;Institutional racism
+405,1967,2100,1,Racism;Institutional racism
+406,1967,2100,1,Wealth;Institutional racism
+407,1969,2100,1,Ageism;Racism
+408,1970,2100,1,Sexism;Sexual harassment
+409,1970,2100,1,Feminism;Sexual harassment
+410,1970,2016,1,Law;Evolutionary sociology
+411,1970,2100,1,Bureaucracy;Evolutionary sociology
+412,1970,2100,1,Democracy;Evolutionary sociology
+413,1970,2100,1,Liberal democracy;Evolutionary sociology
+414,1970,2100,1,Prejudice;Split labor market theory
+415,1970,2100,1,Positivism;Evolutionary sociology
+416,1970,2100,1,Deforestation;Evolutionary sociology
+417,1970,2100,1,World-systems theory;Sociocultural evolution
+418,1978,2100,1,Public health;Primary health care
+419,1980,2100,1,Sociology of law;Law
+420,1980,2100,1,Sociology of law;Social control
+421,1980,2100,1,Globalization;Glocalisation
+422,1980,2100,1,Ontology;Deconstruction
+423,1980,2100,1,Ecology;Glocalisation
+424,1981,2100,1,Avant-garde;Postmodernism
+425,1981,2100,1,Avant-garde;Deviant subculture
+426,1981,2100,1,Nationalism;Legitimacy (political science)
+427,1981,2100,1,Authority;Legitimacy (political science)
+428,1981,2100,1,Age of Enlightenment;Legitimacy (political science)
+429,1981,2100,1,Deconstruction;Legitimacy (political science)
+430,1981,2100,1,Elite;Legitimacy (political science)
+431,1989,2100,1,Americanization;Glocalisation
+432,1990,2100,1,Two-spirit;Gendering
+433,1990,2100,1,Paradigm;Mcdonaldization
+434,1990,2100,1,Disneyfication;Mcdonaldization
+435,1990,2100,1,Fordism;Mcdonaldization
+436,1990,2100,1,Social control;Mcdonaldization
+437,1990,2100,1,Gentrification;Inner city
+438,1990,2100,1,Mcdonaldization;Scientific management
+439,1991,2100,1,Socialism;Second World
+440,1991,2100,1,Third World;Second World
+441,1991,2100,1,Inner city;Suburbanization
+442,2002,2100,1,Technology;Simulation
+443,2002,2100,1,Experiment;Simulation
+444,2004,2100,1,Identity politics;Latino/a
+445,2006,2100,1,Aids;Homophobia
+446,2006,2100,1,Homophobia;Alternative society
+447,2006,2100,1,Homophobia;Deviant subculture
+448,2007,2017,1,Capitalism;Conflict theory
+449,2007,2100,1,Conflict theory;State (polity)
+450,2007,2100,1,Conflict theory;Underdevelopment
+451,2007,2100,1,Conflict theory;Crime
+452,2007,2100,1,Conflict theory;Power elite
+453,2007,2100,1,Conflict theory;Positivism
+454,2007,2100,1,Political economy;Productive forces
+455,2008,2100,1,Race (classification of human beings);Culture wars
+456,2008,2100,1,Multiculturalism;Culture wars
+457,2008,2100,1,Abortion;Culture wars
+458,2008,2100,1,Homosexuality;Culture wars
+459,2008,2100,1,Counterculture;Culture wars
+460,2010,2100,1,State (polity);Geopolitics
+461,2010,2100,1,Demography;Geopolitics
+462,2011,2100,1,Demography;Longevity
+463,2011,2100,1,Organized crime;White-collar crime
+464,2012,2100,1,Interest group;Political corruption
+465,2012,2100,1,Police brutality;Political corruption
+466,2012,2100,1,Organized crime;Political corruption
+467,2014,2100,1,Verstehen;Economic determinism
+468,2014,2100,1,Economic determinism;Socialism
+469,2015,2100,1,Social stratification;Wealth
+470,2015,2100,1,Social stratification;State (polity)
+471,2015,2100,1,Technology;Pollution
+472,2015,2100,1,Division of labour;Gendered division of labour
+473,2015,2100,1,Commodity;Infrastructure
+474,2015,2100,1,Pollution;Air pollution
+475,2015,2100,1,Hunter-gatherer;Gendered division of labour
+476,2016,2100,1,Society;War
+477,2016,2100,1,Society;Mental disorder
+478,2016,2100,1,Society;Avant-garde
+479,2016,2100,1,Society;Cultural pluralism
+480,2016,2100,1,Society;Moral panic
+481,2016,2100,1,Society;Infrastructure
+482,2016,2100,1,Society;Neoliberalism
+483,2016,2100,1,Social status;Cultural capital
+484,2016,2100,1,Social status;Scientific management
+485,2016,2100,1,Endogamy;Caste
+486,2016,2100,1,Caste;Split labor market theory
+487,2016,2100,1,Political economy;Commodity fetishism
+488,2016,2100,1,Organized crime;Unintended consequence
+489,2016,2100,1,Resource depletion;Pollution
+490,2016,2100,1,Resource depletion;Measures of national income and output
+491,2016,2100,1,Pollution;Unintended consequence
+492,2016,2100,1,Feudalism;Unintended consequence
+493,2017,2020,1,Culture;Judaism
+494,2017,2100,1,Culture;Post-structuralism
+495,2017,2100,1,Culture;Cultural imperialism
+496,2017,2100,1,Culture;Schizophrenia
+497,2017,2100,1,Social class;Class conflict
+498,2017,2100,1,Institution;Prostitution
+499,2017,2100,1,Institution;Marriage
+500,2017,2100,1,Institution;Government
+501,2017,2100,1,Institution;Bureaucracy
+502,2017,2100,1,Verstehen;Anthropology
+503,2017,2100,1,Macrosociology;Poverty
+504,2017,2100,1,Income;Poverty
+505,2017,2100,1,Poverty;Middle class
+506,2017,2100,1,Poverty;Underclass
+507,2017,2100,1,Poverty;Underdevelopment
+508,2017,2100,1,Poverty;Catholicism
+509,2017,2100,1,Poverty;Communal riot
+510,2017,2100,1,Poverty;Dependency theory
+511,2017,2100,1,Social status;Role
+512,2017,2100,1,Social status;Sociology of gender
+513,2017,2100,1,Role;Social control
+514,2017,2100,1,Anthropology;Kinship
+515,2017,2100,1,Anthropology;Collective representation
+516,2017,2100,1,Anthropology;Group dynamics
+517,2017,2100,1,Anthropology;Semiotics
+518,2017,2100,1,Anthropology;Matriarchy
+519,2017,2100,1,Science;Theory
+520,2017,2100,1,Conflict theory;Class conflict
+521,2017,2100,1,Postmodernism;Hyperreality
+522,2017,2100,1,Clan;Matrilocal residence
+523,2017,2100,1,Class conflict;Trade union
+524,2017,2100,1,Globalization;Late modernity
+525,2017,2100,1,Risk;Entrepreneur
+526,2017,2100,1,Consciousness;Hyperreality
+527,2017,2100,1,Periphery countries;Theory
+528,2017,2100,1,Darwinism;Theory
+529,2017,2100,1,Disneyfication;Hyperreality
+530,2017,2100,1,Hyperreality;Semiotics
+531,2017,2100,1,Post-industrial society;Late modernity
+532,2017,2100,1,Matriarchy;Matrilocal residence
+533,2018,2100,1,Social class;Social environment
+534,2018,2100,1,Quantitative research;Intergenerational mobility
+535,2018,2100,1,Education;Intergenerational mobility
+536,2018,2100,1,Education;Sociology of education
+537,2018,2100,1,Poverty;Longitudinal study
+538,2018,2100,1,Poverty;Relative deprivation
+539,2018,2100,1,Poverty;Political sociology
+540,2018,2100,1,Social status;Sociology of education
+541,2018,2100,1,Role;Base and superstructure
+542,2018,2100,1,Discrimination;Affirmative action
+543,2018,2100,1,Discrimination;Caste
+544,2018,2100,1,Anthropology;Cognition
+545,2018,2100,1,Anthropology;Complex society
+546,2018,2100,1,Anthropology;Cultural bias
+547,2018,2100,1,Anthropology;Lifeworld
+548,2018,2100,1,Terrorism;Relative deprivation
+549,2018,2100,1,Ageism;Intergenerational mobility
+550,2018,2100,1,Capitalism;False consciousness
+551,2018,2100,1,Amalgamation (history);Cultural assimilation
+552,2018,2100,1,Cultural assimilation;Cultural pluralism
+553,2018,2100,1,Cultural assimilation;Nation state
+554,2018,2100,1,Cultural assimilation;Sociology of immigration
+555,2018,2100,1,Science;Research
+556,2018,2100,1,Dialectic;Structuration
+557,2018,2100,1,Technology;Structuration
+558,2018,2100,1,Sociological theory;Structuration
+559,2018,2100,1,State (polity);Base and superstructure
+560,2018,2100,1,State (polity);Complex society
+561,2018,2100,1,Gestalt psychology;Interpretive
+562,2018,2100,1,Autarky;Primary sector of economic activity
+563,2018,2100,1,Marxism;Base and superstructure
+564,2018,2100,1,Base and superstructure;Division of labour
+565,2018,2100,1,Base and superstructure;Economic determinism
+566,2018,2100,1,Division of labour;Complex society
+567,2018,2100,1,Lesbian;Identity (social science)
+568,2018,2100,1,Democracy;Political sociology
+569,2018,2100,1,Class conflict;Structuration
+570,2018,2100,1,Instinct;Fertility
+571,2018,2100,1,Organization;Multinational corporation
+572,2018,2100,1,Community;Risk
+573,2018,2100,1,Community;Gang
+574,2018,2100,1,Positivism;Reductionism
+575,2018,2100,1,Positivism;Structuration
+576,2018,2100,1,Post-structuralism;Structuration
+577,2018,2100,1,Created environment;Social environment
+578,2018,2100,1,Ontology;Structuration
+579,2018,2100,1,Phenomenology (philosophy);Interpretive
+580,2018,2100,1,Phenomenology (philosophy);Lifeworld
+581,2018,2100,1,Feedback;Structuration
+582,2018,2100,1,Theory;Reductionism
+583,2018,2100,1,Experiment;Longitudinal study
+584,2018,2100,1,Social solidarity;Structuration
+585,2018,2100,1,Fecundity;Fertility
+586,2018,2100,1,Information technology;Structuration
+587,2018,2100,1,Higher education;Sociology of education
+588,2018,2100,1,Meritocracy;Sociology of education
+589,2018,2100,1,Reductionism;Sociology of science and technology
+590,2018,2100,1,Political sociology;Sociology of race
+591,2019,2100,1,Gender;Social stigma
+592,2019,2100,1,Evolution;Hypothesis
+593,2019,2100,1,Anthropology;Human ecology
+594,2019,2100,1,Life expectancy;Hypothesis
+595,2019,2100,1,Wealth;Mass action (sociology)
+596,2019,2100,1,Chronic (medical);Minority group
+597,2019,2100,1,Mental disorder;Social stigma
+598,2019,2100,1,Capitalism;Mass action (sociology)
+599,2019,2100,1,Youth subculture;Family
+600,2019,2100,1,Judaism;Trust (social sciences)
+601,2019,2100,1,Cultural assimilation;Minority group
+602,2019,2100,1,Cultural assimilation;Conformity (psychology)
+603,2019,2100,1,Rape;Honour killing
+604,2019,2100,1,Multiculturalism;Hybridity
+605,2019,2100,1,Antipositivism;Sociological paradigm
+606,2019,2100,1,Technology;Communication
+607,2019,2100,1,Arranged marriage;Honour killing
+608,2019,2100,1,Minority group;Ethnic group
+609,2019,2100,1,Postmodernism;Sociological paradigm
+610,2019,2100,1,Murder;Honour killing
+611,2019,2100,1,Homosexuality;Honour killing
+612,2019,2100,1,Ritual;Civil religion
+613,2019,2100,1,Ritual;Community
+614,2019,2100,1,Trade;Mass action (sociology)
+615,2019,2100,1,Politics;Conformity (psychology)
+616,2019,2100,1,Chicago school (sociology);Primary and secondary groups
+617,2019,2100,1,Public health;Human ecology
+618,2019,2100,1,Democracy;Sociological paradigm
+619,2019,2100,1,Violence;Honour killing
+620,2019,2100,1,Globalization;Communication
+621,2019,2100,1,Globalization;Hybridity
+622,2019,2100,1,Organization;Communication
+623,2019,2100,1,Organization;Mass action (sociology)
+624,2019,2100,1,Communication;Urbanism
+625,2019,2100,1,Communication;Entrepreneur
+626,2019,2100,1,Communication;Public sphere
+627,2019,2100,1,Community;Gemeinschaft and Gesellschaft
+628,2019,2100,1,Community;Imagined communities
+629,2019,2100,1,Community;Trust (social sciences)
+630,2019,2100,1,Identity (social science);Hybridity
+631,2019,2100,1,Identity (social science);Primary and secondary groups
+632,2019,2100,1,Conformity (psychology);Group dynamics
+633,2019,2100,1,Paradigm;Sociological paradigm
+634,2019,2100,1,Organized crime;Sociological paradigm
+635,2019,2100,1,Social environment;Human ecology
+636,2019,2100,1,Research;Empirical studies
+637,2019,2100,1,Research;Sociology of music
+638,2019,2100,1,Ecology;Human ecology
+639,2019,2100,1,Empirical studies;Entrepreneur
+640,2019,2100,1,Mass media;Imagined communities
+641,2019,2100,1,Evolutionary sociology;Traditional authority
+642,2019,2100,1,Modernity;Imagined communities
+643,2019,2100,1,Modernity;Trust (social sciences)
+644,2019,2100,1,Fertility;Honour killing
+645,2019,2100,1,Honour killing;Patrilineality
+646,2019,2100,1,Peer group;Primary and secondary groups
+647,2019,2100,1,Relative deprivation;Value-added theory
+648,2019,2100,1,Sociological paradigm;Value-added theory
+649,2020,2100,1,Mortality rate;Life expectancy
+650,2020,2100,1,Mortality rate;Intelligence quotient
+651,2020,2100,1,Anthropology;Forms of activity and interpersonal relations
+652,2020,2100,1,Stereotype;Labeling theory
+653,2020,2100,1,Stereotype;Behavioral economics
+654,2020,2100,1,Unemployment;Marginalization
+655,2020,2100,1,Mores;Hegemony
+656,2020,2100,1,Mores;Counterculture
+657,2020,2100,1,Civil rights;Religion
+658,2020,2100,1,Youth subculture;Fashion
+659,2020,2100,1,Youth subculture;Symbol
+660,2020,2100,1,Exogamy;Clan
+661,2020,2100,1,Fashion;Androgyny
+662,2020,2100,1,Fashion;Modernity
+663,2020,2100,1,Antipositivism;Epistemology
+664,2020,2100,1,Epistemology;Cultural relativism
+665,2020,2100,1,Epistemology;Deconstruction
+666,2020,2100,1,Epistemology;Research
+667,2020,2100,1,Epistemology;Lifeworld
+668,2020,2100,1,Epistemology;Structuration
+669,2020,2100,1,Dialectic;Discourse
+670,2020,2100,1,State (polity);Internal colonialism
+671,2020,2100,1,Minority group;Discourse
+672,2020,2100,1,Minority group;Internal colonialism
+673,2020,2100,1,Postmodernism;Marginalization
+674,2020,2021,1,Demography;Religion
+675,2020,2100,1,Demography;Death
+676,2020,2100,1,Relations of production;Forms of activity and interpersonal relations
+677,2020,2100,1,Ritual;Rite of passage
+678,2020,2100,1,Intelligence;The Bell Curve
+679,2020,2100,1,Intelligence;Hyperreality
+680,2020,2100,1,Intelligence;Gendering
+681,2020,2100,1,Intelligence;Intelligence quotient
+682,2020,2100,1,Law;Traditional knowledge
+683,2020,2100,1,Ethnography;Rite of passage
+684,2020,2021,1,Religion;Prejudice
+685,2020,2100,1,Religion;Sect
+686,2020,2100,1,Religion;Collective representation
+687,2020,2100,1,Religion;Status class
+688,2020,2100,1,Liberal democracy;Sex
+689,2020,2100,1,Crowd psychology;Conscience collective
+690,2020,2100,1,Political economy;Discourse
+691,2020,2100,1,Communication;Symbol
+692,2020,2100,1,Communication;Discourse
+693,2020,2100,1,Symbol;Semiotics
+694,2020,2100,1,Altruism;Evolutionary sociology
+695,2020,2100,1,Discourse;Research
+696,2020,2100,1,Group behaviour;Group action (sociology)
+697,2020,2100,1,Immigration;Marginalization
+698,2020,2100,1,Correlation;Domestic violence
+699,2020,2100,1,Correlation;Gendering
+700,2020,2100,1,Correlation;Intergenerational mobility
+701,2020,2100,1,Empirical studies;Dependent and independent variables
+702,2020,2100,1,Theory;Causality
+703,2020,2100,1,Homelessness;Marginalization
+704,2020,2100,1,Ideal type;Normal type
+705,2020,2100,1,Ideal type;Structuration
+706,2020,2100,1,Ethnocentrism;Intergenerational mobility
+707,2020,2100,1,Ethnocentrism;Xenocentrism
+708,2020,2100,1,Modernity;Internal colonialism
+709,2020,2100,1,Causality;Longitudinal study
+710,2020,2100,1,Wage labour;Flextime plan
+711,2020,2100,1,Sex;Matrilineality
+712,2020,2100,1,Marginalization;Social control
+713,2020,2100,1,Marginalization;Lumpenproletariat
+714,2020,2100,1,Marginalization;Welfare state
+715,2020,2100,1,Significant other;Monogamy
+716,2020,2100,1,Sociology of knowledge;Functionalism (sociology)
+717,2020,2100,1,Reserve army of labour;Structural unemployment
+718,2020,2100,1,Grounded theory;Sociological paradigm
+719,2020,2100,1,Functionalism (sociology);Structuration
+720,2020,2100,1,Objectivity (philosophy);Sociological paradigm
+721,2021,2100,1,Environmentalism;Ecological modernization
+722,2021,2100,1,Endogamy;Ingroup
+723,2021,2100,1,Epistemology;Sociology books
+724,2021,2100,1,Methodology;Sociology books
+725,2021,2100,1,Autarky;Ingroup
+726,2021,2100,1,Politics;Dystopia
+727,2021,2100,1,Politics;Power (sociology)
+728,2021,2100,1,Religion;Dystopia
+729,2021,2100,1,Religion;Non-state actor
+730,2021,2100,1,Religion;Taboo
+731,2021,2100,1,Corporation;Non-state actor
+732,2021,2100,1,Cognition;Power (sociology)
+733,2021,2100,1,Discourse;Ecological modernization
+734,2021,2100,1,Theory;Sociology books
+735,2021,2100,1,Mass media;Non-state actor
+736,2021,2100,1,Power (sociology);Reserve army of labour
+737,2021,2100,1,Systems theory;Sociology books
+738,2022,2100,1,Prostitution;Public order crime
+739,2022,2100,1,Xenophobia;Ingroup
+740,2022,2100,1,Rebellion;Sociology of deviance
+741,2022,2100,1,Epistemology;Public order crime
+742,2022,2100,1,Interest group;Sociology of the military
+743,2022,2100,1,Proletariat;Sociology of deviance
+744,2022,2100,1,Relativism;Sociology of deviance
+745,2022,2100,1,Social stigma;Sociology of deviance
+746,2022,2100,1,Psychopathy;Sociology of deviance
+747,2022,2100,1,Collective action;Sociology of the military
+748,2022,2100,1,Functionalism (sociology);Sociology of deviance
+749,2023,2100,1,Kindness;Love
+750,2024,2100,1,Religion;Sacred (comparative religion)
+751,2085,2100,1,Age structure;Demographic transition
+752,2085,2100,1,Age structure;Median
+753,2085,2100,1,Age structure;War
+754,2085,2100,1,Age structure;Genocide
+755,2085,2100,1,Age structure;Fascism
+756,2085,2100,1,Age structure;Communism
+757,2085,2100,1,Age structure;Great Depression
+758,2018,2100,2,Discrimination;Homosexuality;Gendering
+759,2018,2100,2,Norm (sociology);Ideology;Evolutionary sociology
+760,2019,2100,2,Anthropology;Michel Foucault;Sociological paradigm
+761,2020,2100,2,Anthropology;Ethnography;Discourse
+762,2020,2100,2,Gender role;Gendering;Marginalization
+763,2021,2100,2,Capitalism;Conflict theory;Sociology books
+764,2021,2100,2,Capitalism;Evolutionary sociology;Power (sociology)
+765,2021,2100,2,Ideology;Evolutionary sociology;Power (sociology)

@@ -1,0 +1,77 @@
+i,birth,death,dim,nodes
+0,-5000,2100,0,Interest
+1,-1968,1864,0,Spreadsheet
+2,-300,1974,0,History of accounting
+3,104,1870,0,International Accounting Standards Committee
+4,140,2020,0,Institute of Management Accountants
+5,1000,1001,0,Double-entry bookkeeping system
+6,1105,1314,0,Management Assertions
+7,1800,1975,0,Mark-to-market accounting
+8,1950,2020,0,Accounting research
+9,1970,1971,0,Accounting information system
+10,2001,2002,0,Goodwill (accounting)
+11,1252,2100,1,Shareholder;Dividend
+12,1253,1975,1,Dividend;Treasury stock
+13,1690,2100,1,Common stock;Preferred stock
+14,1690,1975,1,Common stock;Dividend
+15,1865,2100,1,Spreadsheet;Work sheet
+16,1968,2100,1,Creative accounting;Stock option
+17,1974,2100,1,Common stock;Diluted EPS
+18,1974,2100,1,Stock option;Diluted EPS
+19,1974,2100,1,Diluted EPS;Financial Accounting Standards Board
+20,1974,2100,1,Diluted EPS;International Financial Reporting Standards
+21,1975,2100,1,International Accounting Standards Board;Ownership equity
+22,1976,2003,1,International Accounting Standards Board;Liability (accounting)
+23,1977,2100,1,Income statement;Expense
+24,1977,2100,1,Dividend;Expense
+25,1978,2100,1,Depreciation;Income
+26,1978,2100,1,Depreciation;Equivalent Annual Cost
+27,1979,2003,1,Depreciation;Net income
+28,1979,2100,1,Income statement;Net income
+29,1980,2100,1,Depreciation;Free cash flow
+30,1980,2100,1,Double-entry bookkeeping system;Retained earnings
+31,1980,2002,1,Double-entry bookkeeping system;Revenue
+32,1980,2100,1,Common stock;Earnings per share
+33,1980,2100,1,Financial Accounting Standards Board;Earnings per share
+34,1980,2002,1,International Financial Reporting Standards;Revenue
+35,1980,2100,1,Earnings before interest and taxes;Free cash flow
+36,1980,2100,1,Online Accounting;Payroll
+37,1981,2100,1,Depreciation;Fixed assets
+38,1981,2100,1,Depreciation;Long-term asset
+39,1981,2100,1,International Financial Reporting Standards;Fixed assets
+40,1981,2100,1,International Financial Reporting Standards;Long-term asset
+41,1981,2100,1,Journal (accounting);Sales journal
+42,2002,2100,1,Financial accountancy;Bond (finance)
+43,2002,2100,1,Ownership equity;Book value
+44,2002,2100,1,Depreciation;Book value
+45,2002,2100,1,Depreciation;Ebitda
+46,2003,2100,1,International Accounting Standards Board;Shareholders' equity
+47,2003,2020,1,Book value;Shareholders' equity
+48,2007,2100,1,Security (finance);Financial statements
+49,2007,2100,1,Financial statements;Debt
+50,2007,2100,1,Financial statements;Income
+51,2007,2100,1,Financial statements;Financial Accounting Standards Board
+52,2007,2100,1,Financial statements;Financial audit
+53,2016,2100,1,Ebitda;Generally Accepted Accounting Principles
+54,2017,2100,1,Generally Accepted Accounting Principles;Materiality (auditing)
+55,2017,2100,1,Revenue;Materiality (auditing)
+56,2020,2100,1,Management accounting;Financial accountancy
+57,2020,2100,1,Management accounting;Project accounting
+58,2020,2100,1,Management accounting;Throughput accounting
+59,2020,2100,1,Inventory;Throughput accounting
+60,2020,2100,1,Liability (accounting);Debit
+61,2020,2100,1,Financial statements;Chart of accounts
+62,2020,2100,1,Financial statements;U.s. Securities and Exchange Commission
+63,2020,2100,1,Ledger;Chart of accounts
+64,2020,2100,1,Ledger;Work sheet
+65,2020,2100,1,Creative accounting;Certified Public Accountant
+66,2020,2100,1,Stock option;Mortgage loan
+67,2020,2100,1,Certified Public Accountant;Positive assurance
+68,2020,2100,1,Mortgage loan;Current liability
+69,2020,2100,1,Current liability;Long-term liabilities
+70,2020,2100,1,Ebitda;U.s. Securities and Exchange Commission
+71,2020,2100,1,U.s. Securities and Exchange Commission;Stock split
+72,2020,2100,1,U.s. Securities and Exchange Commission;Throughput accounting
+73,2020,2100,1,Debit;Journal (accounting)
+74,2003,2100,2,Common stock;Dividend;Shareholders' equity
+75,2003,2100,2,Dividend;Treasury stock;Shareholders' equity

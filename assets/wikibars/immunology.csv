@@ -1,0 +1,154 @@
+i,birth,death,dim,nodes
+0,-430,2100,0,Immune system
+1,-430,1798,0,Immunity (medical)
+2,100,1845,0,Immunodiagnostics
+3,100,1908,0,Panel reactive antibody
+4,571,1845,0,Mimotope
+5,1800,1906,0,Allergen immunotherapy
+6,1800,1906,0,Psychoneuroimmunology
+7,1888,2100,0,Lectin
+8,1905,1980,0,Erythropoietin
+9,1920,1981,0,Duffy antigen system
+10,1945,1961,0,Central tolerance
+11,1970,1975,0,Rabbit hybridoma
+12,1986,1990,0,Granzyme
+13,2008,2020,0,Immunosurgery
+14,2020,2100,0,Il17ra
+15,2020,2100,0,Nkg2d
+16,2020,2100,0,Lana
+17,1846,2100,1,Antibody;Molecular mimicry
+18,1885,2100,1,Respiratory burst;Voltage-gated proton channel
+19,1888,2100,1,Immunity (medical);Humoral immunity
+20,1900,1962,1,Monoclonal antibody;Polyclonal B cell response
+21,1906,1908,1,Immunity (medical);Allergy
+22,1908,2100,1,Immunology;Psychoneuroimmunology
+23,1908,2100,1,Monoclonal antibody;White blood cell
+24,1908,2100,1,Immunochemistry;Gluten immunochemistry
+25,1909,2100,1,Antibody;Neutralisation (immunology)
+26,1909,2100,1,Immunization;Sensitization (immunology)
+27,1960,2100,1,Immunity (medical);Original antigenic sin
+28,1960,2100,1,Fc receptor;Rho(d) immune globulin
+29,1960,2100,1,Contact immunity;Immunization
+30,1962,2100,1,Organ transplantation;Thymus transplantation
+31,1963,1992,1,Antigen;Opsonin
+32,1963,2100,1,Antigen;Immunocompetence
+33,1963,1992,1,Antibody opsonization;Opsonin
+34,1963,2100,1,Organ transplantation;Immunocompetence
+35,1964,2100,1,Antibody;Immunoglobulin A
+36,1964,2100,1,Opsonin;Immunoglobulin A
+37,1964,2100,1,Recombination-activating gene;Recombination signal sequences
+38,1965,2100,1,Immunoglobulin A;Microbial symbiosis and immunity
+39,1966,2100,1,Activation-induced (cytidine) deaminase;Somatic hypermutation
+40,1966,2100,1,Somatic hypermutation;Immunoglobulin class switching
+41,1966,2100,1,Immunogenicity;Toxoid
+42,1970,2100,1,Cd4;Lck
+43,1970,2100,1,Monoclonal antibody therapy;Monospecific antibody
+44,1971,2100,1,Major histocompatibility complex;Cd4
+45,1974,2100,1,Macrophage;Nonspecific immune cell
+46,1974,2100,1,Immune tolerance;Indoleamine 2,3-dioxygenase
+47,1974,2100,1,Interleukin-7 receptor;Interleukin 7
+48,1977,2100,1,Antigen processing;Cross-presentation
+49,1980,2005,1,Interleukin;Interleukin 12
+50,1980,2100,1,Interleukin;Leukocyte-promoting factor
+51,1980,2100,1,Antigen;Leukocyte-promoting factor
+52,1981,2100,1,Innate immune system;Immune complex
+53,1981,2100,1,Innate immune system;Lysozyme
+54,1981,2100,1,Cytokine;Bone marrow-derived macrophage
+55,1981,2100,1,Cytokine;Priming (immunology)
+56,1981,2100,1,Active hexose correlated compound;Dendritic cell
+57,1981,2100,1,Active hexose correlated compound;Immunostimulant
+58,1981,2100,1,Colony-stimulating factor;Macrophage colony-stimulating factor
+59,1981,2100,1,Interleukin 12;Interleukin 12 subunit beta
+60,1981,2100,1,White blood cell;Interferon beta 1a
+61,1981,2100,1,Common gamma chain;Interleukin-7 receptor
+62,1981,2100,1,Common gamma chain;Interleukin-15 receptor
+63,1982,2100,1,Innate immune system;Nuocyte
+64,1982,2100,1,Inflammation;Immunodermatology
+65,1982,2100,1,Allergy;Innate lymphoid cell
+66,1982,2100,1,Chemokine receptor;Immunodermatology
+67,1982,2100,1,Type I cytokine receptor;Interleukin 7 receptor-α
+68,1982,2100,1,Type I cytokine receptor;Interleukin-12 receptor
+69,1982,2100,1,Type I cytokine receptor;Interleukin-7 receptor-α
+70,1982,2100,1,Interferon type I;Stimulator of interferon genes
+71,1982,2100,1,Interleukin receptor;Interleukin 1 receptor, type II
+72,1982,2100,1,Interleukin 23 subunit alpha;Interleukin-23 receptor
+73,1982,2100,1,Interleukin 7 receptor-α;Thymic stromal lymphopoietin
+74,1982,2100,1,Thymic stromal lymphopoietin;Interleukin-7 receptor-α
+75,1982,2100,1,Interleukin 8;Interleukin 8 receptor, alpha
+76,1982,2100,1,Interleukin 8;Interleukin 8 receptor, beta
+77,1983,2100,1,Cytokine;Interleukin 34
+78,1983,2100,1,Pattern recognition receptor;Lipopolysaccharide binding protein
+79,1983,2100,1,Interferon;Pathogen-associated molecular pattern
+80,1983,2100,1,Colony-stimulating factor;Granulocyte colony-stimulating factor
+81,1983,2100,1,Interferon type II;Interferon type III
+82,1984,2100,1,Immunotherapy;Monoclonal antibody
+83,1984,2100,1,Interleukin 10 receptor, beta subunit;Interleukin-10 receptor
+84,1985,2100,1,Immunotherapy;Immunoconjugate
+85,1990,2100,1,Cd4;Cd4+ T cells and antitumor immunity
+86,1990,2100,1,Cd4+ T cells and antitumor immunity;Granzyme
+87,1991,2100,1,Innate immune system;Uropod (immunology)
+88,1991,2100,1,Cell-mediated immunity;Apoptosis
+89,1991,2100,1,Fas receptor;Tumor necrosis factor receptor
+90,1991,2100,1,Apoptosis;Autoimmune regulator
+91,1991,2100,1,Apoptosis;Chimeric antigen receptor
+92,1991,2100,1,Apoptosis;Clonal deletion
+93,1991,2100,1,Apoptosis;Stat5
+94,1991,2100,1,Apoptosis;Granulysin
+95,1991,2100,1,Apoptosis;Hypersensitive response
+96,1991,2100,1,Apoptosis;Lymphotoxin alpha
+97,1991,2100,1,Apoptosis;Uropod (immunology)
+98,1991,2100,1,Central tolerance;Clonal deletion
+99,1991,2100,1,Chimeric antigen receptor;Immunoreceptor tyrosine-based activation motif
+100,1991,2100,1,White blood cell;Uropod (immunology)
+101,1991,2100,1,Erythropoietin;Erythropoietin receptor
+102,1991,2100,1,Granulysin;Organ transplantation
+103,1992,2100,1,Major histocompatibility complex;Cryptic self epitopes
+104,1992,2100,1,Inflammation;Intravascular immunity
+105,1992,2100,1,Apoptosis;Fas ligand
+106,1992,2100,1,Tumor necrosis factors;Stromal cell-derived factor 1
+107,1993,2100,1,Adaptive immune system;Isograft
+108,1994,2100,1,Cytokine;Cytokine redundancy
+109,1995,2100,1,Cytokine;Secretion assay
+110,2002,2100,1,Apoptosis;Inflammasome
+111,2004,2100,1,Interleukin 6;Cytokine storm
+112,2004,2006,1,Interleukin 6;Interleukin 1 receptor antagonist
+113,2005,2100,1,Inflammation;Tumor necrosis factor alpha
+114,2005,2100,1,Immunostimulant;Tumor necrosis factor alpha
+115,2005,2100,1,Apoptosis;Stat3
+116,2005,2100,1,Interferon;Stat3
+117,2005,2100,1,Lymphokine;Transfer factor
+118,2005,2100,1,Granulocyte macrophage colony-stimulating factor;Stat3
+119,2005,2100,1,Monoclonal antibody therapy;Proinflammatory cytokine
+120,2006,2100,1,Cytokine;Macrophage-activating factor
+121,2006,2100,1,Pattern recognition receptor;Interleukin 1 family
+122,2006,2100,1,Stat3;Stat1
+123,2006,2100,1,Interferon type I;Stat1
+124,2006,2100,1,Interferon type II;Stat1
+125,2006,2100,1,Interleukin 1 family;Interleukin-18 receptor
+126,2007,2100,1,Apoptosis;Lymphotoxin beta receptor
+127,2007,2100,1,Stat1;Interleukin-27 receptor
+128,2014,2100,1,Allergy;Timeline of immunology
+129,2020,2100,1,Defensin;Cathelicidin
+130,2020,2100,1,V(d)j recombination;Recombination signal sequences
+131,2020,2100,1,Allotransplantation;Chimeric antigen receptor
+132,2020,2100,1,Allotransplantation;Isoantigen
+133,2020,2100,1,Mhc class I;Cross-presentation
+134,2020,2100,1,Mhc class I;Thymic nurse cell
+135,2020,2100,1,Mhc class II;Superantigen
+136,2020,2100,1,Mhc class II;Thymic nurse cell
+137,2020,2100,1,Biological response modifiers;Colony-stimulating factor
+138,2020,2100,1,Growth factor;Interleukin 7
+139,2020,2100,1,Cytotoxicity;Innate lymphoid cell
+140,2020,2100,1,Cytotoxicity;Lymphotoxin alpha
+141,2020,2100,1,Cytotoxicity;Macrophage-activating factor
+142,2020,2100,1,Cytotoxicity;Priming (immunology)
+143,2020,2100,1,Stat protein;Stat5
+144,2020,2100,1,Stat protein;Stat3
+145,2020,2100,1,Stat protein;Interleukin-13 receptor
+146,2020,2100,1,Stat protein;Proinflammatory cytokine
+147,2020,2100,1,Il1b;Proinflammatory cytokine
+148,2020,2100,1,Myd88;Interleukin-1 receptor family
+149,2020,2100,1,Myd88;Interleukin-1 receptor-associated kinase
+150,2020,2100,1,Stat6;Interleukin-13 receptor
+151,2020,2100,1,Stat6;Stimulator of interferon genes
+152,1960,2100,2,Immunity (medical);Adaptive immune system;Allergy

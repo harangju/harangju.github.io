@@ -1,0 +1,37 @@
+i,birth,death,dim,nodes
+0,-1000,2100,0,Fuel
+1,-300,-299,0,Energy
+2,100,150,0,Nuclear power
+3,100,2020,0,Photosynthesis
+4,226,1920,0,Nuclear reactor
+5,250,2100,0,Energy drink
+6,1250,1700,0,Thermodynamic free energy
+7,1750,1855,0,Latent heat
+8,1800,1929,0,Zero-point energy
+9,1800,1900,0,Energy medicine
+10,1954,1955,0,Osmotic power
+11,1985,1986,0,Energy distance
+12,1992,2100,0,Energy Star
+13,180,2100,1,Nuclear power;Electric Bond and Share Company
+14,1800,2020,1,Kinetic energy;Rotational energy
+15,1800,2100,1,Tidal power;Rotational energy
+16,1801,2100,1,Energy conservation;Energy development
+17,1801,2100,1,Energy conservation;Intermittent energy source
+18,1853,2100,1,Potential energy;Thermodynamic free energy
+19,1854,2100,1,Fuel;Mechanical energy
+20,1855,2100,1,Hydroelectricity;Energy storage
+21,1855,2100,1,Characteristic energy;Specific orbital energy
+22,1855,2100,1,Energy density;Enthalpy
+23,1889,2100,1,Energy barrier;Entropy
+24,1920,1979,1,Nuclear power;Nuclear fusion
+25,1920,2100,1,Nuclear fusion;Fuel
+26,1975,2100,1,American Museum of Science and Energy;Nuclear power
+27,1986,2100,1,Energy engineering;Primary energy
+28,2006,2100,1,Marine energy;Kinetic energy
+29,2006,2100,1,Marine energy;Renewable energy
+30,2011,2100,1,Solar energy;Ecological energetics
+31,2011,2100,1,Solar energy;Renewable energy
+32,2011,2100,1,Solar energy;Energy flow (ecology)
+33,2011,2100,1,Solar energy;Solar thermal energy
+34,2020,2100,1,Energy transformation;Energy conservation
+35,2020,2100,1,Energy transformation;Energy factor

@@ -1,0 +1,36 @@
+i,birth,death,dim,nodes
+0,1100,2100,0,Propositional calculus
+1,1200,1800,0,Venn diagram
+2,1705,1800,0,Logic gate
+3,1800,1880,0,Formal system
+4,1869,1927,0,Ivan Ivanovich Zhegalkin
+5,1806,2100,1,Augustus De Morgan;William Stanley Jevons
+6,1816,2100,1,Venn diagram;Boole's syllogistic
+7,1834,2100,1,Venn diagram;John Venn
+8,1847,2100,1,Boolean algebra (structure);Symmetric difference
+9,1850,2100,1,Boolean function;Logic gate
+10,1883,2100,1,Truth table;Boolean function
+11,1884,2100,1,Truth table;Heyting algebra
+12,1886,2100,1,Charles Sanders Peirce;Entitative graph
+13,1887,2100,1,Propositional calculus;Peirce's law
+14,1908,2100,1,Logical connective;Propositional calculus
+15,1909,2100,1,Truth table;Conditioned disjunction
+16,1910,1911,1,Venn diagram;Logical biconditional
+17,1913,2100,1,Formal system;Sheffer stroke
+18,1913,1914,1,Logical value;Truth table
+19,1913,1914,1,Logical value;Boolean domain
+20,1914,2100,1,Logical value;Logical equality
+21,1915,2100,1,Propositional calculus;Logical implication
+22,1915,2100,1,Material conditional;Logical implication
+23,1928,2100,1,Exclusive or;Algebraic normal form
+24,1935,2100,1,De Morgan algebra;De Morgan's laws
+25,1950,2100,1,Truth table;Karnaugh map
+26,1950,2100,1,Boolean function;And-inverter graph
+27,1961,2100,1,Complete Boolean algebra;Boolean-valued model
+28,1969,2100,1,Two-element Boolean algebra;Laws of Form
+29,1999,2100,1,First-order logic;Conjunctive normal form
+30,2020,2100,1,Indicator function;Boolean-valued function
+31,1913,2100,2,Logical disjunction;Logical connective;Logical value
+32,1913,2100,2,Logical disjunction;Logical value;De Morgan's laws
+33,1915,2100,2,Logical disjunction;Sheffer stroke;Logical negation
+34,1999,2100,2,Logical disjunction;Canonical form (Boolean algebra);Conjunctive normal form

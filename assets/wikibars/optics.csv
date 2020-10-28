@@ -1,0 +1,338 @@
+i,birth,death,dim,nodes
+0,-6000,2100,0,Mirror
+1,-3000,-700,0,Physics
+2,-300,360,0,Camera obscura
+3,100,1800,0,Avalanche photodiode
+4,100,1840,0,Optical fiber connector
+5,132,360,0,Cassegrain reflector
+6,150,1995,0,Zodiacal light
+7,172,400,0,Excimer laser
+8,200,1307,0,Alexander's band
+9,200,1669,0,Liquid-crystal display
+10,200,421,0,Optical disc
+11,300,380,0,Optical window
+12,633,1859,0,Helium–neon laser
+13,1550,1840,0,Raman amplifier
+14,1550,1840,0,Raman amplification
+15,1808,1828,0,Polarimeter
+16,1834,1992,0,Zoom lens
+17,1844,1901,0,Haidinger's brush
+18,1848,2020,0,Lensmeter
+19,1868,1915,0,Airglow
+20,1868,1920,0,Stereoscopy
+21,1890,1992,0,Zeiss Tessar
+22,1936,1948,0,Pattern recognition
+23,-399,2100,1,Microscope;Abbe sine condition
+24,100,1964,1,Telescope;Mirror
+25,361,400,1,Wavelength;X-ray
+26,361,400,1,Wavelength;Mirror
+27,361,1840,1,Phase (waves);Optical path length
+28,362,1993,1,Optics;Piston (optics)
+29,362,2100,1,Optical depth;Optical path length
+30,380,400,1,Optics;Optical spectrum
+31,421,2100,1,Color science;Iridescence
+32,500,1886,1,Thin-film optics;Color science
+33,501,1964,1,Lens (optics);Optical coating
+34,600,2100,1,Spectroscopy;Emission spectrum
+35,637,1980,1,Halo (optical phenomenon);Mirror
+36,650,1914,1,Microscope;Newton's rings
+37,650,1914,1,History of lensmaking;Newton's rings
+38,694,2100,1,Laser;Excimer laser
+39,694,2100,1,Laser;Optical disc
+40,700,1886,1,Infrared;Telescope
+41,700,2100,1,Pinhole camera;History of lensmaking
+42,701,1958,1,Laser;Chemical laser
+43,701,2100,1,Laser;Integrated optics
+44,701,2100,1,Integrated optics;Nanophotonics
+45,792,1807,1,Phase (waves);Fresnel reflection
+46,792,1902,1,Iridescence;Fresnel reflection
+47,984,1915,1,Snell's law;History of lensmaking
+48,985,2100,1,Snell's law;Numerical aperture
+49,1000,2100,1,Reflecting telescope;Cassegrain reflector
+50,1001,2100,1,Reflecting telescope;Diffraction spike
+51,1307,1914,1,Rainbow;Color science
+52,1307,1841,1,Rainbow;History of lensmaking
+53,1600,1800,1,Luminiferous aether;History of lensmaking
+54,1662,1807,1,Speed of light;Principle of least time
+55,1662,1854,1,Optics;Fermat's principle
+56,1662,1807,1,Optics;Principle of least time
+57,1662,1992,1,Fermat's principle;Snell's law
+58,1662,1807,1,Snell's law;Principle of least time
+59,1669,1807,1,Birefringence;Fresnel reflection
+60,1669,1914,1,Double refraction;Fresnel equations
+61,1673,2100,1,Diffraction grating;Optical disc
+62,1730,1914,1,Halo (optical phenomenon);Sprite (optical phenomenon)
+63,1800,1914,1,Ultraviolet;Circular dichroism
+64,1800,1914,1,Circular dichroism;Double refraction
+65,1801,1902,1,Double-slit experiment;Huygens' principle
+66,1801,1900,1,Photoelectric effect;Slit experiment
+67,1840,1994,1,Lens (optics);Fiber optics
+68,1840,2100,1,Numerical aperture;Fiber optics
+69,1840,2100,1,Optical fiber;Double refraction
+70,1840,2100,1,Optical fiber;Total internal reflection
+71,1840,2100,1,Fiber optics;Optical fiber connector
+72,1841,1854,1,Dispersion (optics);Optical fiber
+73,1854,2100,1,Mirage;Gradient index optics
+74,1858,2100,1,Black-body radiation;Chromaticity
+75,1859,2100,1,Black-body radiation;Brightness temperature
+76,1861,2100,1,Liquid-crystal display;Rgb color model
+77,1880,1958,1,Optical communication;Free-space optical communication
+78,1883,2100,1,Afterglow;Rayleigh scattering
+79,1887,2100,1,Photonic crystal;Fiber optics
+80,1893,1992,1,Optical fiber;Waveguide
+81,1893,2100,1,Birefringence;Pockels effect
+82,1893,1915,1,Waveguide;Fiber optics
+83,1899,1914,1,Fresnel equations;Etalon
+84,1900,1903,1,Photon;Optical communication
+85,1900,1966,1,Photon;Raman amplifier
+86,1900,1966,1,Photon;Raman amplification
+87,1901,1914,1,Polarization (waves);Rayleigh scattering
+88,1901,2100,1,Polarization (waves);Stokes parameters
+89,1901,2100,1,Telescope;Optical instrument
+90,1901,2100,1,Optical instrument;Optical window
+91,1901,2100,1,Total internal reflection;Microphotonics
+92,1901,2100,1,Photonic crystal;Microphotonics
+93,1902,2100,1,Diffraction grating;Depolarizer (optics)
+94,1903,2100,1,Telescope;Optical amplifier
+95,1903,2100,1,Fluorescence;Scintillator
+96,1903,2100,1,Interference (wave propagation);Interferometry
+97,1903,2100,1,Interference (wave propagation);Speckle pattern
+98,1903,1980,1,Snell's law;Ray tracing (physics)
+99,1903,2100,1,Refractive index;Interferometry
+100,1903,2100,1,Coherence (physics);Stokes parameters
+101,1903,2100,1,Optical communication;Physical optics
+102,1903,2100,1,Fiber optics;Scintillator
+103,1904,2100,1,Optical depth;Optical distance
+104,1904,2100,1,Interferometry;Optical coherence tomography
+105,1904,2100,1,Coherence (physics);Optical coherence tomography
+106,1907,2100,1,Light-emitting diode;Rgb color model
+107,1914,2100,1,Light;Reflecting telescope
+108,1915,2100,1,Photodiode;Avalanche photodiode
+109,1915,2100,1,Radiometry;Photometry (optics)
+110,1915,2100,1,Interference (wave propagation);Beam splitter
+111,1915,2100,1,Afterglow;Scattering
+112,1915,2100,1,Scattering;Fiber optics
+113,1915,2100,1,Optical instrument;Beam splitter
+114,1916,2100,1,Focal length;Cassegrain reflector
+115,1916,2100,1,Focal length;Fresnel lens
+116,1916,2100,1,Rayleigh scattering;Mie scattering
+117,1916,1993,1,Focus (optics);Mirror
+118,1916,2100,1,Chromaticity;Luminance
+119,1916,2100,1,Wollaston prism;Rochon prism
+120,1917,2100,1,Microscope;Eyepiece
+121,1917,2100,1,Visual system;Eye
+122,1917,2100,1,Visual system;Optical illusion
+123,1917,1992,1,Normal lens;Aspheric lens
+124,1917,2100,1,Focus (optics);Eye
+125,1917,2100,1,Luminance;Optical illusion
+126,1918,2100,1,Eyepiece;Exit pupil
+127,1918,2100,1,Optical axis;Cassegrain reflector
+128,1919,2100,1,Optical axis;Cardinal point (optics)
+129,1919,2100,1,Optical axis;Optical axis gratings
+130,1919,2100,1,Pinhole camera;Entrance pupil
+131,1919,2100,1,Birefringence;Nomarski prism
+132,1919,2100,1,Diffraction grating;Optical axis gratings
+133,1919,1980,1,Wollaston prism;Nomarski prism
+134,1919,2100,1,Off-axis optical system;Ray tracing (physics)
+135,1920,1921,1,Laser;Holography
+136,1920,2100,1,Diffraction;Optical lens design
+137,1921,2100,1,Optics;Fabrication and testing (optical components)
+138,1921,2100,1,Optical lens design;List of lens designs
+139,1930,2100,1,Photomultiplier;Avalanche photodiode
+140,1930,2100,1,Photomultiplier;Rgb color model
+141,1931,2100,1,Optoelectronics;Photoresistor
+142,1932,2100,1,Refractive index;Photorefractive effect
+143,1932,2100,1,Gaussian beam;Kerr-lens modelocking
+144,1932,2100,1,Holography;Photorefractive effect
+145,1932,2100,1,Photonic crystal;Optical computer
+146,1932,2100,1,Fourier optics;Optical computer
+147,1932,2100,1,Fourier optics;Optical processor
+148,1938,2100,1,Phase (waves);Chrominance
+149,1939,2100,1,Luminance;Chromaticity diagram
+150,1939,2100,1,Color science;Chromaticity diagram
+151,1940,2100,1,Fluorescence;Confocal laser scanning microscopy
+152,1940,2100,1,Diffraction;Confocal laser scanning microscopy
+153,1940,2100,1,Photomultiplier;Confocal laser scanning microscopy
+154,1940,2100,1,Numerical aperture;Confocal laser scanning microscopy
+155,1940,2000,1,Camera;Confocal laser scanning microscopy
+156,1946,1964,1,Polarization (waves);Synchrotron radiation
+157,1948,1980,1,Beam splitter;Glan–laser prism
+158,1958,2100,1,Q-switching;Kerr cell
+159,1958,2100,1,Confocal laser scanning microscopy;Laser applications
+160,1959,2100,1,Spectroscopy;Acousto-optic modulator
+161,1959,2100,1,Acousto-optic modulator;Brillouin scattering
+162,1960,2100,1,Fiber optics;Nonimaging optics
+163,1963,1964,1,Spontaneous emission;Fluorescence
+164,1965,2100,1,Lightning;Avalanche photodiode
+165,1965,2100,1,Lightning;Laser applications
+166,1965,2100,1,Light bulb;Lumen (unit)
+167,1966,2100,1,Telescope;Fiber amplifier
+168,1966,2100,1,Brillouin scattering;Fiber amplifier
+169,1966,1994,1,Thin-film optics;Dichroic filter
+170,1966,2100,1,Birefringence;Fiber amplifier
+171,1966,1981,1,Dichroism;Dichroic filter
+172,1970,2100,1,Refractive index;Optical tweezers
+173,1980,2100,1,Prism (optics);Iridescence
+174,1992,1995,1,Refraction;Afterglow
+175,1992,2100,1,Angle of incidence (optics);Retroreflector
+176,1992,2100,1,Angle of incidence (optics);Effect of sun angle on climate
+177,1992,2100,1,Photographic lens;Stereoscopy
+178,1992,2100,1,Retroreflector;Laser applications
+179,1992,2100,1,Optical waveguide;Photonics
+180,1993,2100,1,Faraday effect;Transparency (optics)
+181,1993,2100,1,Aberration in optical systems;Cooke triplet
+182,1994,2100,1,Refractive index;Dual polarisation interferometry
+183,1994,2100,1,Reflection (optics);Corner reflector
+184,1994,2018,1,Camera;Filter (optics)
+185,1994,2100,1,Retroreflector;Sylvanshine
+186,1994,2100,1,Filter (optics);Optical path
+187,1994,2100,1,Filter (optics);Stereoscopy
+188,1995,2100,1,Optical phenomenon;Camera obscura
+189,1995,2100,1,Optical phenomenon;Iridescence
+190,1995,2100,1,Optical phenomenon;Mirage
+191,1995,2100,1,Optical phenomenon;Sylvanshine
+192,1995,2100,1,Zone plate;Wave plate
+193,1995,2100,1,Optical axis;Ray transfer matrix analysis
+194,1995,2100,1,Cardinal point (optics);Focal point (optics)
+195,1995,2100,1,Cardinal point (optics);Principal focus
+196,1996,2100,1,Lens (optics);Fata Morgana (mirage)
+197,1996,2100,1,Interference (wave propagation);Glory (optical phenomenon)
+198,1996,2100,1,Shadow;Glory (optical phenomenon)
+199,1997,2100,1,Chatoyancy;Lustre (mineralogy)
+200,2001,2100,1,Thin-film optics;Spatial filter
+201,2001,2100,1,Spatial filter;Fourier optics
+202,2001,2100,1,Fraunhofer diffraction;Speckle interferometry
+203,2002,2100,1,Laser construction;Optical resonator
+204,2002,2100,1,Optical resonator;Ray transfer matrix analysis
+205,2003,2100,1,Speed of light;Modelocking
+206,2003,2100,1,Photodiode;Modelocking
+207,2003,2100,1,Helium–neon laser;Modelocking
+208,2015,2100,1,Electro-gyration;Electro-optic effect
+209,2016,2100,1,Prism (optics);Monocular
+210,2016,2100,1,Monocular;Optical path
+211,2016,2100,1,Monocular;Free-space optical communication
+212,2017,2100,1,Binoculars;Anti-reflective coating
+213,2018,2100,1,Numerical aperture;Angular magnification
+214,2018,2100,1,Angular magnification;Binoculars
+215,2018,2100,1,Binoculars;Barrel distortion
+216,2018,2100,1,Binoculars;Pincushion distortion
+217,2018,2100,1,Barrel distortion;Photographic lens
+218,2018,2100,1,Barrel distortion;Optical axis
+219,2018,2100,1,Photographic lens;Pincushion distortion
+220,2018,2100,1,Optical axis;Pincushion distortion
+221,2018,2100,1,Optical path;Folded optics
+222,2020,2100,1,Augustin-jean Fresnel;Prism (optics)
+223,2020,2100,1,Augustin-jean Fresnel;Zone plate
+224,2020,2100,1,Augustin-jean Fresnel;Double refraction
+225,2020,2100,1,Augustin-jean Fresnel;Fresnel lens
+226,2020,2100,1,Augustin-jean Fresnel;History of lensmaking
+227,2020,2100,1,Michelson–morley experiment;Interference (wave propagation)
+228,2020,2100,1,Albedo;Umov effect
+229,2020,2100,1,Color science;Colorimetry
+230,2020,2100,1,Color science;Metamerism (color)
+231,2020,2100,1,Filter (optics);Polaroid (polarizer)
+232,2020,2100,1,Etalon;Zeeman effect
+233,2020,2100,1,Wavelength division multiplexing;Integrated optics
+234,2020,2100,1,Polaroid (polarizer);Nicol prism
+235,2020,2100,1,Far point;Principal focus
+236,2020,2100,1,Image processing;Speckle interferometry
+237,400,1914,2,Ultraviolet;Optics;Electromagnetic wave
+238,740,1993,2,Optics;Fraunhofer line;Optical spectrum
+239,1000,1914,2,Speed of light;Radio wave;Electromagnetic wave
+240,1807,1914,2,Optics;Refractive index;Fraunhofer line
+241,1840,2100,2,Speed of light;Refractive index;Fiber optics
+242,1840,2100,2,Laser;Total internal reflection;Fiber optics
+243,1841,2100,2,Dispersion (optics);Rainbow;Optical spectrum
+244,1854,2100,2,Refractive index;Total internal reflection;Gradient index optics
+245,1899,2100,2,Optics;Mirror;Etalon
+246,1899,2100,2,Phase (waves);Etalon;Optical path length
+247,1900,2100,2,Optics;Photon;History of lensmaking
+248,1900,2100,2,Photon;Photoelectric effect;History of lensmaking
+249,1901,1992,2,Polarization (waves);Laser;Total internal reflection
+250,1901,2100,2,Polarization (waves);Birefringence;Fresnel reflection
+251,1902,2100,2,Infrared;Thermal radiation;Electromagnetic wave
+252,1902,2100,2,Photon;Interference (wave propagation);Etalon
+253,1902,2100,2,Photon;Interference (wave propagation);Slit experiment
+254,1902,2100,2,Interference (wave propagation);Thin-film optics;Color science
+255,1902,2100,2,Interference (wave propagation);Phase (waves);Optical path length
+256,1902,2100,2,Interference (wave propagation);Phase (waves);Fresnel reflection
+257,1902,2100,2,Interference (wave propagation);Diffraction grating;Color science
+258,1903,2100,2,Polarization (waves);Interference (wave propagation);Physical optics
+259,1903,2100,2,Diffraction;Interference (wave propagation);Physical optics
+260,1903,2100,2,Phase (waves);Coherence (physics);Fiber optics
+261,1907,2100,2,Light-emitting diode;Laser;Fiber optics
+262,1914,2100,2,Light;International Commission on Illumination;Color science
+263,1914,2100,2,Light;Optics;Etalon
+264,1915,1980,2,Optics;Diffraction;Ray (optics)
+265,1916,2100,2,Chromatic aberration;Focal length;Focus (optics)
+266,1922,2100,2,Phase (waves);Coherence (physics);Coherence time
+267,1922,2100,2,Coherence length;Coherence (physics);Coherence time
+268,1931,2100,2,Ultraviolet;Light-emitting diode;Optoelectronics
+269,1964,2100,2,International Commission on Illumination;Visible light;Color science
+270,1964,2100,2,Optics;Visible light;Fermat's principle
+271,1964,2100,2,Visible light;Rainbow;Color science
+272,1964,2100,2,Visible light;Double-slit experiment;Huygens' principle
+273,1966,2100,2,Fiber amplifier;Optical communication;Fiber optics
+274,1980,2100,2,Optics;Prism (optics);Mirror
+275,1980,2100,2,Snell's law;Triangular prism (optics);Prism (optics)
+276,1992,2100,2,Dispersion (optics);Refraction;History of lensmaking
+277,1992,2100,2,Photon;Refraction;History of lensmaking
+278,1992,2100,2,Photon;Refraction;Laser applications
+279,1992,2100,2,Telescope;Anti-reflective coating;Photographic lens
+280,1992,2100,2,Refraction;Diffraction;History of lensmaking
+281,1992,2100,2,Refraction;Snell's law;History of lensmaking
+282,1992,2100,2,Diffraction;Focus (optics);Photographic lens
+283,1993,2100,2,Polarization (waves);Evanescent wave;Fiber optics
+284,1993,2100,2,Speed of light;Refractive index;Transparency (optics)
+285,1993,2100,2,Optics;Refractive index;Transparency (optics)
+286,1993,2100,2,Photon;Refraction;Transparency (optics)
+287,1993,2100,2,Refraction;Lens (optics);Aberration in optical systems
+288,1993,2100,2,Refraction;Lens (optics);Optical engineering
+289,1993,2100,2,Refraction;Diffraction;Collimated light
+290,1993,2100,2,Refraction;Color;Transparency (optics)
+291,1993,2100,2,Refraction;Evanescent wave;Total internal reflection
+292,1993,2100,2,Laser;Transparency (optics);Total internal reflection
+293,1993,2100,2,Diffraction;Ray (optics);Collimated light
+294,1993,2100,2,Diffraction;Focus (optics);Collimated light
+295,1993,2100,2,Refractive index;Collimated light;Gradient index optics
+296,1993,2100,2,Transparency (optics);Optical communication;Fiber optics
+297,1993,2100,2,Aberration in optical systems;Normal lens;Aspheric lens
+298,1993,2100,2,Collimated light;Optical axis;Mirror
+299,1993,2100,2,Optical fiber;Evanescent wave;Total internal reflection
+300,1994,2100,2,Polarization (waves);Interference (wave propagation);Filter (optics)
+301,1994,2100,2,Refraction;Lens (optics);Optical aberration
+302,1994,2100,2,Refraction;Caustic (optics);Optical aberration
+303,1994,2100,2,Diffraction;Focus (optics);Zone plate
+304,1994,2100,2,Refractive index;Reflection (optics);Anti-reflective coating
+305,1994,2100,2,Geometrical optics;Focus (optics);Optical aberration
+306,1994,2100,2,Reflection (optics);Thin-film optics;Mirror
+307,1994,2100,2,Focus (optics);Fresnel number;Optical aberration
+308,1994,2100,2,Optical coating;Thin-film optics;Filter (optics)
+309,1995,2100,2,Optical phenomenon;Refraction;Caustic (optics)
+310,1995,2100,2,Geometrical optics;Optical aberration;Focal point (optics)
+311,1995,2100,2,Geometrical optics;Optical aberration;Principal focus
+312,1995,2100,2,Ray (optics);Circle of confusion;Focal point (optics)
+313,1995,2100,2,Ray (optics);Circle of confusion;Principal focus
+314,2000,2100,2,Diffraction;Airy disk;Focus (optics)
+315,2001,2100,2,Lens (optics);Airy disk;Spatial filter
+316,2001,2100,2,Lens (optics);Gaussian beam;Spatial filter
+317,2001,2100,2,Focal length;Focus (optics);Spatial filter
+318,2002,2100,2,Polarization (waves);Prism (optics);Optical resonator
+319,2002,2100,2,Polarization (waves);Gaussian beam;Optical resonator
+320,2002,2100,2,Laser;Diffraction;Optical resonator
+321,2002,2100,2,Laser;Mirror;Optical resonator
+322,2002,2100,2,Refractive index;Brewster's angle;Optical resonator
+323,2002,2100,2,Prism (optics);Diffraction grating;Optical resonator
+324,2003,2100,2,Optics;Mirror;Modelocking
+325,2003,2100,2,Laser;Laser applications;Modelocking
+326,2005,2100,2,Diffraction;Interference (wave propagation);Atom optics
+327,2018,2100,2,Polarization (waves);Dichroism;Multilayer optics
+328,2018,2100,2,Laser;Mirror;Multilayer optics
+329,2018,2100,2,Thin-film optics;Mirror;Multilayer optics
+330,1914,2100,3,Light;Ultraviolet;Optics;Electromagnetic wave
+331,1964,2100,3,Infrared;Optics;Visible light;Electromagnetic wave
+332,1964,2100,3,Speed of light;Radio wave;Visible light;Electromagnetic wave
+333,1993,2100,3,Optics;Diffraction;Aberration in optical systems;Ray (optics)
+334,1993,2100,3,Photon;Visible light;Refraction;Absorption (optics)
+335,1993,2100,3,Photon;Visible light;Photoelectric effect;Absorption (optics)
+336,1995,2100,3,Photon;Visible light;Optical phenomenon;Refraction

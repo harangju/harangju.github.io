@@ -1,0 +1,184 @@
+i,birth,death,dim,nodes
+0,-9000,2100,0,Domestication
+1,-1900,1600,0,Language
+2,-500,1600,0,Phylogenetics
+3,-458,1600,0,Heredity
+4,-350,1600,0,Anti-predator adaptation
+5,-300,1600,0,Vestigiality
+6,100,540,0,Evolutionary history of life
+7,100,1686,0,Brassica oleracea
+8,100,1907,0,Evolution of insects
+9,100,1600,0,Insect evolution
+10,100,540,0,Vertebrate paleontology
+11,120,1600,0,Mitochondrial Eve
+12,158,1600,0,Experimental evolution
+13,315,1600,0,Evolution of mammals
+14,375,1700,0,Tiktaalik
+15,1500,1600,0,Galápagos Islands
+16,1700,2001,0,Chronobiology
+17,1800,1858,0,Population dynamics
+18,1900,1964,0,Ecological genetics
+19,1922,1995,0,Coefficient of relationship
+20,2020,2100,0,Climatic adaptation
+21,1687,1800,1,Species;Variety (botany)
+22,1700,2100,1,Selective breeding;Evolutionary neuroscience
+23,1700,2100,1,Transitional fossil;Evolution of fish
+24,1700,1900,1,Creation-evolution controversy;Abiogenesis
+25,1700,2100,1,Recent African origin of modern humans;Paleoanthropology
+26,1800,2100,1,Alfred Russel Wallace;Wallace Line
+27,1800,1858,1,Selective breeding;Gene
+28,1800,1809,1,Modern synthesis (20th century);Tree of life (biology)
+29,1802,2100,1,Evolutionary developmental biology;Phylogeny
+30,1802,2100,1,Evolution of the eye;Convergent evolution
+31,1809,2100,1,Charles Darwin;Nature versus nurture
+32,1809,2100,1,Charles Darwin;Peppered moth evolution
+33,1820,2100,1,The Origin of Species;Recapitulation theory
+34,1820,2100,1,Recapitulation theory;On The Origin of Species
+35,1856,1900,1,Gregor Mendel;Gene
+36,1857,1900,1,Allele;Experimental evolution
+37,1858,2100,1,Natural selection;Dog breeding
+38,1859,2100,1,Human evolution;Aquatic adaptation
+39,1859,2100,1,Mutation;Genetic variation
+40,1859,2100,1,Abiogenesis;Aleksandr Oparin
+41,1859,2100,1,Evolution of tetrapods;Aquatic adaptation
+42,1859,2100,1,Genetic recombination;Genetic variation
+43,1874,2100,1,Vestigiality;Human vestigiality
+44,1884,2100,1,Symbiogenesis;Endosymbiosis
+45,1884,2100,1,Symbiogenesis;Evolutionary history of plants
+46,1884,2100,1,Endosymbiosis;Phylogeny
+47,1889,1906,1,Extinction;Wallace effect
+48,1889,1903,1,Allele;Wallace effect
+49,1900,1995,1,Population genetics;Genetic recombination
+50,1900,2100,1,Population genetics;Recent African origin of modern humans
+51,1900,2100,1,Karyotype;Homologous chromosomes
+52,1901,2100,1,Molecular evolution;Paleobiology
+53,1901,2100,1,Homology (biology);Gene duplication
+54,1901,2100,1,Phylogenetic tree;Paleobiology
+55,1901,1966,1,Cladistics;Most recent common ancestor
+56,1901,2100,1,Abiogenesis;Error threshold (evolution)
+57,1901,2100,1,Gene;Gene duplication
+58,1901,2100,1,Population genetics;Peppered moth
+59,1901,2100,1,Evolution of complexity;Gene duplication
+60,1901,2100,1,Paleozoology;Evolution of the horse
+61,1902,2100,1,Brassica oleracea;Cultivar
+62,1903,2100,1,Molecular phylogeny;Genotype
+63,1903,2100,1,Genotype;Molecular systematics
+64,1904,2100,1,Abiogenesis;Quasispecies model
+65,1904,2100,1,Genotype;Quasispecies model
+66,1904,2100,1,Genotype-environment correlation;Nature versus nurture
+67,1906,2100,1,Speciation;Mitochondrial Eve
+68,1907,2100,1,Galápagos Islands;Adaptive radiation
+69,1907,2100,1,Cambrian explosion;Mass extinctions
+70,1907,2100,1,Evolutionary history of life;Adaptive radiation
+71,1907,2100,1,Adaptive radiation;Insect evolution
+72,1907,2100,1,Clade;Mass extinctions
+73,1908,2100,1,Adaptive radiation;Evolutionary radiation
+74,1909,2100,1,Evolutionary radiation;Ordovician radiation
+75,1912,1998,1,Phenotype;Particulate inheritance theory
+76,1920,1994,1,Gene;Gene pool
+77,1927,2100,1,Theodosius Dobzhansky;Wallace effect
+78,1928,2100,1,Mendelian inheritance;Selfish DNA
+79,1928,1983,1,Mutation;Selfish DNA
+80,1928,2100,1,Red Queen hypothesis;Selfish DNA
+81,1928,2100,1,W. D. Hamilton;Selfish DNA
+82,1930,1998,1,Group selection;John Maynard Smith
+83,1930,2100,1,Nature versus nurture;Genotype-environment interaction
+84,1940,2100,1,Modern synthesis (20th century);Evolutionary taxonomy
+85,1940,2100,1,Evolution of the horse;George Gaylord Simpson
+86,1941,2100,1,Most recent common ancestor;Richard Dawkins
+87,1941,1998,1,Richard Dawkins;Memetics
+88,1941,2100,1,George Gaylord Simpson;Quantum evolution
+89,1942,2100,1,Richard Dawkins;Endless Forms Most Beautiful (book)
+90,1950,2100,1,Artificial selection;Life-history theory
+91,1954,2100,1,Punctuated equilibrium;George Gaylord Simpson
+92,1960,1998,1,Group selection;George C. Williams (biologist)
+93,1962,1993,1,Speciation;Molecular clock
+94,1962,2100,1,Evolutionary radiation;Molecular clock
+95,1964,1995,1,Fitness (biology);Gene pool
+96,1964,2100,1,Fitness (biology);Inclusive fitness
+97,1964,2100,1,Co-evolution;Evolution of insects
+98,1964,2100,1,Co-evolution;Insect evolution
+99,1965,2100,1,Adaptation;Darwin's finches
+100,1965,2100,1,Fitness (biology);Mutational meltdown
+101,1966,2100,1,Adaptation;Breed
+102,1966,2100,1,Phenotype;Breed
+103,1967,2100,1,Population genetics;George R. Price
+104,1967,2100,1,Genetic variation;Evolutionary capacitance
+105,1970,2100,1,Evolutionary radiation;Evolution of cetaceans
+106,1972,1973,1,Population genetics;Evolutionarily stable strategy
+107,1973,2100,1,Creation-evolution controversy;Nothing in Biology Makes Sense Except in the Light of Evolution
+108,1973,2100,1,Anti-predator adaptation;Signalling theory
+109,1973,2100,1,Signalling theory;John Maynard Smith
+110,1973,2100,1,Genetic variation;Richard Lewontin
+111,1973,2100,1,Richard Lewontin;Genotype-phenotype distinction
+112,1974,2100,1,Anti-predator adaptation;Aposematism
+113,1980,2100,1,Allele;Coalescent theory
+114,1981,2100,1,Population genetics;Joe Felsenstein
+115,1983,2100,1,Gene duplication;Transposon
+116,1983,2001,1,Genotype;Transposon
+117,1983,2100,1,Peppered moth;Transposon
+118,1992,2100,1,Henry Walter Bates;Mimicry
+119,1992,2001,1,Mimicry;Convergent evolution
+120,1992,2100,1,Mimicry;Ecological genetics
+121,1992,2100,1,Mimicry;Wallace effect
+122,1993,2100,1,Aposematism;Evidence of common descent
+123,1994,2100,1,Population;Inclusive fitness
+124,1995,2001,1,Species;Hierarchy of life
+125,1995,2100,1,Domestication;Gene flow
+126,1995,2100,1,Abiogenesis;Hierarchy of life
+127,1995,2100,1,Population;Polymorphism (biology)
+128,1995,2100,1,Theodosius Dobzhansky;Polymorphism (biology)
+129,1995,2100,1,John Maynard Smith;The Major Transitions in Evolution
+130,1995,2100,1,Language;The Major Transitions in Evolution
+131,1996,2100,1,Homology (biology);Recombination (biology)
+132,1996,2100,1,Microevolution;Ecological genetics
+133,1996,2100,1,Gene flow;Transgressive phenotype
+134,1996,2100,1,Genetic recombination;Transgressive phenotype
+135,1996,2100,1,Genetic variation;Recombination (biology)
+136,1998,2100,1,Gene-centered view of evolution;Particulate inheritance theory
+137,2000,2001,1,Homology (biology);Trait (biological)
+138,2000,2100,1,Race (biology);Trait (biological)
+139,2000,2100,1,Evolutionary history of life;Trait (biological)
+140,2000,2100,1,Trait (biological);Stabilizing selection
+141,2016,2100,1,Cambrian explosion;Timeline of evolution
+142,2016,2100,1,Abiogenesis;Timeline of evolution
+143,2016,2100,1,Timeline of evolution;Symbiogenesis
+144,2020,2100,1,Systematics;Insect evolution
+145,2020,2100,1,Jean-baptiste Lamarck;Evolution of complexity
+146,2020,2100,1,Miller–urey experiment;List of biology topics
+147,2020,2100,1,Paraphyletic;Insect evolution
+148,2020,2100,1,Parallel evolution;Recent African origin of modern humans
+149,2020,2100,1,R/k selection theory;Life-history theory
+150,2020,2100,1,R/k selection theory;Selection (biology)
+151,1800,1809,2,Evolution;Alfred Russel Wallace;On The Origin of Species
+152,1800,1809,2,Evolution;Creation-evolution controversy;On The Origin of Species
+153,1800,2100,2,Species;Variety (botany);On The Origin of Species
+154,1901,2100,2,Paleontology;Cladistics;On The Origin of Species
+155,1901,2100,2,Species;Subspecies;On The Origin of Species
+156,1901,2100,2,Cladistics;Clade;Molecular systematics
+157,1903,2001,2,Allele;Genotype;Selection (biology)
+158,1915,2100,2,J. B. S. Haldane;Abiogenesis;Selection (biology)
+159,1941,2100,2,Evolutionary biology;Richard Dawkins;Selection (biology)
+160,1966,2100,2,Cladistics;Clade;Evolutionary tree
+161,1972,2100,2,Punctuated equilibrium;Creation-evolution controversy;Stephen Jay Gould
+162,1973,2100,2,Stephen Jay Gould;Sociobiology;Richard Lewontin
+163,1979,2100,2,Group selection;Unit of selection;Edward O. Wilson
+164,1993,2100,2,Creation-evolution controversy;Evidence of common descent;Molecular clock
+165,1994,2100,2,Speciation;Population;Population genetics
+166,1995,2100,2,Fitness (biology);Allele;Population bottleneck
+167,1995,2100,2,Allele;Gene flow;Wallace effect
+168,1996,2001,2,Speciation;Microevolution;Population genetics
+169,1997,2100,2,Allele frequency;Population;Selection (biology)
+170,1997,2100,2,Allele frequency;Microevolution;Population genetics
+171,1997,2100,2,Allele frequency;Population genetics;Motoo Kimura
+172,1998,2100,2,Allele;Genetic recombination;Gene-centric view of evolution
+173,1998,2100,2,Phenotype;Richard Dawkins;Gene-centric view of evolution
+174,2001,2100,2,Paleontology;Molecular clock;List of biology topics
+175,2001,2100,2,Cladistics;Evolutionary tree;List of biology topics
+176,2001,2100,2,Gene;Hierarchy of life;List of biology topics
+177,2001,2100,2,Population genetics;Genetic recombination;List of biology topics
+178,2020,2100,2,Systematics;Phylogenetic tree;Evolutionary tree
+179,2020,2100,2,Systematics;History of speciation;List of biology topics
+180,2020,2100,2,Systematics;Joe Felsenstein;Molecular systematics
+181,2020,2100,2,History of evolutionary thought;Jean-baptiste Lamarck;On The Origin of Species
+182,2020,2100,2,Gradualism;Creation-evolution controversy;On The Origin of Species

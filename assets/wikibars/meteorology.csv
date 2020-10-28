@@ -1,0 +1,707 @@
+i,birth,death,dim,nodes
+0,-2000,2100,0,Atmospheric chemistry
+1,-2000,-1799,0,North Pole
+2,-2000,-1900,0,Thermodynamic temperature
+3,-1930,2003,0,Smithsonian Tropical Research Institute
+4,-1900,-1700,0,Squall line
+5,-1900,2019,0,Tsunami
+6,-1900,122,0,Climate Prediction Center
+7,-1900,500,0,Space weather
+8,-1900,1914,0,Paleomagnetism
+9,-1900,-1699,0,Magnetic polarity reversal
+10,-1900,-1799,0,Temperature record of the past 1000 years
+11,-1800,-1599,0,Radiosonde
+12,-1800,-1599,0,Surface weather analysis
+13,-1800,232,0,Atlantic Oceanographic and Meteorological Laboratory
+14,-1800,1709,0,Gas balloon
+15,-1800,-1799,0,Mercury (element)
+16,-1800,1990,0,Chemical warfare
+17,-1800,1689,0,Environmental determinism
+18,-1800,232,0,Galveston, Texas
+19,-1800,-1699,0,Lightning rod
+20,-1800,-364,0,List of Solar Cycles
+21,-400,123,0,Frostbite
+22,101,122,0,Central Florida Tornado of February 2007
+23,108,170,0,Illuminance
+24,110,1989,0,Millimeter cloud radar
+25,113,500,0,Geomagnetic storm
+26,149,1861,0,Clear-air turbulence
+27,223,2015,0,Climateprediction.net
+28,459,460,0,Met Office
+29,1480,2013,0,Hygrometer
+30,1551,1873,0,List of weather records
+31,1701,1703,0,Contour line
+32,1846,2019,0,Hodograph
+33,1865,1951,0,List of tornado-related deaths at schools
+34,1878,2015,0,Solar thermal energy
+35,1893,2019,0,1893 Sea Islands Hurricane
+36,1910,2019,0,Aerobiology
+37,1913,1972,0,United States temperature extremes
+38,1933,2019,0,Firestorm
+39,1935,2018,0,Tropical cyclone observation
+40,1948,2008,0,Typical meteorological year
+41,1949,2010,0,Frost law
+42,1951,1979,0,Sudden stratospheric warming
+43,1975,2015,0,Max Planck Institute for Meteorology
+44,1982,1983,0,Ice storm
+45,1985,2005,0,Storm track
+46,2000,2009,0,Gas flare
+47,2020,2023,0,Evaporative cooling
+48,2020,2023,0,Eutrophication
+49,2020,2100,0,Intentional radiator
+50,-1800,2100,1,Global warming;Climate
+51,-1800,2100,1,Climate;Infrared
+52,-1800,2019,1,Cloud physics;Nephology
+53,-1799,2100,1,Orographic lift;Nephology
+54,-1799,2022,1,Cumulus cloud;Nephology
+55,-1799,2100,1,Sea level;Celestial horizon
+56,-1799,2100,1,Polar circle;Polar night
+57,-1798,2100,1,Nephology;Polar region
+58,-1797,2100,1,Polar region;Polar ice cap
+59,-1700,2100,1,Thunderstorm;Atmospheric electricity
+60,-1700,1861,1,Thunderstorm;Nephology
+61,-1699,2019,1,Anabatic wind;Thunderstorm
+62,-1699,2100,1,Anabatic wind;Cumulus cloud
+63,-1699,2100,1,Lightning;Squall line
+64,-1600,2100,1,Thermometer;Mercury (element)
+65,-1600,-1599,1,Thermometer;Celsius
+66,-1598,2100,1,Atmospheric convection;Cumulus humilis cloud
+67,-1598,275,1,Convective available potential energy;Level of free convection
+68,-1598,2019,1,Level of free convection;Thunderstorm
+69,-1598,2024,1,Level of free convection;Cumulus cloud
+70,-1598,2019,1,Lightning;Thunder
+71,-1598,2019,1,Atmospheric thermodynamics;Virtual temperature
+72,-300,2019,1,Hydrology;Water cycle
+73,100,2019,1,Cloud;Mesosphere
+74,100,2100,1,Thermodynamic temperature;Mercury-in-glass thermometer
+75,101,2100,1,Mercury (element);Standard conditions for temperature and pressure
+76,113,2100,1,Geostationary Operational Environmental Satellite;Magnetic storm
+77,122,2019,1,National Weather Service;Nephology
+78,122,2100,1,National Weather Service;Geostationary Operational Environmental Satellite
+79,170,2100,1,Sunlight;Infrared
+80,170,2100,1,Sunlight;Radiative forcing
+81,171,2100,1,Heat;Solar thermal collector
+82,171,2100,1,Cloud;Noctilucent cloud
+83,171,2100,1,Radiant energy;Greenhouse gas
+84,171,2100,1,Solar thermal collector;Solar greenhouse (technical)
+85,232,2100,1,National Weather Service;Galveston Hurricane of 1900
+86,250,2100,1,Ozone depletion;Polar vortex
+87,273,2008,1,Water cycle;Water vapor
+88,273,1861,1,Water vapor;Convection
+89,273,1980,1,Water vapor;Greenhouse gas
+90,274,2019,1,Advection;Heat
+91,274,2019,1,Advection;Water vapor
+92,274,2019,1,Equivalent temperature;Water vapor
+93,275,2019,1,Convective inhibition;Orographic lift
+94,275,2100,1,Water cycle;Carbon cycle
+95,275,2022,1,Snow;Nephology
+96,275,2019,1,Evaporation;Wet-bulb temperature
+97,275,2100,1,Greenhouse gas;Carbon cycle
+98,275,2100,1,Polar region;Polar climate
+99,276,2100,1,Sea level;List of places on land with elevations below sea level
+100,300,2100,1,Cumulus cloud;Cloud suck
+101,400,2019,1,Climatology;Atlantic Oceanographic and Meteorological Laboratory
+102,400,2100,1,Ozone depletion;Ultraviolet
+103,400,2100,1,Ultraviolet;Magnetic storm
+104,401,2100,1,Atmospheric physics;Cloud physics
+105,500,2019,1,Sun;D region
+106,500,2100,1,Lightning;D region
+107,500,2100,1,Ionosphere;Atmospheric electricity
+108,500,1980,1,Ionosphere;Solar flare
+109,500,2100,1,Ionosphere;Magnetic polarity reversal
+110,500,1914,1,Ultraviolet;D region
+111,500,1645,1,Space weather;D region
+112,500,1600,1,D region;Geomagnetic storm
+113,637,2100,1,Sun;Halo (optical phenomenon)
+114,638,2100,1,Sunlight;Corona (meteorology)
+115,1274,2019,1,Radiosonde;Wind
+116,1274,1861,1,Thunderstorm;Wind
+117,1275,2019,1,Radiosonde;Wind direction
+118,1308,2019,1,Squall;Wind
+119,1551,2100,1,National Oceanic and Atmospheric Administration;Temperature extremes
+120,1551,2100,1,American Geophysical Union;Temperature extremes
+121,1551,2100,1,Infrared;Temperature extremes
+122,1551,2100,1,Met Office;Temperature extremes
+123,1631,2100,1,Barometer;Mercury (element)
+124,1641,2019,1,Climate;Atmospheric pressure
+125,1641,2019,1,Atmospheric pressure;Barometer
+126,1641,2100,1,Atmospheric pressure;Sea level
+127,1641,2100,1,Atmospheric pressure;Mercury-in-glass thermometer
+128,1642,2019,1,Atmospheric pressure;Equivalent potential temperature
+129,1642,2019,1,Geostrophic wind;Wind
+130,1645,1980,1,Sunlight;Solar variation
+131,1645,2100,1,Atmospheric pressure;Solar variation
+132,1645,2100,1,Solar variation;Cloud condensation nuclei
+133,1645,2100,1,Solar variation;Dendroclimatology
+134,1645,2100,1,Solar cycle;Magnetic polarity reversal
+135,1646,2100,1,Celsius;Climate sensitivity
+136,1647,2100,1,Ozone depletion;Climate surprise
+137,1647,2100,1,Paleoclimatology;Climate surprise
+138,1659,2100,1,Instrumental temperature record;Temperature record of the past 1000 years
+139,1703,2100,1,Cloud;Fog
+140,1703,2022,1,Fog;Nephology
+141,1704,2019,1,Capping inversion;Thunderstorm
+142,1709,2100,1,Oxygen;Balloon (aircraft)
+143,1750,2100,1,Sun;Solar maximum
+144,1776,2100,1,Carbon monoxide;Tropospheric ozone
+145,1785,2100,1,Radiosonde;Ozone
+146,1785,1913,1,Oxygen;Ozone
+147,1785,2100,1,Greenhouse gas;Ozone
+148,1807,2100,1,National Oceanic and Atmospheric Administration;Office of Oceanic and Atmospheric Research
+149,1808,2100,1,National Oceanic and Atmospheric Administration;Geophysical Fluid Dynamics Laboratory
+150,1810,2019,1,Global warming;Urban heat island
+151,1810,2019,1,Urban heat island;Wind
+152,1810,2100,1,Urban heat island;Ozone
+153,1824,2100,1,Atmospheric pressure;Greenhouse effect
+154,1825,2100,1,Greenhouse effect;Cloud albedo
+155,1850,2100,1,Paleoclimatology;Temperature record
+156,1850,2100,1,Dendroclimatology;Temperature record
+157,1850,2100,1,Little Ice Age;Temperature record
+158,1850,2100,1,Little Ice Age;Temperature record of the past 1000 years
+159,1851,2100,1,Atlantic hurricane season;List of Northern Indian Ocean tropical cyclone seasons
+160,1859,2100,1,Solar wind;Wind
+161,1859,1914,1,Solar wind;Magnetic polarity reversal
+162,1860,2008,1,Atmosphere;Solar wind
+163,1860,2008,1,Atmosphere;Cloud
+164,1860,1951,1,Atmosphere;Water cycle
+165,1860,1861,1,Atmosphere;Lightning
+166,1860,1861,1,Atmosphere;Paleoclimatology
+167,1860,2100,1,Atmosphere;Oxygen
+168,1861,2100,1,Atmosphere;Wind speed
+169,1861,2019,1,Troposphere;Halo (optical phenomenon)
+170,1861,2019,1,Troposphere;Polar vortex
+171,1861,2100,1,Troposphere;Temperature record
+172,1861,1979,1,Troposphere;Tropospheric ozone
+173,1861,2100,1,Climate change;Hydrosphere
+174,1861,2100,1,Climate change;Met Office
+175,1861,2100,1,Climate change;List of countries by carbon dioxide emissions per capita
+176,1861,2019,1,Anemometer;Wind speed
+177,1861,2024,1,Atmospheric convection;Planetary boundary layer
+178,1861,2024,1,Capping inversion;Planetary boundary layer
+179,1861,2022,1,Frost;Ice
+180,1861,2100,1,Geostrophic wind;Planetary boundary layer
+181,1861,2100,1,Hydrosphere;Iron cycle
+182,1861,2100,1,Ice;Atmospheric icing
+183,1861,2100,1,Planetary boundary layer;Radiative forcing
+184,1861,2100,1,Planetary boundary layer;Contour line
+185,1861,2100,1,Carbon cycle;Nitrogen cycle
+186,1862,2100,1,Global warming;Cloud feedback
+187,1862,2019,1,Troposphere;Lapse rate
+188,1862,2019,1,Troposphere;Lifted index
+189,1862,1984,1,Atmospheric convection;Lapse rate
+190,1862,2100,1,Cloud;Cloud feedback
+191,1862,2100,1,Dusk;Midnight
+192,1862,2100,1,Frost;Deicing
+193,1862,2100,1,Frost;Frost line
+194,1862,2019,1,Indian summer;National Weather Service
+195,1862,2100,1,Lapse rate;Temperature extremes
+196,1862,2100,1,National Oceanic and Atmospheric Administration;Cooperative Institute for Climate Applications and Research
+197,1862,2100,1,Tropopause;Radiative forcing
+198,1862,2100,1,Cumulus cloud;List of cloud types
+199,1862,2100,1,Infrared;Deicing
+200,1862,2100,1,Carbon flux;Greenhouse effect
+201,1862,2100,1,Carbon flux;Mixed layer
+202,1862,2100,1,Corona (meteorology);List of cloud types
+203,1870,2019,1,National Hurricane Center;National Oceanic and Atmospheric Administration
+204,1871,2019,1,Gale;National Hurricane Center
+205,1871,2019,1,Gale;Wind
+206,1871,2100,1,Sea level;National Weather Service bulletin for New Orleans region
+207,1873,2100,1,Sunlight;World Meteorological Organization
+208,1873,2019,1,National Hurricane Center;World Meteorological Organization
+209,1873,2017,1,World Meteorological Organization;India Meteorological Department
+210,1873,2100,1,World Meteorological Organization;International Meteorological Organization
+211,1873,2100,1,World Meteorological Organization;Temperature extremes
+212,1874,2100,1,World Meteorological Organization;Cumulus mediocris cloud
+213,1875,2100,1,Cumulus congestus cloud;Cumulus mediocris cloud
+214,1881,2019,1,Atmospheric circulation;Sun
+215,1881,2019,1,Atmospheric circulation;Wind
+216,1881,2100,1,Atmospheric circulation;Thermodynamics
+217,1881,2008,1,Atmospheric circulation;Nephology
+218,1882,2100,1,Atmospheric circulation;Polar high
+219,1882,2100,1,Atmospheric pressure;Polar high
+220,1882,2100,1,Polar vortex;Polar high
+221,1885,1951,1,Tornado emergency;Tornado warning
+222,1885,1951,1,Tornado warning;Central Florida Tornado of February 2007
+223,1885,2100,1,Meteorological Service of Canada;Tornado Warning
+224,1894,2019,1,Lightning detection;National Weather Service
+225,1894,2100,1,Lightning detection;Meteorological Service of Canada
+226,1896,2100,1,Atmospheric electricity;Cosmic ray
+227,1896,2100,1,Cosmic ray;Solar variation
+228,1897,2100,1,Heat;Radiation
+229,1897,2100,1,Infrared;Radiation
+230,1897,2100,1,Radiation;Cosmic ray
+231,1897,2100,1,Galactic cosmic ray;Radiation poisoning
+232,1898,2100,1,Radiation;Mean radiant temperature
+233,1899,2100,1,Nephology;Weather lore
+234,1902,2100,1,Dry season;Oceanic climate
+235,1902,2100,1,Heat wave;Oceanic climate
+236,1902,2100,1,Humid continental climate;Oceanic climate
+237,1913,2100,1,Ozone layer;Office of Oceanic and Atmospheric Research
+238,1920,2019,1,Hydrology;Numerical weather prediction
+239,1920,2100,1,Climate change;Numerical weather prediction
+240,1920,2019,1,Numerical weather prediction;Radiosonde
+241,1920,2100,1,Numerical weather prediction;Thermodynamics
+242,1920,2100,1,D region;Ionosonde
+243,1921,2100,1,Numerical weather prediction;Global Forecast System
+244,1921,2100,1,Evaporation;Vapor pressure
+245,1921,2100,1,Oxygen;Vapor pressure
+246,1921,2100,1,Cloud chamber;Vapor pressure
+247,1929,2100,1,Oxygen;Controlled atmosphere
+248,1930,2100,1,Ozone depletion;Ozone-oxygen cycle
+249,1930,2100,1,Ozone-oxygen cycle;Oxygen cycle
+250,1934,2100,1,National Climatic Data Center;Temperature extremes
+251,1940,2100,1,Baroclinity;Bomb (meteorology)
+252,1940,2100,1,Cosmic microwave background radiation;Cosmic Background Explorer
+253,1945,1966,1,World Meteorological Organization;List of named tropical cyclones
+254,1946,2100,1,Weather satellite;Cloud physics
+255,1946,2100,1,Weather satellite;Temperature extremes
+256,1947,2019,1,Atlantic hurricane season;Weather Prediction Center
+257,1947,2019,1,Mesonet;Squall
+258,1947,2100,1,Mesonet;Planetary boundary layer
+259,1950,2019,1,Atlantic hurricane season;Subtropical cyclone
+260,1950,2019,1,Weather radar;Squall line
+261,1950,2100,1,Weather radar;Cloud physics
+262,1950,2100,1,Subtropical cyclone;Celsius
+263,1951,2019,1,Climate;National Weather Center
+264,1951,2019,1,Weather radar;Rain
+265,1951,2019,1,Disdrometer;Hail
+266,1951,2019,1,Disdrometer;Rain
+267,1951,2019,1,Hail;Ice
+268,1951,2019,1,Hail;Weather satellite
+269,1951,2019,1,National Oceanic and Atmospheric Administration;National Weather Center
+270,1951,2019,1,Rain;Rain gauge
+271,1951,2019,1,Rain;Thunder
+272,1951,2022,1,Rain;Clime
+273,1951,2019,1,Tornado;Urban heat island
+274,1951,2100,1,Tornado;Office of Oceanic and Atmospheric Research
+275,1952,2100,1,Climatology;Megathermal
+276,1952,2019,1,Cloudburst;Orographic lift
+277,1952,2019,1,Lightning;Mesoscale convective complex
+278,1952,2019,1,Mesoscale convective complex;Rain
+279,1952,2019,1,Mesoscale convective complex;Tornado
+280,1952,2019,1,Mesoscale convective complex;Wind
+281,1952,2019,1,Rain;Sunshower
+282,1952,2100,1,Rain;Megathermal
+283,1952,2100,1,Rain;Rain fade
+284,1952,2019,1,Rainbow;Sunshower
+285,1952,2019,1,Tornado;Glossary of tornado terms
+286,1956,2019,1,National Severe Storms Laboratory;Storm chasing
+287,1957,2100,1,National Oceanic and Atmospheric Administration;National Snow and Ice Data Center
+288,1960,2100,1,Weather radar;Tornado intensity and damage
+289,1965,2019,1,Heat index;Evaporation
+290,1965,2100,1,Climate engineering;Cloud condensation nuclei
+291,1966,2019,1,Troposphere;North Atlantic tropical cyclone
+292,1966,2100,1,Convective instability;North Atlantic tropical cyclone
+293,1966,2019,1,Heat index;Wind chill
+294,1966,2018,1,Tornado;North Atlantic tropical cyclone
+295,1966,2100,1,Wind chill;Canada Weather Extremes
+296,1966,2100,1,North Atlantic tropical cyclone;Bureau of Meteorology
+297,1967,2100,1,Atmosphere;Satellite temperature measurements
+298,1967,2100,1,National Oceanic and Atmospheric Administration;Cooperative Institute for Research in Environmental Sciences
+299,1967,2100,1,National Oceanic and Atmospheric Administration;Satellite temperature measurements
+300,1967,2100,1,Weather satellite;Satellite temperature measurements
+301,1967,2100,1,Infrared;Satellite temperature measurements
+302,1970,2011,1,Enhanced Fujita scale;Wind speed
+303,1970,2100,1,American Geophysical Union;Tropical cyclone prediction model
+304,1970,2100,1,Tropical cyclone prediction model;Sunspot
+305,1971,2100,1,Global warming;Ocean heat content
+306,1973,2019,1,Chinook wind;Katabatic wind
+307,1973,2019,1,Katabatic wind;Wind
+308,1979,2100,1,Stratosphere;Balloon (aircraft)
+309,1979,2100,1,Stratosphere;Polar night
+310,1980,2020,1,Global warming;Radiation budget
+311,1980,2020,1,Stratosphere;Radiation budget
+312,1980,2100,1,Solar wind;Radiation budget
+313,1980,2019,1,Derecho;Squall line
+314,1980,2020,1,Oxygen;Radiation budget
+315,1980,2100,1,Infrared;Radiation budget
+316,1980,2100,1,Atmospheric Model Intercomparison Project;World Climate Research Programme
+317,1980,2100,1,Radiation budget;Solar constant
+318,1980,2100,1,Radiation budget;Solar minimum
+319,1980,2100,1,Sea level;Stratopause
+320,1981,2100,1,Gale warning;Storm warning
+321,1981,2100,1,National Weather Service;Storm warning
+322,1981,2100,1,World Climate Research Programme;Tropical Ocean-Global Atmosphere program
+323,1983,2100,1,Troposphere;Ozone depletion potential
+324,1983,2005,1,Freezing rain;Rain
+325,1983,2100,1,Freezing rain;Atmospheric icing
+326,1983,2100,1,Ice storm;List of power outages
+327,1983,2100,1,National Oceanic and Atmospheric Administration;Coldest temperature achieved on Earth
+328,1983,2100,1,National Oceanic and Atmospheric Administration;List of power outages
+329,1983,2100,1,World Meteorological Organization;Coldest temperature achieved on Earth
+330,1983,2100,1,American Geophysical Union;Climate of Antarctica
+331,1983,2100,1,American Geophysical Union;Coldest temperature achieved on Earth
+332,1983,2100,1,European Centre for Medium-Range Weather Forecasts;Climate of Antarctica
+333,1984,2100,1,Anticyclone;Inversion (meteorology)
+334,1984,2019,1,Freezing rain;Winter storm
+335,1984,2100,1,Freezing rain;Inversion (meteorology)
+336,1984,2100,1,Freezing rain;Ice Storm Warning
+337,1984,2100,1,Ice;Ice Storm Warning
+338,1985,2019,1,Climate;Tropical cyclogenesis
+339,1985,2019,1,Landspout;Tornado
+340,1985,2020,1,National Oceanic and Atmospheric Administration;Aurora (astronomy)
+341,1985,2023,1,Tropical cyclogenesis;Convection
+342,1985,2100,1,Inversion (meteorology);Aurora (astronomy)
+343,1987,2100,1,Meteorological Service of Canada;Canadian Hurricane Centre
+344,1989,2100,1,Atmospheric Radiation Measurement;Nephology
+345,1990,2100,1,National Oceanic and Atmospheric Administration;Chemtrail theory
+346,1990,2100,1,Chemtrail theory;Climate engineering
+347,1990,2100,1,Chemtrail theory;High Frequency Active Auroral Research Program
+348,1990,2100,1,High Frequency Active Auroral Research Program;D region
+349,1992,2100,1,World Meteorological Organization;Uv index
+350,1992,2100,1,The Weather Channel;Uv index
+351,1997,2100,1,Stratosphere;List of observatories
+352,1997,2100,1,Water vapor;List of observatories
+353,1997,2100,1,Infrared;List of observatories
+354,1997,2100,1,Ultraviolet;List of observatories
+355,1997,2100,1,Sunspot;List of observatories
+356,1997,2100,1,Solar and Heliospheric Observatory;List of observatories
+357,1997,2100,1,National Solar Observatory;List of observatories
+358,2001,2100,1,Radiation;Mars Radiation Environment Experiment
+359,2001,2100,1,Magnetosphere;Mars Radiation Environment Experiment
+360,2002,2100,1,Tornado;European Severe Storms Laboratory
+361,2003,2100,1,Greenhouse gas;Climate Group
+362,2005,2017,1,Blizzard;Storm
+363,2005,2019,1,Cloud;Cloud base
+364,2005,2100,1,Cloud base;Nephology
+365,2005,2100,1,Cloud base;Cloud suck
+366,2005,2020,1,Ozone depletion;Climate Monitoring and Diagnostics Laboratory
+367,2005,2019,1,Snow;Storm
+368,2006,2100,1,Cloud;Mist
+369,2006,2019,1,Level of free convection;Lifted condensation level
+370,2006,2100,1,National Oceanic and Atmospheric Administration;Climate Diagnostics Center
+371,2006,2100,1,World Meteorological Organization;Nimbus cloud
+372,2006,2022,1,Mist;Nephology
+373,2007,2024,1,Cloud;Convective temperature
+374,2007,2100,1,Extreme weather;National Climatic Data Center
+375,2007,2100,1,Extreme weather;European Severe Storms Laboratory
+376,2007,2100,1,Mist;Smoke
+377,2008,2019,1,Weather;Anticyclone
+378,2008,2019,1,Weather;Surface weather analysis
+379,2008,2100,1,Weather;Canada Weather Extremes
+380,2008,2100,1,Climate change;Mesopause
+381,2008,2100,1,Fire whirl;Mesocyclone
+382,2008,2019,1,Fire whirl;Wind
+383,2008,2100,1,Fire whirl;Smoke
+384,2008,2100,1,Freezing rain;Winter Weather Advisory
+385,2008,2019,1,Heavy snow warning;Snow
+386,2008,2100,1,Heavy snow warning;Meteorological Service of Canada
+387,2008,2100,1,Mesonet;1999 Oklahoma tornado outbreak
+388,2008,2100,1,Snow;Winter Weather Advisory
+389,2008,2100,1,Meteorological Service of Canada;Winter Weather Advisory
+390,2009,2100,1,Cloud;Sky
+391,2009,2019,1,Cold-core low;Polar low
+392,2009,2019,1,Cold-core low;Tornado
+393,2009,2019,1,Convective inhibition;Mesoscale meteorology
+394,2009,2100,1,Drought;Growing degree day
+395,2009,2100,1,Lightning;Sky
+396,2009,2019,1,Line echo wave pattern;Mesoscale meteorology
+397,2009,2019,1,Mesonet;Mesoscale meteorology
+398,2009,2019,1,Mesoscale convective complex;Mesoscale meteorology
+399,2009,2019,1,Mesoscale meteorology;Polar low
+400,2009,2100,1,Rainbow;Sky
+401,2009,2100,1,List of weather instruments;List of weather records
+402,2009,2100,1,List of weather instruments;Temperature extremes
+403,2009,2100,1,Growing degree day;Heating degree day
+404,2010,2100,1,Night sky;Polar circle
+405,2011,2100,1,Global warming;Sea surface temperature
+406,2011,2019,1,Cloud;Gustnado
+407,2011,2100,1,Numerical weather prediction;Sea surface temperature
+408,2011,2100,1,Snow;Sea surface temperature
+409,2011,2023,1,Tropical cyclogenesis;Sea surface temperature
+410,2011,2100,1,Weather satellite;Sea surface temperature
+411,2011,2100,1,Sea surface temperature;Atmospheric Model Intercomparison Project
+412,2011,2100,1,Sea surface temperature;Galveston Hurricane of 1900
+413,2012,2019,1,Dew;Evaporation
+414,2013,2019,1,Anabatic wind;Dew point
+415,2013,2019,1,Dew;Humidity
+416,2013,2100,1,Dew point;Temperature extremes
+417,2013,2019,1,Fog;Humidity
+418,2013,2100,1,Humidity;Mist
+419,2013,2100,1,Humidity;Controlled atmosphere
+420,2013,2100,1,Humidity;Solar greenhouse (technical)
+421,2013,2100,1,Rain;Rainforest
+422,2013,2100,1,Oxygen;Rainforest
+423,2014,2019,1,Weather;Tephigram
+424,2014,2100,1,Atmospheric pressure;Density altitude
+425,2014,2019,1,Convective available potential energy;Tephigram
+426,2014,2019,1,Convective instability;Tephigram
+427,2014,2100,1,Dew point;Microclimate
+428,2014,2019,1,Heat index;Relative humidity
+429,2014,2100,1,Humidity;Density altitude
+430,2014,2017,1,Lifted condensation level;Relative humidity
+431,2014,2019,1,Numerical weather prediction;Relative humidity
+432,2014,2019,1,Orographic lift;Relative humidity
+433,2014,2019,1,Relative humidity;Wet-bulb temperature
+434,2014,2100,1,Relative humidity;Chemtrail theory
+435,2014,2100,1,Relative humidity;Mist
+436,2014,2100,1,Urban heat island;Microclimate
+437,2015,2100,1,Hydrology;Climate modeller
+438,2015,2100,1,Global warming;Climate model
+439,2015,2020,1,Troposphere;Climate modeller
+440,2015,2100,1,Atmospheric pressure;Solar heating
+441,2015,2100,1,Moisture;Climatic Regions of India
+442,2015,2100,1,Moisture;Dry-bulb temperature
+443,2015,2100,1,Moisture;Solar heating
+444,2015,2100,1,National Center for Atmospheric Research;Climate modeller
+445,2015,2100,1,Numerical weather prediction;Parametrization (climate)
+446,2015,2100,1,Relative humidity;Climate model
+447,2015,2100,1,Relative humidity;Climate modeller
+448,2015,2100,1,Atmospheric thermodynamics;Parametrization (climate)
+449,2015,2100,1,Water vapor;Parametrization (climate)
+450,2015,2100,1,Evaporation;Climatic Regions of India
+451,2015,2100,1,World Meteorological Organization;Climate modeller
+452,2015,2100,1,Convection;Solar heating
+453,2015,2100,1,Cumulus cloud;Parametrization (climate)
+454,2015,2020,1,Sea surface temperature;Climate modeller
+455,2015,2100,1,Radiation;Dry-bulb temperature
+456,2015,2100,1,Atmospheric Radiation Measurement;Climate modeller
+457,2015,2100,1,Greenhouse gas;Climate modeller
+458,2015,2100,1,Climate model;Climatic Research Unit
+459,2015,2100,1,Climate modeller;Solar constant
+460,2015,2100,1,Climate modeller;Climateprediction.net
+461,2015,2100,1,Climatic Regions of India;Humid continental climate
+462,2016,2019,1,Anticyclone;Haze
+463,2016,2018,1,Fog;Haze
+464,2016,2019,1,Haze;Snow
+465,2016,2100,1,Haze;Mist
+466,2016,2100,1,Haze;Cloud condensation nuclei
+467,2017,2018,1,Anticyclone;Tropical cyclone
+468,2017,2019,1,Dew point depression;Moisture
+469,2017,2019,1,Drought;Tropical cyclone
+470,2017,2019,1,Geostrophic wind;Synoptic scale meteorology
+471,2017,2100,1,Haze;Eolian processes
+472,2017,2100,1,Tropical cyclone;Bomb (meteorology)
+473,2017,2100,1,Tropical cyclone;Canadian Hurricane Centre
+474,2017,2019,1,Tropical cyclone;Tropical cyclone prediction model
+475,2017,2100,1,Tropical cyclone;Ocean Prediction Center
+476,2017,2100,1,Tropical cyclone;Temperature extremes
+477,2017,2019,1,Surface weather analysis;Synoptic scale meteorology
+478,2018,2019,1,Extratropical cyclone;Blizzard
+479,2018,2019,1,Extratropical cyclone;Gale
+480,2018,2019,1,Extratropical cyclone;Synoptic scale meteorology
+481,2018,2100,1,Derecho;Maximum sustained wind
+482,2018,2100,1,Freezing rain;Surface temperature inversion
+483,2018,2100,1,Tropical cyclone;Maximum sustained wind
+484,2018,2100,1,Tropical cyclone;Hypercane
+485,2018,2100,1,Tropical cyclone;Invest (meteorology)
+486,2018,2100,1,Tropical cyclone;Subtropics
+487,2018,2100,1,National Hurricane Center;Invest (meteorology)
+488,2018,2100,1,National Hurricane Center;Radius of outermost closed isobar
+489,2018,2100,1,Weather satellite;Maximum sustained wind
+490,2018,2100,1,Contour line;Radius of outermost closed isobar
+491,2019,2100,1,Atmospheric sciences;Topography
+492,2019,2100,1,Atmospheric sciences;Radiosonde
+493,2019,2020,1,Atmospheric sciences;Convection
+494,2019,2100,1,Atmospheric sciences;Radiant energy
+495,2019,2100,1,Atmospheric sciences;Oxygen
+496,2019,2100,1,Atmospheric sciences;American Geophysical Union
+497,2019,2100,1,List of meteorological phenomena;Dusk
+498,2019,2100,1,List of meteorological phenomena;Pressure gradient force
+499,2019,2100,1,List of meteorological phenomena;Glossary of climate change
+500,2019,2100,1,Topography;Aerology
+501,2019,2100,1,Radiosonde;Aerology
+502,2019,2100,1,Storm surge;Effect of Hurricane Katrina on New Orleans
+503,2019,2100,1,Convection;Aerology
+504,2019,2100,1,Aerology;Radiant energy
+505,2019,2100,1,Aerology;Oxygen
+506,2019,2100,1,Ionosphere;Constellation Observing System for Meteorology, Ionosphere, and Climate
+507,2019,2100,1,Lunar phase;Occultation
+508,2020,2100,1,Earth's atmosphere;Atmospheric Model Intercomparison Project
+509,2020,2100,1,Earth's atmosphere;Economics of global warming
+510,2020,2100,1,Earth's atmosphere;Lunar eclipse
+511,2020,2100,1,Earth's atmosphere;Global Atmosphere Watch
+512,2020,2100,1,American Meteorological Society;Certified Consulting Meteorologist
+513,2020,2021,1,American Meteorological Society;Tropical cyclone prediction model
+514,2020,2100,1,American Meteorological Society;Tornado Warning
+515,2020,2100,1,Ceiling balloon;Balloon (aircraft)
+516,2020,2024,1,Convective condensation level;Air parcel
+517,2020,2100,1,Equivalent temperature;Air parcel
+518,2020,2100,1,Weather front;Climate of Antarctica
+519,2020,2100,1,Geostrophic wind;Isobar (meteorology)
+520,2020,2100,1,Hydrosphere;List of basic earth science topics
+521,2020,2024,1,Lifted index;Air parcel
+522,2020,2100,1,Mesoscale convective vortex;Miami tornadoes of 2003
+523,2020,2100,1,Numerical weather prediction;Solar radiation
+524,2020,2100,1,Equator;Celestial horizon
+525,2020,2100,1,Equator;Clime
+526,2020,2100,1,Equator;D region
+527,2020,2100,1,Equator;Frost creep
+528,2020,2100,1,Equator;Subtropics
+529,2020,2100,1,Equator;List of Category 5 Pacific hurricanes
+530,2020,2100,1,Equator;List of Northern Indian Ocean tropical cyclone seasons
+531,2020,2100,1,Equator;Night sky
+532,2020,2100,1,Equator;Megathermal
+533,2020,2100,1,Equator;Tropical Ocean-Global Atmosphere program
+534,2020,2100,1,Potential temperature;Air parcel
+535,2020,2100,1,Specific humidity;Mixed layer
+536,2020,2100,1,Tornado climatology;Solar radiation
+537,2020,2100,1,Tropical cyclogenesis;Madden–julian oscillation
+538,2020,2100,1,Wind speed;Isobar (meteorology)
+539,2020,2100,1,Buoyancy;Balloon (aircraft)
+540,2020,2100,1,Buoyancy;Hydrometer
+541,2020,2100,1,Contrail;Nephology
+542,2020,2100,1,Climate engineering;Solar radiation
+543,2020,2100,1,Climate Monitoring and Diagnostics Laboratory;Solar radiation
+544,2020,2100,1,Solar radiation;Cloud albedo
+545,2020,2100,1,Solar radiation;Solar cycle
+546,2020,2100,1,Solar radiation;Typical meteorological year
+547,2020,2100,1,Madden–julian oscillation;Tropical Ocean-Global Atmosphere program
+548,2020,2100,1,Nasa Earth Observatory;Nephology
+549,2020,2100,1,Nasa Earth Observatory;Cloud street
+550,2020,2100,1,Nasa Earth Observatory;Little Ice Age
+551,2020,2100,1,Ice age;Little Ice Age
+552,2020,2100,1,Instrumental temperature record;In situ
+553,2020,2100,1,Extremes on Earth;Temperature extremes
+554,2020,2100,1,Polarization (waves);Magnetic storm
+555,2020,2100,1,Solar proton event;Magnetic storm
+556,2020,2100,1,Saffir-simpson Hurricane Scale;North Atlantic tropical cyclone
+557,2020,2100,1,Saffir-simpson Hurricane Scale;1997 Miami Tornado
+558,2020,2100,1,Saffir-simpson Hurricane Scale;National Weather Service bulletin for New Orleans region
+559,2020,2100,1,Growing degree day;Growing season
+560,2020,2100,1,Oceanic climate;Mediterranean climate
+561,2020,2100,1,Irradiance;Uv index
+562,2020,2100,1,In situ;Tornado intensity and damage
+563,2020,2100,1,List of basic earth science topics;Paleotempestology
+564,2020,2100,1,Radiative cooling;Typical meteorological year
+565,2020,2100,1,Satellite temperature measurements;Radiance
+566,2021,2100,1,Atmosphere;Microscale meteorology
+567,2021,2023,1,Extratropical cyclone;Middle latitudes
+568,2021,2100,1,Atmospheric pressure;List of notable tropical cyclones
+569,2021,2100,1,Weather radar;Forensic meteorology
+570,2021,2100,1,Cyclone;National Snow and Ice Data Center
+571,2021,2100,1,Freezing rain;Ice Accretion Indicator
+572,2021,2100,1,Frontogenesis;Bomb (meteorology)
+573,2021,2100,1,Frost;Ice Accretion Indicator
+574,2021,2100,1,Tropical cyclone;List of notable tropical cyclones
+575,2021,2100,1,Supercell;Mammatus cloud
+576,2021,2100,1,Equator;Middle latitudes
+577,2021,2100,1,Equator;List of notable tropical cyclones
+578,2021,2100,1,Surface weather observation;Forensic meteorology
+579,2021,2100,1,World Meteorological Organization;Cumulus castellanus cloud
+580,2021,2100,1,Cumulus cloud;Cumulus castellanus cloud
+581,2022,2100,1,Cloud cover;Insolation
+582,2022,2100,1,Heat wave;High pressure area
+583,2022,2100,1,Moisture;Insolation
+584,2022,2100,1,Equator;Polar easterlies
+585,2022,2100,1,Precipitation;Climate of Antarctica
+586,2022,2100,1,Precipitation;European Severe Storms Laboratory
+587,2022,2100,1,Relative humidity;High pressure area
+588,2022,2100,1,Severe weather;Cooperative Institute for Meteorological Satellite Studies
+589,2022,2100,1,National Climatic Data Center;Local storm report
+590,2022,2023,1,Insolation;Polar region
+591,2022,2100,1,Insolation;Solar furnace
+592,2022,2100,1,Contour line;High pressure area
+593,2022,2100,1,North Pole;Polar easterlies
+594,2022,2100,1,Solar radiation;High pressure area
+595,2022,2100,1,Cooperative Institute for Meteorological Satellite Studies;Space Science and Engineering Center
+596,2023,2100,1,Sun;Thermal equator
+597,2023,2100,1,Atmospheric convection;Pyrocumulus
+598,2023,2100,1,Topography;Impluvium (hydrology)
+599,2023,2024,1,Cloud base;Maximum parcel level
+600,2023,2100,1,Severe weather terminology (United States);Lake effect snow
+601,2023,2100,1,Equivalent potential temperature;Annular hurricane
+602,2023,2100,1,Firestorm;Pyrocumulus
+603,2023,2100,1,Lapse rate;Lake effect snow
+604,2023,2100,1,Lightning;Lake effect snow
+605,2023,2100,1,Mesolow;Mesovortex
+606,2023,2100,1,Moisture;Pyrocumulus
+607,2023,2100,1,National Hurricane Center;Annular hurricane
+608,2023,2100,1,National Hurricane Center;Tropical waves
+609,2023,2100,1,National Oceanic and Atmospheric Administration;Lightning safety
+610,2023,2100,1,Orographic lift;Lake effect snow
+611,2023,2100,1,Equator;Thermal equator
+612,2023,2100,1,Precipitation;Impluvium (hydrology)
+613,2023,2100,1,Quantitative precipitation forecast;Planetary boundary layer
+614,2023,2100,1,Rain shadow;Lake effect snow
+615,2023,2100,1,Relative humidity;Positive streamer
+616,2023,2100,1,National Climatic Data Center;Lake effect snow
+617,2023,2100,1,Atmospheric thermodynamics;Maximum parcel level
+618,2023,2100,1,Wind shear;Lake effect snow
+619,2023,2100,1,Winter storm;Positive streamer
+620,2023,2100,1,Planetary boundary layer;Lake effect snow
+621,2023,2100,1,Insolation;Potential evaporation
+622,2023,2100,1,Annular hurricane;Infrared
+623,2023,2100,1,Ozone;Positive streamer
+624,2023,2024,1,Buoyancy;Maximum parcel level
+625,2023,2100,1,Nitrogen cycle;Positive streamer
+626,2023,2024,1,Cumulonimbus cloud;Equilibrium level
+627,2023,2100,1,Cloud condensation nuclei;Pyrocumulus
+628,2023,2100,1,Cloud suck;Low pressure area
+629,2023,2100,1,Low pressure area;Met Office
+630,2023,2100,1,Saffir-simpson Hurricane Scale;Tropical waves
+631,2023,2100,1,Smoke;Pyrocumulus
+632,2023,2100,1,Fulgurite;Positive streamer
+633,2023,2100,1,Impluvium (hydrology);Isohyet
+634,2023,2100,1,Storm drain;Stormwater
+635,2024,2100,1,Mixed layer;Free convective layer
+636,460,2019,2,Climatology;Climate;Surface weather observation
+637,1645,1985,2,Solar variation;D region;Geomagnetic storm
+638,1859,1985,2,Solar wind;Magnetosphere;Magnetic storm
+639,1951,2100,2,National Weather Service;Tornado;Tornado Warning
+640,1952,2100,2,Storm Prediction Center;Tornado;Miami tornadoes of 2003
+641,1981,2100,2,Lenticular cloud;Polar stratospheric cloud;Nephology
+642,2013,2100,2,Dew point;Water vapor;Nephology
+643,2017,2100,2,Tropical cyclone;Cape Verde-type hurricane;North Atlantic tropical cyclone
+644,2018,2100,2,Atmospheric convection;Thunderstorm;Surface temperature inversion
+645,2019,2100,2,List of meteorological phenomena;Weather;Climate
+646,2019,2100,2,List of meteorological phenomena;Extratropical cyclone;Dew point
+647,2019,2100,2,List of meteorological phenomena;Anabatic wind;Rain
+648,2019,2100,2,List of meteorological phenomena;Atmospheric convection;Lapse rate
+649,2019,2100,2,List of meteorological phenomena;Cloud;Evaporation
+650,2019,2100,2,List of meteorological phenomena;Storm Prediction Center;National Oceanic and Atmospheric Administration
+651,2019,2021,2,List of meteorological phenomena;Storm Prediction Center;Tornado
+652,2019,2100,2,List of meteorological phenomena;Extreme weather;Heat wave
+653,2019,2100,2,List of meteorological phenomena;Fog;Haze
+654,2019,2100,2,List of meteorological phenomena;Water cycle;Rain
+655,2019,2100,2,List of meteorological phenomena;Lenticular cloud;Pileus (meteorology)
+656,2019,2100,2,List of meteorological phenomena;National Oceanic and Atmospheric Administration;Thunderstorm
+657,2019,2100,2,List of meteorological phenomena;Tropical cyclone scales;World Meteorological Organization
+658,2019,2100,2,Weather;Climate change;Aerology
+659,2020,2100,2,List of meteorological phenomena;Weather;American Meteorological Society
+660,2020,2100,2,Earth's atmosphere;Ozone depletion;Ozone
+661,2020,2100,2,Earth's atmosphere;Water vapor;Convection
+662,2020,2100,2,Earth's atmosphere;Oxygen;D region
+663,2020,2100,2,Weather;American Meteorological Society;Nephology
+664,2020,2100,2,Mesosphere;Ionosphere;List of basic earth science topics
+665,2020,2100,2,Noctilucent cloud;Equator;Nephology
+666,2020,2100,2,Equator;Tornado;Nephology
+667,2021,2100,2,Cyclone;Tropical cyclone;Tropical cyclone prediction model
+668,2022,2100,2,Atmosphere;Water cycle;Precipitation
+669,2022,2100,2,Atmosphere;Precipitation;Nephology
+670,2022,2100,2,American Meteorological Society;Precipitation;Nephology
+671,2022,2100,2,Anticyclone;Cyclone;High pressure area
+672,2022,2100,2,Cyclone;Mesoscale meteorology;High pressure area
+673,2022,2100,2,Cyclone;Wind;High pressure area
+674,2022,2100,2,Fog;Haze;High pressure area
+675,2022,2100,2,Geostrophic wind;Synoptic scale meteorology;High pressure area
+676,2022,2100,2,Geostrophic wind;Wind;High pressure area
+677,2022,2100,2,Hail;Precipitation;Nephology
+678,2022,2100,2,Lightning;Storm;Cumulonimbus cloud
+679,2022,2100,2,Lightning;Storm chasing;Cumulonimbus cloud
+680,2022,2100,2,Lightning;Cumulonimbus cloud;Nephology
+681,2022,2100,2,Supercell;Squall line;Cumulonimbus cloud
+682,2022,2100,2,Pileus (meteorology);Cumulonimbus cloud;Nephology
+683,2022,2100,2,Storm;Tornado;Cumulonimbus cloud
+684,2022,2100,2,Storm;Wind;High pressure area
+685,2022,2100,2,Storm chasing;Tornado;Cumulonimbus cloud
+686,2022,2100,2,Storm chasing;Local storm report;Tornado Warning
+687,2023,2100,2,Extratropical cyclone;Storm surge;Low pressure area
+688,2023,2100,2,Cloud cover;Surface weather analysis;Low pressure area
+689,2023,2100,2,Derecho;Outflow boundary;Mesovortex
+690,2023,2100,2,Geostrophic wind;Wind;Low pressure area
+691,2023,2100,2,Tropical cyclone;Thunderstorm;Mesovortex
+692,2023,2024,2,Level of free convection;Air parcel;Equilibrium level
+693,2023,2100,2,Mesocyclone;Mesoscale meteorology;Mesovortex
+694,2023,2100,2,Mesoscale convective complex;Mesoscale meteorology;Mesovortex
+695,2023,2100,2,Mesoscale convective complex;Tornado;Mesovortex
+696,2023,2100,2,Mesoscale meteorology;Outflow boundary;Mesovortex
+697,2023,2100,2,National Weather Service;Tornado;Low pressure area
+698,2023,2100,2,Surface weather analysis;Synoptic scale meteorology;Mesovortex
+699,2023,2100,2,Tornado;Cumulonimbus cloud;Positive streamer
+700,2023,2100,2,Wind;Low pressure area;Miami tornadoes of 2003
+701,2023,2100,2,Cumulus cloud;Cumulonimbus cloud;Pyrocumulus
+702,2024,2100,2,Atmospheric convection;Dew point;Free convective layer
+703,2024,2100,2,Atmospheric convection;Thunderstorm;Free convective layer
+704,2024,2100,2,Cloud;Cumulus cloud;Free convective layer
+705,2024,2100,2,Level of free convection;Lifted condensation level;Free convective layer
