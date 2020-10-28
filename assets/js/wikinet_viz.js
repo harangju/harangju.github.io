@@ -10,7 +10,7 @@ const width = 770,
   height_bar = 300;
 const year_min = 0,
   year_max = 2020;
-const margin = {top: 20, right: 30, bottom: 10, left: 10}
+const margin = {top: 20, right: 30, bottom: 10, left: 20};
 
 const topics = ['cognitive science',
  'evolutionary biology', 'immunology',
@@ -99,9 +99,10 @@ function tick() {
 }
 
 // Load data
-
-load_network(topics[0]);
-load_barcode(topics[0]);
+$(document).ready(function(){
+  load_network(topics[0]);
+  load_barcode(topics[0]);
+});
 
 // https://stats.stackexchange.com/questions/281162/scale-a-number-between-a-range
 const tmin = 6,
@@ -126,7 +127,6 @@ function load_network(topic) {
 let barcode;
 function load_barcode(topic) {
   d3.csv(`/assets/wikibars/${topic}.csv`).then(data => {
-    console.log(data);
     barcode = data;
     update_barcode();
   });
@@ -220,9 +220,9 @@ function update_barcode() {
   let y = d3.scaleLinear()
     .domain([0, d3.max(barcode, d => Number(d.i)+1)])
     .range([height_bar-margin.bottom, margin.top]);
-  svg_bar.append('g')
-    .attr('transform', `translate(${margin.left},0)`)
-    .call(d3.axisLeft(y));
+  // svg_bar.append('g')
+  //   .attr('transform', `translate(${margin.left},0)`)
+  //   .call(d3.axisLeft(y));
   let series = barcode.map(d => {
     return {
       key: d.dim,
@@ -233,7 +233,7 @@ function update_barcode() {
       nodes: d.nodes.split(';')
     };
   });
-  let res = series.map(d => d.key)
+  let res = series.map(d => d.key);
   let color = d3.scaleOrdinal()
     .domain(res)
     .range(['#264653','#2a9d8f','#e9c46a','#f4a261','#e76f51']);
@@ -242,7 +242,7 @@ function update_barcode() {
     .y(d => y(d.i));
   let path = svg_bar.append('g')
     .attr('fill', 'none')
-    .attr('stroke-width', 4.6)
+    .attr('stroke-width', (height_bar-margin.top-margin.bottom)/barcode.length)
     .attr('stroke-linecap', 'round')
     .selectAll('path')
     .data(series)

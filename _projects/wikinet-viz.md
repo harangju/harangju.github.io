@@ -7,7 +7,7 @@ importance: 1
 ---
 
 <script src="https://d3js.org/d3.v6.min.js"></script>
-<script defer type="text/javascript" src="/assets/js/wikinet_viz.js"></script>
+<script defer src="/assets/js/wikinet_viz.js"></script>
 
 In my recent <a href='http://arxiv.org/abs/2010.08381' target='blank'>paper</a>,
  we use persistent homology to identify knowledge gaps. You can explore networks of hyperlinked science articles on Wikipedia.
