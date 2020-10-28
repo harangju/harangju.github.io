@@ -1,63 +1,63 @@
 i,birth,death,dim,nodes
 0,-5500,2100,0,Copper
-1,-2750,-2000,0,Electricity
-2,-2400,-1900,0,Computer
-3,-2000,609,0,Baudot code
-4,-2000,-1900,0,Metal
-5,-2000,100,0,Total internal reflection
-6,-2000,-1900,0,Inside plant
-7,-2000,-1800,0,Synthesizer
-8,-2000,1987,0,Content delivery
-9,-1900,-1800,0,Loading coil
-10,-1900,694,0,Pauli exclusion principle
-11,-1900,1702,0,Tensor
-12,-1900,-1899,0,Tape relay
-13,-1800,1782,0,Ammeter
-14,-1800,1971,0,Spice
-15,-200,1822,0,Fourier series
-16,100,1783,0,Nickel metal hydride
-17,120,1910,0,Stopband
-18,120,2002,0,Wink pulsing
-19,121,916,0,Emergency Locator Transmitter
-20,128,1989,0,Zigbee
-21,1300,1832,0,Zero-dispersion wavelength
-22,1730,2011,0,Z-transform
-23,1833,1974,0,Wheatstone bridge
-24,1840,1842,0,Quality control
-25,1845,1846,0,Railgun
-26,1923,1972,0,Zobel network
-27,1969,2020,0,Relational model
-28,2009,2010,0,Shrinking generator
+1,-2750,-2000,0,Electricity;Copper
+2,-2400,-1900,0,Electricity;Computer
+3,-2000,609,0,Electricity;Baudot code
+4,-2000,-1900,0,Diode;Metal
+5,-2000,100,0,Electricity;Total internal reflection
+6,-2000,-1900,0,Electricity;Inside plant
+7,-2000,-1800,0,Electricity;Synthesizer
+8,-2000,1987,0,Electricity;Content delivery
+9,-1900,-1800,0,Receiver (radio);Loading coil
+10,-1900,694,0,Telecommunication;Pauli exclusion principle
+11,-1900,1702,0,Telecommunication;Tensor
+12,-1900,-1899,0,Tape relay;Telecommunication
+13,-1800,1782,0,Ammeter;Telecommunication
+14,-1800,1971,0,Telecommunication;Spice
+15,-200,1822,0,Signal processing;Fourier series
+16,100,1783,0,Telecommunication;Nickel metal hydride
+17,120,1910,0,Telecommunication;Stopband
+18,120,2002,0,Wink pulsing;Telecommunication
+19,121,916,0,Telecommunication;Emergency Locator Transmitter
+20,128,1989,0,Transmitter;Zigbee
+21,1300,1832,0,Zero-dispersion wavelength;Directional antenna
+22,1730,2011,0,Z-transform;Telecommunication
+23,1833,1974,0,Wheatstone bridge;Electronics
+24,1840,1842,0,Power supply;Quality control
+25,1845,1846,0,Power supply;Railgun
+26,1923,1972,0,Zobel network;Receiver (radio)
+27,1969,2020,0,Computer;Relational model
+28,2009,2010,0,Shrinking generator;Counter (digital)
 29,2020,2100,0,Bare particular
-30,-1900,608,1,Semiconductor;Digital circuit
-31,-1900,608,1,Vacuum tube;Receiver (radio)
-32,-1900,101,1,Vacuum tube;Broadcasting
+30,-1900,608,1,Computer;Semiconductor;Receiver (radio);Vacuum tube;Diode;Digital circuit;Electricity;Telecommunication
+31,-1900,608,1,Computer;Semiconductor;Receiver (radio);Vacuum tube;Diode;Digital circuit
+32,-1900,101,1,Vacuum tube;Broadcasting;Telecommunication;Receiver (radio)
 33,-1900,2100,1,Printed circuit board;Electronic amplifier
 34,-1900,2100,1,Modulation;Compact audio cassette
 35,-1900,2100,1,Amplitude modulation;White facsimile transmission
 36,-1900,2100,1,Amateur radio;Radioshack
-37,-1900,-1800,1,Microphone;Video teleconference
+37,-1900,-1800,1,Microphone;Telecommunication;Receiver (radio);Video teleconference
 38,-1900,2100,1,Signal (information theory);Four-wire circuit
 39,-1900,2100,1,Speed of light;Electricity distribution
 40,-1900,2100,1,Speed of light;Maxwell's equations
 41,-1900,2100,1,Copper;Communications system engineering
 42,-1900,2100,1,Electrochemistry;Photoelectric effect
 43,-1900,2100,1,Cable television;Alternating Current
-44,-1900,1907,1,Photon;Light bulb
-45,-1900,1700,1,Photon;Photoelectric effect
+44,-1900,1907,1,Maxwell's equations;Speed of light;Light bulb;Electricity;Photon
+45,-1900,1700,1,Computer;Semiconductor;Photoelectric effect;Receiver (radio);Photon;Vacuum tube;Diode;Digital circuit;Maxwell's equations;Speed of light;Electricity;Telecommunication
 46,-1900,2100,1,Electronic switching system;Semiconductor device
-47,-1900,608,1,Negative resistance;Semiconductor device
+47,-1900,608,1,Semiconductor;Vacuum tube;Diode;Amplifier;Semiconductor device;Negative resistance
 48,-1900,2100,1,Four-wire circuit;Single-frequency signaling
 49,-1899,2100,1,Computer;Negative-acknowledge character
 50,-1899,2100,1,Printed circuit board;Electrical connector
 51,-1899,2100,1,Digital circuit;Analog signal
 52,-1899,2100,1,User (telecommunications);Single-frequency signaling
 53,-1898,2100,1,Intercharacter interval;Start signal
-54,-1800,120,1,Electromagnetic radiation;Signal (information theory)
-55,-1800,1782,1,Electromagnetic radiation;Speed of light
-56,-1800,1975,1,Electromagnetic radiation;Planck's constant
-57,-1800,100,1,Electromagnetic radiation;Remote sensing
-58,-1800,1832,1,Electromagnetic radiation;Alternating Current
+54,-1800,120,1,Electromagnetic radiation;Telecommunication;Receiver (radio);Amplifier;Signal (information theory)
+55,-1800,1782,1,Electromagnetic radiation;Receiver (radio);Vacuum tube;Amplifier;Electrical engineering;Maxwell's equations;Speed of light;Signal (information theory);Electricity;Modulation;Alternating current;Telecommunication
+56,-1800,1975,1,Planck's constant;Computer;Semiconductor;Electromagnetism;Receiver (radio);Electromagnetic radiation;Digital circuit;Electricity;Telecommunication
+57,-1800,100,1,Remote sensing;Electromagnetic radiation;Telecommunication;Receiver (radio)
+58,-1800,1832,1,Electromagnetic radiation;Amplifier;Crystal radio receiver;Modulation;Signal (information theory);Alternating Current
 59,-1800,2100,1,Amateur radio;Wireless
 60,-1800,2100,1,Television;Blu-ray Disc
 61,-1800,2100,1,Television;Optical spectrum
@@ -65,45 +65,45 @@ i,birth,death,dim,nodes
 63,-1800,2100,1,Wireless;Alternating Current
 64,-1800,2100,1,Analog signal;Phone connector (audio)
 65,-1800,2100,1,Carrier system;Time-division multiplexing
-66,-1800,1901,1,Carrier system;Single-frequency signaling
-67,-1800,1782,1,Inductor;Alternating Current
+66,-1800,1901,1,Four-wire circuit;Single-frequency signaling;Carrier system;Television;Telecommunication
+67,-1800,1782,1,Inductor;Receiver (radio);Vacuum tube;Amplifier;Electrical engineering;Signal (information theory);Electricity;Modulation;Telecommunication;Alternating Current
 68,-1800,2100,1,Telemetry;Infrared
-69,-1800,1782,1,Fluorescent lamp;Light bulb
-70,-1800,1782,1,Fluorescent lamp;Alternating Current
+69,-1800,1782,1,Fluorescent lamp;Vacuum tube;Amplifier;Negative resistance;Light bulb;Electricity
+70,-1800,1782,1,Fluorescent lamp;Amplifier;Electrical engineering;Signal (information theory);Negative resistance;Modulation;Telecommunication;Alternating Current
 71,-1799,2100,1,Radiation resistance;Mediumwave
 72,-1799,2100,1,Bit robbing;Carrier system
 73,-1799,2100,1,Frequency-shift keying;Telemetry
 74,-1799,2100,1,Telemetry;Transmitter-studio link
 75,-1798,2100,1,Flux;Electromagnetic radiation and health
 76,-1798,2100,1,Frequency-shift keying;Facsimile converter
-77,-1700,1701,1,Electric charge;Capacitor
-78,-1700,1840,1,Electric charge;Semiconductor device
-79,-1700,1782,1,Electric charge;Alternating Current
+77,-1700,1701,1,Electric charge;Receiver (radio);Electricity;Capacitor;Telecommunication
+78,-1700,1840,1,Electric charge;Computer;Semiconductor;Receiver (radio);Digital circuit;Semiconductor device;Electricity;Telecommunication
+79,-1700,1782,1,Electric charge;Vacuum tube;Amplifier;Electrical engineering;Signal (information theory);Electricity;Modulation;Telecommunication;Alternating Current
 80,-1700,2100,1,Piezoelectricity;Crystal radio receiver
-81,-300,1782,1,Metal;Solenoid
-82,-300,1700,1,Inductor;Solenoid
+81,-300,1782,1,Electromagnetism;Vacuum tube;Crystal radio receiver;Metal;Solenoid;Electricity
+82,-300,1700,1,Electromagnetism;Inductor;Receiver (radio);Solenoid;Electricity;Telecommunication
 83,100,2100,1,Printed circuit board;Video Game Console
-84,100,133,1,Alternating current;Electrical generator
-85,100,1907,1,Transistor radio;Compact audio cassette
-86,100,1980,1,Fm radio;Phase-locked loop
+84,100,133,1,Electric charge;Receiver (radio);Electricity;Capacitor;Alternating current;Electrical generator
+85,100,1907,1,Computer;Semiconductor;Receiver (radio);Vacuum tube;Diode;Digital circuit;Compact audio cassette;Transistor radio
+86,100,1980,1,Computer;Fm radio;Receiver (radio);Phase-locked loop
 87,100,2100,1,Microwave;Negative resistance
 88,100,2100,1,Blu-ray Disc;Video Game Console
-89,100,1940,1,Broadcasting;In-band on-channel
-90,100,1269,1,Solenoid;Electrical generator
+89,100,1940,1,Receiver (radio);Shortwave;Amplitude modulation;Broadcasting;In-band on-channel
+90,100,1269,1,Electricity;Electromagnetism;Electrical generator;Solenoid
 91,100,2100,1,Infrared;Video Game Console
 92,100,2100,1,Slow-scan television;Video teleconference
 93,101,2100,1,Availability;Channel reliability
 94,102,2100,1,Repeater;Four-wire terminating set
 95,103,2100,1,Repeater;Outside plant
-96,108,1975,1,Volt;Ohm (unit)
-97,108,1801,1,Volt;Planck's constant
-98,108,1748,1,Volt;Alternating Current
-99,120,1886,1,Frequency;Phased array
-100,120,300,1,Frequency;Skywave
-101,120,1901,1,Frequency;Image rejection ratio
-102,120,1901,1,Frequency;Image response
+96,108,1975,1,Receiver (radio);Volt;Electricity;Alternating current;Telecommunication;Ohm (unit)
+97,108,1801,1,Planck's constant;Electromagnetism;Electromagnetic radiation;Electricity;Volt
+98,108,1748,1,Electricity;Alternating Current;Volt;Electric charge
+99,120,1886,1,Phased array;Transmitter;Receiver (radio);Frequency
+100,120,300,1,Frequency;Receiver (radio);Amplifier;Skywave;Amateur radio
+101,120,1901,1,Image rejection ratio;Frequency;Receiver (radio);Superheterodyne receiver
+102,120,1901,1,Frequency;Receiver (radio);Superheterodyne receiver;Image response
 103,120,2100,1,Frequency;Single-frequency signaling
-104,120,1748,1,Electric power transmission;Alternating Current
+104,120,1748,1,Electric charge;Receiver (radio);Electric power transmission;Electricity distribution;Electricity;Alternating Current;Alternating current;Telecommunication
 105,121,2100,1,Radio frequency;Infrared
 106,121,2100,1,Frequency;Frequency averaging
 107,121,2100,1,Parabolic antenna;Parabolic microphone
@@ -113,29 +113,29 @@ i,birth,death,dim,nodes
 111,121,2100,1,Handoff;Radio horizon
 112,121,2100,1,Handoff;Radio horizon range
 113,122,2100,1,Mediumwave;Very high frequency
-114,128,1907,1,Vacuum tube;Magnetic core memory
-115,128,1782,1,Electrical engineering;Magnetic core memory
-116,150,1889,1,Frequency;Antenna noise temperature
-117,150,1839,1,Capacitor;Electrolytic capacitor
+114,128,1907,1,Vacuum tube;Semiconductor;Diode;Magnetic core memory
+115,128,1782,1,Vacuum tube;Electricity;Electrical engineering;Magnetic core memory
+116,150,1889,1,Frequency;Antenna noise temperature;Telecommunication;Receiver (radio)
+117,150,1839,1,Amplifier;Capacitor;Frequency;Electrolytic capacitor
 118,150,2100,1,Speed of light;E-layer
 119,150,2100,1,Total internal reflection;E-layer
 120,154,2100,1,Amateur radio;Arrl
-121,154,1960,1,Microwave;Arrl
+121,154,1960,1,Arrl;Amateur radio;Receiver (radio);Microwave
 122,160,2100,1,Modem;Acoustic coupler
 123,160,2100,1,Modem;Modulation
-124,160,1940,1,Modem;Frequency-shift keying
+124,160,1940,1,Telemetry;Receiver (radio);Frequency-shift keying;Modem;Modulation
 125,161,2100,1,Modem;Forward error correction
 126,161,2100,1,Modem;Bandwidth compression
 127,161,2100,1,Signal (information theory);Bandwidth compression
-128,174,300,1,Log-periodic antenna;Very high frequency
-129,189,1269,1,Electromagnetic induction;Inductor
-130,189,1269,1,Electromagnetic induction;Electrical generator
-131,189,1269,1,Electromagnetic induction;Magnetic core memory
-132,220,440,1,Triangle wave;Alternating Current
+128,174,300,1,Radio frequency;Very high frequency;Frequency;Log-periodic antenna
+129,189,1269,1,Inductor;Electromagnetic radiation;Electromagnetism;Electromagnetic induction;Solenoid
+130,189,1269,1,Electromagnetism;Electromagnetic radiation;Electromagnetic induction;Electricity;Electrical generator
+131,189,1269,1,Electromagnetism;Electromagnetic radiation;Electrical engineering;Electromagnetic induction;Electricity;Magnetic core memory
+132,220,440,1,Triangle wave;Modulation;Alternating current;Alternating Current
 133,220,2100,1,Amplitude modulation;Citizens' band radio
 134,220,2100,1,Amateur radio;Citizens' band radio
 135,220,2100,1,Microphone;Citizens' band radio
-136,220,1940,1,Analog signal;Citizens' band radio
+136,220,1940,1,Amplitude modulation;Analog signal;Receiver (radio);Citizens' band radio
 137,220,2100,1,Loading coil;Citizens' band radio
 138,220,2100,1,Electrical length;Citizens' band radio
 139,220,2100,1,Citizens' band radio;Gateway (telecommunications)
@@ -143,44 +143,44 @@ i,birth,death,dim,nodes
 141,220,2100,1,Citizens' band radio;Piezoelectricity
 142,259,2100,1,Synthesizer;Frequency modulation synthesis
 143,262,2100,1,Alternating current;Ntsc
-144,262,1901,1,Amplitude modulation;Ntsc
-145,262,1901,1,Very high frequency;Ntsc
-146,262,1945,1,Cable television;Ntsc
+144,262,1901,1,Receiver (radio);Frequency;Vacuum tube;Amplitude modulation;Ntsc
+145,262,1901,1,Receiver (radio);Vacuum tube;Amplifier;Very high frequency;Ntsc;Radio frequency
+146,262,1945,1,Receiver (radio);Amplifier;Very high frequency;Cable television;Ntsc;Television;Radio frequency;Telecommunication
 147,262,2100,1,Blu-ray Disc;Ntsc
 148,265,2100,1,Diode;Intermodulation distortion
 149,265,2100,1,Radio frequency;Intermodulation distortion
 150,265,2100,1,Amplitude modulation;Intermodulation distortion
 151,265,2100,1,Intermodulation distortion;Superheterodyne receiver
 152,265,2100,1,Intermodulation distortion;Second-order intercept point
-153,300,608,1,Transmitter;Traveling-wave tube
-154,300,1907,1,Digital circuit;Radio
-155,300,1888,1,Parabolic antenna;Ultra high frequency
+153,300,608,1,Computer;Semiconductor;Receiver (radio);Vacuum tube;Diode;Digital circuit;Transmitter;Traveling-wave tube
+154,300,1907,1,Radio;Computer;Digital circuit;Receiver (radio)
+155,300,1888,1,Receiver (radio);Amplifier;Parabolic antenna;Radio frequency;Ultra high frequency
 156,300,2100,1,Photoelectric effect;Tesla patents
-157,301,1832,1,Directional antenna;Parabolic antenna
-158,301,1833,1,Directional antenna;Log-periodic antenna
+157,301,1832,1,Electromagnetic radiation;Mediumwave;Shortwave;Microwave;Parabolic antenna;Modulation;Directional antenna;Alternating Current
+158,301,1833,1,Mediumwave;Shortwave;Transmitter;Crystal radio receiver;Yagi antenna;Modulation;Directional antenna;Log-periodic antenna
 159,301,2100,1,Radio frequency;Combat-net radio
 160,301,2100,1,Shortwave;Radio clock
 161,301,2100,1,Ultra high frequency;Biconical antenna
 162,301,2100,1,Automatic gain control;Light bulb
 163,337,2100,1,Diffraction;Blu-ray Disc
 164,338,2100,1,Ntsc;Knife-edge effect
-165,360,1941,1,Phase (waves);Phased array
-166,360,1888,1,Phase (waves);Log-periodic antenna
+165,360,1941,1,Electromagnetic radiation;Mediumwave;Shortwave;Receiver (radio);Phased array;Frequency;Amplitude modulation;Transmitter;Parabolic antenna;Phase (waves);Modulation;Directional antenna;Alternating Current
+166,360,1888,1,Receiver (radio);Phased array;Transmitter;Parabolic antenna;Phase (waves);Log-periodic antenna;Directional antenna
 167,360,2100,1,Phase (waves);Phase-locked loop
-168,360,1832,1,Phase (waves);Total internal reflection
+168,360,1832,1,Electromagnetic radiation;Mediumwave;Shortwave;Total internal reflection;Microwave;Phase (waves);Log-periodic antenna;Modulation;Directional antenna;Alternating Current
 169,360,2100,1,Phase (waves);E-skip
 170,361,2100,1,Phase (waves);Flywheel effect
 171,361,2100,1,Phase (waves);Grade of service
 172,361,2100,1,Capacitor;Flywheel effect
 173,361,2100,1,Diffraction;Optical path length
-174,440,608,1,Modulation;Waveform
+174,440,608,1,Waveform;Electrical engineering;Signal processing;Modulation;Telecommunication
 175,440,2100,1,Waveform;Synthesizer
 176,470,2100,1,Transmitter;Television reception
-177,470,1970,1,Speed of light;Television reception
+177,470,1970,1,Television reception;Electromagnetic radiation;Electromagnetism;Receiver (radio);Parabolic antenna;Speed of light;Electricity;Telecommunication;Directional antenna
 178,500,2100,1,Electromagnetic induction;D region
-179,500,1960,1,Ionosphere;Fm radio
-180,500,1960,1,Ionosphere;E-skip
-181,500,1832,1,Photon;D region
+179,500,1960,1,Fm radio;Receiver (radio);Shortwave;Ionosphere
+180,500,1960,1,Receiver (radio);Shortwave;Ionosphere;Amateur radio;E-skip
+181,500,1832,1,Electric charge;Electromagnetism;Electromagnetic radiation;Frequency;D region;Electricity;Photon
 182,501,2100,1,Phase (waves);Diurnal phase shift
 183,501,2100,1,Ionosphere;Diurnal phase shift
 184,502,2100,1,Modem;Narrowband modem
@@ -190,17 +190,17 @@ i,birth,death,dim,nodes
 188,600,2100,1,Parabolic antenna;Big ugly dish
 189,600,2100,1,Direct broadcast satellite;Scrambler
 190,608,2100,1,Electronics;Radio Row, Manhattan
-191,609,1975,1,Capacitor;Dielectric
+191,609,1975,1,Capacitor;Electronics;Receiver (radio);Dielectric
 192,609,2100,1,Dielectric;Alternating Current
 193,610,2100,1,Dielectric;Tropospheric wave
-194,694,1887,1,Laser;Total internal reflection
+194,694,1887,1,Total internal reflection;Transmitter;Microwave;Radio;Laser;Signal (information theory)
 195,694,2100,1,Laser;Photolithography
 196,792,2100,1,Electrical engineering;Fresnel reflection
 197,800,2100,1,Handoff;Global system for mobile communications
-198,802,1966,1,Radio frequency;Ieee 802.11
+198,802,1966,1,Receiver (radio);Transmitter;Radio frequency;Modulation;Ieee 802.11
 199,802,2100,1,Microwave;Ieee 802.11
-200,802,1966,1,Forward error correction;Ieee 802.11
-201,802,1940,1,Frequency-shift keying;Quadrature amplitude modulation
+200,802,1966,1,Modem;Forward error correction;Modulation;Ieee 802.11
+201,802,1940,1,Modem;Quadrature amplitude modulation;Modulation;Frequency-shift keying
 202,808,2100,1,Beam divergence;Laser
 203,915,2100,1,Low frequency;Rfid
 204,915,2100,1,High frequency;Rfid
@@ -209,24 +209,24 @@ i,birth,death,dim,nodes
 207,916,2100,1,Rfid;Manchester code
 208,1270,2100,1,Magnetic field;Magnetic flux
 209,1271,2100,1,Gauss (unit);Magnetic flux
-210,1600,1960,1,Ionosphere;Magnetosphere
+210,1600,1960,1,Electromagnetic radiation;Magnetic field;Receiver (radio);Shortwave;Ionosphere;Magnetosphere;Microwave;Amateur radio;Radio frequency
 211,1600,2100,1,Magnetosphere;D region
 212,1645,2100,1,Inverse-square law;Direct broadcast satellite
 213,1645,2100,1,Inverse-square law;Coulomb's law
 214,1672,2100,1,Parabolic antenna;Cassegrain antenna
 215,1700,2100,1,Electron;Pauli exclusion principle
 216,1702,2100,1,Permittivity;Farad
-217,1741,1748,1,Electric motor;Electric power
-218,1741,1840,1,Electric power;Electrical efficiency
+217,1741,1748,1,Receiver (radio);Electronics;Electric power;Electric motor;Electricity;Alternating current
+218,1741,1840,1,Electrical efficiency;Electronics;Electric power;Electric motor
 219,1741,2100,1,Electric power;Common battery
 220,1743,2100,1,Frequency;Steady-state condition
 221,1748,2100,1,Battery (electricity);Digital Audio Tape
 222,1754,2100,1,Rfid;Faraday cage
-223,1781,1798,1,Ohm's law;Negative resistance
-224,1783,1907,1,Switch;Electric current
-225,1783,1941,1,Electric power;Power (physics)
-226,1783,1941,1,Power (physics);Electromagnetic radiation
-227,1783,2020,1,Power (physics);Ohm (unit)
+223,1781,1798,1,Vacuum tube;Amplifier;Ohm's law;Battery (electricity);Negative resistance;Electricity;Volt
+224,1783,1907,1,Vacuum tube;Switch;Electric current;Electronics
+225,1783,1941,1,Electric current;Power (physics);Amplifier;Electric power;Alternating current
+226,1783,1941,1,Electric current;Electromagnetic radiation;Waveform;Frequency;Power (physics);Amplifier
+227,1783,2020,1,Inductor;Electric current;Power (physics);Electronics;Electric power;Battery (electricity);Electronic amplifier;Capacitor;Alternating current;Ohm (unit)
 228,1783,2100,1,Power (physics);White facsimile transmission
 229,1783,2100,1,Magnetosphere;Ring current
 230,1783,2100,1,Earth's magnetic field;Faraday cage
@@ -244,7 +244,7 @@ i,birth,death,dim,nodes
 242,1785,2100,1,Electrode;Spark gap
 243,1785,2100,1,Lightning;Spark gap
 244,1785,2100,1,Push-to-talk operation;Voice-operated switch
-245,1800,1998,1,Arrl;Radioteletype
+245,1800,1998,1,Shortwave;Arrl;Amateur radio;Radio frequency;Radioteletype
 246,1800,2100,1,Radioteletype;Baudot code
 247,1800,2100,1,Electromagnetic spectrum;Broadcasting
 248,1800,2100,1,Electromagnetic spectrum;Voice frequency
@@ -260,7 +260,7 @@ i,birth,death,dim,nodes
 258,1810,2100,1,Frequency;Pulse-address multiple access
 259,1810,2100,1,Automatic gain control;Release time (telecommunication)
 260,1820,2100,1,Electric current;Multimeter
-261,1820,1998,1,Morse code;Arrl
+261,1820,1998,1,Shortwave;Arrl;Amateur radio;Morse code;Radio frequency
 262,1820,2100,1,Ohm (unit);Multimeter
 263,1821,2100,1,Amateur radio;Q code
 264,1821,2100,1,Electrical engineering;Voltmeter
@@ -270,7 +270,7 @@ i,birth,death,dim,nodes
 268,1826,2100,1,Volt;Rlc circuit
 269,1826,2100,1,Farad;Rlc circuit
 270,1827,2100,1,Harmonic oscillator;Rlc circuit
-271,1830,1975,1,Transformer;Electric power transmission
+271,1830,1975,1,Electric current;Electric power transmission;Electromagnetic induction;Electronics;Electric power;Transformer;Battery (electricity);Electric motor;Electron;Electrical generator
 272,1830,2100,1,Transformer;Crystal radio receiver
 273,1830,2100,1,Transformer;Four-wire terminating set
 274,1831,2100,1,Standing wave;Television reception
@@ -283,11 +283,11 @@ i,birth,death,dim,nodes
 281,1838,2100,1,Direct current;Fuel cell
 282,1839,2100,1,Electromagnetic radiation;Solar cell
 283,1840,2100,1,Printed circuit board;Electrical insulation
-284,1840,1887,1,Radio frequency;Electrical insulation
-285,1840,1888,1,Radio;Maximum power theorem
-286,1840,2020,1,Ohm's law;Maximum power theorem
+284,1840,1887,1,Electrical insulation;Receiver (radio);Transmitter;Electric field;Radio frequency;Electron
+285,1840,1888,1,Maximum power theorem;Receiver (radio);Transmitter;Electric power;Radio
+286,1840,2020,1,Semiconductor;Electric current;Maximum power theorem;Receiver (radio);Electric power;Ohm's law;Crystal radio receiver;Electron
 287,1840,2100,1,Optical fiber;Total internal reflection
-288,1840,1890,1,Optical fiber;Communications system engineering
+288,1840,1890,1,Electromagnetic radiation;Communications system engineering;Receiver (radio);Wavelength;Total internal reflection;Transmitter;Microwave;Optical fiber
 289,1840,2100,1,Optical fiber;Four-wire circuit
 290,1840,2100,1,Optical fiber;Zero-dispersion wavelength
 291,1840,2100,1,Electrical insulation;Broadcasting
@@ -301,28 +301,28 @@ i,birth,death,dim,nodes
 299,1846,2100,1,Frequency;Electronic mixer
 300,1846,2100,1,Intermodulation distortion;Electronic mixer
 301,1846,2100,1,Kirchhoff's circuit laws;Electronic mixer
-302,1849,1975,1,Speed of light;Field (physics)
+302,1849,1975,1,Electromagnetic radiation;Field (physics);Receiver (radio);Transmitter;Radio;Electric field;Speed of light;Telecommunication
 303,1849,2100,1,Tensor;Field (physics)
 304,1850,2100,1,Electrodynamics;Wave
-305,1850,1888,1,Electric field;Field strength
+305,1850,1888,1,Receiver (radio);Amplifier;Field strength;Electric field;Radio frequency;Electron
 306,1850,2100,1,Standing wave;Wave
 307,1850,2100,1,Loading coil;Oliver Heaviside
-308,1850,1975,1,Diffraction;Wave
+308,1850,1975,1,Electromagnetic radiation;Diffraction;Microwave;Radio;Wave;Telecommunication
 309,1850,2100,1,Flux;Oliver Heaviside
-310,1850,1975,1,Wave;Field (physics)
+310,1850,1975,1,Field (physics);Receiver (radio);Transmitter;Microwave;Radio;Electric field;Wave
 311,1850,2100,1,Oliver Heaviside;D region
 312,1850,2100,1,Oliver Heaviside;E-layer
 313,1850,2100,1,Oliver Heaviside;Alternating Current
 314,1851,2100,1,Phase (waves);Coherence (physics)
 315,1851,2100,1,Field strength;Electromagnetic environment
-316,1851,1953,1,Diffraction;Coherence (physics)
+316,1851,1953,1,Wavelength;Diffraction;Phase (waves);Coherence (physics)
 317,1851,2100,1,Volt;Electromagnetic environment
 318,1851,2100,1,Electromagnetic environment;Electromagnetic pulse
 319,1852,2100,1,Coherence length;Fresnel reflection
-320,1855,1890,1,Transmission line;Optical fiber
-321,1855,2002,1,Transmission line;Wave
-322,1856,1975,1,Resistor;Ohm (unit)
-323,1857,1962,1,Coupling (electronics);Optical fiber
+320,1855,1890,1,Communications system engineering;Transmitter;Optical fiber;Transmission line
+321,1855,2002,1,Electromagnetic radiation;Frequency;Transmission line;Maxwell's equations;Wave
+322,1856,1975,1,Electronics;Battery (electricity);Resistor;Alternating current;Ohm (unit)
+323,1857,1962,1,Optical fiber;Communications system engineering;Coupling (electronics);Telecommunication
 324,1857,2100,1,Alternating current;Root mean square
 325,1857,2100,1,Intermodulation distortion;Root mean square
 326,1857,2100,1,Electrical network;Thévenin's theorem
@@ -332,7 +332,7 @@ i,birth,death,dim,nodes
 330,1858,2100,1,Frequency;Equivalent noise resistance
 331,1858,2100,1,Electrical network;Series and parallel circuits
 332,1858,2100,1,Wavelength;Spectral width
-333,1858,1893,1,Standing wave;Resonance
+333,1858,1893,1,Wavelength;Resonance;Frequency;Standing wave
 334,1858,2100,1,Root mean square;Spectral width
 335,1858,2100,1,Noise temperature;Equivalent noise resistance
 336,1858,2100,1,Electrical insulation;Resonance
@@ -341,19 +341,19 @@ i,birth,death,dim,nodes
 339,1865,2100,1,Electronic amplifier;Telegraphy
 340,1865,2100,1,Baudot code;Telegraphy
 341,1865,2100,1,Telegraphy;Time-division multiplexing
-342,1870,1901,1,Fm radio;Multiplexing
-343,1870,1901,1,Carrier system;Multiplexing
+342,1870,1901,1,Fm radio;Modulation;Telecommunication;Multiplexing
+343,1870,1901,1,Television;Carrier system;Telecommunication;Multiplexing
 344,1870,2100,1,Multiplexing;Blu-ray Disc
 345,1870,2100,1,Multiplexing;Input/output
 346,1870,2100,1,Multiplexing;Multiplexer
 347,1878,2100,1,Isotropic antenna;Maxwell's equations
 348,1880,2100,1,Radio frequency;Telegrapher's equations
 349,1880,2100,1,Coaxial cable;Carrier system
-350,1880,1890,1,Coaxial cable;Cable modem
-351,1880,1881,1,Coaxial cable;Communications system engineering
+350,1880,1890,1,Communications system engineering;Transmission line;Video teleconference;Transmitter;Radio;Cable modem;Coaxial cable
+351,1880,1881,1,Communications system engineering;Video teleconference;Radio;Cable modem;Coaxial cable
 352,1880,2100,1,Coaxial cable;Tesla patents
 353,1880,2100,1,Electronic amplifier;Twisted pair
-354,1880,1962,1,Twisted pair;Communications system engineering
+354,1880,1962,1,Twisted pair;Electromagnetic radiation;Communications system engineering;Telecommunication
 355,1880,2100,1,Piezoelectricity;Quartz clock
 356,1880,2100,1,Oliver Heaviside;Telegrapher's equations
 357,1881,2100,1,Optical fiber;Time-domain reflectometer
@@ -368,16 +368,16 @@ i,birth,death,dim,nodes
 366,1882,2100,1,Circulator;Microwave
 367,1882,2100,1,Circulator;International Electrotechnical Commission
 368,1885,2100,1,Transmission line;Permeability (electromagnetism)
-369,1885,1973,1,Metal;Doping (Semiconductors)
+369,1885,1973,1,Electric current;Semiconductor;Doping (Semiconductors);Metal;Electron
 370,1885,2100,1,Photolithography;Doping (Semiconductors)
 371,1885,2100,1,Oliver Heaviside;Permeability (electromagnetism)
 372,1885,2100,1,Permeability (electromagnetism);Fresnel reflection
 373,1885,2100,1,Doping (Semiconductors);Thermistor
-374,1886,1893,1,Radar;Inverse-square law
+374,1886,1893,1,Radar;Direct broadcast satellite;Receiver (radio);Frequency;Transmission line;Transmitter;Microwave;Inverse-square law;Electron
 375,1886,2100,1,Radar;Doping (Semiconductors)
 376,1887,2100,1,Polarization (waves);Secam
-377,1887,1947,1,Polarization (waves);Isotropic antenna
-378,1887,1960,1,Polarization (waves);E-skip
+377,1887,1947,1,Transmission line;Polarization (waves);Isotropic antenna;Transmitter;Radio;Dipole antenna
+378,1887,1960,1,Radar;Receiver (radio);Polarization (waves);Amateur radio;E-skip
 379,1887,2100,1,Polarization (waves);Fresnel equations
 380,1887,2100,1,Wave;Corner reflector
 381,1888,2100,1,Antenna (electronics);Loading coil
@@ -392,12 +392,12 @@ i,birth,death,dim,nodes
 390,1889,2100,1,Frequency;Effective height
 391,1889,2100,1,Antenna (electronics);Effective height
 392,1890,2100,1,Amplifier;Effective input noise temperature
-393,1890,1930,1,Relay;Cathode ray tube
+393,1890,1930,1,Vacuum tube;Cathode ray tube;Relay;Electronics
 394,1890,2100,1,Printed circuit board;Cathode ray tube
-395,1890,1975,1,Waveform;Cathode ray tube
-396,1890,1919,1,Television;Cathode ray tube
+395,1890,1975,1,Cathode ray tube;Waveform;Electron;Electronics
+396,1890,1919,1,Vacuum tube;Cathode ray tube;Television;Receiver (radio)
 397,1890,2100,1,Pirate radio;Fm radio
-398,1890,1919,1,Radar;Cathode ray tube
+398,1890,1919,1,Vacuum tube;Cathode ray tube;Radar;Receiver (radio)
 399,1890,2100,1,Noise temperature;Effective input noise temperature
 400,1890,2100,1,International Electrotechnical Commission;Waveguide antenna
 401,1890,2100,1,Negative resistance;Hysteresis
@@ -406,10 +406,10 @@ i,birth,death,dim,nodes
 404,1891,2100,1,High frequency;Tesla coil
 405,1891,2100,1,Tesla coil;Tesla patents
 406,1893,2100,1,Feedback;Schumann resonance
-407,1893,1960,1,Speed of light;Schumann resonance
-408,1893,1973,1,Lightning;Schumann resonance
+407,1893,1960,1,Electromagnetic radiation;Frequency;Wavelength;Schumann resonance;Speed of light
+408,1893,1973,1,Electric field;Lightning;Electron;Schumann resonance
 409,1894,2100,1,Dipole antenna;Standing wave ratio
-410,1894,1975,1,Current (electricity);Standing wave ratio
+410,1894,1975,1,Standing wave ratio;Electric current;Impedance matching;Electronics;Battery (electricity);Current (electricity);Alternating Current
 411,1894,2100,1,Waveguide;Filled cable
 412,1894,2100,1,Dielectric;Filled cable
 413,1894,2100,1,Standing wave ratio;Citizens' band radio
@@ -426,7 +426,7 @@ i,birth,death,dim,nodes
 424,1900,2100,1,Optical fiber;Demodulator
 425,1900,2100,1,Coaxial cable;Demodulator
 426,1900,2100,1,Demodulator;Frame synchronization
-427,1901,1984,1,Vacuum tube;Heterodyne
+427,1901,1984,1,Receiver (radio);Frequency;Vacuum tube;Electronics;Signal processing;Heterodyne;Radio;Telecommunication
 428,1901,2100,1,Transmission (telecommunications);Voice frequency
 429,1901,2100,1,Transmission (telecommunications);Tape relay
 430,1902,2100,1,Computer;Enhanced service
@@ -434,7 +434,7 @@ i,birth,death,dim,nodes
 432,1902,2100,1,Amplitude modulation;Carrier shift
 433,1902,2100,1,Frequency;Data compaction
 434,1902,2100,1,Transmission line;Line code
-435,1902,1985,1,Transmission (telecommunications);Double-sideband suppressed-carrier transmission
+435,1902,1985,1,Transmission (telecommunications);Receiver (radio);Amplitude modulation;Double-sideband suppressed-carrier transmission;Modulation
 436,1902,2100,1,Transmission (telecommunications);Frequency-exchange signaling
 437,1902,2100,1,Transmission (telecommunications);Surface wave
 438,1902,2100,1,Automatic switching system;Information transfer
@@ -457,7 +457,7 @@ i,birth,death,dim,nodes
 455,1910,2100,1,Digital circuit;Electronic filter
 456,1910,2100,1,Intermodulation distortion;Electronic filter
 457,1910,2100,1,Electronic filter;Composite image filter
-458,1910,2019,1,Electronic filter;Lumped element model
+458,1910,2019,1,Lumped element model;Inductor;Electronic filter;Electrical network
 459,1910,2100,1,Electronic filter;Electrolytic capacitor
 460,1910,2100,1,Electronic filter;Television reception
 461,1910,2100,1,Heat sink;Magnetron
@@ -482,7 +482,7 @@ i,birth,death,dim,nodes
 480,1920,2100,1,Resistor;Electronic color code
 481,1920,2100,1,Resistor;Resistor color code
 482,1920,2100,1,Transmitter;Microwave oven
-483,1920,1960,1,Central processing unit;Very-large-scale integration
+483,1920,1960,1,Semiconductor;Computer;Central processing unit;Electronics;Very-large-scale integration
 484,1920,2100,1,Power (physics);Resistor color code
 485,1920,2100,1,Amplitude modulation;Radio range
 486,1920,2100,1,Morse code;Radio range
@@ -490,22 +490,22 @@ i,birth,death,dim,nodes
 488,1920,2100,1,Very high frequency;Radio range
 489,1920,2100,1,Multiplexing;M-derived filter
 490,1920,2100,1,Piezoelectricity;Ferroelectric effect
-491,1920,1960,1,Photolithography;Very-large-scale integration
+491,1920,1960,1,Very-large-scale integration;Semiconductor;Photolithography;Doping (Semiconductors)
 492,1920,2100,1,Rfid;Ferroelectric effect
 493,1920,2100,1,Microwave oven;Dipole
 494,1920,2100,1,Ferroelectric effect;Pyroelectricity
 495,1921,2100,1,Tantalum;Transition metal
-496,1924,1986,1,Decibel;Intermodulation distortion
-497,1924,2020,1,Decibel;Antenna (electronics)
+496,1924,1986,1,Communications system engineering;Decibel;Transmitter;Electronics;Radio frequency;Intermodulation distortion;Telecommunication
+497,1924,2020,1,Receiver (radio);Decibel;Antenna (electronics);Electronics;Electronic amplifier
 498,1924,2100,1,Decibel;Stopband
 499,1924,2100,1,Decibel;Volt
 500,1924,2100,1,Decibel;Ieee 802.11
 501,1924,2100,1,Decibel;Citizens' band radio
-502,1924,1925,1,Decibel;Yagi antenna
+502,1924,1925,1,Antenna (electronics);Yagi antenna;Directional antenna;Decibel
 503,1924,2100,1,Decibel;Crystal filter
-504,1924,1926,1,Decibel;Isotropic antenna
+504,1924,1926,1,Antenna (electronics);Isotropic antenna;Decibel;Polarization (waves)
 505,1924,2100,1,Decibel;Frequency modulation synthesis
-506,1924,1926,1,Decibel;Horn (telecommunications)
+506,1924,1926,1,Decibel;Antenna (electronics);Horn (telecommunications);Parabolic antenna;Directional antenna;Dipole antenna
 507,1924,2100,1,Decibel;Image rejection ratio
 508,1925,2100,1,Main lobe;Power (physics)
 509,1925,2100,1,Main lobe;Microphone
@@ -538,7 +538,7 @@ i,birth,death,dim,nodes
 536,1926,2100,1,Frequency;Norton's theorem
 537,1926,2100,1,Series and parallel circuits;Thermal noise
 538,1926,2100,1,Ieee 802.11;Thermal noise
-539,1926,1966,1,Planck's constant;Thermal noise
+539,1926,1966,1,Planck's constant;Receiver (radio);Frequency;Transmitter;Ultra high frequency;Thermal noise;Ntsc;Radio frequency;Modulation;Ieee 802.11
 540,1926,2100,1,Thermal noise;Shot noise
 541,1926,2100,1,Four-wire terminating set;Return loss
 542,1927,2100,1,Resistor;Varistor
@@ -546,12 +546,12 @@ i,birth,death,dim,nodes
 544,1927,2100,1,Radiation pattern;Antenna boresight
 545,1927,2100,1,Antenna gain;Front-to-back ratio
 546,1927,2100,1,Directional antenna;Interference (communication)
-547,1927,1966,1,Interference (communication);Intermodulation distortion
+547,1927,1966,1,Transmitter;Electronics;Interference (communication);Radio frequency;Intermodulation distortion
 548,1927,2100,1,Interference (communication);Rfid
 549,1927,2100,1,Interference (communication);Thermal noise
 550,1927,2100,1,Aliasing;Sidelobe
 551,1927,2100,1,Electric current;Front-to-back ratio
-552,1927,1960,1,Radio frequency;Effective radiated power
+552,1927,1960,1,Broadcasting;Effective radiated power;Amateur radio;Radio frequency;Telecommunication
 553,1927,2100,1,Shortwave;Reflective array antenna
 554,1927,2100,1,Current (electricity);Analysis of resistive circuits
 555,1927,2100,1,Analysis of resistive circuits;Superposition theorem
@@ -565,7 +565,7 @@ i,birth,death,dim,nodes
 563,1928,2100,1,Radiation pattern;Image antenna
 564,1928,2100,1,Antenna gain;Aperture-to-medium coupling loss
 565,1928,2100,1,Interference (communication);Blanketing
-566,1928,2012,1,Aliasing;Distortion
+566,1928,2012,1,Decibel;Electronics;Signal processing;Aliasing;Distortion;Intermodulation distortion
 567,1928,2100,1,Electrical network;Common-mode interference
 568,1928,2100,1,Dynamic range;Blanketing
 569,1928,2100,1,Ground (electricity);Common-mode interference
@@ -593,14 +593,14 @@ i,birth,death,dim,nodes
 591,1929,2100,1,Mu-law algorithm;Signal compression (disambiguation)
 592,1930,2100,1,Printed circuit board;Point-to-point construction
 593,1930,2100,1,Flip-flop (electronics);Random access memory
-594,1930,1960,1,Central processing unit;Random access memory
+594,1930,1960,1,Computer;Central processing unit;Electronics;Transistor;Random access memory
 595,1930,2100,1,Access time;Random access memory
 596,1930,2100,1,Hertz;Stopband
 597,1930,2100,1,Hertz;Citizens' band radio
 598,1930,2100,1,Hertz;Electrical generator
-599,1930,2019,1,Hertz;Rlc circuit
+599,1930,2019,1,Electrical network;Rlc circuit;Hertz;Thermal noise;Series and parallel circuits;Resistor;Capacitor
 600,1930,2100,1,Hertz;Radio range
-601,1930,1966,1,Hertz;Alternating Current
+601,1930,1966,1,Receiver (radio);Transmitter;Ultra high frequency;Hertz;Radio frequency;Modulation;Alternating Current
 602,1930,2100,1,Copper;Point-to-point construction
 603,1930,2100,1,Frequency standard;Principal clock
 604,1930,2100,1,Metal;Point-to-point construction
@@ -609,9 +609,9 @@ i,birth,death,dim,nodes
 607,1931,2100,1,Decibel;Carrier-to-receiver noise density
 608,1931,2100,1,Power (physics);Carrier-to-receiver noise density
 609,1931,2100,1,Power (physics);Zero dBm transmission level point
-610,1931,2020,1,Modulation;Baseband
+610,1931,2020,1,Receiver (radio);Decibel;Amplitude modulation;Antenna (electronics);Signal processing;Baseband;Hertz;Ntsc;Modulation;Intermodulation distortion;Alternating Current
 611,1931,2100,1,Amplitude modulation;Product detector
-612,1931,1975,1,Frequency;Skin effect
+612,1931,1975,1,Electric current;Frequency;Electronics;Battery (electricity);Hertz;Skin effect;Electron;Alternating current;Alternating Current
 613,1931,2100,1,Frequency;Transmission level point
 614,1931,2100,1,Frequency;Zero dBm transmission level point
 615,1931,2100,1,Hertz;Carrier-to-receiver noise density
@@ -626,8 +626,8 @@ i,birth,death,dim,nodes
 624,1931,2100,1,Noise-equivalent power;Responsivity
 625,1933,2100,1,A-weighting;International Electrotechnical Commission
 626,1933,2100,1,Radioteletype;Collins Radio
-627,1934,1965,1,Frequency;Noise weighting
-628,1934,2020,1,A-weighting;Reference noise
+627,1934,1965,1,Noise weighting;Noise power;Telecommunication;Frequency
+628,1934,2020,1,Reference noise;Decibel;A-weighting;Thermal noise;Interference (communication);Noise figure;Telecommunication
 629,1934,2100,1,A-weighting;Noise weighting
 630,1934,2100,1,Synthesizer;Ring modulation
 631,1935,2100,1,Forward error correction;Code division multiple access
@@ -660,7 +660,7 @@ i,birth,death,dim,nodes
 658,1945,2100,1,Adder (electronics);Arithmetic and logical unit
 659,1945,2100,1,Combinational logic;Arithmetic and logical unit
 660,1945,2100,1,Insertion loss;Vačkář oscillator
-661,1946,1947,1,Radio frequency;Transponder
+661,1946,1947,1,Shortwave;Broadcasting;Frequency modulation;Radio frequency;Telecommunication;Transponder
 662,1946,2100,1,Transceiver;Transponder
 663,1946,2100,1,Optical fiber;Frequency-division multiplexing
 664,1946,2100,1,Wavelength;Frequency-division multiplexing
@@ -697,7 +697,7 @@ i,birth,death,dim,nodes
 695,1950,2100,1,Radar;Barrage jamming
 696,1950,2100,1,Coaxial cable;Threaded Neill-Concelman connector
 697,1950,2100,1,Standing wave ratio;Threaded Neill-Concelman connector
-698,1950,1985,1,Phase-locked loop;Costas loop
+698,1950,1985,1,Receiver (radio);Costas loop;Radio;Modulation;Phase-locked loop
 699,1950,2100,1,Rfid;Covert listening device
 700,1951,2100,1,Signal (information theory);Video
 701,1951,2100,1,Parity bit;Hamming code
@@ -712,7 +712,7 @@ i,birth,death,dim,nodes
 710,1952,2100,1,Parity bit;Handshaking
 711,1952,2100,1,Video;Squelch
 712,1952,2100,1,Carbon nanotube;Nanotechnology
-713,1952,1973,1,Carbon nanotube;Metal
+713,1952,1973,1,Electric current;Semiconductor;Metal;Carbon nanotube;Electron
 714,1952,2100,1,Carbon nanotube;Random access memory
 715,1952,2100,1,Circuit switching;One-way trunk
 716,1953,2100,1,Rca;Video cassette recorder
@@ -735,19 +735,19 @@ i,birth,death,dim,nodes
 733,1956,2100,1,Magnetic field;Primary time standard
 734,1956,2100,1,Caesium standard;Primary time standard
 735,1958,2100,1,Laser;Q-switching
-736,1959,1969,1,Cmos;Rca
-737,1959,1960,1,Cmos;555 timer IC
+736,1959,1969,1,Vacuum tube;Rca;Transistor;Cmos
+737,1959,1960,1,Cmos;Semiconductor;Bipolar junction transistor;555 timer IC
 738,1959,2100,1,Cmos;Radio frequency
 739,1959,2100,1,Cmos;Transceiver
 740,1959,2100,1,Cmos;Reflections of signals on conducting lines
-741,1959,1960,1,Arithmetic and logical unit;Moore's law
+741,1959,1960,1,Arithmetic and logical unit;Computer;Central processing unit;Electronics;Moore's law;Transistor
 742,1960,2100,1,Surface-mount technology;Printed circuit board
 743,1960,2100,1,Surface-mount technology;Capacitor
 744,1960,2100,1,Integrated circuit;Rfid
 745,1960,2100,1,Integrated circuit;Video Game
 746,1960,2100,1,Integrated circuit;Zig-zag in-line package
 747,1960,2100,1,Receiver (radio);Spectrum analyzer
-748,1960,2003,1,Frequency;Radio jamming
+748,1960,2003,1,Frequency;Receiver (radio);Radio jamming;Modulation;Telecommunication
 749,1960,2100,1,Hertz;Pulse-width modulation
 750,1960,2100,1,Television;Teletext
 751,1960,2100,1,Shortwave;Switched-mode power supply
@@ -758,7 +758,7 @@ i,birth,death,dim,nodes
 756,1960,2100,1,Pulse-width modulation;Volt
 757,1960,2100,1,Rs-232;Global Positioning System
 758,1960,2100,1,Rs-232;Slew rate
-759,1960,2011,1,Cable television;Radio jamming
+759,1960,2011,1,Television;Radio jamming;Cable television;Telecommunication
 760,1960,2100,1,Ntsc;Teletext
 761,1961,2100,1,Signal processing;Critical frequency
 762,1961,2100,1,Integrated circuit;Molecular electronics
@@ -777,7 +777,7 @@ i,birth,death,dim,nodes
 775,1961,2100,1,Stop signal;Asynchronous start-stop
 776,1961,2100,1,Stop signal;Start-stop transmission
 777,1961,2100,1,Transponder;Microwave auditory effect
-778,1961,1975,1,Electron hole;Solar cell
+778,1961,1975,1,Semiconductor;Solar cell;Electronics;Electron;Electron hole
 779,1961,2100,1,Chirp;Spread spectrum
 780,1961,2100,1,Spread spectrum;Code division multiple access
 781,1961,2100,1,Pseudorandom noise;Synthesizer
@@ -801,7 +801,7 @@ i,birth,death,dim,nodes
 799,1962,2100,1,Clock signal;Rs-232
 800,1962,2100,1,Copper;Pick up (music technology)
 801,1962,2100,1,Attenuation;Fading
-802,1962,1973,1,Transmission medium;Electron hole
+802,1962,1973,1,Transmission medium;Semiconductor;Electron;Electron hole
 803,1962,2100,1,Fading;D region
 804,1962,2100,1,Piezoelectricity;Pick up (music technology)
 805,1962,2100,1,Photodiode;Current-to-voltage converter
@@ -811,7 +811,7 @@ i,birth,death,dim,nodes
 809,1962,2100,1,Resonance;Pick up (music technology)
 810,1962,2100,1,Direct-sequence spread spectrum;Pseudorandom noise
 811,1963,2100,1,Switch;Capture effect
-812,1963,1964,1,Integrated circuit;7400 series
+812,1963,1964,1,Integrated circuit;Printed circuit board;7400 series;Zig-zag in-line package;Surface-mount technology
 813,1963,2100,1,Electric motor;Incidental radiator
 814,1963,2100,1,Transformer;Incidental radiator
 815,1963,2100,1,7400 series;Power supply
@@ -823,7 +823,7 @@ i,birth,death,dim,nodes
 821,1963,2100,1,Microphone;Space diversity
 822,1963,2100,1,Polarization (waves);Space diversity
 823,1963,2100,1,Field strength;Fading distribution
-824,1963,1966,1,Multipath propagation;Space diversity
+824,1963,1966,1,Fading;Receiver (radio);Multipath propagation;Transmitter;Space diversity
 825,1963,2100,1,Multipath propagation;Single frequency networks
 826,1963,2100,1,Aperture (antenna);Path loss
 827,1963,2100,1,Clock signal;Incidental radiator
@@ -859,12 +859,12 @@ i,birth,death,dim,nodes
 857,1964,2100,1,Path loss;Free-space loss
 858,1964,2100,1,Path loss;Low noise amplifier
 859,1964,2100,1,Path loss;Propagation path obstruction
-860,1964,2020,1,Noise figure;Low noise amplifier
+860,1964,2020,1,Receiver (radio);Decibel;Antenna (electronics);Noise figure;Low noise amplifier
 861,1964,2100,1,Low noise amplifier;Shot noise
 862,1965,2100,1,Integrated circuit;Ball grid array
 863,1965,2100,1,Transformer;Galvanic isolation
 864,1965,2100,1,Dual in-line package;Galvanic isolation
-865,1965,2020,1,Decibel;Sensitivity (electronics)
+865,1965,2020,1,Antenna (electronics);Sensitivity (electronics);Receiver (radio);Decibel
 866,1965,2100,1,Modem;Concentrator
 867,1965,2100,1,Communications system;Crosstalk
 868,1965,2100,1,Communications system;Sensitivity (electronics)
@@ -891,7 +891,7 @@ i,birth,death,dim,nodes
 889,1965,2100,1,Video;Tactical communications system
 890,1965,2100,1,Data link;Physical layer
 891,1965,2100,1,Data link;Dispersion-limited operation
-892,1965,1990,1,Ieee 802.11;Physical layer
+892,1965,1990,1,Physical layer;Transmission medium;Modulation;Telecommunication;Ieee 802.11
 893,1965,2100,1,Carson bandwidth rule;Frequency deviation
 894,1965,2100,1,Circuit restoration;Systems control
 895,1965,2100,1,Manchester code;Galvanic isolation
@@ -907,7 +907,7 @@ i,birth,death,dim,nodes
 905,1966,2100,1,Copper;Orthogonal frequency division modulation
 906,1966,2100,1,Asymmetric Digital Subscriber Line;Attenuation
 907,1966,2100,1,Asymmetric Digital Subscriber Line;Video teleconference
-908,1966,1990,1,Frequency-division multiplexing;Orthogonal frequency division modulation
+908,1966,1990,1,Telecommunication;Communications satellite;Modulation;Frequency-division multiplexing;Orthogonal frequency division modulation
 909,1966,2100,1,Repeater;Frequency frogging
 910,1966,2100,1,Circuit switching;Virtual circuit
 911,1966,2100,1,Shannon limit;Orthogonal frequency division modulation
@@ -935,7 +935,7 @@ i,birth,death,dim,nodes
 933,1969,2100,1,Frequency-division multiplexing;Intensity modulation
 934,1969,2100,1,Radio jamming;Wireless network
 935,1969,2100,1,Wireless network;Orthogonal frequency division modulation
-936,1970,1984,1,Amplifier;Software-defined radio
+936,1970,1984,1,Receiver (radio);Amplifier;Electronics;Signal processing;Radio;Software-defined radio;Telecommunication
 937,1970,2100,1,Breadboard;Veroboard
 938,1970,2100,1,Electric charge;Eeprom
 939,1970,2100,1,Omnidirectional antenna;Wireless network
@@ -949,18 +949,18 @@ i,birth,death,dim,nodes
 947,1971,2100,1,Radiation pattern;Collinear antenna array
 948,1971,2100,1,Shortwave;Automatic sounding
 949,1971,2100,1,Radio;Stressed environment
-950,1971,1973,1,Electronic amplifier;Siemens (unit)
+950,1971,1973,1,Siemens (unit);Electric current;Receiver (radio);Electronic amplifier;Ampere;Alternating current;Ohm (unit)
 951,1971,2100,1,Transmission medium;Stressed environment
 952,1971,2100,1,Automatic link establishment;Automatic sounding
 953,1971,2100,1,Automatic link establishment;Stressed environment
 954,1971,2100,1,Automatic sounding;Availability
 955,1971,2100,1,Spread spectrum;Open spectrum
-956,1972,1973,1,Electrical impedance;Citizens' band radio
-957,1972,2020,1,Electrical impedance;Thermal noise
+956,1972,1973,1,Standing wave ratio;Electrical impedance;Antenna (electronics);Impedance matching;Citizens' band radio
+957,1972,2020,1,Semiconductor;Receiver (radio);Electrical impedance;Electronics;Crystal radio receiver;Thermal noise;Resistor;Electron
 958,1972,2100,1,Electrical impedance;Gyrator
 959,1973,2100,1,Transformer;Balanced line
-960,1973,1975,1,Resistor;Electrical conductivity
-961,1973,2020,1,Resistor;Electrical conduction
+960,1973,1975,1,Electrical conductivity;Electron;Electronics;Resistor
+961,1973,2020,1,Resistor;Semiconductor;Electrical conduction;Electrical conductivity
 962,1973,2100,1,Power (physics);Bridging loss
 963,1973,2100,1,Direct current;Repeating coil
 964,1973,2100,1,Frequency;Bridging loss
@@ -978,7 +978,7 @@ i,birth,death,dim,nodes
 976,1973,2100,1,Repeating coil;Voice frequency
 977,1973,2100,1,Short circuit;Fuse (electrical)
 978,1973,2100,1,Citizens' band radio;Frequency counter
-979,1973,2020,1,Electrical conduction;Skin effect
+979,1973,2020,1,Skin effect;Semiconductor;Electrical conduction;Electrical conductivity
 980,1974,2100,1,Electricity;Circuit breaker
 981,1974,2100,1,Resistor;Phantom loop
 982,1974,2100,1,Electric power;Demand load
@@ -996,21 +996,21 @@ i,birth,death,dim,nodes
 994,1974,2100,1,Loading coil;Phantom loop
 995,1974,2100,1,Loading coil;Primary line constants
 996,1974,2100,1,Characteristic impedance;Primary line constants
-997,1974,2002,1,Electrical conductivity;Ground constants
+997,1974,2002,1,Electromagnetic radiation;Frequency;Electric field;Ground constants;Electrical conductivity;Permittivity
 998,1974,2100,1,Copper;Primary line constants
 999,1974,2100,1,Balance return loss;Hybrid coil
 1000,1974,2100,1,Twisted pair;Primary line constants
 1001,1974,2100,1,Electrical load;Long-term stability
 1002,1974,2100,1,Short circuit;Electrostatic discharge
 1003,1974,2100,1,Carrier system;Phantom loop
-1004,1974,1998,1,Bnc connector;Composite video
+1004,1974,1998,1,Rca jack;Composite video;Coaxial cable;Bnc connector
 1005,1974,2100,1,Electrostatic discharge;Tether propulsion
 1006,1974,2100,1,Compact audio cassette;Flutter (electronics and communication)
 1007,1974,2100,1,Drift (telecommunication);Long-term stability
 1008,1974,2100,1,Ground constants;Surface wave
 1009,1975,2100,1,Transformer;Hybrid circuit
 1010,1975,2100,1,Resistor;Hybrid circuit
-1011,1975,2020,1,Resistor;Light-dependent resistor
+1011,1975,2020,1,Resistor;Semiconductor;Light-dependent resistor;Electrical conductivity
 1012,1975,2100,1,Printed circuit board;Hybrid circuit
 1013,1975,2100,1,Printed circuit board;Planar array
 1014,1975,2100,1,Decibel;Hybrid balance
@@ -1037,8 +1037,8 @@ i,birth,death,dim,nodes
 1035,1977,2100,1,Digital signal processing;Digital signal processor
 1036,1977,2100,1,Digital signal processing;Dual-tone multi-frequency
 1037,1978,2100,1,Signal (information theory);Discrete signal
-1038,1978,2012,1,Sampling frequency;Capacitor
-1039,1978,2012,1,Sampling frequency;Jitter
+1038,1978,2012,1,Decibel;Electronics;Sampling frequency;Resistor;Capacitor
+1039,1978,2012,1,Jitter;Electronics;Sampling frequency;Decibel
 1040,1978,2100,1,Sampling frequency;Digital Audio Tape
 1041,1978,2100,1,Sampling frequency;Pulse-code modulation
 1042,1978,2100,1,Sampling frequency;Slew rate
@@ -1049,7 +1049,7 @@ i,birth,death,dim,nodes
 1047,1979,2100,1,Loading coil;Dial-up
 1048,1979,2100,1,Video;Digitizer
 1049,1979,2100,1,Broadband;Dial-up
-1050,1979,1990,1,Time-division multiplexing;Time-division multiple access
+1050,1979,1990,1,Time-division multiple access;Communications satellite;Multiplexing;Time-division multiplexing;Telecommunication
 1051,1979,2100,1,Time-division multiple access;Combat-net radio
 1052,1979,2100,1,Electromagnetic pulse;Electronic warfare support measures
 1053,1980,2100,1,Modem;Quasi-analog signal
@@ -1069,7 +1069,7 @@ i,birth,death,dim,nodes
 1067,1982,2100,1,Flip-flop (electronics);Field-programmable gate array
 1068,1982,2100,1,Diversity reception;Wavelength
 1069,1982,2100,1,Diversity reception;Forward error correction
-1070,1982,1986,1,Diversity reception;Error burst
+1070,1982,1986,1,Fading;Error burst;Attenuation;Diversity reception;Telecommunication
 1071,1982,2100,1,Diversity reception;Spread spectrum
 1072,1982,2100,1,Modulation;Error ratio
 1073,1982,2100,1,Jitter;Error ratio
@@ -1079,15 +1079,15 @@ i,birth,death,dim,nodes
 1077,1982,2100,1,Error burst;Error ratio
 1078,1982,2100,1,Hamming distance;Error ratio
 1079,1982,2100,1,Frame synchronization;Error ratio
-1080,1983,1984,1,Radio;Digital filter
+1080,1983,1984,1,Digital filter;Electronics;Signal processing;Radio;Telecommunication
 1081,1983,2100,1,Analog signal;Digital filter
 1082,1983,2100,1,Electronic filter;Digital filter
 1083,1983,2100,1,Digital signal processor;Digital filter
 1084,1983,2100,1,Digital filter;Field-programmable gate array
-1085,1984,1986,1,Filter (signal processing);Stopband
+1085,1984,1986,1,Filter (signal processing);Electronics;Stopband;Decibel
 1086,1984,2100,1,Filter (signal processing);Zobel network
 1087,1984,2100,1,Serial ATA;Random access memory
-1088,1985,2003,1,Baseband;Passband
+1088,1985,2003,1,Receiver (radio);Frequency;Baseband;Passband;Modulation
 1089,1985,2100,1,Fm radio;Bits per second
 1090,1985,2100,1,International Electrotechnical Commission;Bits per second
 1091,1985,2100,1,Bits per second;Serial ATA
@@ -1105,7 +1105,7 @@ i,birth,death,dim,nodes
 1103,1986,2100,1,Cutoff frequency;Rlc circuit
 1104,1986,2100,1,Cutoff frequency;Waveguide antenna
 1105,1987,2100,1,Sampling frequency;Narrowband
-1106,1987,2019,1,Kirchhoff's circuit laws;Rl circuit
+1106,1987,2019,1,Rl circuit;Electrical network;Kirchhoff's circuit laws;Direct current;Lumped element model
 1107,1987,2100,1,Channel (communications);Store-and-forward switching center
 1108,1987,2100,1,Packet switching;Store-and-forward switching center
 1109,1987,2100,1,Tape relay;Store-and-forward switching center
@@ -1207,7 +1207,7 @@ i,birth,death,dim,nodes
 1205,2003,2100,1,Data terminal equipment;Isochronous burst transmission
 1206,2003,2100,1,Modulation rate;Pulse-code modulation
 1207,2003,2100,1,Bluetooth;Phase-shift keying
-1208,2003,2004,1,Rfid;Phase-shift keying
+1208,2003,2004,1,Phase-shift keying;Rfid;Modulation;Carrier wave
 1209,2003,2100,1,Phase-shift keying;Numbers station
 1210,2003,2100,1,Repair and maintenance;Technical control facility
 1211,2003,2100,1,Repair and maintenance;Periscope antenna
@@ -1269,7 +1269,7 @@ i,birth,death,dim,nodes
 1267,2016,2100,1,Frequency;Electro-optic modulator
 1268,2016,2100,1,Phase (waves);Electro-optic modulator
 1269,2018,2100,1,Electronic filter;Band-stop filter
-1270,2018,2019,1,Band-stop filter;Rlc circuit
+1270,2018,2019,1,Inductor;Rl circuit;Electrical network;Rlc circuit;Direct current;Hertz;Band-stop filter;Electronic filter
 1271,2019,2100,1,Communications system;Noise level
 1272,2019,2100,1,Feedback;Rc circuit
 1273,2019,2100,1,Frequency;Noise level
@@ -1462,10 +1462,10 @@ i,birth,death,dim,nodes
 1460,200,2100,2,Am radio;Television;Broadcasting
 1461,300,2100,2,Microphone;Radio;Video teleconference
 1462,500,2100,2,Shortwave;Skywave;D region
-1463,500,1960,2,Ionosphere;Microwave;Radio horizon
-1464,500,1960,2,Ionosphere;Microwave;Radio horizon range
+1463,500,1960,2,Receiver (radio);Shortwave;Ionosphere;Radio horizon;Microwave;Effective Earth radius
+1464,500,1960,2,Receiver (radio);Shortwave;Ionosphere;Microwave;Radio horizon range;Effective Earth radius
 1465,608,2100,2,Electronics;Receiver (radio);Direct current
-1466,608,1907,2,Electronics;Direct current;Negative resistance
+1466,608,1907,2,Receiver (radio);Vacuum tube;Amplifier;Electronics;Crystal radio receiver;Direct current;Electronic amplifier;Negative resistance;Alternating current
 1467,1701,2100,2,Vacuum tube;Receiver (radio);Electric field
 1468,1782,2100,2,Vacuum tube;Receiver (radio);Electric current
 1469,1782,2100,2,Battery (electricity);Receiver (radio);Electric current
@@ -1483,7 +1483,7 @@ i,birth,death,dim,nodes
 1481,1850,2100,2,Wave;Photon;Infrared
 1482,1857,2100,2,Resistor;Electrical network;Potential difference
 1483,1857,2100,2,Alternating current;Direct current;Electrical network
-1484,1881,1975,2,Ampere;Electrodynamics;Volt
+1484,1881,1975,2,Electric charge;Electric current;Electrodynamics;Potential difference;Battery (electricity);Electric field;Ampere;Electron;Volt
 1485,1885,2100,2,Electromagnetism;Planck's constant;Permeability (electromagnetism)
 1486,1886,2100,2,Radar;Microwave;Traveling-wave tube
 1487,1886,2100,2,Radar;Electronic amplifier;Electromagnetic spectrum

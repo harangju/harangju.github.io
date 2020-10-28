@@ -1,21 +1,21 @@
 i,birth,death,dim,nodes
 0,-7000,2100,0,Calcium
-1,-1900,1903,0,Geology
-2,-1900,1903,0,Beach
-3,-1900,2019,0,Cement
-4,-1900,2019,0,Uniformitarianism (science)
-5,-1800,1000,0,Orogeny
-6,-1700,2018,0,Concretion
-7,1490,1904,0,Meteorite
-8,1889,1904,0,Isostasy
-9,1902,1903,0,Igneous rock
+1,-1900,1903,0,Calcium;Geology
+2,-1900,1903,0,Beach;Geology
+3,-1900,2019,0,Cement;Geology
+4,-1900,2019,0,Uniformitarianism (science);Geology
+5,-1800,1000,0,Plate tectonics;Orogeny
+6,-1700,2018,0,Concretion;Geology
+7,1490,1904,0,Meteorite;Geology
+8,1889,1904,0,Isostasy;Geology
+9,1902,1903,0,Igneous rock;Geology
 10,2020,2100,0,Cave
 11,1785,2100,1,Geologist;Geologic time scale
 12,1904,2100,1,Geologist;List of rock types
-13,1904,2019,1,Plate tectonics;Mantle (geology)
+13,1904,2019,1,Rock (geology);Plate tectonics;Mantle (geology);Geology
 14,1904,2100,1,Plate tectonics;Geology of the Alps
 15,1904,2100,1,Geologic time scale;Stratigraphy
-16,1904,1940,1,Mantle (geology);Orogeny
+16,1904,1940,1,Plate tectonics;Convergent boundary;Mantle (geology);Orogeny
 17,1904,2100,1,Orogeny;Geology of the Alps
 18,1905,2100,1,Mantle (geology);Piercement structure
 19,1905,2100,1,Dike (geology);Piercement structure
@@ -28,7 +28,7 @@ i,birth,death,dim,nodes
 26,1942,2100,1,Geologist;Petroleum engineering
 27,1942,2100,1,Petroleum engineering;Mining engineering
 28,1960,2100,1,Astrogeology;Meteorite
-29,1980,2019,1,Geomorphology;Mass wasting
+29,1980,2019,1,Rock (geology);Mass wasting;Geomorphology;Geology
 30,2012,2100,1,Mafic;Subduction zone
 31,2012,2100,1,Mud volcano;Subduction zone
 32,2018,2100,1,Mineral;Rubidium-strontium dating

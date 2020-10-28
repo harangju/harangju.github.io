@@ -1,85 +1,85 @@
 i,birth,death,dim,nodes
 0,-4000,2100,0,Tessellation
-1,160,1801,0,Heronian tetrahedron
-2,1120,1800,0,Quasicrystal
-3,1591,1648,0,Girard Desargues
-4,1700,1800,0,Four-dimensional space
-5,1790,1800,0,Sangaku
+1,160,1801,0,Heronian tetrahedron;Geometry
+2,1120,1800,0,Quasicrystal;Geometry
+3,1591,1648,0,Girard Desargues;Geometry
+4,1700,1800,0,Geometry;Four-dimensional space
+5,1790,1800,0,Sangaku;Geometry
 6,-599,2100,1,Tessellation;Star polygon
 7,-599,2100,1,Lattice (group);Pythagorean triangle
-8,-598,1894,1,Reflection (mathematics);Mirror image
+8,-598,1894,1,Mirror image;Reflection (mathematics);Mathematics;Geometry
 9,-597,2100,1,Reflection (mathematics);Glide reflection
 10,-400,2100,1,Algebraic geometry;Pythagorean triangle
-11,-200,132,1,Conic section;Pythagorean triangle
-12,-140,1806,1,Trigonometry;Pythagorean triangle
+11,-200,132,1,Algebraic geometry;Conic section;Mathematics;Pythagorean triangle
+12,-140,1806,1,Geometry;Pythagorean triangle;Mathematics;Pythagorean theorem;Trigonometry
 13,120,2100,1,Group action (mathematics);Pythagorean triangle
 14,120,2100,1,Schläfli symbol;Regular polytope
 15,121,2100,1,Integral geometry;Symmetry group
 16,143,2100,1,Tessellation;Andreini tessellation
 17,143,2100,1,Uniform polyhedron;Andreini tessellation
-18,236,1801,1,Polyhedron;Uniform polyhedron
-19,236,1827,1,Polyhedron;Regular polytope
+18,236,1801,1,Andreini tessellation;Geometry;Uniform polyhedron;Polyhedron
+19,236,1827,1,Geometry;Polyhedron;Tessellation;Mathematics;Regular polytope
 20,600,2100,1,Polygon;Star polygon
-21,1000,1001,1,Analytic geometry;Conic section
+21,1000,1001,1,Algebraic geometry;Mathematics;Conic section;Analytic geometry
 22,1001,2100,1,Ellipse;Cross section (geometry)
 23,1507,2100,1,Stereographic projection;Pythagorean triangle
 24,1600,2100,1,Polygon;Fractal geometry
-25,1600,1802,1,Topology;Line (mathematics)
+25,1600,1802,1,Algebraic geometry;Line (mathematics);Ellipse;Topology
 26,1702,2100,1,Contact geometry;Symplectic geometry
-27,1796,1807,1,Square;Compass and straightedge constructions
-28,1796,1802,1,Ellipse;Compass and straightedge constructions
+27,1796,1807,1,Geometry;Polyhedron;Compass and straightedge constructions;Square;Polygon
+28,1796,1802,1,Geometry;Polyhedron;Non-euclidean geometry;Line (mathematics);Compass and straightedge constructions;Polygon;Ellipse
 29,1796,2100,1,Compass and straightedge constructions;Squaring the circle
 30,1796,2100,1,Compass and straightedge constructions;Reflection (mathematics)
 31,1800,2100,1,Euclidean geometry;Fractal geometry
 32,1800,2100,1,Euclidean geometry;Symmetry group
-33,1800,1805,1,Euclidean geometry;Pythagorean theorem
-34,1800,1801,1,Euclidean geometry;Compass and straightedge constructions
+33,1800,1805,1,Geometry;Pythagorean triangle;Euclidean geometry;Pythagorean theorem;Trigonometry
+34,1800,1801,1,Geometry;Polyhedron;Euclidean geometry;Compass and straightedge constructions;Polygon
 35,1800,2100,1,Polygon;Discrete geometry
 36,1800,2100,1,Ellipse;Steiner chain
 37,1800,2100,1,Plane geometry;Pythagorean theorem
-38,1800,1894,1,Plane geometry;Platonic solid
-39,1800,1802,1,Plane geometry;Compass and straightedge constructions
+38,1800,1894,1,Isometry;Plane geometry;Geometry;Uniform polyhedron;Platonic solid;Mathematics;Reflection (mathematics)
+39,1800,1802,1,Euclidean geometry;Non-euclidean geometry;Plane geometry;Compass and straightedge constructions
 40,1800,2100,1,Euclidean plane geometry;Pythagorean theorem
-41,1800,1894,1,Euclidean plane geometry;Platonic solid
-42,1800,1802,1,Euclidean plane geometry;Compass and straightedge constructions
-43,1801,1802,1,Translation (geometry);Isometry
-44,1801,1803,1,Point (geometry);Discrete geometry
+41,1800,1894,1,Platonic solid;Plane geometry;Geometry;Euclidean plane geometry
+42,1800,1802,1,Euclidean geometry;Non-euclidean geometry;Compass and straightedge constructions;Euclidean plane geometry
+43,1801,1802,1,Isometry;Geometry;Projective geometry;Translation (geometry);Mathematics;Reflection (mathematics)
+44,1801,1803,1,Discrete geometry;Combinatorial geometry;Geometry;Mathematics;Point (geometry)
 45,1802,2100,1,Mathematics;Affine space
-46,1802,1893,1,Geometric shape;Translation (geometry)
-47,1802,1803,1,Geometric shape;Point (geometry)
+46,1802,1893,1,Geometric shape;Geometry;Projective geometry;Translation (geometry);Affine transformation
+47,1802,1803,1,Discrete geometry;Geometric shape;Point (geometry);Geometry
 48,1802,2100,1,Geometric shape;Tessellation
 49,1802,2100,1,Translation (geometry);Prism (geometry)
-50,1802,1805,1,Point (geometry);Concurrent lines
-51,1802,1805,1,Square;Quadrilateral
+50,1802,1805,1,Plane geometry;Geometry;Point (geometry);Concurrent lines
+51,1802,1805,1,Plane geometry;Projective geometry;Quadrilateral;Euclidean geometry;Compass and straightedge constructions;Square;Non-euclidean geometry
 52,1802,2100,1,Circle;Golden angle
 53,1802,2100,1,Circle;Borromean rings
 54,1802,2100,1,Ellipsoid;Affine transformation
-55,1802,1804,1,Affine space;Projective transformation
+55,1802,1804,1,Geometry;Affine space;Projective geometry;Projective transformation;Mathematics
 56,1802,2100,1,Distance geometry;Heron's formula
 57,1802,2100,1,Reflection (mathematics);Symmedian
 58,1802,2100,1,Heronian triangle;Heronian tetrahedron
-59,1803,1805,1,Circle;Inversive geometry
-60,1803,1806,1,Circle;Incircle and excircles of a triangle
+59,1803,1805,1,Geometry;Nine-point circle;Point (geometry);Inversive geometry;Circle
+60,1803,1806,1,Euclidean geometry;Triangle;Incircle and excircles of a triangle;Circle
 61,1803,2100,1,Circle;Mrs. Miniver's problem
 62,1803,2100,1,Circle;Annulus (mathematics)
 63,1803,2100,1,Algebraic geometry;Toric geometry
-64,1803,1804,1,Hyperbola;Hyperboloid
+64,1803,1804,1,Geometric shape;Geometry;Hyperbola;Hyperboloid;Circle
 65,1803,2100,1,Discrete geometry;Toric geometry
 66,1803,2100,1,Combinatorial geometry;Toric geometry
 67,1803,2100,1,Toric geometry;Group action (mathematics)
 68,1803,2100,1,Quasicrystal;Symmetry
 69,1803,2100,1,Incidence (geometry);Incidence geometry
 70,1803,2100,1,Incidence geometry;Projective transformation
-71,1803,1872,1,Symmetry group;Symmetry
+71,1803,1872,1,Euclidean geometry;Symmetry group;Geometry;Symmetry
 72,1803,2100,1,Line (mathematics);Pappus's hexagon theorem
 73,1803,2100,1,Projective transformation;Pappus's hexagon theorem
 74,1803,2100,1,Isosceles trapezoid;Symmetry
 75,1803,2100,1,Annulus (mathematics);Steiner chain
 76,1804,2100,1,Point (geometry);Duality (projective geometry)
-77,1804,1822,1,Circle;Focus (geometry)
+77,1804,1822,1,Geometry;Cone (geometry);Geometric shape;Focus (geometry);Ellipse;Circle
 78,1804,2100,1,Ellipse;Pascal's theorem
 79,1804,2100,1,Tetrahedron;Reuleaux triangle
-80,1804,1880,1,Isometry;Point groups in three dimensions
+80,1804,1880,1,Isometry;Geometry;Point groups in three dimensions;Rotation (mathematics);Reflection (mathematics)
 81,1804,2100,1,Angle;Rotation (mathematics)
 82,1804,2100,1,Angle;Golden angle
 83,1804,2100,1,Angle;Polar sine
@@ -88,10 +88,10 @@ i,birth,death,dim,nodes
 86,1804,2100,1,Pythagorean theorem;Cone (geometry)
 87,1804,2100,1,Torus;Four-dimensional space
 88,1804,2100,1,Trapezoid;Prismatoid
-89,1805,1893,1,Circle;Inscribed angle
+89,1805,1893,1,Inscribed angle;Plane geometry;Geometry;Circle
 90,1805,2100,1,Differential geometry;Riemannian geometry
 91,1805,2100,1,Hypersphere;3-sphere
-92,1805,1893,1,Angle;Inscribed angle
+92,1805,1893,1,Inscribed angle;Angle;Plane geometry;Geometry
 93,1805,2100,1,Angle;Internal angle
 94,1805,2100,1,Shear mapping;Hyperplane
 95,1805,2100,1,Reflection (mathematics);Hyperplane
@@ -110,7 +110,7 @@ i,birth,death,dim,nodes
 108,1894,2100,1,Inscribed angle;Ptolemaios' theorem
 109,1895,2100,1,Group action (mathematics);Equilateral triangle
 110,1896,2100,1,Circle;Curve of constant width
-111,1896,1950,1,Computer graphics;Homogeneous coordinates
+111,1896,1950,1,Euclidean geometry;Computer graphics;Geometry;Homogeneous coordinates
 112,1896,2100,1,Equilateral triangle;Deltahedron
 113,1897,2100,1,Toric geometry;Complex projective plane
 114,1898,2100,1,Inversive ring geometry;Hyperboloid
@@ -120,7 +120,7 @@ i,birth,death,dim,nodes
 118,1912,2100,1,Solid geometry;Dihedral angle
 119,1912,2100,1,Dihedral angle;Hyperplane
 120,1913,2100,1,Angle;Defect (geometry)
-121,1925,1926,1,Symmetry group;Invariant (mathematics)
+121,1925,1926,1,Symmetry group;Symmetry;Geometry;Invariant (mathematics)
 122,1925,2100,1,Invariant (mathematics);Wallpaper group
 123,1935,2100,1,Circumcircle;Isosceles trapezoid
 124,1936,2100,1,Point (geometry);Pedal triangle
@@ -131,7 +131,7 @@ i,birth,death,dim,nodes
 129,1948,2100,1,Invariant (mathematics);Nurbs
 130,1948,2100,1,Conic section;Nurbs
 131,1960,2100,1,Topology;Mathematical morphology
-132,1960,1961,1,Quasicrystal;Penrose tiling
+132,1960,1961,1,Quasicrystal;Combinatorial geometry;Tessellation;Penrose tiling
 133,1961,2100,1,Digital geometry;3d computer graphics
 134,1961,2100,1,Digital geometry;Mathematical morphology
 135,1961,2100,1,3d computer graphics;2d computer graphics

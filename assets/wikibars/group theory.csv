@@ -1,23 +1,23 @@
 i,birth,death,dim,nodes
 0,-3000,2100,0,Mathematics
-1,-1550,100,0,Prime number
-2,1736,1801,0,Euler's theorem
-3,1830,1879,0,Crystallographic point group
-4,1899,1910,0,Øystein Ore
-5,180,1830,1,Symmetry group;Klein four-group
-6,1150,1830,1,Permutation;Symmetry group
+1,-1550,100,0,Prime number;Mathematics
+2,1736,1801,0,Mathematics;Euler's theorem
+3,1830,1879,0,Mathematics;Crystallographic point group
+4,1899,1910,0,Øystein Ore;Group theory
+5,180,1830,1,Symmetry group;Geometry;Mathematics;Symmetry;Klein four-group
+6,1150,1830,1,Symmetry group;Geometry;Mathematics;Symmetry;Permutation
 7,1151,2100,1,Prime number;Up to
 8,1535,2100,1,Galois theory;Integer
-9,1782,1833,1,Abstract algebra;Prime number
+9,1782,1833,1,Abstract algebra;Prime number;Mathematics;Classification of finite simple groups
 10,1783,2100,1,Abstract algebra;Friedrich Wilhelm Levi
 11,1800,2100,1,Operation (mathematics);Abelian group
-12,1801,1951,1,Integer;Modular arithmetic
-13,1801,1904,1,Abelian group;Lagrange's theorem (group theory)
+12,1801,1951,1,Abstract algebra;Integer;Mathematics;Abelian group;Modular arithmetic
+13,1801,1904,1,Lagrange's theorem (group theory);Mathematics;Abelian group;Abstract algebra
 14,1802,2100,1,Abelian group;Niels Henrik Abel
 15,1812,2100,1,Finite field;Prime number
 16,1831,2100,1,Abelian group;Divisible group
 17,1831,2100,1,Algebraic geometry;Algebraic group
-18,1832,1901,1,Abelian group;Elliptic curve
+18,1832,1901,1,Elliptic curve;Mathematics;Abelian group;Group (mathematics)
 19,1832,2100,1,Group isomorphism;List of small groups
 20,1832,2100,1,Group isomorphism;Elliptic curve
 21,1832,2100,1,Modular arithmetic;Congruence relation
@@ -52,10 +52,10 @@ i,birth,death,dim,nodes
 50,1902,2100,1,William Burnside;Burnside's problem
 51,1902,2100,1,Issai Schur;Burnside's problem
 52,1903,2100,1,Algebraic geometry;Free abelian group
-53,1903,1931,1,Special linear group;Normal subgroup
+53,1903,1931,1,Normal subgroup;Mathematics;Special linear group;Abstract algebra
 54,1903,2100,1,Presentation of a group;Schreier's subgroup lemma
 55,1903,2100,1,Transversal (combinatorics);Schreier's subgroup lemma
-56,1904,1931,1,Abelian group;Solvable group
+56,1904,1931,1,Solvable group;Mathematics;Abelian group;Abstract algebra
 57,1904,2100,1,Schur multiplier;Projective representation
 58,1904,2100,1,Schur multiplier;List of finite simple groups
 59,1904,2100,1,Hall subgroup;Philip Hall
@@ -64,7 +64,7 @@ i,birth,death,dim,nodes
 62,1905,2100,1,Wreath product;Semigroup
 63,1906,2100,1,Emmy Noether;Hans Fitting
 64,1921,2100,1,Hans Zassenhaus;Zassenhaus lemma
-65,1924,1925,1,Free group;Jakob Nielsen (mathematician)
+65,1924,1925,1,Jakob Nielsen (mathematician);Mathematics;Free group;Subgroup
 66,1925,2100,1,Real number;Symmetry in physics
 67,1925,2100,1,Symmetry in physics;Continuous symmetry
 68,1927,2100,1,Otto Schreier;Isomorphism theorem

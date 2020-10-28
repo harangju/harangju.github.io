@@ -1,299 +1,299 @@
 i,birth,death,dim,nodes
 0,-7000,2100,0,Calcium
-1,-6000,-360,0,Chlorine
-2,-6000,573,0,Jade
-3,-5500,-3500,0,Copper
-4,-5300,-1500,0,Vermilion
-5,-5000,1150,0,Hematite
-6,-4000,-3500,0,Coal
-7,-3300,325,0,Egyptian language
-8,-3100,-3000,0,Antimony
-9,-3000,-625,0,Physics
-10,-3000,-299,0,Distillation
-11,-3000,100,0,Cosmetics
-12,-2000,100,0,Medicine
-13,-2000,815,0,Pesticide
-14,-1800,573,0,Carnelian
-15,-1800,-300,0,Sard
-16,-1750,1200,0,Chocolate
-17,-1700,1700,0,Lapis lazuli
-18,-1500,1564,0,Calamine
-19,-300,800,0,Asbestos
-20,-300,1904,0,Amber
-21,100,1997,0,Heptane
-22,100,273,0,Celsius
-23,101,184,0,Standard temperature and pressure
-24,111,800,0,Ammonia
-25,244,500,0,Picric acid
-26,304,800,0,Speed of sound
-27,400,600,0,Infrared spectroscopy
-28,557,800,0,Nitrous oxide
-29,850,1100,0,Linus Pauling
-30,1700,1997,0,Amazonite
-31,1800,1890,0,Diopside
-32,1801,1803,0,Anatase
-33,1803,1804,0,Reversible reaction
-34,1824,1997,0,Sillimanite
-35,1841,1998,0,Keilhauite
-36,1857,1860,0,Zymurgy
-37,1895,1900,0,Epinephrine
-38,1970,2023,0,Fur
-39,2015,2023,0,Pollution
-40,2020,2021,0,List of biomolecules
-41,2020,2021,0,List of compounds
-42,-2500,-360,1,Carbon;Coal
-43,-2000,-360,1,Metal;Antimony
-44,-1500,1702,1,Mercury (element);Alcohol
-45,-1500,-700,1,Mercury (element);Gold
-46,-1500,118,1,Carbon;Carbon group
-47,-625,1598,1,Magnetism;Carbon
-48,-500,-360,1,Metal;Group 12 element
-49,-500,1791,1,Electricity;Zinc
-50,-500,2023,1,Sulfur;Coal
-51,-500,-360,1,Sulfur;Cobalt
-52,-400,1598,1,Magnetism;Aluminium
-53,-400,-360,1,Calcium;Aluminium
-54,-360,1700,1,Chemical element;Mass
-55,-300,249,1,Chemistry;Physics
-56,-300,1824,1,Chemistry;Alcohol
+1,-6000,-360,0,Calcium;Chlorine
+2,-6000,573,0,Calcium;Jade
+3,-5500,-3500,0,Calcium;Copper
+4,-5300,-1500,0,Vermilion;Copper
+5,-5000,1150,0,Hematite;Copper
+6,-4000,-3500,0,Coal;Copper
+7,-3300,325,0,Iron;Egyptian language
+8,-3100,-3000,0,Antimony;Copper
+9,-3000,-625,0,Iron;Physics
+10,-3000,-299,0,Iron;Distillation
+11,-3000,100,0,Iron;Cosmetics
+12,-2000,100,0,Iron;Medicine
+13,-2000,815,0,Iron;Pesticide
+14,-1800,573,0,Iron;Carnelian
+15,-1800,-300,0,Sard;Carnelian
+16,-1750,1200,0,Iron;Chocolate
+17,-1700,1700,0,Lapis lazuli;Copper
+18,-1500,1564,0,Calamine;Mercury (element)
+19,-300,800,0,Iron;Asbestos
+20,-300,1904,0,Amber;Electricity
+21,100,1997,0,Chemical element;Heptane
+22,100,273,0,Celsius;Chemical element
+23,101,184,0,Standard temperature and pressure;Chemical element
+24,111,800,0,Ammonia;Chemistry
+25,244,500,0,Iron;Picric acid
+26,304,800,0,Speed of sound;Nitroglycerine
+27,400,600,0,Infrared spectroscopy;Chemistry
+28,557,800,0,Nitrous oxide;Chemistry
+29,850,1100,0,Linus Pauling;Chemical element
+30,1700,1997,0,Amazonite;Chemical element
+31,1800,1890,0,Hydrochloric acid;Diopside
+32,1801,1803,0,Iron;Anatase
+33,1803,1804,0,Chemical reaction;Reversible reaction
+34,1824,1997,0,Chemical element;Sillimanite
+35,1841,1998,0,Chemical element;Keilhauite
+36,1857,1860,0,Zymurgy;Chemistry
+37,1895,1900,0,Carbon;Epinephrine
+38,1970,2023,0,Chemical element;Fur
+39,2015,2023,0,Pollution;Chemical compound
+40,2020,2021,0,Chemical element;List of biomolecules
+41,2020,2021,0,List of compounds;Chemical element
+42,-2500,-360,1,Iron;Alloy;Coal;Carbon
+43,-2000,-360,1,Metal;Iron;Alloy;Tin;Antimony
+44,-1500,1702,1,Mercury (element);Carbon;Alloy;Alcohol;Tin
+45,-1500,-700,1,Gold;Alloy;Mercury (element);Tin
+46,-1500,118,1,Carbon group;Alloy;Carbon;Tin
+47,-625,1598,1,Iron;Alloy;Magnetism;Carbon
+48,-500,-360,1,Metal;Mercury (element);Iron;Coinage metal;Group 12 element
+49,-500,1791,1,Metal;Carbon;Iron;Alloy;Magnetism;Zinc;Electricity
+50,-500,2023,1,Calcium;Iron;Sulfur;Alabaster;Coal
+51,-500,-360,1,Metal;Iron;Sulfur;Cobalt;Coal
+52,-400,1598,1,Iron;Metal;Magnetism;Aluminium
+53,-400,-360,1,Calcium;Iron;Metal;Aluminium
+54,-360,1700,1,Mass;Carbon;Alloy;Chemical element;Magnetism;Physics;Electricity
+55,-300,249,1,Physics;Mass;Chemical element;Chemistry
+56,-300,1824,1,Alcohol;Chemical element;Carbon;Chemistry
 57,-299,2100,1,Sulfur;Clyssus
 58,-299,2100,1,Antimony;Clyssus
-59,100,118,1,Atomic number;Einsteinium
-60,100,1700,1,Carbon;Mole (unit)
-61,108,500,1,Semiconductor;Carbon group
-62,108,1702,1,Semiconductor;X-ray photoelectron spectroscopy
-63,192,1789,1,Caesium;International Union of Pure and Applied Chemistry
-64,192,294,1,International Union of Pure and Applied Chemistry;Tennessine
-65,192,294,1,International Union of Pure and Applied Chemistry;Oganesson
-66,192,1200,1,International Union of Pure and Applied Chemistry;Moscovium
-67,193,294,1,International Union of Pure and Applied Chemistry;Systematic element name
-68,200,1500,1,Plutonium;Deuterium
-69,230,1702,1,Crystal structure;Semiconductor
+59,100,118,1,Einsteinium;Metal;Atomic number;Chemical element
+60,100,1700,1,Carbon;Chemical element;Mole (unit);Atom;Chemistry
+61,108,500,1,Semiconductor;Carbon group;Chemical element;Tin;Antimony
+62,108,1702,1,Semiconductor;X-ray photoelectron spectroscopy;Chemical element;Atom;Atomic number;Antimony
+63,192,1789,1,International Union of Pure and Applied Chemistry;Caesium;Chemical element;Chemistry
+64,192,294,1,Tennessine;Caesium;Chemical element;International Union of Pure and Applied Chemistry
+65,192,294,1,Caesium;Chemical element;Oganesson;International Union of Pure and Applied Chemistry
+66,192,1200,1,Caesium;Chemical element;Moscovium;International Union of Pure and Applied Chemistry
+67,193,294,1,Systematic element name;Caesium;Chemical element;International Union of Pure and Applied Chemistry
+68,200,1500,1,Atom;Deuterium;Chemical element;Plutonium
+69,230,1702,1,Semiconductor;X-ray photoelectron spectroscopy;Crystal structure;Atom;Atomic number
 70,231,2100,1,Electricity;Joseph Priestley
 71,231,2100,1,Aluminium;Gibbsite
-72,231,1794,1,Joseph Priestley;Discovery of the chemical elements
+72,231,1794,1,Discovery of the chemical elements;Chemical element;Joseph Priestley;Chemistry
 73,245,2100,1,Physics;Natural abundance
-74,245,1910,1,Natural abundance;Deuterium
-75,255,1789,1,Lawrencium;International Union of Pure and Applied Chemistry
-76,273,1785,1,Kelvin;List of elements by name
-77,273,449,1,Kelvin;List of elements by number
-78,286,2022,1,Nitroglycerine;Lead
+74,245,1910,1,Atom;Deuterium;Chemical element;Natural abundance
+75,255,1789,1,Lawrencium;International Union of Pure and Applied Chemistry;Chemical element;Chemistry
+76,273,1785,1,Standard temperature and pressure;Kelvin;Chemical element;International Union of Pure and Applied Chemistry;Caesium;List of elements by name
+77,273,449,1,Kelvin;Iron;List of elements by number;List of elements by name
+78,286,2022,1,Copper;Iron;Chemical element;Nitroglycerine;Atom;Tin;Lead
 79,286,2100,1,Nitroglycerine;Medicine
-80,290,294,1,International Union of Pure and Applied Chemistry;Livermorium
-81,325,2023,1,Alchemy;Lead
-82,325,2023,1,Alchemy;Gold
+80,290,294,1,Livermorium;Caesium;Chemical element;International Union of Pure and Applied Chemistry
+81,325,2023,1,Copper;Iron;Chemical element;Beryllium;Atom;Uranium;Alchemy;Lead;Zinc
+82,325,2023,1,Mercury (element);Copper;Gold;Chemical element;Atom;Alchemy;Zinc
 83,420,2100,1,Color;Vermilion
 84,449,2100,1,State of matter;Specific heat capacity
 85,449,2100,1,Mass;Specific heat capacity
 86,449,2100,1,Mole (unit);Specific heat capacity
-87,500,1832,1,Carbon;Trinitrotoluene
+87,500,1832,1,Trinitrotoluene;Carbon;Iron;Chemical element;Nitroglycerine
 88,500,2100,1,Liver;Heavy metal (chemistry)
 89,573,2100,1,Mass;Rock crystal
-90,573,700,1,Aluminium;Rock crystal
-91,573,1771,1,Semiconductor;Rock crystal
-92,600,1702,1,Spectroscopy;Discovery of the chemical elements
-93,600,1700,1,Semiconductor;Electromagnetic spectroscopy
+90,573,700,1,Iron;Chemical element;Rock crystal;Aluminium
+91,573,1771,1,Semiconductor;X-ray photoelectron spectroscopy;Iron;Chemical element;Atom;Rock crystal;Atomic number
+92,600,1702,1,Discovery of the chemical elements;Chemical element;Spectroscopy;Chemistry
+93,600,1700,1,Semiconductor;X-ray photoelectron spectroscopy;Electromagnetic spectroscopy;Atom;Atomic number;Chemistry
 94,600,2100,1,Alum;Medicine
 95,600,2100,1,Electromagnetic spectroscopy;Fluorescence spectroscopy
 96,628,2100,1,Alcohol;Mustard gas
 97,700,2100,1,Borax;List of elements by name
-98,700,1200,1,Borax;List of elements by number
-99,800,1661,1,Ethanol;Methane
-100,800,1702,1,Ethanol;Nitroglycerine
+98,700,1200,1,Borax;Chemical element;List of elements by number;List of elements by name
+99,800,1661,1,Methane;Carbon;Alcohol;Ethanol;Chemistry
+100,800,1702,1,Carbon;Iron;Chemical element;Nitroglycerine;Alcohol;Ethanol;Chemistry
 101,800,2100,1,Ethanol;Atomic radius
 102,800,2100,1,Ethanol;Distillation
 103,800,2100,1,Ethanol;Allingite
 104,800,2100,1,Serpentine group;Jade
 105,1000,2100,1,Aluminium;Turquoise
-106,1200,1598,1,Cryolite;Caustic soda
-107,1200,1661,1,Ethanol;Caustic soda
+106,1200,1598,1,Cryolite;Caustic soda;Iron;Chemical element;Aluminium
+107,1200,1661,1,Caustic soda;Carbon;Iron;Chemical element;Alcohol;Ethanol
 108,1200,2100,1,Hydrochloric acid;Alchemist
-109,1200,1702,1,Hydrochloric acid;Caustic soda
+109,1200,1702,1,Hydrochloric acid;Caustic soda;Iron;Chemical element;Alchemist
 110,1200,2100,1,Hydrochloric acid;Turquoise
-111,1200,1859,1,Hydrochloric acid;Mustard gas
-112,1200,1700,1,Nitric acid;Alchemist
+111,1200,1859,1,Hydrochloric acid;Methane;Carbon;Iron;Ethanol;Chemical element;Nitroglycerine;Alcohol;Mustard gas;Alchemist
+112,1200,1700,1,Nitric acid;Iron;Chemical element;Nitroglycerine;Alchemist
 113,1200,2100,1,Nitric acid;Allingite
-114,1200,1700,1,Ammonia;Sodium hydroxide
-115,1200,1702,1,Sulfur;Caustic soda
-116,1200,1702,1,Boron;Semiconductor
+114,1200,1700,1,Hydrochloric acid;Iron;Chemical element;Nitroglycerine;Alchemist;Sodium hydroxide;Ammonia;Ethanol
+115,1200,1702,1,Iron;Chemical element;Caustic soda;Sulfur
+116,1200,1702,1,Semiconductor;Boron;Chemical element;Electromagnetic spectroscopy;Atom;Chemistry
 117,1200,2100,1,Caustic soda;Vermilion
-118,1400,1661,1,Benzene;Formic acid
+118,1400,1661,1,Formic acid;Methane;Carbon;Benzene;Alcohol;Ethanol
 119,1400,2100,1,Benzene;Color
-120,1400,1997,1,Sodium hydroxide;Alkaline earth
-121,1400,1997,1,Sodium hydroxide;Group 2 element
-122,1400,1700,1,Sulfur;Alunite
-123,1400,1702,1,International Union of Pure and Applied Chemistry;Alkaline earth
-124,1400,1500,1,International Union of Pure and Applied Chemistry;Group 2 element
-125,1400,1598,1,Aluminium;Alunite
-126,1500,1598,1,Chemical reaction;Nitroglycerine
+120,1400,1997,1,Hydrochloric acid;Alkaline earth;Chemical element;Sodium hydroxide;Alchemist
+121,1400,1997,1,Group 2 element;Hydrochloric acid;Chemical element;Sodium hydroxide;Alchemist
+122,1400,1700,1,Iron;Chemical element;Sulfur;Alunite;Alchemist
+123,1400,1702,1,Alkaline earth;Caesium;Chemical element;International Union of Pure and Applied Chemistry
+124,1400,1500,1,Group 2 element;Alkaline earth;International Union of Pure and Applied Chemistry;Chemical element
+125,1400,1598,1,Iron;Alunite;Chemical element;Aluminium
+126,1500,1598,1,Chemical reaction;Iron;Chemical element;Nitroglycerine
 127,1500,2100,1,Chemical reaction;Distillation
-128,1500,1700,1,Nitric acid;Hydrogen
-129,1500,1598,1,Hydrogen;Ammonia
-130,1500,1598,1,Hydrogen;Alunite
+128,1500,1700,1,Nitric acid;Nitroglycerine;Chemical element;Chemical reaction;Hydrogen
+129,1500,1598,1,Caustic soda;Iron;Chemical element;Ammonia;Hydrogen
+130,1500,1598,1,Iron;Alunite;Chemical element;Hydrogen
 131,1501,2100,1,Polymerization;Adolf Otto Reinhold Windaus
 132,1501,2100,1,Polymerization;International Union of Pure and Applied Chemistry
 133,1501,2100,1,Polymerization;Allingite
 134,1501,2100,1,Alkaline earth;Kilojoule per mole
-135,1501,1702,1,Kilojoule per mole;Mole (unit)
+135,1501,1702,1,Chemical element;Mole (unit);Atom;Chemical reaction;Kilojoule per mole
 136,1501,2100,1,Kilojoule per mole;G-block
-137,1501,1702,1,Kilojoule per mole;Period 8 element
+137,1501,1702,1,Chemical reaction;Kilojoule per mole;Chemical element;Period 8 element
 138,1501,2100,1,Kilojoule per mole;Periodic table (extended)
-139,1529,1802,1,State of matter;Halogen
-140,1529,1702,1,Cryolite;Fluorine
+139,1529,1802,1,Halogen;State of matter;Chemical element;Physics;Chemistry
+140,1529,1702,1,Fluorine;Cryolite;Chemical element;Aluminium
 141,1564,2100,1,Alchemy;List of alchemical substances
 142,1564,2100,1,Ethanol;List of alchemical substances
-143,1564,1700,1,Sulfur;List of alchemical substances
+143,1564,1700,1,Hydrochloric acid;Alchemist;Sulfur;List of alchemical substances
 144,1564,2100,1,Graphite;List of alchemical substances
 145,1568,2100,1,Hydrogen;Muscovite
-146,1568,1598,1,Aluminium;Muscovite
+146,1568,1598,1,Muscovite;Chemical element;Hydrogen;Aluminium
 147,1568,2100,1,Asbestos;Muscovite
-148,1598,1999,1,Oxygen;Quartz
-149,1600,2021,1,Alchemy;Barite
+148,1598,1999,1,Jasper;Iron;Rock crystal;Oxygen;Quartz
+149,1600,2021,1,Chemical element;List of alchemical substances;Alchemy;Oxygen;Ethanol;Barite;Chemistry
 150,1600,2100,1,Thermometer;Celsius
 151,1600,2100,1,Crystal structure;Mineralogy
 152,1600,2100,1,Barite;Hematite
 153,1600,2100,1,Barite;Color
 154,1600,2100,1,Barite;Cerussite
-155,1600,2018,1,Serpentine group;Mineralogy
-156,1601,2022,1,Electrolysis;Electrochemical cell
+155,1600,2018,1,Copper;Crystal structure;Iron;Chemical element;Atom;Tin;Mineralogy;Serpentine group
+156,1601,2022,1,Chlorine;Chemical element;Atom;Chemical reaction;Electrolysis;Oxygen;Electrochemical cell
 157,1608,2100,1,Limonite;Calomel
 158,1661,2100,1,Methanol;Liver
-159,1663,1799,1,Electricity;Electrochemistry
-160,1663,1748,1,Electrochemistry;Electrolysis
+159,1663,1799,1,Electrochemistry;Magnesium;Chlorine;Chemical element;Chemical reaction;Electrolysis;Zinc;Oxygen;Electricity
+160,1663,1748,1,Electrochemistry;Electrolysis;Zinc;Magnesium;Electricity
 161,1664,2100,1,Electrochemical cell;Nernst equation
 162,1669,2100,1,Phosphorus;Pesticide
 163,1669,2100,1,Phosphorus;Serpentine group
-164,1700,1702,1,Electron;Atomic radius
+164,1700,1702,1,Atom;Atomic radius;Electron;Chemical element
 165,1700,2100,1,Crystal structure;Mercury (I) chloride
 166,1700,2100,1,Electrochemistry;Mercury (I) chloride
 167,1700,2100,1,Biochemistry;Adolf Otto Reinhold Windaus
-168,1700,2021,1,Biochemistry;Linus Pauling
+168,1700,2021,1,Linus Pauling;Biochemistry;Chemical bond;Chemical element;Chemistry
 169,1700,2100,1,Biochemistry;Medicine
-170,1700,1800,1,Biochemistry;Amino acid
+170,1700,1800,1,Biochemistry;Chemistry;Oxygen;Amino acid;Molecule
 171,1700,2100,1,Biochemistry;Borax
-172,1700,2018,1,Ethanol;Mercury (I) chloride
-173,1700,1996,1,Sulfuric acid;Nitrous oxide
+172,1700,2018,1,Crystal structure;Molecule;Mercury (I) chloride;Chemical element;Atom;Oxygen;Ethanol;Quartz;Chemistry
+173,1700,1996,1,Nitrous oxide;Chemical element;Oxygen;Ethanol;Sulfuric acid;Chemistry
 174,1700,2100,1,Sulfuric acid;Adolf Otto Reinhold Windaus
-175,1700,1998,1,Ammonia;Sodium hypochlorite
-176,1700,1996,1,Sodium hypochlorite;Mustard gas
+175,1700,1998,1,Sodium hypochlorite;Chemical element;Chlorine;Ammonia;Fluorine;Hydrogen
+176,1700,1996,1,Methane;Sodium hypochlorite;Chemical element;Benzene;Mustard gas;Ammonia;Ethanol;Hydrogen;Chemistry
 177,1700,2100,1,Gypsum;List of alchemical substances
-178,1700,2024,1,Gypsum;Rock crystal
+178,1700,2024,1,Calcium;Alkaline earth;Gypsum;Chemical element;Rock crystal;Oxygen;Barite;Quartz;Molecule
 179,1700,2100,1,Alchemical symbol;Alchemist
 180,1700,2100,1,Kelvin;Entropy
-181,1700,1812,1,Tellurium;Mineralogy
-182,1700,1817,1,Alum;Chalcogen
+181,1700,1812,1,Copper;Tellurium;Iron;Mineralogy;Serpentine group
+182,1700,1817,1,Alum;Chalcogen;Chemical element;List of elements by name
 183,1700,2100,1,Chromium;Color
-184,1700,1812,1,Chromium;Serpentine group
+184,1700,1812,1,Calcium;Chromium;Iron;Aluminium;Serpentine group
 185,1700,2100,1,Paint;X-ray photoelectron spectroscopy
-186,1701,1702,1,Sulfate;International Union of Pure and Applied Chemistry
-187,1701,1702,1,Sulfate;Alum
-188,1702,1835,1,Linus Pauling;Group 1 element
-189,1702,1812,1,Potassium;Serpentine group
+186,1701,1702,1,Chemical element;Caesium;International Union of Pure and Applied Chemistry;Sulfate;Oxygen;Sulfuric acid
+187,1701,1702,1,Sulfate;Chemical element;Alum;Oxygen;Sulfuric acid;List of elements by name
+188,1702,1835,1,Linus Pauling;Chemical bond;Group 1 element;Chemical element
+189,1702,1812,1,Copper;Potassium;Iron;Chemical element;Caesium;Tin;Serpentine group
 190,1703,2100,1,Potassium;Tourmaline
-191,1703,1807,1,Magnesium;Tourmaline
+191,1703,1807,1,Tourmaline;Magnesium;Chemical element;Potassium
 192,1706,2100,1,Color;Hydrogen cyanide
 193,1706,2100,1,Hydrogen cyanide;Zyklon B
-194,1727,2021,1,Oxygen;Kaolinite
-195,1727,1997,1,Urea;Alkaline earth
+194,1727,2021,1,Atom;Oxygen;Kaolinite;Hydrogen
+195,1727,1997,1,Urea;Alkaline earth;Formic acid;Methane;Methanol;Chemical element;Benzene;Ammonia;Oxygen;Hydrogen
 196,1727,2100,1,Urea;Allingite
 197,1727,2100,1,Urea;Liver
-198,1727,1779,1,Urea;Group 2 element
+198,1727,1779,1,Urea;Group 2 element;Alkaline earth;Chemical element
 199,1727,2100,1,Kaolinite;Serpentine group
-200,1747,2022,1,Glucose;Heavy metal (chemistry)
-201,1748,1817,1,Mercury (element);Battery (electricity)
-202,1748,2021,1,Biochemistry;Carbohydrate
-203,1748,2022,1,Glucose;Carbohydrate
+200,1747,2022,1,Glucose;Atom;Alcohol;Chemical reaction;Oxygen;Heavy metal (chemistry);Molecule
+201,1748,1817,1,Mercury (element);Battery (electricity);Magnesium;Chemical element;Zinc;Oxygen
+202,1748,2021,1,Biochemistry;Chemistry;Carbohydrate;Oxygen;Molecule
+203,1748,2022,1,Molecule;Catalyst;Glucose;Alcohol;Atom;Chemical reaction;Carbohydrate;Oxygen;Heavy metal (chemistry);Chemistry
 204,1749,2100,1,Hydrolysis;Electrolysis
 205,1749,2100,1,Hydrolysis;Mustard gas
 206,1756,2100,1,Zeolite;Catalyst
 207,1761,2100,1,Mole (unit);Calorimeter
 208,1766,2100,1,John Dalton;Atomic mass unit
 209,1768,2100,1,Calcium;Dolomite (mineral)
-210,1768,2021,1,Zeolite;Prehnite
-211,1772,1996,1,Nitrogen;Nitrous oxide
+210,1768,2021,1,Calcium;Potassium;Crystal structure;Mercury (I) chloride;Chemical element;Zeolite;Prehnite;Mineralogy;Aluminium;Oxygen;Ethanol;Chemistry
+211,1772,1996,1,Nitrous oxide;Nitrogen;Chemical element;Ethanol;Chemistry
 212,1772,2100,1,Nitrogen;Distillation
 213,1772,2100,1,Silicon;Fractional freezing
 214,1772,2100,1,Mole (unit);Olivine
-215,1773,1812,1,Diamond;Sapphire
-216,1777,1996,1,Hydrogen sulfide;Trinitrotoluene
-217,1779,2021,1,Glucose;Jöns Jakob Berzelius
-218,1779,2024,1,John Dalton;Jöns Jakob Berzelius
+215,1773,1812,1,Copper;Boron;Iron;Silicon;Diamond;Sapphire;Tin
+216,1777,1996,1,Trinitrotoluene;Methane;Chemical element;Benzene;Hydrogen sulfide;Oxygen;Ethanol;Chemistry
+217,1779,2021,1,Formic acid;Methane;Molecule;Methanol;Catalyst;Chemical element;Glucose;Benzene;Alcohol;Jöns Jakob Berzelius;Carbohydrate;Oxygen;Ethanol;Chemistry
+218,1779,2024,1,Molecule;John Dalton;Chemical element;Jöns Jakob Berzelius;Atomic mass unit
 219,1779,2100,1,Jöns Jakob Berzelius;Electrochemical cell
-220,1780,2022,1,Lactic acid;Potassium
+220,1780,2022,1,Lactic acid;Metal;Formic acid;Methane;Molecule;Methanol;Iron;Potassium;Catalyst;Chemical element;Glucose;Benzene;Atom;Jöns Jakob Berzelius;Oxygen;Ethanol;Chemistry
 221,1780,2100,1,Lactic acid;Medicine
 222,1780,2100,1,Lactic acid;Carl Wilhelm Scheele
-223,1782,2022,1,Chemical nomenclature;International Union of Pure and Applied Chemistry
+223,1782,2022,1,Biochemistry;Pnictogen;Chemical nomenclature;Chemical element;International Union of Pure and Applied Chemistry;Chemistry
 224,1783,2100,1,Limonite;Anglesite
 225,1783,2100,1,Adolf Otto Reinhold Windaus;Chemist
-226,1783,2021,1,Chemist;Linus Pauling
+226,1783,2021,1,Biochemistry;Linus Pauling;Chemical element;Chemist;Chemistry
 227,1783,2100,1,Chemist;John Dalton
 228,1783,2100,1,Lead;Anglesite
 229,1785,2100,1,Distillation;Argon
-230,1789,1811,1,Linus Pauling;Periodic table (big)
-231,1789,1811,1,Linus Pauling;Periodic table (large version)
-232,1791,1835,1,Benzene;Michael Faraday
-233,1791,1996,1,Sodium bicarbonate;Trinitrotoluene
+230,1789,1811,1,Linus Pauling;Group 1 element;Chemical element;Periodic table (big)
+231,1789,1811,1,Linus Pauling;Group 1 element;Chemical element;Periodic table (large version)
+232,1791,1835,1,Electrochemistry;Methane;Chemical element;Benzene;Michael Faraday;Chemical reaction;Hydrogen
+233,1791,1996,1,Trinitrotoluene;Methane;Benzene;Sodium bicarbonate;Ethanol
 234,1791,2100,1,Titration;Calorimeter
 235,1791,2100,1,Titration;Caustic soda
-236,1791,2021,1,Strontianite;Cerussite
-237,1794,1996,1,Chemical nomenclature;Antoine Lavoisier
+236,1791,2021,1,Alkaline earth;Chemical element;Strontianite;Barium;Oxygen;Barite;Cerussite
+237,1794,1996,1,Biochemistry;Antoine Lavoisier;Chemical nomenclature;Chemical element;Chemistry
 238,1794,2100,1,Antoine Lavoisier;Calorimeter
 239,1795,2100,1,Idocrase;Jade
 240,1799,2100,1,Nitrous oxide;Humphry Davy
-241,1800,1916,1,Chemical reaction;Aromatic compound
-242,1800,1834,1,Metal;Ligand
+241,1800,1916,1,Electron;Atom;Chemical reaction;Aromatic compound;Molecule
+242,1800,1834,1,Metal;Alkaline earth;Electron;Ligand;Chemistry;Molecule
 243,1800,2100,1,Crystal structure;Mercury fulminate
 244,1800,2100,1,Ethanol;Mercury fulminate
-245,1800,1835,1,Carbon monoxide;Ligand
+245,1800,1835,1,Group 2 element;Metal;Carbon monoxide;Ligand;Chemical element;Oxygen
 246,1800,2100,1,Phenol;Calamine
-247,1800,1824,1,Benzene;Aromatic compound
+247,1800,1824,1,Methane;Molecule;Benzene;Organic chemistry;Ethanol;Aromatic compound;Chemistry
 248,1800,2100,1,Limonite;Opal
-249,1800,2020,1,Hematite;Amethyst
+249,1800,2020,1,Crystal structure;Hematite;Molecule;Mercury (I) chloride;Chemical element;Atom;Amethyst;Oxygen;Ethanol;Barite;Quartz;Chemistry
 250,1800,2100,1,Organic chemistry;Heterocyclic compound
-251,1800,2021,1,Linus Pauling;F-orbital
-252,1800,2019,1,Lithium;Tourmaline
-253,1800,1916,1,Ligand;G-block
-254,1800,1916,1,Ligand;Period 8 element
-255,1800,1916,1,Ligand;Periodic table (extended)
-256,1800,1812,1,Diamond;Materials science
+251,1800,2021,1,Linus Pauling;Electrochemistry;Chemical bond;Molecule;Chemical element;Atom;F-orbital;Physical chemistry;Chemistry
+252,1800,2019,1,Potassium;Tourmaline;Chemical element;Discovery of the chemical elements;Niobium;Columbite;Lithium
+253,1800,1916,1,G-block;Ligand;Chemical element;Atom;Molecule
+254,1800,1916,1,Ligand;Chemical element;Atom;Period 8 element;Molecule
+255,1800,1916,1,Periodic table (extended);Ligand;Chemical element;Atom;Molecule
+256,1800,1812,1,Tellurium;Copper;Boron;Silicon;Diamond;Materials science;Mineralogy;Tin;Chemistry
 257,1800,2100,1,Diamond;Malacolite
-258,1800,2019,1,Chromium;Malacolite
+258,1800,2019,1,Malacolite;Chromium;Iron;Chemical element;Manganese
 259,1800,2100,1,Boron group;Pesticide
 260,1800,2100,1,Pyrimidine;Purine
-261,1800,2000,1,Pyrimidine;Heterocyclic compound
+261,1800,2000,1,Urea;Nitrogen;Aromatic compound;Benzene;Pyrimidine;Organic chemistry;Heterocyclic compound;Ammonia;Hydrogen
 262,1800,2100,1,Asbestos;Malacolite
-263,1800,1802,1,Materials science;Catalyst
+263,1800,1802,1,State of matter;Group 1 element;Catalyst;Materials science;Physics
 264,1800,2100,1,Opal;Meerschaum
-265,1801,1835,1,Formic acid;Salt (chemistry)
-266,1801,2023,1,Sodium bicarbonate;Salt (chemistry)
-267,1801,1998,1,Sodium hypochlorite;Salt (chemistry)
-268,1801,2023,1,Salt (chemistry);Borax
-269,1801,1834,1,Salt (chemistry);Mercury fulminate
+265,1801,1835,1,Halogen;Formic acid;Methane;Chemical element;Benzene;Organic chemistry;Salt (chemistry);Hydrogen;Chemistry
+266,1801,2023,1,Halogen;Chemical element;Sodium bicarbonate;Organic chemistry;Salt (chemistry);Ethanol;Chemistry
+267,1801,1998,1,Sodium hypochlorite;Chemical element;Ammonia;Salt (chemistry);Hydrogen;Molecule
+268,1801,2023,1,Halogen;Boron;Borax;Chemical element;Silicon;Oxygen;Salt (chemistry)
+269,1801,1834,1,Crystal structure;Atom;Mercury fulminate;Salt (chemistry);Chemistry
 270,1801,2100,1,Chemist;Vladimir Vasilevich Markovnikov
 271,1801,2100,1,Gypsum;Diaspore
 272,1801,2100,1,Titanium;Methylene bridge
-273,1802,1900,1,Classical element;Solid
+273,1802,1900,1,Atom;Chemical element;Solid;Classical element
 274,1802,2100,1,Solid;Phenol
 275,1802,2100,1,Solid;Paint
-276,1802,2018,1,Solid;Scheelite
+276,1802,2018,1,Scheelite;Crystal structure;Mercury (I) chloride;Chemical element;Atom;Solid;Ethanol;Barium;Chemistry
 277,1802,2100,1,Crystal structure;Amalgam (chemistry)
 278,1802,2100,1,Amalgam (chemistry);Platinum
 279,1802,2100,1,Amalgam (chemistry);Calomel
 280,1802,2100,1,Enthalpy;Entropy
 281,1802,2100,1,Enthalpy;G-block
-282,1802,1916,1,Enthalpy;Period 8 element
-283,1802,1916,1,Enthalpy;Periodic table (extended)
+282,1802,1916,1,Enthalpy;Chemical element;Period 8 element;G-block
+283,1802,1916,1,Enthalpy;Chemical element;Periodic table (extended);G-block
 284,1805,2100,1,Electrochemistry;Pourbaix diagram
 285,1805,2100,1,Chemical equilibrium;Pourbaix diagram
-286,1806,2020,1,Goethite;Gypsum
+286,1806,2020,1,Calcium;Gypsum;Goethite;Crystal structure;Molecule;Iron;Hematite;Mercury (I) chloride;Chemical element;Atom;Amethyst;Oxygen;Ethanol;Quartz;Chemistry
 287,1806,2100,1,Copper;Datolite
-288,1806,2021,1,Calcium;Datolite
-289,1807,2023,1,Sodium bicarbonate;Sodium
-290,1812,1863,1,Lithium;Mohs hardness scale
+288,1806,2021,1,Calcium;Potassium;Crystal structure;Molecule;Mercury (I) chloride;Chemical element;Datolite;Atom;Aluminium;Oxygen;Ethanol;Quartz;Chemistry
+289,1807,2023,1,Sodium;Chlorine;Chemical element;Sodium bicarbonate;Oxygen;Ethanol;Chemistry
+290,1812,1863,1,Chemical element;Lithium;Tin;Mohs hardness scale
 291,1812,2100,1,Mohs hardness scale;Opal
-292,1814,2023,1,Sodium bicarbonate;Bicarbonate
+292,1814,2023,1,Bicarbonate;Group 1 element;Chemical element;Sodium bicarbonate;Atom;Oxygen;Ethanol;Chemistry
 293,1814,2100,1,Bicarbonate;William Hyde Wollaston
-294,1815,2020,1,Proton;Lactic acid
+294,1815,2020,1,Lactic acid;Formic acid;Methane;Molecule;Methanol;Catalyst;Chemical element;Glucose;Benzene;Atom;Jöns Jakob Berzelius;Proton;Oxygen;Ethanol;Chemistry
 295,1815,2100,1,Lactic acid;Chirality (chemistry)
 296,1815,2100,1,Organic chemistry;Chirality (chemistry)
 297,1815,2100,1,Chirality (chemistry);Catalyst
@@ -301,22 +301,22 @@ i,birth,death,dim,nodes
 299,1817,2100,1,Sodium;Amblygonite
 300,1817,2100,1,Amblygonite;Apatite
 301,1820,2100,1,Heat;Explosive
-302,1820,1858,1,Heat;Calorimeter
-303,1820,1997,1,Glycine;Hydrogen
+302,1820,1858,1,Chemical reaction;Physical chemistry;Calorimeter;Heat
+303,1820,1997,1,Amino acid;Chemical element;Glycine;Ethanol;Hydrogen;Chemistry
 304,1820,2100,1,Glycine;Radical (chemistry)
 305,1820,2100,1,Naphthalene;Explosive
-306,1821,2018,1,Bauxite;Anatase
-307,1823,2018,1,Sodium;Arfvedsonite
+306,1821,2018,1,Anatase;Cryolite;Rutile;Chemical element;Titanium;Bauxite;Sodium
+307,1823,2018,1,Sodium;Arfvedsonite;Crystal structure;Molecule;Mercury (I) chloride;Chemical element;Atom;Ethanol;Quartz;Chemistry
 308,1823,2100,1,Arfvedsonite;Johan August Arfwedson
-309,1824,1835,1,Iodine;Organic compound
-310,1824,1825,1,Urea;Organic compound
-311,1824,1849,1,Organic compound;Pyrimidine
+309,1824,1835,1,Methane;Chemical element;Organic compound;Ethanol;Iodine;Hydrogen
+310,1824,1825,1,Ammonia;Organic compound;Urea;Hydrogen
+311,1824,1849,1,Benzene;Pyrimidine;Organic compound;Heterocyclic compound;Aromatic compound
 312,1824,2100,1,Organic compound;Picric acid
 313,1825,2100,1,Bromine;Pesticide
 314,1826,2100,1,Calcium;Plagioclase
-315,1826,2019,1,Plagioclase;Sodium
+315,1826,2019,1,Calcium;Sodium;Crystal structure;Molecule;Plagioclase;Mercury (I) chloride;Chemical element;Atom;Aluminium;Oxygen;Ethanol;Quartz;Chemistry
 316,1827,2100,1,Adolf Otto Reinhold Windaus;Isomer
-317,1827,1842,1,Isomer;Amino acid
+317,1827,1842,1,Isomer;Organic chemistry;Chirality (chemistry);Amino acid;Chemistry
 318,1827,2100,1,Isomer;Trinitrotoluene
 319,1827,2100,1,Isomer;Mercury fulminate
 320,1828,2100,1,Organic reaction;Organic compound
@@ -327,29 +327,29 @@ i,birth,death,dim,nodes
 325,1832,2100,1,Thiol;Hemoglobin
 326,1832,2100,1,Chemist;Sylvite
 327,1833,2100,1,Enzyme;Purine
-328,1834,1939,1,Ion;Chlorine
-329,1834,2023,1,Ion;Chromium
-330,1834,2018,1,Ion;Apatite
-331,1834,1850,1,Nitrogen;Pyrrole
+328,1834,1939,1,Ion;Chlorine;Electronegativity;Chemistry;Fluorine;Molecule
+329,1834,2023,1,Atom;Ion;Chemical element;Chromium
+330,1834,2018,1,Ion;Molecule;Atom;Apatite;Quartz;Mohs hardness scale
+331,1834,1850,1,Nitrogen;Pyrimidine;Organic compound;Pyrrole;Hydrogen
 332,1835,2100,1,Phenol;Johann Friedrich Wilhelm Adolf von Baeyer
 333,1835,2100,1,Heterocyclic compound;Porphyrin
 334,1835,2100,1,Hemoglobin;Porphyrin
-335,1836,1997,1,Arsenic;Aluminium gallium arsenide
+335,1836,1997,1,Arsenic;Semiconductor;Alloy;Aluminium gallium arsenide;Gallium
 336,1836,2100,1,Aluminium gallium arsenide;Electron volt
 337,1836,2100,1,Pyrrole;Chlorin
 338,1837,2100,1,Atomic mass;John Alexander Reina Newlands
-339,1838,2009,1,Quantum chemistry;Linus Pauling
-340,1838,1839,1,Enzyme;Protein
+339,1838,2009,1,Linus Pauling;Electrochemistry;Chemical element;Atom;Quantum chemistry;F-orbital;Physical chemistry;Molecule
+340,1838,1839,1,Glucose;Enzyme;Protein;Oxygen;Carbohydrate
 341,1838,2100,1,Barite;Bastnasite
 342,1838,2100,1,Acetone;Citric acid
-343,1838,2020,1,Citric acid;Salt (chemistry)
+343,1838,2020,1,Catalyst;Citric acid;Benzene;Alcohol;Salt (chemistry);Molecule
 344,1838,2100,1,Citric acid;Carl Wilhelm Scheele
 345,1838,2100,1,Sodium hydroxide;Protein
 346,1838,2100,1,Bauxite;Bastnasite
 347,1839,2100,1,Methanol;Condensation polymer
-348,1839,1845,1,Glycine;Carboxylic acid
-349,1839,1845,1,Formic acid;Carboxylic acid
-350,1839,2020,1,Lactic acid;Carboxylic acid
+348,1839,1845,1,Acetaldehyde;Methanol;Carboxylic acid;Catalyst;Glycine;Organic compound;Ethanol;Amino acid;Molecule
+349,1839,1845,1,Acetaldehyde;Formic acid;Carboxylic acid;Naphthalene;Organic compound;Ethanol
+350,1839,2020,1,Lactic acid;Acetaldehyde;Formic acid;Methanol;Carboxylic acid;Chemical element;Glucose;Jöns Jakob Berzelius;Oxidation number;Oxygen;Ethanol
 351,1839,2100,1,Sodium;Sodium citrate
 352,1840,2100,1,Fat;Bioaccumulate
 353,1845,2100,1,Marcasite;List of alchemical substances
@@ -359,7 +359,7 @@ i,birth,death,dim,nodes
 357,1846,2100,1,Tyrosine;Aromatic compound
 358,1846,2100,1,Naphthalene;Phthalates
 359,1846,2100,1,Solvent;Alchemist
-360,1846,2024,1,Solvent;Colloid
+360,1846,2024,1,Biochemistry;Organic compound;International Union of Pure and Applied Chemistry;Chemistry;Colloid;Sulfate;Salt (chemistry);Solvent;Molecule
 361,1846,2100,1,Solvent;Phthalates
 362,1846,2100,1,Pesticide;Phthalates
 363,1846,2100,1,Liver;Phthalates
@@ -370,22 +370,22 @@ i,birth,death,dim,nodes
 368,1847,2100,1,Citric acid;Ether
 369,1847,2100,1,Formic acid;Ether
 370,1847,2100,1,Nitrous oxide;Ether
-371,1847,2007,1,Ether;Trinitrotoluene
-372,1847,2024,1,Solvent;Solvation
+371,1847,2007,1,Organic reaction;Trinitrotoluene;Nitroglycerine;Chemical reaction;Organic chemistry;Organic compound;Ether;Aromatic compound;Molecule
+372,1847,2024,1,Biochemistry;Chemical element;Solvation;Atom;Organic compound;Solid;Solvent;Molecule
 373,1847,2100,1,Chemist;Otto Wallach
-374,1847,2020,1,Potassium;Celadonite
-375,1847,2018,1,Aluminium;Celadonite
-376,1847,2020,1,Biotite;Samarskite
-377,1847,1999,1,Caustic soda;Solvation
+374,1847,2020,1,Potassium;Muscovite;Iron;Silicon;Celadonite;Magnesium
+375,1847,2018,1,Celadonite;Chemical element;Potassium;Aluminium
+376,1847,2020,1,Samarskite;Potassium;Crystal structure;Molecule;Muscovite;Samarium;Mercury (I) chloride;Beryllium;Chemical element;Biotite;Discovery of the chemical elements;Atom;Mohs hardness scale;Ethanol;Quartz;Chemistry
+377,1847,1999,1,Biochemistry;Caustic soda;Solvation;Organic compound;Oxygen;Solvent;Molecule
 378,1848,2100,1,Periodic table;Thioether
-379,1849,1998,1,Butane;Organic compound
-380,1849,1997,1,Butane;Isomer
+379,1849,1998,1,Chemical bond;Butane;Carbon;Chemical element;Atom;Organic compound;Molecule
+380,1849,1997,1,Butane;Isomer;Chemical element;Atom;Molecule
 381,1850,2100,1,Oxygen;Henri Louis le Chatelier
 382,1850,2100,1,Sulfur;Simple aromatic ring
 383,1850,2100,1,Chemical equilibrium;Henri Louis le Chatelier
-384,1852,1997,1,Quartz;Fluorspar
+384,1852,1997,1,Fluorspar;Atom;Solid;Quartz;Molecule
 385,1852,2100,1,Cryolite;Fluorspar
-386,1852,2021,1,Barite;Fluorspar
+386,1852,2021,1,Calcium;Cryolite;Alkaline earth;Fluorspar;Aluminium;Barite
 387,1852,2100,1,Butane;Bunsen burner
 388,1852,2100,1,Glucose;Hermann Emil Fischer
 389,1852,2100,1,Glucose;Emil Hermann Fischer
@@ -393,30 +393,30 @@ i,birth,death,dim,nodes
 391,1852,2100,1,Hydrochloric acid;Fluorite
 392,1852,2100,1,Hydrochloric acid;Fluorspar
 393,1852,2100,1,Calcium;Fluorite
-394,1852,2023,1,Uranium;Fluorspar
+394,1852,2023,1,Mercury (element);Gold;Fluorspar;Chemical element;Chlorine;Uranium;Alchemy;Lead;Fluorine;Oxygen
 395,1852,2100,1,Bunsen burner;Alkaline earth
 396,1852,2100,1,Bunsen burner;Michael Faraday
 397,1852,2100,1,Bunsen burner;Group 2 element
 398,1852,2100,1,Hermann Emil Fischer;Mustard gas
 399,1852,2100,1,Semiconductor;Fluorspar
 400,1852,2100,1,Tourmaline;Hübnerite
-401,1852,2023,1,Europium;Fluorspar
-402,1852,2023,1,Yttrium;Fluorspar
-403,1852,2018,1,Manganese;Hübnerite
+401,1852,2023,1,Fluorspar;Chlorine;Fluorine;Oxygen;Europium
+402,1852,2023,1,Oxidation state;Fluorspar;Chemical element;Chlorine;Atom;Yttrium;Fluorine;Oxygen;Heavy metal (chemistry)
+403,1852,2018,1,Manganese;Tungsten;Chemical element;Hübnerite
 404,1852,2100,1,Fluorite;Sylvite
 405,1852,2100,1,Fluorite;Hübnerite
 406,1853,2100,1,Allotrope;Wilhelm Ostwald
-407,1853,2021,1,Wilhelm Ostwald;Mole (unit)
+407,1853,2021,1,Catalyst;Chemical element;Mole (unit);Wilhelm Ostwald;Chemical reaction;Chemistry
 408,1853,2100,1,Wilhelm Ostwald;Johannes Diderik van der Waals
-409,1856,2021,1,Physics;Amedeo Avogadro
+409,1856,2021,1,Amedeo Avogadro;Chemical element;Atom;Physics;Chemistry
 410,1857,2100,1,Propane;Standard temperature and pressure
 411,1859,2100,1,Formaldehyde;Allingite
 412,1859,2100,1,Formaldehyde;Johann Friedrich Wilhelm Adolf von Baeyer
-413,1859,1997,1,Hydrogen sulfide;Epoxyethane
-414,1859,1997,1,Isomer;Epoxyethane
+413,1859,1997,1,Methanol;Epoxyethane;Hydrogen sulfide;Formaldehyde;Oxygen
+414,1859,1997,1,Isomer;Methanol;Chemical element;Epoxyethane;Formaldehyde;Oxygen;Molecule
 415,1859,2100,1,Antimony;Epoxyethane
-416,1859,2020,1,Silver;Epoxyethane
-417,1860,2009,1,Analytical chemistry;Electrochemistry
+416,1859,2020,1,Metal;Chemical bond;Electron;Group 1 element;Epoxyethane;Silver;Bismuth;Chemistry
+417,1860,2009,1,Electrochemistry;Spectroscopy;Analytical chemistry;Molecule
 418,1860,2100,1,Analytical chemistry;Chemical nomenclature
 419,1860,2100,1,Analytical chemistry;Distillation
 420,1860,2100,1,Analytical chemistry;Titration
@@ -425,41 +425,41 @@ i,birth,death,dim,nodes
 423,1860,2100,1,Allingite;Isoprene
 424,1861,2100,1,Thermometer;Thallium
 425,1861,2100,1,Crystal structure;Kamacite
-426,1861,2018,1,Alkali metal;Lepidolite
+426,1861,2018,1,Tantalum;Crystal structure;Molecule;Mercury (I) chloride;Chemical element;Discovery of the chemical elements;Atom;Columbite;Alkali metal;Lithium;Ethanol;Lepidolite;Quartz;Chemistry
 427,1862,2100,1,Selenium;Crookesite
 428,1862,2100,1,Thallium;Crookesite
 429,1864,2100,1,Spectroscopy;Ethene
-430,1864,2022,1,Enzyme;Ethene
-431,1864,2022,1,Chlorine;Ethene
+430,1864,2022,1,Atom;Enzyme;Chemical reaction;Ethene
+431,1864,2022,1,Atom;Ion;Chlorine;Ethene
 432,1864,2100,1,Nitrous oxide;Walther Hermann Nernst
-433,1864,1916,1,Ligand;Ethene
-434,1864,2019,1,Aluminium;Ethene
+433,1864,1916,1,Chemical bond;Carbon;Carbon monoxide;Ligand;Atom;Ethene
+434,1864,2019,1,Chemical element;Aluminium;Oxygen;Ethanol;Ethene;Chemistry
 435,1864,2100,1,Infrared spectroscopy;Walther Hermann Nernst
 436,1864,2100,1,Joseph Priestley;Ethene
-437,1865,2021,1,Heat;Chemical thermodynamics
+437,1865,2021,1,Electrochemistry;Chemical element;Chemical reaction;Chemical thermodynamics;Heat;Physical chemistry;Molecule
 438,1865,2100,1,Chemical thermodynamics;J. H. van 't Hoff
 439,1868,2100,1,Chlorine;Fritz Haber
 440,1868,2100,1,Hydrogen;Fritz Haber
 441,1869,2100,1,Enzyme;Nucleic Acid
-442,1869,2023,1,Hafnium;Semiconductor
-443,1869,1917,1,Alkaline earth;Picometre
+442,1869,2023,1,Ion;Semiconductor;Hafnium;Chemical element;Atom
+443,1869,1917,1,Picometre;Alkaline earth;Electron;G-block;Atom;Proton;Atomic radius
 444,1869,2100,1,Medicine;Fritz Pregl
 445,1870,2100,1,Marcasite;Metacinnabarite
 446,1870,2100,1,Chalcedony;Metacinnabarite
 447,1871,2100,1,Chemist;Victor Grignard
 448,1873,2100,1,Solid;Triple point
 449,1873,2100,1,Ammonia;Triple point
-450,1873,1927,1,Triple point;Argon
+450,1873,1927,1,Mercury (element);Chemical element;Argon;Aluminium;Gallium;Oxygen;Triple point
 451,1874,2100,1,Gypsum;Livingstonite
 452,1874,2100,1,Sulfur;Livingstonite
 453,1874,2100,1,Antimony;Livingstonite
 454,1875,2100,1,Hydrazine;Polymerization
 455,1875,2100,1,Hydrazine;Adolph Wilhelm Hermann Kolbe
 456,1877,2100,1,Acetic acid;Acetaminophen
-457,1877,2022,1,Phenol;Acetaminophen
-458,1877,2000,1,Acetaminophen;Amide
-459,1877,2020,1,Acetaminophen;Sulfate
-460,1877,1913,1,Acetaminophen;Thiol
+457,1877,2022,1,Acetaldehyde;Acetic acid;Methanol;Acetaminophen;Chemical element;Phenol;Organic compound;Formaldehyde;Oxygen;Chemistry
+458,1877,2000,1,Acetaldehyde;Urea;Acetic acid;Amide;Acetaminophen;Acetone
+459,1877,2020,1,Acetaldehyde;Acetic acid;Methanol;Acetaminophen;Sulfate;Formaldehyde;Oxygen;Sulfuric acid
+460,1877,1913,1,Lactic acid;Ion;Methanol;Carboxylic acid;Acetaminophen;Alcohol;Organic compound;Thiol;Oxygen;Ethanol
 461,1877,2100,1,Acetaminophen;Atomic orbital
 462,1877,2100,1,Acetaminophen;Hydrolysis
 463,1877,2100,1,Acetaminophen;Tin
@@ -467,23 +467,23 @@ i,birth,death,dim,nodes
 465,1878,2100,1,Uranium;Lise Meitner
 466,1879,2100,1,Yttria;Alcohol
 467,1879,2100,1,Yttria;Materials science
-468,1879,2023,1,Otto Hahn;Chemist
-469,1879,2023,1,Otto Hahn;Glenn T. Seaborg
-470,1879,1895,1,Otto Hahn;Ernest Rutherford
+468,1879,2023,1,Rubidium;Mercury (element);Gold;Hermann Emil Fischer;Ernest Rutherford;Atom;Otto Hahn;Uranium;Alchemy;Lead;Chemist;Chemistry
+469,1879,2023,1,Periodic table;Rubidium;Mercury (element);Gold;Chemical element;Atom;Glenn T. Seaborg;Otto Hahn;Uranium;Alchemy;Lead;Oxygen
+470,1879,1895,1,Otto Hahn;Ernest Rutherford;Hermann Emil Fischer;Chemistry
 471,1880,2100,1,Lanthanum;Monazite
 472,1880,2100,1,Samarium;Monazite
 473,1880,2100,1,Monazite;Holmium
 474,1883,2100,1,Organic chemistry;Walter Norman Haworth
-475,1884,1900,1,Solid;Mass spectrometer
-476,1884,1910,1,Metal;Mass spectrometer
-477,1884,1995,1,Toluene;Mass spectrometer
+475,1884,1900,1,Mass spectrometer;Chemical element;Atom;Solid;Molecule
+476,1884,1910,1,Sodium;Mass spectrometer;Metal;Atomic mass unit;Chemical element;Atom;Molecule
+477,1884,1995,1,Biochemistry;Mass spectrometer;Toluene;Organic compound;Solvent;Molecule
 478,1884,2100,1,Chemist;Theodor Svedberg
 479,1884,2100,1,Coal;Friedrich Bergius
 480,1884,2100,1,Theodor Svedberg;Colloid
-481,1884,1910,1,Deuterium;Mass spectrometer
+481,1884,1910,1,Mass spectrometer;Deuterium;Chemical element;Atom;Sodium
 482,1885,2100,1,Hafnium;George de Hevesy
 483,1887,2100,1,Leopold Ružička;Hermann Staudinger
-484,1887,1888,1,Chirality (chemistry);Louis Pasteur
+484,1887,1888,1,Stereochemistry;Louis Pasteur;Chirality (chemistry);Chemistry
 485,1888,2100,1,Chemical engineering;Joule per kilogram-kelvin
 486,1889,2100,1,Bunsen burner;Activation energy
 487,1889,2100,1,Activation energy;Trinitrotoluene
@@ -496,13 +496,13 @@ i,birth,death,dim,nodes
 494,1893,2100,1,Sulfur;Cylindrite
 495,1893,2100,1,Tellurium;Canfieldite
 496,1893,2100,1,Cylindrite;Franckeite
-497,1893,2023,1,Franckeite;Stannite
+497,1893,2023,1,Franckeite;Crystal structure;Iron;Mercury (I) chloride;Chemical element;Manganese;Stannite;Ethanol;Marcasite;Chemistry
 498,1894,2100,1,Mercury (element);Lorandite
 499,1894,2100,1,Barite;Lorandite
-500,1894,2001,1,Cytosine;Aromatic compound
-501,1894,2019,1,Marcasite;Lorandite
+500,1894,2001,1,Pyrimidine;Cytosine;Aromatic compound;Pyridine
+501,1894,2019,1,Mercury (element);Crystal structure;Gold;Lorandite;Atom;Mohs hardness scale;Marcasite;Quartz;Molecule
 502,1894,2100,1,Ammonia;Lorandite
-503,1894,2019,1,Arsenic;Lorandite
+503,1894,2019,1,Arsenic;Molecule;Crystal structure;Lorandite;Atom;Marcasite;Quartz;Mohs hardness scale
 504,1895,2100,1,Organic reaction;Nobel Prize in Chemistry
 505,1895,2100,1,Nobel Prize in Chemistry;Leopold Ružička
 506,1895,2100,1,Nobel Prize in Chemistry;Adolf Otto Reinhold Windaus
@@ -516,7 +516,7 @@ i,birth,death,dim,nodes
 514,1896,2100,1,Biochemistry;Walter Gilbert
 515,1896,2100,1,Histidine;Aromatic compound
 516,1896,2100,1,Histidine;Radical (chemistry)
-517,1896,1918,1,Nobel Prize in Chemistry;Walter Gilbert
+517,1896,1918,1,Biochemistry;Linus Pauling;Nobel Prize in Chemistry;Walter Gilbert
 518,1896,2100,1,Nobel Prize in Chemistry;William H. Stein
 519,1897,2100,1,Aldehyde;Georg Wittig
 520,1897,2100,1,Nobel Prize in Chemistry;Odd Hassel
@@ -524,7 +524,7 @@ i,birth,death,dim,nodes
 522,1897,2100,1,Chemist;Viktor Meyer
 523,1897,2100,1,Viktor Meyer;Mustard gas
 524,1899,2100,1,Hermann Emil Fischer;Commission on Isotopic Abundances and Atomic Weights
-525,1899,1960,1,International Union of Pure and Applied Chemistry;Commission on Isotopic Abundances and Atomic Weights
+525,1899,1960,1,Commission on Isotopic Abundances and Atomic Weights;Alkaline earth;International Union of Pure and Applied Chemistry;Chemical element
 526,1899,2100,1,Helium;Periodic table (electron configurations)
 527,1899,2100,1,Kelvin;Commission on Isotopic Abundances and Atomic Weights
 528,1899,2100,1,Commission on Isotopic Abundances and Atomic Weights;Henri Moissan
@@ -537,15 +537,15 @@ i,birth,death,dim,nodes
 535,1900,2100,1,Chromatography;Mass spectrometer
 536,1900,2100,1,Cas registry number;Phthalates
 537,1901,2100,1,Amide;Peptide
-538,1903,2020,1,Calcium;Electrolyte
-539,1903,2021,1,Nobel Prize in Chemistry;Giulio Natta
+538,1903,2020,1,Calcium;Electrolyte;Proton;Sulfuric acid;List of elements by name
+539,1903,2021,1,Giulio Natta;Polymer;Organic chemistry;Nobel Prize in Chemistry;Chemistry
 540,1903,2100,1,Chemist;Giulio Natta
 541,1903,2100,1,Yttrium;Electrolyte
 542,1904,2100,1,Sulfur;Teallite
 543,1904,2100,1,Semiconductor;Electrode
 544,1904,2100,1,Franckeite;Teallite
 545,1905,2100,1,International Union of Pure and Applied Chemistry;Electrode potential
-546,1905,2022,1,Electrode;Electrode potential
+546,1905,2022,1,Electrode potential;Electrochemistry;Copper;Electrode;Atom;Platinum;Molecule
 547,1907,2100,1,Robert Robinson (organic chemist);Alexander R. Todd, Baron Todd
 548,1909,2100,1,Irving Langmuir;Oxidation number
 549,1910,2100,1,Nitrogen;Van der Waals radius
@@ -557,15 +557,15 @@ i,birth,death,dim,nodes
 555,1910,2100,1,Chromatography;Archer John Porter Martin
 556,1910,2100,1,Robert Robinson (organic chemist);Dorothy Crowfoot Hodgkin
 557,1910,2100,1,Van der Waals radius;Johannes Diderik van der Waals
-558,1910,2000,1,Decay energy;G-block
-559,1910,2000,1,Decay energy;Period 8 element
-560,1910,2000,1,Decay energy;Periodic table (extended)
+558,1910,2000,1,Decay energy;G-block;Atom;Proton;Atomic nucleus
+559,1910,2000,1,Decay energy;Atom;Period 8 element;Proton;Atomic nucleus
+560,1910,2000,1,Decay energy;Periodic table (extended);Atom;Proton;Atomic nucleus
 561,1913,2100,1,Hydroxyl;International Union of Pure and Applied Chemistry
 562,1913,2100,1,Hydroxyl;Serpentine group
 563,1914,2100,1,Acetone;Ketone
 564,1914,2100,1,Cytosine;Ketone
-565,1914,1999,1,Chlorine;Ketone
-566,1914,2007,1,Hydroxyl;Ketone
+565,1914,1999,1,Acetaldehyde;Ketone;Group 1 element;Chlorine;Atom;Oxidation number;Acetone
+566,1914,2007,1,Acetaldehyde;Ketone;Hydroxyl;Aldehyde;Acetone
 567,1914,2100,1,Linus Pauling;Max Ferdinand Perutz
 568,1914,2100,1,Chromatography;Richard Laurence Millington Synge
 569,1915,2100,1,Diffusion pump;Irving Langmuir
@@ -589,9 +589,9 @@ i,birth,death,dim,nodes
 587,1923,2100,1,Ammonia;Harold Clayton Urey
 588,1923,2100,1,Isotope;Harold Clayton Urey
 589,1923,2100,1,Infrared spectroscopy;Raman spectroscopy
-590,1925,1926,1,Quantum chemistry;Hund's rule
+590,1925,1926,1,Hund's rule;Atom;Quantum chemistry;F-orbital;Molecule
 591,1925,2100,1,Nobel Prize in Chemistry;John Pople
-592,1925,2021,1,Alcohol;Nucleophile
+592,1925,2021,1,Methanol;Lewis acid;Chemical element;Epoxyethane;Atom;Alcohol;Formaldehyde;Oxygen;Nucleophile
 593,1926,2100,1,Boron;Kernite
 594,1927,2100,1,Redox;Adolf Otto Reinhold Windaus
 595,1927,2100,1,Computational chemistry;John Pople
@@ -628,8 +628,8 @@ i,birth,death,dim,nodes
 626,1944,2100,1,John Pople;Rudolph Pariser
 627,1946,2100,1,Enzyme;John Howard Northrop
 628,1948,2100,1,Nobel Prize in Chemistry;Hartmut Michel
-629,1950,2023,1,Ion;Californium
-630,1950,2009,1,Molecular dynamics;Computational chemistry
+629,1950,2023,1,Ion;Californium;Chemical element;Gas
+630,1950,2009,1,Chemical element;Atom;Computational chemistry;Molecular dynamics;Molecule
 631,1950,2100,1,Molecular dynamics;Materials science
 632,1950,2100,1,Molecular dynamics;Johannes Diderik van der Waals
 633,1952,2100,1,Analytical chemistry;John Bennett Fenn
@@ -637,13 +637,13 @@ i,birth,death,dim,nodes
 635,1955,2100,1,Chemist;Henry Taube
 636,1958,2100,1,Spectroscopy;Mössbauer spectroscopy
 637,1958,2100,1,Electromagnetic spectroscopy;Mössbauer spectroscopy
-638,1960,1985,1,Rutherfordium;International Union of Pure and Applied Chemistry
+638,1960,1985,1,Lawrencium;International Union of Pure and Applied Chemistry;Chemical element;Rutherfordium
 639,1960,2100,1,Trinitrotoluene;Mega-
 640,1960,2100,1,Organolithium reagent;Karl Ziegler
 641,1961,2100,1,Physical chemistry;Theodore William Richards
 642,1961,2100,1,Nobel Prize in Chemistry;Theodore William Richards
 643,1965,2100,1,Organic chemistry;Robert Burns Woodward
-644,1968,1969,1,Nobel Prize in Chemistry;Lars Onsager
+644,1968,1969,1,Lars Onsager;Physical chemistry;Nobel Prize in Chemistry;Chemistry
 645,1968,2100,1,Nobel Prize in Chemistry;Kary Mullis
 646,1969,2100,1,Conductivity (electrolytic);Lars Onsager
 647,1970,2100,1,Redox;Luis F. Leloir
@@ -665,24 +665,24 @@ i,birth,death,dim,nodes
 663,1989,2100,1,Enzyme;Thomas R. Cech
 664,1989,2100,1,Nobel Prize in Chemistry;Thomas R. Cech
 665,1990,2100,1,Nobel Prize in Chemistry;Elias James Corey
-666,1991,2020,1,Phenol;Carbonic acid
-667,1991,2023,1,Carbonic acid;Salt (chemistry)
-668,1991,2023,1,Carbonic acid;Bicarbonate
+666,1991,2020,1,Acetaldehyde;Carbonic acid;Acetic acid;Acetaminophen;Phenol;Acetone
+667,1991,2023,1,Acetaldehyde;Carbonic acid;Methanol;Group 1 element;Chemical element;Atom;Acetone;Formaldehyde;Oxygen;Salt (chemistry)
+668,1991,2023,1,Acetaldehyde;Carbonic acid;Methanol;Bicarbonate;Chemical element;Sodium bicarbonate;Acetone;Formaldehyde;Oxygen;Ethanol;Chemistry
 669,1991,2100,1,Carbonic acid;Reversible reaction
-670,1992,1997,1,Nitric oxide;Nitrogen
+670,1992,1997,1,Nitric oxide;Trinitrotoluene;Methane;Nitrogen;Nitrous oxide;Gas;Chemical element;Nitroglycerine;Benzene;Ethanol;Chemistry
 671,1992,2100,1,Nitric oxide;Radical (chemistry)
 672,1994,2100,1,Methane;George A. Olah
 673,1994,2100,1,Infrared spectroscopy;George A. Olah
-674,1995,2020,1,Water;Lactic acid
-675,1995,1999,1,Water;Triple point
+674,1995,2020,1,Acetaldehyde;Lactic acid;Water;Acetic acid;Methanol;Chemical element;Formaldehyde;Oxygen
+675,1995,1999,1,Water;Argon;Neon;Oxygen;Triple point
 676,1995,2100,1,Water;Cas registry number
 677,1995,2100,1,Water;Fahrenheit
 678,1995,2100,1,Water;Speed of sound
-679,1996,1997,1,Chemical compound;Carbonic acid
-680,1996,1998,1,Chemical compound;Alum
+679,1996,1997,1,Acetaldehyde;Carbonic acid;Methanol;Chemical compound;Acetone;Formaldehyde
+680,1996,1998,1,Group 1 element;Alum;Chemical compound;Ammonia;Hydrogen
 681,1996,2100,1,Chemical compound;Cosmetics
-682,1996,1997,1,Solid;Ice
-683,1996,2000,1,Acetaminophen;Base (chemistry)
+682,1996,1997,1,Atom;Ice;Solid;Molecule
+683,1996,2000,1,Acetaldehyde;Water;Base (chemistry);Acetic acid;Methanol;Acetaminophen;Glycine;Sodium hydroxide;Chemical compound;Ammonia;Formaldehyde;Ethanol;Hydrogen
 684,1996,2100,1,Base (chemistry);Svante Arrhenius
 685,1996,2100,1,Base (chemistry);Chemical equilibrium
 686,1996,2100,1,Base (chemistry);Tert-butyllithium
@@ -692,22 +692,22 @@ i,birth,death,dim,nodes
 690,1997,2100,1,Ion;Perchlorate
 691,1997,2100,1,Crystal;Naphthalene
 692,1997,2100,1,Crystal;Sodium bicarbonate
-693,1997,2018,1,Crystal;Plagioclase
-694,1997,2018,1,Crystal;Anatase
-695,1997,2018,1,Crystal;Cerussite
+693,1997,2018,1,Crystal structure;Plagioclase;Mercury (I) chloride;Chemical element;Crystal;Chemical compound;Sodium
+694,1997,2018,1,Anatase;Cryolite;Crystal structure;Mercury (I) chloride;Chemical element;Crystal;Chemical compound;Bauxite;Sodium
+695,1997,2018,1,Chemical compound;Crystal structure;Mercury (I) chloride;Chemical element;Crystal;Barium;Barite;Cerussite
 696,1997,2100,1,Crystal;Monazite
-697,1997,2018,1,Crystal;Serpentine group
-698,1997,2018,1,Crystal;Leucite
+697,1997,2018,1,Potassium;Crystal structure;Mercury (I) chloride;Chemical element;Crystal;Chemical compound;Serpentine group
+698,1997,2018,1,Potassium;Crystal structure;Mercury (I) chloride;Chemical element;Leucite;Crystal;Chemical compound
 699,1997,2100,1,Crystal;Herbert A. Hauptman
 700,1997,2100,1,Crystal;Idocrase
-701,1997,2018,1,Crystal;Tanzanite
-702,1997,2018,1,Crystal;Sperrylite
-703,1997,1998,1,Nitrogen dioxide;Palladium
-704,1997,2008,1,Nitrogen dioxide;Electromagnetic spectroscopy
+701,1997,2018,1,Vanadium;Crystal structure;Mercury (I) chloride;Chemical element;Tanzanite;Crystal;Chemical compound
+702,1997,2018,1,Sperrylite;Crystal structure;Mercury (I) chloride;Chemical element;Nickel;Crystal;Chemical compound
+703,1997,1998,1,Gas;Carbon monoxide;Nitrogen dioxide;Palladium;Oxygen
+704,1997,2008,1,Gas;Nitrogen dioxide;Chemical element;Electromagnetic spectroscopy;Atom
 705,1997,2100,1,Enzyme;Paul D. Boyer
 706,1997,2100,1,Chemical formula;Covellite
-707,1997,1998,1,Chemical formula;Malachite
-708,1997,1999,1,Chemical formula;Gypsum
+707,1997,1998,1,Covellite;Chemical formula;Copper;Malachite
+708,1997,1999,1,Gypsum;Chemical formula;Silicon;Rock crystal;Quartz
 709,1997,2100,1,Chemical formula;Biotite
 710,1997,2100,1,Chemical formula;Pyrrole
 711,1997,2100,1,Chemical formula;Scheelite
@@ -716,29 +716,29 @@ i,birth,death,dim,nodes
 714,1997,2100,1,Acetylene;Epoxyethane
 715,1997,2100,1,Nitroglycerine;Ester
 716,1997,2100,1,Pyridine;Alkali
-717,1997,2020,1,Naphthalene;Sulfur dioxide
+717,1997,2020,1,Water;Chemical formula;Naphthalene;Oxygen;Sulfur dioxide
 718,1997,2100,1,Hydrochloric acid;Gallium arsenide
 719,1997,2100,1,Acetylcholine;Ester
 720,1998,2100,1,Chemistry (etymology);Alchemy
 721,1998,2100,1,Chemistry (etymology);Egyptian language
 722,1998,2100,1,Chemistry (etymology);Metal
 723,1998,2100,1,Crystal;Calcium oxide
-724,1998,2024,1,Alloy;Sodium chloride
+724,1998,2024,1,Water;Sodium chloride;Gas;Alloy;Chemical formula;Chemical element;Oxygen;Molecule
 725,1998,2100,1,Chemical formula;Uric acid
 726,1998,2100,1,Chemical formula;Chlorite
-727,1998,2020,1,Boron nitride;Nitrogen
+727,1998,2020,1,Water;Nitrogen;Carbon monoxide;Chemical formula;Oxygen;Boron nitride
 728,1998,2100,1,Carbon dioxide;Kimberlite
 729,1998,2100,1,Carbon dioxide;George A. Olah
 730,1998,2100,1,Carbon dioxide;Mercury (I) chloride
 731,1998,2100,1,Carbon dioxide;Mercury fulminate
 732,1998,2100,1,Hexane;Solvent
 733,1998,2100,1,Hexane;International Union of Pure and Applied Chemistry
-734,1998,2007,1,Octane;Hydrocarbon
+734,1998,2007,1,Butane;Carbon;Methane;Heptane;Hexane;Octane;Propane;Hydrocarbon
 735,1998,2100,1,Chalcopyrite;Sperrylite
 736,1998,2100,1,Talc;Magnesium
 737,1998,2100,1,Talc;Diaspore
 738,1998,2100,1,Talc;Mohs hardness scale
-739,1998,2020,1,Sodium cyanide;Sulfur dioxide
+739,1998,2020,1,Water;Sodium cyanide;Chemical formula;Oxygen;Sulfur dioxide
 740,1998,2100,1,Sodium cyanide;Sodium
 741,1998,2100,1,Silane;Silicon
 742,1998,2100,1,Organic compound;Methylene (compound)
@@ -757,20 +757,20 @@ i,birth,death,dim,nodes
 755,1999,2100,1,Phenol;Parabens
 756,1999,2100,1,Ferrocene;Metal halide
 757,1999,2100,1,Carbonic acid;Solution
-758,1999,2020,1,Ammonium;Ammonium perchlorate
+758,1999,2020,1,Acetone;Chemical formula;Ammonium perchlorate;Ammonium
 759,1999,2100,1,Ammonium perchlorate;Ether
 760,1999,2100,1,Ammonium perchlorate;Perchlorate
 761,1999,2100,1,Sodium chloride;Metal halide
 762,1999,2100,1,Sodium hypochlorite;Parabens
 763,1999,2100,1,Sodium hydroxide;Metal halide
 764,1999,2100,1,Carbonyl;Nuclear magnetic resonance
-765,1999,2024,1,Carbonyl;Nucleophile
+765,1999,2024,1,Bromine;Chemical element;Carbonyl;Nucleophile;Molecule
 766,1999,2100,1,Carbonyl;Infrared spectroscopy
 767,1999,2100,1,Methyl group;Molecular mechanics
 768,1999,2100,1,Alkali metal;Metal halide
 769,1999,2100,1,Oxide;Telluride (chemistry)
 770,1999,2100,1,Carnallite;Chloride
-771,1999,2018,1,Silicon dioxide;Opal
+771,1999,2018,1,Silicon dioxide;Opal;Quartz;Mohs hardness scale
 772,1999,2100,1,Silicon dioxide;High performance liquid chromatography
 773,1999,2100,1,Silicon dioxide;Keilhauite
 774,1999,2100,1,Methylene bridge;Molecular mechanics
@@ -790,17 +790,17 @@ i,birth,death,dim,nodes
 788,2000,2100,1,Van der Waals force;Molecular modeling
 789,2000,2100,1,Physical chemistry;Intermolecular force
 790,2000,2100,1,Quantum chemistry;Molecular modeling
-791,2000,2021,1,Analytical chemistry;Environmental chemistry
+791,2000,2021,1,Chemical element;Analytical chemistry;Spectroscopy;Chemical reaction;Chemical compound;Environmental chemistry;Molecule
 792,2000,2100,1,Enzyme;Molecular modeling
-793,2000,2001,1,Cytosine;Amine
+793,2000,2001,1,Glycine;Pyrimidine;Cytosine;Pyridine;Amine
 794,2000,2100,1,Pyridine;Aromatic hydrocarbon
-795,2000,2001,1,Chlorine;Concentration
-796,2000,2024,1,Acetyl;Actinium
+795,2000,2001,1,Henri Louis le Chatelier;Chemical equilibrium;Catalyst;Chlorine;Concentration;Chemistry
+796,2000,2024,1,Water;Chemical element;Actinium;Acetyl;Base (chemistry)
 797,2000,2100,1,Acetyl;Protein
 798,2000,2100,1,Chemical nomenclature;Actinide
 799,2000,2100,1,Calcium;Xenotime
 800,2000,2100,1,Solution;Environmental chemistry
-801,2000,2023,1,Electron shell;Period 4 element
+801,2000,2023,1,Atomic orbital;Chemical element;Electron shell;Period 4 element
 802,2000,2100,1,Lanthanide;Xenotime
 803,2000,2100,1,Chemist;Hideki Shirakawa
 804,2000,2100,1,Titration;Concentration
@@ -823,14 +823,14 @@ i,birth,death,dim,nodes
 821,2001,2100,1,Quantitative analysis (chemistry);Mass spectrometer
 822,2001,2100,1,Vapor pressure;Partial pressure
 823,2001,2100,1,Calorimeter;Colorimeter (chemistry)
-824,2001,2024,1,Concentration;Partial pressure
-825,2002,2020,1,Acrylamide;Amide
+824,2001,2024,1,Water;Partial pressure;Gas;Concentration;Solution;Oxygen
+825,2002,2020,1,Acetic acid;Amide;Acetaminophen;Acrylamide;Chemical formula
 826,2002,2100,1,Acrylamide;Polymerization
 827,2002,2100,1,Acrylamide;Catalyst
 828,2003,2100,1,Nitrogen;Tetryl
-829,2005,2009,1,Inorganic chemistry;Crystal structure
+829,2005,2009,1,Atom;Inorganic chemistry;Chemical compound;Crystal structure
 830,2005,2100,1,Inorganic chemistry;Hydrochloric acid
-831,2005,2006,1,Inorganic chemistry;Nobel Prize in Chemistry
+831,2005,2006,1,Biochemistry;Linus Pauling;Inorganic chemistry;Organic chemistry;Nobel Prize in Chemistry
 832,2005,2100,1,Inorganic chemistry;Zeolite
 833,2005,2100,1,Inorganic chemistry;Zirconium
 834,2005,2100,1,Inorganic chemistry;Bicarbonate
@@ -865,10 +865,10 @@ i,birth,death,dim,nodes
 863,2007,2100,1,Xenon;Watt per metre-kelvin
 864,2007,2100,1,Mole (unit);Watt per metre-kelvin
 865,2008,2100,1,Solid;Phosphoric acid
-866,2008,2022,1,Liquid;Hydrogen peroxide
+866,2008,2022,1,Catalyst;Liquid;Alcohol;Atom;Oxidation number;Chemical compound;Oxygen;Hydrogen peroxide;Molecule
 867,2008,2100,1,Liquid;Coil (chemistry)
 868,2008,2100,1,Matter;Quartz
-869,2008,2020,1,Chemical formula;Phosphoric acid
+869,2008,2020,1,Water;Oxygen;Chemical formula;Phosphoric acid
 870,2008,2100,1,Hydrogen;Vinyl group
 871,2008,2100,1,Hydrazine;Hydrogen peroxide
 872,2008,2100,1,Hydrogen peroxide;Ether
@@ -881,12 +881,12 @@ i,birth,death,dim,nodes
 879,2008,2100,1,Melting point;International Temperature Scale
 880,2008,2100,1,Alkene;Georg Wittig
 881,2008,2100,1,Isocyanate;Mercury fulminate
-882,2009,2024,1,Solid;Suspension (chemistry)
+882,2009,2024,1,Sodium chloride;Gas;Alloy;Chemical element;International Union of Pure and Applied Chemistry;Solid;Sulfate;Salt (chemistry);Suspension (chemistry);Chemistry
 883,2009,2100,1,Alchemy;Rhazes
 884,2009,2100,1,Matter;Rhazes
 885,2009,2100,1,Physical science;Thermometer
 886,2009,2100,1,Physical science;Alloy
-887,2009,2021,1,Physical science;List of chemists
+887,2009,2021,1,Chemical element;Physical science;List of chemists;Chemical compound;Chemistry
 888,2009,2100,1,Malachite;Rhazes
 889,2009,2100,1,Marcasite;Rhazes
 890,2009,2100,1,Sulfuric acid;Rhazes
@@ -930,33 +930,33 @@ i,birth,death,dim,nodes
 928,2015,2100,1,Iron;Amphibole
 929,2015,2100,1,Ilmenite;Titanium dioxide
 930,2015,2100,1,Ilmenite;Bauxite
-931,2015,2019,1,Amphibole;Arfvedsonite
+931,2015,2019,1,Calcium;Arfvedsonite;Chemical compound;Crystal structure;Iron;Mercury (I) chloride;Chemical element;Crystal;Aluminium;Amphibole;Quartz
 932,2016,2100,1,Amphibole;Riebeckite
-933,2016,2022,1,Plagioclase;Basalt
+933,2016,2022,1,Arfvedsonite;Plagioclase;Basalt;Crystal;Amphibole;Quartz
 934,2016,2100,1,Basalt;Prehnite
-935,2016,2020,1,Basalt;Olivine
+935,2016,2020,1,Amphibole;Iron;Basalt;Olivine
 936,2016,2100,1,Basalt;Celadonite
 937,2016,2100,1,Basalt;Chabasite
 938,2016,2100,1,Basalt;Opal
-939,2016,2020,1,Basalt;Malacolite
-940,2017,2024,1,Quartz;Tremolite
+939,2016,2020,1,Malacolite;Iron;Amphibole;Basalt
+940,2017,2024,1,Iron;Oxygen;Tremolite;Quartz
 941,2017,2100,1,Tremolite;Asbestos
 942,2017,2100,1,Tremolite;Jade
 943,2017,2100,1,Basalt;Palagonite
-944,2018,2019,1,Covellite;Mineral
-945,2018,2021,1,Mineral;Alabaster
+944,2018,2019,1,Chemical formula;Covellite;Quartz;Mineral
+945,2018,2021,1,Calcium;Water;Alkaline earth;Chemical formula;Mineral;Chemical compound;Alabaster;Oxygen;Barite
 946,2018,2100,1,Mineral;Amazonite
 947,2018,2100,1,Mineral;Sillimanite
-948,2018,2020,1,Mineral;Borax
+948,2018,2020,1,Calcium;Water;Sulfuric acid;Boron;Lewis acid;Borax;Chemical formula;Discovery of the chemical elements;Mineral;Electrolyte;Crystal;Proton;Acetone;Oxygen;Serpentine group
 949,2018,2100,1,Mineral;Cas registry number
 950,2018,2100,1,Mineral;Diopside
-951,2018,2019,1,Mineral;Livingstonite
+951,2018,2019,1,Mercury (element);Calomel;Mineral;Livingstonite;List of alchemical substances
 952,2019,2100,1,Iron;Hornblende
 953,2019,2100,1,Alloy;Aluminium oxide
-954,2019,2021,1,Calcium carbonate;Calcium
+954,2019,2021,1,Calcium;Alabaster;Calcium carbonate;Mineral
 955,2019,2100,1,Calcium carbonate;Catalyst
 956,2019,2100,1,Chromite;Oxide
-957,2019,2020,1,Limonite;Magnetite
+957,2019,2020,1,Water;Hydrochloric acid;Limonite;Hematite;Mineral;Oxidation number;Manganese;Magnetism;Oxygen;Barite;Magnetite
 958,2019,2100,1,Pyrite;Coal
 959,2019,2100,1,Pyrite;Lapis lazuli
 960,2019,2100,1,Magnetite;Samarskite
@@ -985,27 +985,27 @@ i,birth,death,dim,nodes
 983,2020,2100,1,Aluminium oxide;Clay
 984,2020,2100,1,N-butyllithium;Tert-butyllithium
 985,2020,2100,1,N-butyllithium;Group 1 element
-986,2020,2021,1,Histidine;Ph
+986,2020,2021,1,Biochemistry;Hydrogen bond;Enzyme;Histidine;Ph;Protein;Amino acid;Chemistry
 987,2020,2100,1,Acetaminophen;Central nervous system
 988,2020,2100,1,Calcium carbonate;Stable isotope
-989,2020,2021,1,Calcite;Alkaline earth
-990,2020,2021,1,Calcite;Prehnite
+989,2020,2021,1,Calcite;Alkaline earth;Barite;List of organic compounds
+990,2020,2021,1,Calcite;Crystal;Prehnite;Mineral
 991,2020,2100,1,Calcite;Lapis lazuli
-992,2020,2023,1,Calcite;Bastnasite
-993,2020,2021,1,Calcite;Fluorspar
-994,2020,2021,1,Calcite;Group 2 element
+992,2020,2023,1,Calcium;Dolomite (mineral);Bastnasite;Calcium carbonate;Calcite
+993,2020,2021,1,Calcite;Fluorspar;Barite;List of organic compounds
+994,2020,2021,1,Calcite;Group 2 element;Barite;List of organic compounds
 995,2020,2100,1,Calcite;Lorandite
 996,2020,2100,1,Calcite;Metacinnabarite
 997,2020,2100,1,Hematite;Clay
 998,2020,2100,1,Magnetite;Quartzite
-999,2020,2023,1,Talc;Schist
+999,2020,2023,1,Schist;Magnesite;Talc;Mineral;Magnesium;Quartz
 1000,2020,2100,1,Yttria;Thermal conductivity
 1001,2020,2100,1,Baddeleyite;Hafnium
 1002,2020,2100,1,Baddeleyite;Plagioclase
 1003,2020,2100,1,Baddeleyite;Melting point
 1004,2020,2100,1,Iupac;List of inorganic compounds
-1005,2020,2024,1,Iupac;Acetyl
-1006,2020,2024,1,Iupac;Lanthanide
+1005,2020,2024,1,Water;Iupac;Aluminium oxide;Chemical element;Acetyl;Chemical compound;Base (chemistry)
+1006,2020,2024,1,Iupac;Aluminium oxide;Chemical element;Lanthanide;Chemical compound
 1007,2020,2100,1,Iupac;Methylene group
 1008,2020,2100,1,Iupac;Vinyl group
 1009,2020,2100,1,Methyl;Alkane
@@ -1013,7 +1013,7 @@ i,birth,death,dim,nodes
 1011,2020,2100,1,Methyl;Parabens
 1012,2020,2100,1,Central nervous system;Heavy metal (chemistry)
 1013,2020,2100,1,Central nervous system;Group 1 element
-1014,2020,2021,1,Base (chemistry);Ph
+1014,2020,2021,1,Lactic acid;Acid;Enzyme;Ph;Base (chemistry)
 1015,2020,2100,1,Hydrolysis;Condensation reaction
 1016,2020,2100,1,Acid;Cleveite
 1017,2020,2100,1,Acid;Picric acid
@@ -1022,7 +1022,7 @@ i,birth,death,dim,nodes
 1020,2020,2100,1,Chemist;Clay
 1021,2020,2100,1,Albertus Magnus;Discovery of the chemical elements
 1022,2020,2100,1,Complex (chemistry);Catalyst
-1023,2020,2023,1,S-block;Period 1 element
+1023,2020,2023,1,Group 3 element;Period 1 element;S-block;Chemical element
 1024,2020,2100,1,Alkaline earth;Pauling scale
 1025,2020,2100,1,Pauling scale;Group 2 element
 1026,2020,2100,1,Allingite;Glauconite
@@ -1047,7 +1047,7 @@ i,birth,death,dim,nodes
 1045,2020,2100,1,Hassium;Periodic table (standard)
 1046,2020,2100,1,Group 1 element;Lewis base
 1047,2020,2100,1,Discovery of the chemical elements;Sir William Ramsay
-1048,2020,2023,1,P-block;Period 2 element
+1048,2020,2023,1,P-block;Chemical element;Metalloid;Period 2 element
 1049,2020,2100,1,Lewis base;Mustard gas
 1050,2020,2100,1,Sublimation (chemistry);Mercury (II) chloride
 1051,2020,2100,1,Tutty;Rhazes
@@ -1066,7 +1066,7 @@ i,birth,death,dim,nodes
 1064,2021,2100,1,Cytosine;List of biochemistry topics
 1065,2021,2100,1,Calcite;Franklinite
 1066,2021,2100,1,Limestone;Alunite
-1067,2021,2023,1,Limestone;Diaspore
+1067,2021,2023,1,Magnesite;Talc;Mineral;Limestone;Calcite;Magnesium;Diaspore
 1068,2021,2100,1,Limestone;Paint
 1069,2021,2100,1,Limestone;Franckeite
 1070,2021,2100,1,Limestone;Idocrase
@@ -1079,7 +1079,7 @@ i,birth,death,dim,nodes
 1077,2021,2100,1,Sodium bicarbonate;Iron (III) oxide
 1078,2021,2100,1,List of inorganic compounds;Chemistry basic topics
 1079,2021,2100,1,Zinc;Franklinite
-1080,2021,2024,1,Acid;Phenyl
+1080,2021,2024,1,Acid;Chemical element;Phenyl;Hydrogen;Molecule
 1081,2021,2100,1,Salt (chemistry);Cinnabarite
 1082,2021,2100,1,Isotope;Peridotite
 1083,2021,2100,1,Gypsum;Ulexite
@@ -1099,12 +1099,12 @@ i,birth,death,dim,nodes
 1097,2021,2100,1,Corundum;Pegmatite
 1098,2021,2100,1,Alunite;Rhyolite
 1099,2021,2100,1,Pegmatite;Bastnasite
-1100,2021,2022,1,Pegmatite;Ferberite
+1100,2021,2022,1,Ferberite;Mineral;Hübnerite;Pegmatite;Quartz
 1101,2021,2100,1,Pegmatite;Hiddenite
 1102,2021,2100,1,Pegmatite;Thortveitite
 1103,2021,2100,1,Galena;Franckeite
 1104,2021,2100,1,Galena;Germanite
-1105,2021,2024,1,Phenyl;Radical (chemistry)
+1105,2021,2024,1,Chemical element;Phenyl;Radical (chemistry);Hydrogen;Molecule
 1106,2021,2100,1,Muscovite;Gneiss
 1107,2021,2100,1,Calamine;Iron (III) oxide
 1108,2021,2100,1,Hemoglobin;List of biochemistry topics
@@ -1112,7 +1112,7 @@ i,birth,death,dim,nodes
 1110,2021,2100,1,Chemistry basic topics;Molecular mechanics
 1111,2021,2100,1,Chemistry basic topics;List of alloys
 1112,2021,2100,1,Environmental chemistry;List of biochemistry topics
-1113,2021,2023,1,P-block;Period 3 element
+1113,2021,2023,1,P-block;Chemical element;Metalloid;Period 3 element
 1114,2021,2100,1,Spinel;Franklinite
 1115,2022,2100,1,Limestone;Flint
 1116,2022,2100,1,Wollastonite;Garnet
@@ -1180,34 +1180,34 @@ i,birth,death,dim,nodes
 1178,2024,2100,1,Flint;Element symbol
 1179,2024,2100,1,Epidiorite;Gneiss
 1180,2024,2100,1,Epidiorite;Staurolite
-1181,294,1789,2,International Union of Pure and Applied Chemistry;Tennessine;Period 8 element
+1181,294,1789,2,G-block;Tennessine;Chemical element;Caesium;International Union of Pure and Applied Chemistry;Period 8 element
 1182,294,2100,2,International Union of Pure and Applied Chemistry;Tennessine;Periodic table (extended)
-1183,294,1789,2,International Union of Pure and Applied Chemistry;Oganesson;Period 8 element
+1183,294,1789,2,G-block;Chemical element;Oganesson;Caesium;International Union of Pure and Applied Chemistry;Period 8 element
 1184,294,2100,2,International Union of Pure and Applied Chemistry;Oganesson;Periodic table (extended)
 1185,294,2100,2,International Union of Pure and Applied Chemistry;Livermorium;Period 8 element
 1186,294,2100,2,International Union of Pure and Applied Chemistry;Livermorium;Periodic table (extended)
 1187,294,2100,2,International Union of Pure and Applied Chemistry;Systematic element name;Period 8 element
 1188,294,2100,2,International Union of Pure and Applied Chemistry;Systematic element name;Periodic table (extended)
-1189,500,1789,2,Glenn T. Seaborg;Seaborgium;Discovery of the chemical elements
-1190,500,1789,2,Glenn T. Seaborg;Seaborgium;List of elements by number
-1191,1200,1990,2,International Union of Pure and Applied Chemistry;Pnictogen;Period 8 element
-1192,1200,1990,2,International Union of Pure and Applied Chemistry;Pnictogen;Periodic table (extended)
-1193,1200,1702,2,Semiconductor;Antimony;Pnictogen
-1194,1500,1995,2,Hydrogen;Specific heat capacity;List of elements by number
+1189,500,1789,2,Americium;Chemical element;Discovery of the chemical elements;Glenn T. Seaborg;Seaborgium;Heavy metal (chemistry)
+1190,500,1789,2,Americium;Chemical element;Glenn T. Seaborg;Seaborgium;Heavy metal (chemistry);List of elements by number
+1191,1200,1990,2,Pnictogen;G-block;Chemical element;International Union of Pure and Applied Chemistry;Caesium;Period 8 element
+1192,1200,1990,2,Pnictogen;Periodic table (extended);G-block;Chemical element;International Union of Pure and Applied Chemistry;Caesium
+1193,1200,1702,2,Arsenic;Germanium;Semiconductor;Pnictogen;Chemical element;Antimony
+1194,1500,1995,2,Iron;Chemical element;Hydrogen;Specific heat capacity;List of elements by number;List of elements by name
 1195,1598,2100,2,Oxygen;Aluminium;Rock crystal
 1196,1602,2100,2,Barite;Barium;Group 2 element
-1197,1700,1835,2,Electron;Atomic number;Carbon
+1197,1700,1835,2,Chemical bond;Electron;Carbon;Chemical element;Atom;Atomic number
 1198,1700,2100,2,Magnetism;Aluminium;Chromium
 1199,1700,2100,2,Nitric acid;Gold;Catalyst
 1200,1700,2100,2,Sulfuric acid;Sulfur;Chalcogen
-1201,1700,1702,2,Carbon;Mole (unit);Catalyst
+1201,1700,1702,2,Electron;Carbon;Catalyst;Chemical element;Mole (unit);Atom;Oxygen;Atomic number;Molecule
 1202,1700,2100,2,Chalcogen;Carbon group;G-block
 1203,1700,2100,2,Chalcogen;Carbon group;Period 8 element
 1204,1700,2100,2,Chalcogen;Carbon group;Periodic table (extended)
 1205,1702,2100,2,Hydrochloric acid;Gold;Group 1 element
 1206,1702,2100,2,Sulfuric acid;Sulfur;Group 1 element
 1207,1702,2100,2,Iodine;Catalyst;Group 1 element
-1208,1702,1771,2,Carbon;Carbon group;Group 1 element
+1208,1702,1771,2,Carbon;Carbon group;Group 1 element;Chemical element;Tin;Heavy metal (chemistry)
 1209,1702,2100,2,Potassium;Alum;List of elements by number
 1210,1702,2100,2,International Union of Pure and Applied Chemistry;Standard temperature and pressure;Group 1 element
 1211,1702,2100,2,Aluminium;Alum;Group 1 element
@@ -1220,10 +1220,10 @@ i,birth,death,dim,nodes
 1218,1777,2100,2,Hydrogen sulfide;Sulfur;Caustic soda
 1219,1785,2100,2,Argon;Kelvin;Group 2 element
 1220,1785,2100,2,Argon;Kelvin;List of elements by number
-1221,1789,2000,2,Electron;Atomic radius;Periodic table (big)
-1222,1789,1909,2,Electron;Atomic radius;Periodic table (large version)
+1221,1789,2000,2,Electron;Group 1 element;Chemical element;Periodic table (big);Atom;Atomic radius
+1222,1789,1909,2,Electron;Chemical element;Periodic table (big);Atom;Atomic radius;Periodic table (large version)
 1223,1789,2100,2,Lawrencium;International Union of Pure and Applied Chemistry;Periodic table (large version)
-1224,1789,1921,2,Caesium;International Union of Pure and Applied Chemistry;Periodic table (large version)
+1224,1789,1921,2,Chemical element;Periodic table (big);Caesium;International Union of Pure and Applied Chemistry;Lawrencium;Periodic table (large version)
 1225,1789,2100,2,International Union of Pure and Applied Chemistry;Moscovium;Periodic table (big)
 1226,1789,2100,2,International Union of Pure and Applied Chemistry;Moscovium;Periodic table (large version)
 1227,1799,2100,2,Chlorine;Humphry Davy;Carl Wilhelm Scheele
@@ -1236,7 +1236,7 @@ i,birth,death,dim,nodes
 1234,1801,2100,2,Salt (chemistry);Magnesium;Group 1 element
 1235,1801,2100,2,Salt (chemistry);Halogen;Heavy metal (chemistry)
 1236,1801,2100,2,Salt (chemistry);Halogen;Group 1 element
-1237,1803,1921,2,Catalyst;Rhodium;Group 1 element
+1237,1803,1921,2,Iron;Catalyst;Chemical element;Nickel;Group 1 element;Platinum;Rhodium
 1238,1804,2100,2,Thorium;Gadolinite;List of elements by number
 1239,1804,2100,2,Lanthanum;Gadolinite;List of elements by number
 1240,1804,2100,2,Samarium;Gadolinite;List of elements by number
@@ -1266,14 +1266,14 @@ i,birth,death,dim,nodes
 1264,1830,2100,2,Carbon monoxide;Nitrogen;Lothar Meyer
 1265,1832,2100,2,Polymer;Organic chemistry;Carbon
 1266,1832,2100,2,Polymer;Carbon;Catalyst
-1267,1832,2020,2,Acetone;Benzene;Formic acid
+1267,1832,2020,2,Formic acid;Methane;Methanol;Benzene;Acetone;Ethanol;Hydrogen
 1268,1834,2100,2,Ion;Crystal structure;Semiconductor
 1269,1834,2100,2,Ion;Zinc;Group 2 element
 1270,1834,2100,2,Ion;Barium;Group 2 element
 1271,1834,2100,2,Ion;Ligand;Group 2 element
 1272,1834,2100,2,Ion;Strontianite;Mole (unit)
 1273,1834,2100,2,Ion;Battery (electricity);Michael Faraday
-1274,1835,1927,2,Iron;Oxidation state;Heavy metal (chemistry)
+1274,1835,1927,2,Oxidation state;Electron;Iron;Catalyst;Group 1 element;Chemical reaction;Atom;Magnesium;Heavy metal (chemistry)
 1275,1835,2100,2,Sulfuric acid;Vanadium;Oxidation number
 1276,1835,2100,2,Tin;Oxidation state;Group 1 element
 1277,1835,2100,2,Salt (chemistry);Platinum;Oxidation number
@@ -1285,7 +1285,7 @@ i,birth,death,dim,nodes
 1283,1835,2100,2,Plutonium;Oxidation state;Periodic table (extended)
 1284,1835,2100,2,Einsteinium;Oxidation state;Group 1 element
 1285,1835,2100,2,Oxidation state;Lead;Molybdenum
-1286,1835,1996,2,Oxidation state;Antoine Lavoisier;Group 1 element
+1286,1835,1996,2,Oxidation state;Group 2 element;Alkaline earth;Electron;Antoine Lavoisier;Group 1 element;Chemical element;Atom;Oxidation number;Electronegativity;Hydrogen
 1287,1835,2100,2,Oxidation state;Magnesium;G-block
 1288,1835,2100,2,Oxidation state;Magnesium;Periodic table (extended)
 1289,1835,2100,2,Oxidation state;Cadmium;G-block
@@ -1308,7 +1308,7 @@ i,birth,death,dim,nodes
 1306,1841,2100,2,Polymer;Jöns Jakob Berzelius;Allotrope
 1307,1841,2100,2,Allotrope;Phosphorus;Semiconductor
 1308,1845,2100,2,Acetic acid;Carbon monoxide;Benzene
-1309,1845,1997,2,Acetic acid;Benzene;Formic acid
+1309,1845,1997,2,Acetaldehyde;Formic acid;Acetic acid;Benzene;Acetone;Ethanol
 1310,1845,2100,2,Acetic acid;Iodine;Catalyst
 1311,1845,2100,2,Acetic acid;Jöns Jakob Berzelius;Catalyst
 1312,1845,2100,2,Acetic acid;Rhodium;Oxidation number
@@ -1328,10 +1328,10 @@ i,birth,death,dim,nodes
 1326,1861,2100,2,Rubidium;Lepidolite;Group 1 element
 1327,1861,2100,2,Arsenic;Thallium;Mohs hardness scale
 1328,1863,2100,2,Sodium;Indium;Mohs hardness scale
-1329,1869,2018,2,Hafnium;Tungsten;Mohs hardness scale
-1330,1869,2023,2,Semiconductor;Astatine;Group 1 element
-1331,1871,1909,2,Helium;Ernest Rutherford;F-orbital
-1332,1871,1909,2,Helium;Ernest Rutherford;List of elements by number
+1329,1869,2018,2,Vanadium;Hafnium;Chemical element;Uranium;Titanium;Tungsten;Mohs hardness scale
+1330,1869,2023,2,Semiconductor;Group 1 element;Chemical element;Silicon;Astatine;Metalloid
+1331,1871,1909,2,Helium;Ernest Rutherford;Chemical element;Atom;F-orbital;List of elements by name
+1332,1871,1909,2,Helium;Ernest Rutherford;Chemical element;Atom;List of elements by number;List of elements by name
 1333,1871,2100,2,Ernest Rutherford;Discovery of the chemical elements;Periodic table (big)
 1334,1871,2100,2,Ernest Rutherford;Discovery of the chemical elements;Periodic table (large version)
 1335,1878,2100,2,Protactinium;Lise Meitner;List of elements by number
@@ -1385,11 +1385,11 @@ i,birth,death,dim,nodes
 1383,1926,2100,2,Electron configuration;Neon;Periodic table (large version)
 1384,1927,2100,2,Electron;Computational chemistry;Aromatic compound
 1385,1927,2100,2,Redox;Electrochemistry;Battery (electricity)
-1386,1927,1939,2,Redox;Fluorine;Group 1 element
+1386,1927,1939,2,Oxidation state;Ion;Chemical bond;Hydrogen bond;Electron;Molecule;Group 1 element;Chlorine;Chemical reaction;Electronegativity;Covalent bond;Fluorine;Redox;Heavy metal (chemistry);Chemistry
 1387,1927,2100,2,Redox;Hydrogen;Battery (electricity)
-1388,1927,1939,2,Redox;Sodium;Group 1 element
+1388,1927,1939,2,Group 1 element;Chlorine;Fluorine;Redox;Heavy metal (chemistry);Sodium
 1389,1927,2100,2,Redox;Carbon;Strontianite
-1390,1927,1939,2,Redox;Ligand;Oxidation number
+1390,1927,1939,2,Ion;Chemical bond;Electron;Ligand;Chemical reaction;Oxidation number;Chemistry;Covalent bond;Redox;Molecule
 1391,1927,2100,2,Redox;Aluminium;Heavy metal (chemistry)
 1392,1927,2100,2,Redox;Aluminium;Group 1 element
 1393,1927,2100,2,Redox;Phosphorus;Group 1 element
@@ -1400,8 +1400,8 @@ i,birth,death,dim,nodes
 1398,1927,2100,2,Argon;Vapor pressure;International Temperature Scale
 1399,1932,2100,2,Electron;Aromatic compound;Molecular orbital
 1400,1936,2100,2,Chemical kinetics;Yuan T. Lee;John C. Polanyi
-1401,1936,1990,2,International Union of Pure and Applied Chemistry;Group 7 element;Period 8 element
-1402,1936,1990,2,International Union of Pure and Applied Chemistry;Group 7 element;Periodic table (extended)
+1401,1936,1990,2,G-block;Chemical element;Group 7 element;International Union of Pure and Applied Chemistry;Alkali metal;Period 8 element
+1402,1936,1990,2,Periodic table (extended);G-block;Chemical element;Group 7 element;International Union of Pure and Applied Chemistry;Alkali metal
 1403,1939,2100,2,Ionic bond;Metal;Ligand
 1404,1939,2100,2,Ionic bond;Metal;Heavy metal (chemistry)
 1405,1939,2100,2,Ionic bond;Atomic nucleus;Lithium
@@ -1446,7 +1446,7 @@ i,birth,death,dim,nodes
 1444,1996,2100,2,Chemical compound;Ethanol;Potassium nitrate
 1445,1996,2100,2,Chemical compound;Benzene;Aromatic compound
 1446,1996,2100,2,Chemical compound;Iodine;Organic compound
-1447,1996,2024,2,Chemical compound;Protactinium;Oxidation state
+1447,1996,2024,2,Thorium;Oxidation state;Chemical bond;Chemical element;Actinium;Protactinium;Chemical compound;Lead;Molybdenum
 1448,1996,2100,2,Chemical compound;Carbon;Molar mass
 1449,1996,2100,2,Chemical compound;Gallium;International Temperature Scale
 1450,1996,2100,2,Ammonia;Base (chemistry);Lewis acid
@@ -1458,7 +1458,7 @@ i,birth,death,dim,nodes
 1456,1997,2100,2,Chemical formula;Methanol;Thiamin
 1457,1997,2100,2,Chemical formula;Pyridine;Benzene
 1458,1997,2100,2,Chemical formula;Pyridine;Epoxyethane
-1459,1997,2020,2,Chemical formula;Naphthalene;Ammonia
+1459,1997,2020,2,Methane;Methanol;Chemical formula;Benzene;Naphthalene;Ammonia;Hydrogen
 1460,1997,2100,2,Chemical formula;Urea;Ammonia
 1461,1997,2100,2,Chemical formula;Organic chemistry;Amino acid
 1462,1997,2100,2,Chemical formula;Isomer;Amino acid
@@ -1494,25 +1494,25 @@ i,birth,death,dim,nodes
 1492,1999,2100,2,Sodium chloride;Solution;Mass spectrometer
 1493,1999,2100,2,Sodium chloride;Chloride;Mass spectrometer
 1494,1999,2100,2,Aldehyde;Carbonyl;Organic chemistry
-1495,1999,2022,2,Aldehyde;Carbonyl;Catalyst
+1495,1999,2022,2,Catalyst;Organic chemistry;Carbonyl;Aldehyde;Oxygen;Hydrogen
 1496,1999,2100,2,Carbonyl;Group 1 element;Period 8 element
 1497,1999,2100,2,Organic chemistry;Aliphatic compound;Aromatic compound
 1498,1999,2100,2,Covalent bond;Cyanide;G-block
 1499,1999,2100,2,Covalent bond;Cyanide;Periodic table (extended)
-1500,1999,2023,2,Electron shell;Lanthanide;Periodic table (big)
-1501,1999,2000,2,Electron shell;Lanthanide;Periodic table (large version)
-1502,1999,2000,2,Electron shell;Atomic radius;Group 1 element
+1500,1999,2023,2,Electron shell;Atomic orbital;Chemical element;Group 1 element;Periodic table (big);Lanthanide
+1501,1999,2000,2,Electron shell;Chemical element;Periodic table (big);Lanthanide;Atomic radius;Atomic nucleus;Periodic table (large version)
+1502,1999,2000,2,Electron shell;Group 1 element;Chemical element;Atom;Atomic radius;Atomic nucleus
 1503,1999,2100,2,Electron shell;Transition metal;Group 6 element
 1504,1999,2100,2,Electron shell;Alkaline earth;Electronegativity
 1505,1999,2100,2,Electron shell;Electronegativity;Group 2 element
 1506,1999,2100,2,Electron shell;Noble gas;Chemical series
 1507,1999,2100,2,Electron shell;Noble gas;Group 1 element
 1508,1999,2100,2,Electron shell;Noble gas;Periodic table series
-1509,1999,2023,2,Electron shell;Noble gas;Periodic table (big)
-1510,1999,2023,2,Electron shell;Noble gas;Periodic table (large version)
+1509,1999,2023,2,Electron shell;Noble gas;Atomic orbital;Group 1 element;Chemical element;Periodic table (big)
+1510,1999,2023,2,Electron shell;Noble gas;Atomic orbital;Group 1 element;Chemical element;Periodic table (large version)
 1511,1999,2100,2,Electron shell;Periodic table group;Group 2 element
 1512,1999,2100,2,Electron shell;Periodic table group;Group 6 element
-1513,1999,2023,2,Electron shell;Moscovium;Periodic table (large version)
+1513,1999,2023,2,Moscovium;Electron shell;Atomic orbital;Chemical element;Periodic table (big);Periodic table (large version)
 1514,1999,2100,2,Electron shell;Chemical series;Group 2 element
 1515,1999,2100,2,Electron shell;Chemical series;Group 6 element
 1516,1999,2100,2,Electron shell;Group 2 element;Periodic table series
@@ -1527,7 +1527,7 @@ i,birth,death,dim,nodes
 1525,2000,2100,2,Redox;Aluminium;Electrolytic cell
 1526,2000,2100,2,Carbon monoxide;Carbonyl;Acetyl
 1527,2000,2100,2,Pyridine;Amine;Lewis acid
-1528,2000,2020,2,Nitric acid;Potassium nitrate;Ammonium nitrate
+1528,2000,2020,2,Nitric acid;Ammonium nitrate;Nitroglycerine;Potassium nitrate;Oxygen;Sulfuric acid;Hydrogen
 1529,2000,2100,2,Nitric acid;Ammonium nitrate;Trinitrotoluene
 1530,2000,2100,2,Hydrogen;Metallic bond;X-ray photoelectron spectroscopy
 1531,2000,2100,2,Amide;Carbonyl;Amine
@@ -1538,7 +1538,7 @@ i,birth,death,dim,nodes
 1536,2000,2100,2,Sodium;Group 1 element;Metallic bond
 1537,2000,2100,2,Silver;Group 1 element;Metallic bond
 1538,2001,2100,2,Oxygen;Carbon dioxide;Decomposition temperature
-1539,2001,2023,2,Electron shell;Period 7 element;Period 6 element
+1539,2001,2023,2,Electron shell;Moscovium;Chemical element;Periodic table (big);Lanthanide;Period 7 element;Period 6 element;Actinide
 1540,2006,2100,2,Hydrogen;Methyl group;Skeletal formula
 1541,2006,2100,2,Hydrogen;Skeletal formula;Covalent bond
 1542,2006,2100,2,Density;Uranium;G-block
@@ -1637,7 +1637,7 @@ i,birth,death,dim,nodes
 1635,2020,2100,2,Hydrochloric acid;Acid;Caustic soda
 1636,2020,2100,2,Sulfuric acid;Acid;Catalyst
 1637,2020,2100,2,Ammonia;Acid;Catalyst
-1638,2020,2023,2,Nitrogen;Group 1 element;Stable isotope
+1638,2020,2023,2,Oxygen;Nitrogen;Group 1 element;Chemical element;Molybdenum;Stable isotope
 1639,2020,2100,2,Iupac;Caesium;G-block
 1640,2020,2100,2,Iupac;Caesium;Period 8 element
 1641,2020,2100,2,Iupac;Caesium;Periodic table (extended)
@@ -1688,13 +1688,13 @@ i,birth,death,dim,nodes
 1686,2020,2100,2,Chromium;Pyroxene;Vanadium
 1687,2020,2100,2,Chromium;Pyroxene;Malacolite
 1688,2020,2100,2,Nihonium;P-block;Periodic table (big)
-1689,2020,2023,2,Nihonium;P-block;Periodic table (large version)
+1689,2020,2023,2,Chemical element;Periodic table (big);P-block;Nihonium;Metalloid;Periodic table (large version)
 1690,2020,2100,2,Oganesson;P-block;Periodic table (big)
-1691,2020,2023,2,Oganesson;P-block;Periodic table (large version)
+1691,2020,2023,2,Chemical element;Periodic table (big);Oganesson;P-block;Metalloid;Periodic table (large version)
 1692,2020,2100,2,Flerovium;P-block;Periodic table (big)
-1693,2020,2023,2,Flerovium;P-block;Periodic table (large version)
+1693,2020,2023,2,Chemical element;Periodic table (big);Flerovium;P-block;Metalloid;Periodic table (large version)
 1694,2020,2100,2,Moscovium;P-block;Periodic table (big)
-1695,2020,2023,2,Moscovium;P-block;Periodic table (large version)
+1695,2020,2023,2,Moscovium;Chemical element;Periodic table (big);P-block;Metalloid;Periodic table (large version)
 1696,2021,2100,2,Physics;Matter;Chemistry basic topics
 1697,2021,2100,2,Physical science;Physical chemistry;Chemistry basic topics
 1698,2021,2100,2,Electrochemistry;Humphry Davy;Chemistry basic topics
@@ -1717,8 +1717,8 @@ i,birth,death,dim,nodes
 1715,2021,2100,2,Plagioclase;Felsic;Rhyolite
 1716,2021,2100,2,Hydroxide;Catalyst;Epoxyethane
 1717,2021,2100,2,Strontianite;Aragonite;Group 2 element
-1718,2021,2022,2,Pegmatite;Muscovite;Mica
-1719,2021,2022,2,Pegmatite;Mica;Rock crystal
+1718,2021,2022,2,Muscovite;Mineral;Feldspar;Mica;Lepidolite;Pegmatite;Quartz
+1719,2021,2022,2,Mineral;Feldspar;Rock crystal;Mica;Lepidolite;Pegmatite;Quartz
 1720,2021,2100,2,Materials science;Catalyst;Chemistry basic topics
 1721,2021,2100,2,Molybdenum;Molybdenite;Molybdenum disulfide
 1722,2022,2100,2,Oxygen;Chlorine;Oxidation

@@ -1,26 +1,26 @@
 i,birth,death,dim,nodes
 0,-430,2100,0,Immune system
-1,-430,1798,0,Immunity (medical)
-2,100,1845,0,Immunodiagnostics
-3,100,1908,0,Panel reactive antibody
-4,571,1845,0,Mimotope
-5,1800,1906,0,Allergen immunotherapy
-6,1800,1906,0,Psychoneuroimmunology
+1,-430,1798,0,Immunity (medical);Immune system
+2,100,1845,0,Immunodiagnostics;Immune system
+3,100,1908,0,Immune system;Panel reactive antibody
+4,571,1845,0,Immune system;Mimotope
+5,1800,1906,0,Allergen immunotherapy;Immune system
+6,1800,1906,0,Psychoneuroimmunology;Immune system
 7,1888,2100,0,Lectin
-8,1905,1980,0,Erythropoietin
-9,1920,1981,0,Duffy antigen system
-10,1945,1961,0,Central tolerance
-11,1970,1975,0,Rabbit hybridoma
-12,1986,1990,0,Granzyme
-13,2008,2020,0,Immunosurgery
+8,1905,1980,0,Erythropoietin;Immune system
+9,1920,1981,0,Duffy antigen system;Immune system
+10,1945,1961,0,Immunology;Central tolerance
+11,1970,1975,0,Antigen;Rabbit hybridoma
+12,1986,1990,0,Fas receptor;Granzyme
+13,2008,2020,0,Immunosurgery;Fc receptor
 14,2020,2100,0,Il17ra
 15,2020,2100,0,Nkg2d
 16,2020,2100,0,Lana
 17,1846,2100,1,Antibody;Molecular mimicry
 18,1885,2100,1,Respiratory burst;Voltage-gated proton channel
 19,1888,2100,1,Immunity (medical);Humoral immunity
-20,1900,1962,1,Monoclonal antibody;Polyclonal B cell response
-21,1906,1908,1,Immunity (medical);Allergy
+20,1900,1962,1,Antibody;Monoclonal antibody;Humoral immunity;Immune system;Polyclonal B cell response
+21,1906,1908,1,Humoral immunity;Immunity (medical);Immune system;Allergy
 22,1908,2100,1,Immunology;Psychoneuroimmunology
 23,1908,2100,1,Monoclonal antibody;White blood cell
 24,1908,2100,1,Immunochemistry;Gluten immunochemistry
@@ -30,9 +30,9 @@ i,birth,death,dim,nodes
 28,1960,2100,1,Fc receptor;Rho(d) immune globulin
 29,1960,2100,1,Contact immunity;Immunization
 30,1962,2100,1,Organ transplantation;Thymus transplantation
-31,1963,1992,1,Antigen;Opsonin
+31,1963,1992,1,Antigen;Humoral immunity;Opsonin;Immune system
 32,1963,2100,1,Antigen;Immunocompetence
-33,1963,1992,1,Antibody opsonization;Opsonin
+33,1963,1992,1,Antibody;Antibody opsonization;Humoral immunity;Opsonin;Immune system
 34,1963,2100,1,Organ transplantation;Immunocompetence
 35,1964,2100,1,Antibody;Immunoglobulin A
 36,1964,2100,1,Opsonin;Immunoglobulin A
@@ -48,7 +48,7 @@ i,birth,death,dim,nodes
 46,1974,2100,1,Immune tolerance;Indoleamine 2,3-dioxygenase
 47,1974,2100,1,Interleukin-7 receptor;Interleukin 7
 48,1977,2100,1,Antigen processing;Cross-presentation
-49,1980,2005,1,Interleukin;Interleukin 12
+49,1980,2005,1,Interleukin 12;Macrophage;Inflammation;Interleukin;Cytokine
 50,1980,2100,1,Interleukin;Leukocyte-promoting factor
 51,1980,2100,1,Antigen;Leukocyte-promoting factor
 52,1981,2100,1,Innate immune system;Immune complex
@@ -111,7 +111,7 @@ i,birth,death,dim,nodes
 109,1995,2100,1,Cytokine;Secretion assay
 110,2002,2100,1,Apoptosis;Inflammasome
 111,2004,2100,1,Interleukin 6;Cytokine storm
-112,2004,2006,1,Interleukin 6;Interleukin 1 receptor antagonist
+112,2004,2006,1,Interleukin-1 receptor;Inflammation;Interleukin 6;Cytokine;Interleukin 1 receptor antagonist;Immune system
 113,2005,2100,1,Inflammation;Tumor necrosis factor alpha
 114,2005,2100,1,Immunostimulant;Tumor necrosis factor alpha
 115,2005,2100,1,Apoptosis;Stat3

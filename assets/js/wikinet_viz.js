@@ -6,11 +6,13 @@
 // TODO: https://observablehq.com/@d3/delaunay-find-zoom
 
 const width = 770,
-  height_net = 560,
-  height_bar = 300;
+  height_net = 540,
+  height_bar = 280;
 const year_min = 0,
   year_max = 2020;
 const margin = {top: 20, right: 30, bottom: 18, left: 10};
+const link_width = 0.4,
+  link_width_on = 2;
 
 const topics = ['cognitive science',
  'evolutionary biology', 'immunology',
@@ -80,7 +82,7 @@ simulation.stop();
 
 var link = svg_net.append('g')
   .attr('class', 'link')
-  .style('stroke-width', 0.4)
+  .style('stroke-width', link_width)
   .style('stroke', 'steelblue')
   .selectAll('line');
 var node = svg_net.append('g')
@@ -285,7 +287,13 @@ function hover(svg, path, x, y, series) {
     tooltip_bar.style('right', (width-pointer[0]+10) + 'px')
       .style('bottom', (height_bar-pointer[1]+10) + 'px');
     tooltip_bar.html(bar.nodes.join(', '));
-
+    node.style('fill',
+      d => (bar.nodes.indexOf(d.id) > -1) ? 'red' : 'steelblue');
+    link
+      .style('stroke', d => (bar.nodes.indexOf(d.source.id) > -1) &&
+        (bar.nodes.indexOf(d.target.id) > -1) ? 'red' : 'steelblue')
+      .style('stroke-width', d => (bar.nodes.indexOf(d.source.id) > -1) &&
+        (bar.nodes.indexOf(d.target.id) > -1) ? link_width_on : link_width);
   }
   function entered() {
     tooltip_bar.style('opacity', 1);
@@ -293,5 +301,8 @@ function hover(svg, path, x, y, series) {
   function left() {
     path.style('opacity', 1);
     tooltip_bar.style('opacity', 0);
+    node.style('fill', 'steelblue');
+    link.style('stroke', 'steelblue')
+      .style('stroke-width', link_width);
   }
 }

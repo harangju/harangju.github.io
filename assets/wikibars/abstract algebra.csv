@@ -1,21 +1,21 @@
 i,birth,death,dim,nodes
 0,-3000,2100,0,Mathematics
 1,2020,2100,0,Glossary of tensor theory
-2,1770,1830,1,Simple group;Abel–ruffini theorem
-3,1770,1830,1,Klein four-group;Abel–ruffini theorem
+2,1770,1830,1,Abel–ruffini theorem;Mathematics;Simple group;Galois theory
+3,1770,1830,1,Abel–ruffini theorem;Mathematics;Galois theory;Klein four-group
 4,1770,2100,1,Abel–ruffini theorem;Symmetric function
-5,1783,1830,1,Simple group;Finite group
+5,1783,1830,1,Finite group;Mathematics;Simple group;Abstract algebra
 6,1783,2100,1,Algebraic geometry;Algebraically closed field
 7,1784,2100,1,Finite group;List of small groups
 8,1800,2100,1,Finite group;Inverse Galois problem
-9,1801,1947,1,Finite group;Lagrange's theorem (group theory)
-10,1801,1948,1,Abelian group;Lagrange's theorem (group theory)
+9,1801,1947,1,Finite group;Lagrange's theorem (group theory);Mathematics;Classification of finite simple groups
+10,1801,1948,1,Lagrange's theorem (group theory);Mathematics;Abelian group;Abstract algebra
 11,1801,2100,1,Abelian group;Divisible group
 12,1801,2100,1,Ring theory;Ring homomorphism
 13,1801,2100,1,Ring theory;Central simple algebra
 14,1802,2100,1,Ring homomorphism;Category of rings
-15,1832,1877,1,Ring theory;Simple module
-16,1832,1877,1,Ring theory;Radical of a module
+15,1832,1877,1,Ring (mathematics);Ring theory;Mathematics;Simple module
+16,1832,1877,1,Ring (mathematics);Ring theory;Mathematics;Radical of a module
 17,1832,2100,1,Automorphism group;Affine representation
 18,1833,2100,1,Torsion (algebra);Annihilator (ring theory)
 19,1834,2100,1,Annihilator (ring theory);Baer ring
@@ -28,15 +28,15 @@ i,birth,death,dim,nodes
 26,1896,2100,1,Ring theory;Isomorphism class
 27,1896,2100,1,Fundamental group;Isomorphism class
 28,1899,2100,1,Set (mathematics);Clone (algebra)
-29,1900,1947,1,Semigroup;Syntactic monoid
+29,1900,1947,1,Semigroup;Mathematics;Group (mathematics);Syntactic monoid
 30,1902,2100,1,Abelian group;Burnside's problem
 31,1902,2100,1,Lie algebra;Burnside's problem
-32,1902,1946,1,Presentation of a group;Burnside's problem
-33,1927,1943,1,Set (mathematics);Magma (algebra)
+32,1902,1946,1,Abstract algebra;Presentation of a group;Burnside's problem;Group (mathematics);Abelian group
+33,1927,1943,1,Magma (algebra);Set (mathematics);Mathematics;Abstract algebra
 34,1930,2100,1,Commutative ring;Gaussian integer
 35,1930,2100,1,Lie algebra;Nilpotent group
-36,1931,1959,1,Ring theory;Euclidean domain
-37,1939,1958,1,Ring theory;Levitzky's theorem
+36,1931,1959,1,Integral domain;Abstract algebra;Ring theory;Euclidean domain;Mathematics;Ideal (ring theory)
+37,1939,1958,1,Ring (mathematics);Ring theory;Mathematics;Levitzky's theorem
 38,1943,2100,1,Category theory;Category of abelian groups
 39,1943,2100,1,Category theory;Quiver (mathematics)
 40,1943,2100,1,Category theory;Group object
@@ -45,7 +45,7 @@ i,birth,death,dim,nodes
 43,1944,2100,1,Perfect ring;Projective cover
 44,1945,2100,1,Closure (mathematics);Algebraic closure
 45,1946,2100,1,Group representation;Maschke's theorem
-46,1946,1950,1,Real number;Additive inverse
+46,1946,1950,1,Algebraic structure;Abstract algebra;Real number;Distributive property;Additive inverse;Binary operation
 47,1946,2100,1,Additive inverse;Inverse element
 48,1947,2100,1,Algebra over a field;Algebra homomorphism
 49,1947,2100,1,Glossary of group theory;P-group
@@ -55,7 +55,7 @@ i,birth,death,dim,nodes
 53,1947,2100,1,Isomorphism;Algebra homomorphism
 54,1947,2100,1,Normal subgroup;Burnside's problem
 55,1947,2100,1,Exact sequence;Dicyclic group
-56,1947,1948,1,Category of abelian groups;Category of modules
+56,1947,1948,1,Category of abelian groups;Abelian group;Abstract algebra;Category of modules
 57,1947,2100,1,Characteristic (algebra);Abel–ruffini theorem
 58,1948,2100,1,Ring (mathematics);Centralizer and normalizer
 59,1948,2100,1,Semigroup;Transformation semigroup
@@ -66,7 +66,7 @@ i,birth,death,dim,nodes
 64,1948,2100,1,Characteristic (algebra);Separable extension
 65,1948,2100,1,Characteristic (algebra);Transcendence degree
 66,1948,2100,1,Projective cover;Flat cover
-67,1948,1956,1,Octonions;Alternative algebra
+67,1948,1956,1,Algebraic structure;Field (mathematics);Octonions;Algebra over a field;Alternative algebra;Real number
 68,1948,2100,1,Separable polynomial;Separable extension
 69,1948,2100,1,Separable extension;Normal extension
 70,1949,2100,1,Glossary of group theory;Torsion subgroup
@@ -83,7 +83,7 @@ i,birth,death,dim,nodes
 81,1950,2100,1,Fundamental group;Abelian extension
 82,1951,2100,1,Ring theory;Universal enveloping algebra
 83,1951,2100,1,Rank of an abelian group;Torsion (algebra)
-84,1952,1958,1,Category theory;Coalgebra
+84,1952,1958,1,Category theory;Coalgebra;Mathematics;Abstract algebra
 85,1955,2100,1,Group ring;Hopf algebra
 86,1956,2100,1,Group ring;Group algebra
 87,1957,2100,1,Group ring;Injective module
@@ -93,7 +93,7 @@ i,birth,death,dim,nodes
 91,1957,2100,1,Projective module;Schanuel's lemma
 92,1958,2100,1,Group representation;Fitting lemma
 93,1958,2100,1,Epimorphism;Superfluous submodule
-94,1958,1959,1,Hilbert's basis theorem;Noetherian module
+94,1958,1959,1,Noetherian module;Hilbert's basis theorem;Module (mathematics);Mathematics
 95,1958,2100,1,Group algebra;Fitting lemma
 96,1959,2100,1,Abelian group;Brauer group
 97,1959,2100,1,Inverse limit;Completion (ring theory)
@@ -136,16 +136,16 @@ i,birth,death,dim,nodes
 134,1804,2100,2,Zero divisor;Domain (ring theory);Quaternions
 135,1929,2100,2,Commutative ring;Integral domain;Domain (ring theory)
 136,1943,2100,2,Algebraic structure;Category theory;Ring theory
-137,1944,1945,2,Vector space;Homomorphism;Group action (mathematics)
+137,1944,1945,2,Abstract algebra;Quaternions;Group action (mathematics);Mathematics;Group (mathematics);Homomorphism;Vector space
 138,1945,2100,2,Ring (mathematics);Homomorphism;Direct limit
 139,1945,2100,2,Vector space;Homomorphism;Direct limit
 140,1945,2100,2,Ring theory;Primitive ring;Jacobson density theorem
 141,1946,2100,2,Distributive property;Real number;Quaternions
-142,1947,1958,2,Binary operation;Lie algebra;Non-associative algebra
+142,1947,1958,2,Algebraic structure;Lie algebra;Non-associative algebra;Mathematics;Binary operation;Vector space
 143,1947,2100,2,Identity element;Quaternions;Sedenions
 144,1947,2100,2,Finite group;Sylow theorems;P-group
 145,1947,2100,2,Noncommutative ring;Non-associative algebra;Quaternions
-146,1948,1958,2,Ring (mathematics);Abelian group;Variety (universal algebra)
+146,1948,1958,2,Variety (universal algebra);Abstract algebra;Mathematics;Group (mathematics);Abelian group;Ring (mathematics)
 147,1948,2100,2,Category theory;Free object;Universal property
 148,1948,2100,2,Set (mathematics);Magma (algebra);Groupoid
 149,1948,2100,2,Binary operation;Distributive property;Nearring
@@ -164,7 +164,7 @@ i,birth,death,dim,nodes
 162,1954,2100,2,Binary operation;Magma (algebra);Flexible algebra
 163,1954,2100,2,Associative property;Sedenions;Flexible algebra
 164,1954,2100,2,Commutative property;Sedenions;Flexible algebra
-165,1956,1958,2,Binary operation;Lie algebra;Nonassociative ring
+165,1956,1958,2,Algebraic structure;Nonassociative ring;Lie algebra;Mathematics;Binary operation;Vector space
 166,1956,2100,2,Commutative ring;Exterior algebra;Nonassociative ring
 167,1956,2100,2,Universal enveloping algebra;Tensor algebra;Nonassociative ring
 168,1956,2100,2,Zero divisor;Octonions;Nonassociative ring

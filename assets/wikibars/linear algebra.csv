@@ -1,11 +1,11 @@
 i,birth,death,dim,nodes
 0,-200,2100,0,Conic section
-1,-150,1801,0,Gaussian elimination
-2,1600,1637,0,Cartesian coordinate system
-3,1722,1860,0,Least squares
-4,1800,1969,0,Hessian matrix
-5,1887,2020,0,Lorentz transformation
-6,1601,1959,1,Determinant;Indefinite orthogonal group
+1,-150,1801,0,Gaussian elimination;Conic section
+2,1600,1637,0,Cartesian coordinate system;Vector space
+3,1722,1860,0,Linear algebra;Least squares
+4,1800,1969,0,Linear algebra;Hessian matrix
+5,1887,2020,0,Euclidean space;Lorentz transformation
+6,1601,1959,1,Indefinite orthogonal group;Determinant;Linear map;Vector space
 7,1640,2100,1,2 × 2 real matrices;Cartesian coordinate system
 8,1641,2100,1,Examples of vector spaces;Row and column spaces
 9,1641,2100,1,Linear function;Affine transformation
@@ -13,9 +13,9 @@ i,birth,death,dim,nodes
 11,1800,2100,1,Affine transformation;Projective geometry
 12,1830,2100,1,Determinant;Projective linear group
 13,1847,2100,1,Glossary of tensor theory;Multilinear algebra
-14,1856,1969,1,Hermitian matrix;Spectral theorem
+14,1856,1969,1,Linear algebra;Determinant;Hermitian matrix;Spectral theorem
 15,1859,2100,1,Projective space;Quadric
-16,1861,1900,1,Determinant;Orthogonal matrix
+16,1861,1900,1,Determinant;Indefinite orthogonal group;Euclidean space;Orthogonal matrix;Vector space
 17,1861,2100,1,Orthogonal matrix;Transpose
 18,1871,2100,1,Hermitian matrix;Matrix consimilarity
 19,1873,2100,1,Shear mapping;Singular value decomposition
@@ -32,7 +32,7 @@ i,birth,death,dim,nodes
 30,1969,2100,1,Schur complement;Pfaffian
 31,1641,2100,2,Matrix similarity;Basis (linear algebra);Change of basis
 32,1899,2100,2,Linear subspace;Pseudo-euclidean space;Flat (geometry)
-33,1899,1969,2,Conjugate transpose;Symmetric matrix;Transpose
+33,1899,1969,2,Hermitian matrix;Matrix (mathematics);Transpose;Eigenvalue, eigenvector and eigenspace;Linear algebra;Conjugate transpose;Symmetric matrix
 34,1900,2100,2,Basis (linear algebra);Column space;Null space
-35,1938,1969,2,Hermitian matrix;Conjugate transpose;Lu decomposition
+35,1938,1969,2,Determinant;Hermitian matrix;Matrix (mathematics);Eigenvalue, eigenvector and eigenspace;Linear algebra;Conjugate transpose;Lu decomposition
 36,1959,2100,2,Orthogonal matrix;Unitary matrix;Qr decomposition

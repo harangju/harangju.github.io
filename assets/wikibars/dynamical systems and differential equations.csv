@@ -1,20 +1,20 @@
 i,birth,death,dim,nodes
 0,-200,2100,0,Negative feedback
-1,100,101,0,Pendulum
-2,100,101,0,Electronic oscillator
-3,900,1609,0,Rotational energy
-4,946,1696,0,Liénard's theorem
-5,1000,1600,0,Ballistics
-6,1600,1601,0,Centrifugal governor
-7,1800,1899,0,Population dynamics
-8,1848,1900,0,Perturbation theory
-9,1905,1906,0,Random walk
-10,1950,2008,0,System dynamics
+1,100,101,0,Pendulum;Negative feedback
+2,100,101,0,Pendulum;Electronic oscillator
+3,900,1609,0,Rotational energy;Oscillation
+4,946,1696,0,Oscillation;Liénard's theorem
+5,1000,1600,0,Oscillation;Ballistics
+6,1600,1601,0,Equation of motion;Centrifugal governor
+7,1800,1899,0,Pendulum;Population dynamics
+8,1848,1900,0,Perturbation theory;Negative feedback
+9,1905,1906,0,Random walk;Dynamical system
+10,1950,2008,0,Dynamical system;System dynamics
 11,1951,2100,0,Autoregressive–moving-average model
-12,1964,2008,0,Sharkovskii's theorem
+12,1964,2008,0,Sharkovskii's theorem;Dynamical system
 13,1989,2100,0,Swarm intelligence
 14,2020,2100,0,Tetration
-15,1601,1602,1,Classical mechanics;Mechanical equilibrium
+15,1601,1602,1,Mechanical equilibrium;Oscillation;Equation of motion;Pendulum;Classical mechanics
 16,1659,2100,1,Equation of motion;Centripetal force
 17,1736,2100,1,Angular momentum;Rotational energy
 18,1737,2100,1,Torque;Equation of motion
@@ -35,7 +35,7 @@ i,birth,death,dim,nodes
 33,1891,2100,1,Ordinary differential equation;Double pendulum
 34,1899,2100,1,Dynamical system;Chaos theory
 35,1899,2100,1,Dynamical system;Control theory
-36,1899,1900,1,Dynamical system;Liénard's theorem
+36,1899,1900,1,Liénard's theorem;Control theory;Differential equation;Dynamical system
 37,1899,2100,1,Dynamical system;Lagrange point
 38,1900,2100,1,Differential equation;Partial differential equation
 39,1900,2100,1,Ordinary differential equation;Autonomous system (mathematics)

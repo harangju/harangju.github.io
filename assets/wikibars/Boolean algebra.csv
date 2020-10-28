@@ -1,9 +1,9 @@
 i,birth,death,dim,nodes
 0,1100,2100,0,Propositional calculus
-1,1200,1800,0,Venn diagram
-2,1705,1800,0,Logic gate
-3,1800,1880,0,Formal system
-4,1869,1927,0,Ivan Ivanovich Zhegalkin
+1,1200,1800,0,Venn diagram;Propositional calculus
+2,1705,1800,0,Logic gate;De Morgan's laws
+3,1800,1880,0,Formal system;Propositional calculus
+4,1869,1927,0,Ivan Ivanovich Zhegalkin;Boolean algebra
 5,1806,2100,1,Augustus De Morgan;William Stanley Jevons
 6,1816,2100,1,Venn diagram;Boole's syllogistic
 7,1834,2100,1,Venn diagram;John Venn
@@ -15,10 +15,10 @@ i,birth,death,dim,nodes
 13,1887,2100,1,Propositional calculus;Peirce's law
 14,1908,2100,1,Logical connective;Propositional calculus
 15,1909,2100,1,Truth table;Conditioned disjunction
-16,1910,1911,1,Venn diagram;Logical biconditional
+16,1910,1911,1,Venn diagram;Logical connective;Laws of classical logic;Logical biconditional
 17,1913,2100,1,Formal system;Sheffer stroke
-18,1913,1914,1,Logical value;Truth table
-19,1913,1914,1,Logical value;Boolean domain
+18,1913,1914,1,Logical disjunction;Sheffer stroke;Logical value;Boolean function;Truth table
+19,1913,1914,1,Logical disjunction;Sheffer stroke;Logical value;Boolean function;Boolean domain
 20,1914,2100,1,Logical value;Logical equality
 21,1915,2100,1,Propositional calculus;Logical implication
 22,1915,2100,1,Material conditional;Logical implication

@@ -1,22 +1,22 @@
 i,birth,death,dim,nodes
 0,-400,2100,0,Algebraic geometry
-1,147,1801,0,Ascending chain condition
+1,147,1801,0,Algebraic geometry;Ascending chain condition
 2,1783,2100,1,Abstract algebra;Zariski tangent space
 3,1783,2100,1,Tensor product of fields;Field theory (mathematics)
 4,1800,2100,1,Nilpotent;Dual numbers
-5,1801,1878,1,Commutative ring;Abstract algebra
+5,1801,1878,1,Commutative ring;Ring theory;Abstract algebra;Algebraic number theory
 6,1801,2100,1,Commutative ring;Chinese remainder theorem
-7,1801,1876,1,Commutative ring;Field theory (mathematics)
-8,1801,1941,1,Module (mathematics);Homological algebra
+7,1801,1876,1,Commutative ring;Field theory (mathematics);Abstract algebra;Algebraic number theory
+8,1801,1941,1,Algebraic geometry;Ring theory;Homological algebra;Module (mathematics)
 9,1801,2100,1,Abstract algebra;Ring homomorphism
-10,1801,1876,1,Prime ideal;Field theory (mathematics)
+10,1801,1876,1,Prime ideal;Ring theory;Field theory (mathematics);Algebraic number theory
 11,1801,2100,1,Ring homomorphism;Field theory (mathematics)
 12,1802,2100,1,Module (mathematics);Tensor product of R-algebras
-13,1802,1958,1,Algebraic geometry;Spectrum of a ring
+13,1802,1958,1,Algebraic geometry;Ring theory;Commutative ring;Spectrum of a ring
 14,1802,2100,1,Prime ideal;Spectrum of a ring
-15,1803,1878,1,Integer;Unique factorization domain
-16,1804,1876,1,Abstract algebra;Quotient ring
-17,1876,1878,1,Ideal (ring theory);Ascending chain condition
+15,1803,1878,1,Abstract algebra;Commutative ring;Dedekind domain;Algebraic number theory;Unique factorization domain;Integer
+16,1804,1876,1,Quotient ring;Ring theory;Abstract algebra;Algebraic number theory
+17,1876,1878,1,Commutative ring;Ring theory;Ideal (ring theory);Ascending chain condition
 18,1877,2100,1,Polynomial ring;Unique factorization domain
 19,1890,2100,1,Invariant theory;Hilbert's syzygy theorem
 20,1899,2100,1,Prime ideal;Going up and going down
@@ -34,7 +34,7 @@ i,birth,death,dim,nodes
 32,1958,2100,1,Ring homomorphism;Localization of a ring
 33,2020,2100,1,Algebraic number field;Ideal class group
 34,2020,2100,1,Ring ideal;Buchberger's algorithm
-35,1877,1898,2,Algebraic geometry;Polynomial ring;Field theory (mathematics)
+35,1877,1898,2,Field theory (mathematics);Algebraic geometry;Polynomial ring;Ring theory;Algebraic number theory;Ideal (ring theory)
 36,1877,2100,2,Polynomial ring;Field (mathematics);Dual numbers
 37,1878,2100,2,Field (mathematics);Abstract algebra;Noetherian ring
 38,1898,2100,2,Commutative algebra;Ideal (ring theory);Dual numbers

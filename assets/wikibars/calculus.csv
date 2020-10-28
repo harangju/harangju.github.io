@@ -1,11 +1,11 @@
 i,birth,death,dim,nodes
 0,100,2100,0,Bernoulli number
-1,150,1350,0,Calculus
-2,473,1642,0,Integral of the secant function
-3,1691,1808,0,Mean value theorem
-4,1762,1801,0,Divergence theorem
-5,1768,1807,0,Joseph Fourier
-6,1800,1801,0,Numerical integration
+1,150,1350,0,Bernoulli number;Calculus
+2,473,1642,0,Integral of the secant function;Calculus
+3,1691,1808,0,Mean value theorem;Calculus
+4,1762,1801,0,Divergence theorem;Calculus
+5,1768,1807,0,Joseph Fourier;Infinite series
+6,1800,1801,0,Numerical integration;Calculus
 7,2020,2100,0,Shell integration
 8,500,2100,1,Differential calculus;Maxima and minima
 9,1350,2100,1,Infinite series;Maclaurin series
@@ -19,7 +19,7 @@ i,birth,death,dim,nodes
 17,1669,2100,1,Limit of a sequence;E (mathematical constant)
 18,1669,2100,1,Derivative;Newton's method
 19,1671,2100,1,Taylor series;Taylor's theorem
-20,1671,1685,1,Taylor's theorem;Maclaurin series
+20,1671,1685,1,Maclaurin series;Infinite series;Taylor series;Taylor's theorem
 21,1698,2100,1,Colin Maclaurin;Nonstandard calculus
 22,1700,2100,1,Infinitesimal calculus;Leonhard Euler
 23,1700,2100,1,E (mathematical constant);Leonhard Euler
@@ -28,7 +28,7 @@ i,birth,death,dim,nodes
 26,1802,2100,1,Numerical integration;Arclength
 27,1803,2100,1,Maxima and minima;Table of mathematical symbols
 28,1803,2100,1,Linearity of integration;Constant factor rule in integration
-29,1803,1810,1,List of integrals of trigonometric functions;List of integrals of exponential functions
+29,1803,1810,1,Derivative;List of integrals of trigonometric functions;Exponential function;List of integrals of exponential functions;Antiderivative
 30,1804,2100,1,Jacobian matrix;Hyperbolic angle
 31,1808,2100,1,Partial derivative;Differentiation under the integral sign
 32,1808,2100,1,Differentiation under the integral sign;Fourier series

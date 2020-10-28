@@ -1,27 +1,27 @@
 i,birth,death,dim,nodes
 0,-400,2100,0,Philosophy of language
-1,-343,-342,0,Aristotle
-2,-300,-298,0,Syntax
+1,-343,-342,0,Philosophy of language;Aristotle
+2,-300,-298,0,Syntax;Philosophy of language
 3,500,2100,0,European Summer School in Logic, Language and Information
-4,1200,1848,0,Failure to refer
-5,1632,1634,0,Semiotics
-6,1700,1889,0,Family resemblance
-7,1797,2018,0,César Chesneau Dumarsais
-8,1846,1900,0,F. H. Bradley
-9,1882,1902,0,Otto Neurath
-10,1885,1891,0,Susan Stebbing
+4,1200,1848,0,Philosophy of language;Failure to refer
+5,1632,1634,0,Philosophy of language;Semiotics
+6,1700,1889,0,Philosophy of language;Family resemblance
+7,1797,2018,0,Philosophy of language;César Chesneau Dumarsais
+8,1846,1900,0,Philosophy of language;F. H. Bradley
+9,1882,1902,0,Gottlob Frege;Otto Neurath
+10,1885,1891,0,Gottlob Frege;Susan Stebbing
 11,1886,2100,0,Franz Rosenzweig
-12,1900,1951,0,Linguistic relativity
-13,1903,1910,0,George Orwell
-14,1907,2018,0,Archie J. Bahm
-15,1926,2018,0,Ingeborg Bachmann
-16,1942,2018,0,Þorsteinn Gylfason
-17,1959,2018,0,S. Morris Engel
-18,1974,1991,0,Journal of Logic, Language and Information
-19,1993,2018,0,Cheung Kam Ching
-20,2009,2018,0,William C. Dowling
+12,1900,1951,0,Bertrand Russell;Linguistic relativity
+13,1903,1910,0,Philosophy of language;George Orwell
+14,1907,2018,0,Gottlob Frege;Archie J. Bahm
+15,1926,2018,0,Gottlob Frege;Ingeborg Bachmann
+16,1942,2018,0,Gottlob Frege;Þorsteinn Gylfason
+17,1959,2018,0,Gottlob Frege;S. Morris Engel
+18,1974,1991,0,European Summer School in Logic, Language and Information;Journal of Logic, Language and Information
+19,1993,2018,0,Gottlob Frege;Cheung Kam Ching
+20,2009,2018,0,Gottlob Frege;William C. Dowling
 21,2009,2100,0,Theoretical definition
-22,2010,2011,0,Metalanguage
+22,2010,2011,0,Sebastian Shaumyan;Metalanguage
 23,2011,2100,0,Unilalianism
 24,1100,2100,1,Peter Abelard;Aristotle
 25,1632,2100,1,Syntax;Semeiotic
@@ -33,8 +33,8 @@ i,birth,death,dim,nodes
 31,1900,2100,1,Friedrich Waismann;Ordinary language philosophy
 32,1901,2100,1,Logical atomism;Colloquial language
 33,1901,2100,1,Semiotics;Language-game
-34,1906,1960,1,Rudolf Carnap;Nelson Goodman
-35,1906,2018,1,Stanley Cavell;Nelson Goodman
+34,1906,1960,1,Nelson Goodman;Gottlob Frege;Philosophy of language;Rudolf Carnap
+35,1906,2018,1,Stanley Cavell;Rudolf Carnap;Gottlob Frege;Nelson Goodman;Ludwig Wittgenstein
 36,1907,2100,1,Ordinary language philosophy;Stipulative definition
 37,1909,2100,1,Max Black;Susan Stebbing
 38,1913,2100,1,Paul Grice;Aristotle
@@ -42,12 +42,12 @@ i,birth,death,dim,nodes
 40,1919,2100,1,Direction of fit;G. E. M. Anscombe
 41,1920,2100,1,Logical positivism;Direct reference theory
 42,1940,2100,1,Structuralism;Jacques Bouveresse
-43,1942,2018,1,Aristotle;John McDowell
+43,1942,2018,1,Gottlob Frege;Paul Grice;John McDowell;Bertrand Russell;P. F. Strawson;Aristotle
 44,1946,2100,1,Aristotle;Kit Fine
 45,1951,2100,1,George Orwell;Noam Chomsky
-46,1951,2018,1,J. L. Austin;Noam Chomsky
+46,1951,2018,1,Alfred Jules Ayer;J. L. Austin;Bertrand Russell;Noam Chomsky
 47,1951,2100,1,Noam Chomsky;Structuralism
-48,1951,2018,1,Noam Chomsky;Nelson Goodman
+48,1951,2018,1,Rudolf Carnap;Gottlob Frege;Nelson Goodman;Noam Chomsky;Bertrand Russell
 49,1951,2100,1,Noam Chomsky;Universal grammar
 50,1957,2100,1,Intension;Concept
 51,1957,2100,1,Artificial intelligence;Concept
@@ -65,7 +65,7 @@ i,birth,death,dim,nodes
 63,1962,2100,1,Analytic-synthetic distinction;Robert Stalnaker
 64,1962,2100,1,Analytic-synthetic distinction;Noam Chomsky
 65,1970,2100,1,Aboutness;Language of thought
-66,1970,1971,1,Causal theory of reference;Keith Donnellan
+66,1970,1971,1,Causal theory of reference;Keith Donnellan;Gottlob Frege;Philosophy of language;Saul Kripke
 67,1971,2100,1,Semantics;Donkey pronoun
 68,1971,2100,1,Donkey pronoun;Supposition theory
 69,1971,2100,1,Donkey pronoun;Gareth Evans (philosopher)

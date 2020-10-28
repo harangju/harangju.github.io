@@ -1,63 +1,63 @@
 i,birth,death,dim,nodes
 0,-5000,2100,0,Debt
-1,-4500,2014,0,Commodity market
-2,-3000,600,0,Trade
-3,-1754,800,0,Bank
-4,-500,-499,0,Tax
-5,-405,1700,0,Gresham's law
-6,-300,2015,0,Actuary
-7,-300,1200,0,Economic geography
-8,100,1865,0,Operations research
+1,-4500,2014,0,Debt;Commodity market
+2,-3000,600,0,Debt;Trade
+3,-1754,800,0,Trade;Bank
+4,-500,-499,0,Trade;Tax
+5,-405,1700,0,Gresham's law;Trade
+6,-300,2015,0,Investment;Actuary
+7,-300,1200,0,Investment;Economic geography
+8,100,1865,0,Trade;Operations research
 9,136,2100,0,Slavery
-10,140,1700,0,Seven generation sustainability
-11,150,1701,0,Charity shop
-12,300,900,0,Local currency
-13,300,600,0,Socialism
-14,300,1400,0,Sweatshop
-15,301,2016,0,Competition law
-16,412,800,0,Gold standard
-17,500,1300,0,Time-based currency
-18,600,1700,0,Shock therapy (economics)
-19,1300,1389,0,Price control
-20,1500,1600,0,Bullionism
-21,1600,1700,0,Moral hazard
-22,1600,1700,0,Mathematical economics
-23,1776,1870,0,New classical macroeconomics
-24,1800,1918,0,Surplus value
-25,1800,1937,0,Poverty threshold
-26,1805,1911,0,Regression analysis
-27,1829,1942,0,Terms of trade
-28,1890,1891,0,Price elasticity of demand
-29,1920,1933,0,Price discrimination
-30,1930,2014,0,Subsistence agriculture
-31,1932,1956,0,Elasticity of substitution
-32,1970,2005,0,The Experience Economy
-33,1975,1993,0,Policy-ineffectiveness proposition
-34,1985,2015,0,Dead cat bounce
+10,140,1700,0,Trade;Seven generation sustainability
+11,150,1701,0,Trade;Charity shop
+12,300,900,0,Trade;Local currency
+13,300,600,0,Socialism;Trade
+14,300,1400,0,Tax;Sweatshop
+15,301,2016,0,Competition law;Trade
+16,412,800,0,Gold standard;Bank
+17,500,1300,0,Trade;Time-based currency
+18,600,1700,0,Barter;Shock therapy (economics)
+19,1300,1389,0,Price control;Sweatshop
+20,1500,1600,0,Bullionism;Islamic economic jurisprudence
+21,1600,1700,0,Barter;Moral hazard
+22,1600,1700,0,Mathematical economics;Moral hazard
+23,1776,1870,0,New classical macroeconomics;Economics
+24,1800,1918,0,Surplus value;Economics
+25,1800,1937,0,Charity shop;Poverty threshold
+26,1805,1911,0,Regression analysis;Economics
+27,1829,1942,0,Economics;Terms of trade
+28,1890,1891,0,Price elasticity of demand;Economics
+29,1920,1933,0,Price discrimination;Economics
+30,1930,2014,0,Commodity market;Subsistence agriculture
+31,1932,1956,0,Economic model;Elasticity of substitution
+32,1970,2005,0,The Experience Economy;Economics
+33,1975,1993,0,Policy-ineffectiveness proposition;Economics
+34,1985,2015,0,Actuary;Dead cat bounce
 35,1994,2100,0,Triple bottom line
-36,2020,2021,0,Distribution (business)
+36,2020,2021,0,Market (economics);Distribution (business)
 37,100,2100,1,Laffer curve;Tax, tariff and trade
 38,600,2100,1,Debt;Social welfare provision
-39,900,2015,1,Currency;Euro
+39,900,2015,1,Currency;Euro;Trade;Tax, tariff and trade;Barter
 40,900,2100,1,Currency;Islamic economic jurisprudence
 41,1200,2100,1,Trade;Globalization
 42,1300,2100,1,Gold standard;Unit of account
 43,1300,2100,1,Euro;Unit of account
 44,1329,2100,1,Monetary policy;Monetary economics
 45,1400,2100,1,Inflation;Tax, tariff and trade
-46,1450,2014,1,Capitalism;Tax, tariff and trade
+46,1450,2014,1,Trade;Money;Tax, tariff and trade;Capitalism
 47,1470,2100,1,Price control;Rent control
 48,1500,2100,1,Globalization;Unemployment
 49,1500,2100,1,Unemployment;Social welfare provision
-50,1600,2018,1,Central bank;Inflation
+50,1600,2018,1,Currency;Trade;Inflation;Central bank;Tax, tariff and trade;Money;Barter
 51,1600,2100,1,Bank;Fractional-reserve banking
 52,1601,2100,1,Monetary economics;Money multiplier
 53,1602,2100,1,Purchasing power parity;Depreciation (currency)
 54,1602,2100,1,Debt;Depreciation (currency)
 55,1694,2100,1,Debt;Government debt
 56,1694,2100,1,Government debt;Tax, tariff and trade
-57,1700,2014,1,Economics;Inflation
-58,1700,1935,1,Economics;Gold standard
+57,1700,2014,1,Trade;Inflation;Economics;Tax, tariff and trade;Money;Barter
+58,1700,1935,1,Gross domestic product;Monetary policy;Gold standard;Inflation;Economics;Monetary economics;Unit of account
 59,1700,2100,1,Economics;Local currency
 60,1700,2100,1,Economics;Interest
 61,1700,2100,1,Economics;Economic geography
@@ -68,7 +68,7 @@ i,birth,death,dim,nodes
 66,1700,2100,1,Mercantilism;Tariff
 67,1700,2100,1,Tariff;Free trade
 68,1700,2100,1,Tariff;Import substitution industrialization
-69,1700,2015,1,Tariff;Tax, tariff and trade
+69,1700,2015,1,Currency;Trade;Tax, tariff and trade;Tariff;Import substitution industrialization;Barter
 70,1700,2100,1,Wealth;Bullionism
 71,1700,2100,1,Capitalism;Laissez-faire
 72,1700,2100,1,Human capital;Social welfare provision
@@ -76,11 +76,11 @@ i,birth,death,dim,nodes
 74,1701,2100,1,Agent (economics);Central bank
 75,1701,2100,1,Gross domestic product;Potential output
 76,1701,2100,1,Local purchasing;Industrial policy
-77,1702,2021,1,Consumption (economics);Trade
+77,1702,2021,1,Trade;Consumption (economics);Economics;Money;Barter
 78,1702,2100,1,Currency;Value (economics)
 79,1702,2100,1,Pareto efficiency;Utility
 80,1702,2100,1,Wealth;Value (economics)
-81,1702,2020,1,Marginal cost;Cost curve
+81,1702,2020,1,Cost curve;Marginal cost;Cost;Economics
 82,1703,2100,1,Pareto efficiency;Externality
 83,1703,2100,1,Marginal cost;Value of life
 84,1703,2100,1,Globalization;Value of life
@@ -96,26 +96,26 @@ i,birth,death,dim,nodes
 94,1767,2100,1,Supply and demand;Islamic economic jurisprudence
 95,1768,2100,1,Supply and demand;Economic graph
 96,1776,2100,1,Mercantilism;Classical economics
-97,1776,2021,1,Free trade;Classical economics
-98,1776,1940,1,Classical economics;Invisible hand
-99,1776,2017,1,Classical economics;Unemployment
+97,1776,2021,1,Capitalism;Trade;Economics;Free trade;Tax, tariff and trade;Tariff;Classical economics;Money;Import substitution industrialization
+98,1776,1940,1,Capitalism;Economics;Tax, tariff and trade;Classical economics;Invisible hand
+99,1776,2017,1,Inflation;Classical economics;Economics;Unemployment
 100,1789,2100,1,Debt;United States public debt
 101,1794,2100,1,Money;Decentralization
 102,1800,2100,1,Consumption (economics);Homo economicus
 103,1800,2100,1,Austrian School;Marginalism
-104,1800,2021,1,Austrian School;Unemployment
+104,1800,2021,1,Austrian School;Unemployment;Trade;Inflation;Economics;Consumption (economics);Money;Marginalism;Barter
 105,1800,2100,1,Subjective theory of value;Value (economics)
 106,1800,2100,1,Subjective theory of value;Expected utility hypothesis
 107,1800,2100,1,Mercantilism;Economic policy
 108,1800,2100,1,Perfect competition;Supply and demand
-109,1800,1971,1,Monetary policy;Economic policy
+109,1800,1971,1,Gross domestic product;Monetary policy;Inflation;Economics;Economic policy
 110,1800,2100,1,Bretton Woods System;Reserve currency
 111,1800,2100,1,Bretton Woods System;Tariff
 112,1800,2100,1,Bretton Woods System;Gold standard
 113,1800,2100,1,Business cycle;Value (economics)
 114,1800,2100,1,Industrial Revolution;History of economic thought
-115,1800,2021,1,Supply and demand;Labor theory of value
-116,1800,1993,1,Classical economics;Classical general equilibrium model
+115,1800,2021,1,Austrian School;Gross domestic product;Value (economics);Unemployment;Labor theory of value;Inflation;Economics;Marginalism;Perfect competition;Supply and demand;Business cycle
+116,1800,1993,1,Classical general equilibrium model;Economics;Classical economics;Perfect competition;Supply and demand
 117,1800,2100,1,Unemployment;List of recessions in the United States
 118,1801,2100,1,Central bank;Monetary reform
 119,1801,2100,1,Competition;Monopoly profit
@@ -124,32 +124,32 @@ i,birth,death,dim,nodes
 122,1801,2100,1,Austrian School;Monetary reform
 123,1801,2100,1,Bretton Woods System;Depression (economics)
 124,1801,2100,1,Gold standard;Monetary reform
-125,1801,2021,1,Depression (economics);Business cycle
-126,1801,2021,1,Depression (economics);Unemployment
+125,1801,2021,1,Depression (economics);Gross domestic product;Trade;Inflation;Consumption (economics);Economics;Business cycle
+126,1801,2021,1,Depression (economics);Unemployment;Trade;Inflation;Consumption (economics);Economics
 127,1801,2100,1,Imputation (economics);Labor theory of value
 128,1817,2100,1,Trade;Comparative advantage
-129,1817,2015,1,Free trade;Comparative advantage
+129,1817,2015,1,Trade;Free trade;Tariff;Comparative advantage;Bretton Woods System;Import substitution industrialization
 130,1817,2100,1,Comparative advantage;Marginal cost
 131,1833,2100,1,Game theory;Tragedy of the commons
 132,1833,2100,1,Sustainable development;Tragedy of the commons
 133,1839,2100,1,Utility;Intertemporal equilibrium
 134,1839,2100,1,Nash equilibrium;Intertemporal equilibrium
 135,1839,2100,1,Nash equilibrium;Trust (social sciences)
-136,1865,1933,1,Supply and demand;Energy economics
+136,1865,1933,1,Supply and demand;Energy economics;Perfect competition;Economics
 137,1869,2100,1,Economic growth;Industrialisation
 138,1869,2100,1,Economic growth;Capitalism
-139,1870,2019,1,Dynamic stochastic general equilibrium;Economic growth
-140,1870,1934,1,Dynamic stochastic general equilibrium;Economic policy
-141,1870,1994,1,Game theory;General equilibrium
-142,1870,2021,1,Heterodox economics;Austrian School
+139,1870,2019,1,Economic growth;Dynamic stochastic general equilibrium;Agent (economics);Economics
+140,1870,1934,1,Economic policy;Dynamic stochastic general equilibrium;Economic growth;Economics
+141,1870,1994,1,Game theory;General equilibrium;Mathematical economics;Economics
+142,1870,2021,1,Austrian School;Heterodox economics;Marginalism;Economics
 143,1870,2100,1,Heterodox economics;Ecological economics
-144,1870,1993,1,Heterodox economics;Labor theory of value
-145,1870,1971,1,Monetary policy;Comparative statics
+144,1870,1993,1,Labor theory of value;Economics;Perfect competition;Supply and demand;Heterodox economics
+145,1870,1971,1,Gross domestic product;Monetary policy;Economic growth;Economics;Comparative statics
 146,1870,2100,1,Standard of living;Minimum wage
 147,1870,2100,1,Endogenous growth theory;Human capital
 148,1870,2100,1,General equilibrium;Marginal rate of substitution
 149,1870,2100,1,General equilibrium;Intertemporal equilibrium
-150,1871,2021,1,Central bank;Money supply
+150,1871,2021,1,Money supply;Inflation;Central bank;Output (economics);Economics;Money
 151,1871,2100,1,Money supply;Heterodox economics
 152,1871,2100,1,Money supply;Business cycle
 153,1872,2100,1,Currency;Hyperinflation
@@ -176,7 +176,7 @@ i,birth,death,dim,nodes
 174,1900,2100,1,Neoliberalism;Political economy
 175,1900,2100,1,Neoliberalism;Import substitution industrialization
 176,1900,2100,1,Neoliberalism;Living wage
-177,1900,2021,1,Capitalism;Institutional economics
+177,1900,2021,1,Austrian School;Institutional economics;Unemployment;Capitalism;Inflation;Trade;Economics;Consumption (economics);Money;Heterodox economics
 178,1900,2100,1,Globalization;Informal sector
 179,1900,2100,1,Human capital;Human resources
 180,1901,2100,1,Principal–agent problem;Informal sector
@@ -191,11 +191,11 @@ i,birth,death,dim,nodes
 189,1918,2100,1,Value (economics);Social Credit
 190,1918,2100,1,Monetary reform;Social Credit
 191,1920,2100,1,Phillips curve;Inflation
-192,1920,2021,1,Economic calculation problem;Capitalism
-193,1920,2014,1,Economic calculation problem;Supply and demand
-194,1921,2015,1,Autarky;Comparative advantage
+192,1920,2021,1,Austrian School;Economic calculation problem;Unemployment;Capitalism;Inflation;Trade;Economics;Consumption (economics);Money
+193,1920,2014,1,Economic calculation problem;Capitalism;Economics;Money;Comparative statics;Supply and demand;Barter
+194,1921,2015,1,Autarky;Mercantilism;Free trade;Tariff;Comparative advantage;Bretton Woods System
 195,1925,2100,1,Appropriate technology;Sustainable development
-196,1930,1935,1,Gross domestic product;Spending multiplier
+196,1930,1935,1,Gross domestic product;Spending multiplier;Economic growth;Economics
 197,1930,2100,1,Bank;Quantitative easing
 198,1930,2100,1,Money multiplier;Spending multiplier
 199,1933,2100,1,Microeconomics;Behavioral economics
@@ -211,7 +211,7 @@ i,birth,death,dim,nodes
 209,1934,2100,1,Contract curve;Marginal rate of substitution
 210,1934,2100,1,Price elasticity of demand;Joint product pricing
 211,1935,2100,1,Adaptive expectations;Cobweb model
-212,1935,2019,1,Adaptive expectations;Phillips curve
+212,1935,2019,1,Adaptive expectations;Economic model;Economics;Phillips curve
 213,1935,2100,1,Aggregate demand;Real versus nominal value (economics)
 214,1935,2100,1,Aggregate demand;Investment
 215,1935,2100,1,Aggregate demand;Aggregate supply
@@ -225,7 +225,7 @@ i,birth,death,dim,nodes
 223,1938,2100,1,Economies of scale;Natural monopoly
 224,1938,2100,1,Ecological economics;Environmental economics
 225,1938,2100,1,Natural capital;Safe trade
-226,1939,2021,1,Marxian economics;Capitalism
+226,1939,2021,1,Austrian School;Capitalism;Trade;Consumption (economics);Marxian economics;Money;Macroeconomics;Heterodox economics
 227,1939,2100,1,Marxian economics;Political economy
 228,1939,2100,1,Marxian economics;Surplus value
 229,1940,2100,1,Appropriate technology;Capital (economics)
@@ -235,13 +235,13 @@ i,birth,death,dim,nodes
 233,1941,2100,1,Tax;Investment specific technological progress
 234,1941,2100,1,Capital (economics);International trade
 235,1941,2100,1,Capital (economics);Investment specific technological progress
-236,1941,2021,1,Economic calculation problem;Factors of production
+236,1941,2021,1,Economic calculation problem;Capitalism;Factors of production;Economics;Classical economics;Capital (economics)
 237,1941,2100,1,International trade;Economic geography
-238,1941,1956,1,Factors of production;Human capital
+238,1941,1956,1,Factors of production;Economic growth;Human capital;Endogenous growth theory;Production function
 239,1942,2100,1,Gross domestic product;Transfer payment
 240,1942,2100,1,Trade;Transfer payment
 241,1942,2100,1,International trade;List of economic reports by U.S. government agencies
-242,1942,2015,1,Tariff;Import
+242,1942,2015,1,Autarky;International trade;Mercantilism;Tariff;Import
 243,1942,2100,1,Tariff;International economics
 244,1942,2100,1,Supply and demand;International economics
 245,1943,2100,1,Welfare economics;Big Push Model
@@ -262,17 +262,17 @@ i,birth,death,dim,nodes
 260,1946,2100,1,Socialist economics;Underground economy
 261,1946,2100,1,Rent control;Underground economy
 262,1948,2100,1,Unemployment;Okun's law
-263,1950,2014,1,Transaction cost;Trade
-264,1951,1994,1,Agent-based computational economics;Game theory
-265,1951,2002,1,Agent-based computational economics;Welfare economics
-266,1951,2019,1,Agent-based computational economics;Macroeconomics
+263,1950,2014,1,Trade;Economics;Money;Transaction cost;Barter
+264,1951,1994,1,Game theory;Agent-based computational economics;General equilibrium;Agent (economics);Economics
+265,1951,2002,1,Microeconomics;Agent-based computational economics;Welfare economics;Industrial organization
+266,1951,2019,1,Agent-based computational economics;Agent (economics);Economics;Macroeconomics
 267,1956,2100,1,Consumption (economics);Exogenous growth model
 268,1956,2100,1,Investment;Exogenous growth model
 269,1956,2100,1,Microeconomics;Exogenous growth model
 270,1956,2100,1,Free trade;Exogenous growth model
 271,1956,2100,1,Depreciation (economics);Exogenous growth model
 272,1958,2100,1,Market failure;Heterodox economics
-273,1958,1993,1,Market failure;Microeconomics
+273,1958,1993,1,Microeconomics;Market failure;Heterodox economics;Economics
 274,1958,2100,1,Market failure;Natural monopoly
 275,1958,2100,1,Cost;Cost–benefit analysis
 276,1959,2100,1,Supply and demand;Transport economics
@@ -285,14 +285,14 @@ i,birth,death,dim,nodes
 283,1961,2100,1,Community-based economics;Local currency
 284,1967,2100,1,Tax;Comprehensive Income Policy Agreement
 285,1967,2100,1,Comprehensive Income Policy Agreement;Globalization
-286,1970,2013,1,Pareto efficiency;Chicago School of Economics
+286,1970,2013,1,Microeconomics;Welfare economics;Chicago School of Economics;Macroeconomics;Pareto efficiency
 287,1970,2100,1,Inflation;Cost-push inflation
-288,1970,1993,1,Chicago School of Economics;Law and economics
+288,1970,1993,1,Microeconomics;Institutional economics;Law and economics;Economics;Chicago School of Economics
 289,1970,2100,1,Chicago School of Economics;Economic history
 290,1970,2100,1,Chicago School of Economics;Homo economicus
 291,1970,2100,1,Chicago School of Economics;History of economic thought
-292,1970,1993,1,General equilibrium;Keynesian economics
-293,1970,1993,1,Keynesian economics;Exogenous growth model
+292,1970,1993,1,General equilibrium;Unemployment;Economics;Classical economics;Macroeconomics;Keynesian economics
+293,1970,1993,1,Microeconomics;General equilibrium;Exogenous growth model;Economics;Keynesian economics
 294,1970,2100,1,Keynesian economics;Rent control
 295,1970,2100,1,Lucas critique;Representative agent
 296,1971,2100,1,Laissez-faire;Fiscal policy
@@ -319,10 +319,10 @@ i,birth,death,dim,nodes
 317,1991,2100,1,Cooperative;List of community topics
 318,1991,2100,1,Social capital;List of community topics
 319,1991,2100,1,Tragedy of the commons;List of community topics
-320,1992,2021,1,Economic calculation problem;Rational choice theory
+320,1992,2021,1,New classical macroeconomics;Economic calculation problem;Capitalism;Rational choice theory;Trade;Consumption (economics);Economics;Chicago School of Economics;Money;Macroeconomics
 321,1992,2100,1,Human capital;Rational choice theory
-322,1993,1994,1,Rational expectations;Game theory
-323,1993,2019,1,Rational expectations;Chicago School of Economics
+322,1993,1994,1,Game theory;Agent-based computational economics;Rational expectations;Agent (economics);Economics
+323,1993,2019,1,Rational expectations;Chicago School of Economics;Macroeconomics;Economics
 324,1993,2100,1,Zero-sum;Comparative advantage
 325,1993,2100,1,Zero-sum;Utility
 326,1993,2100,1,Zero-sum;Rational choice theory
@@ -374,9 +374,9 @@ i,birth,death,dim,nodes
 372,2013,2100,1,Investment;Market economy
 373,2013,2100,1,Market failure;Market economy
 374,2013,2100,1,Factors of production;Market economy
-375,2013,2018,1,Bretton Woods System;Market economy
-376,2013,2021,1,Market economy;Supply and demand
-377,2013,2018,1,Market economy;Classical economics
+375,2013,2018,1,Distribution (economics);Economic calculation problem;Capitalism;Factors of production;Economics;Market economy;Bretton Woods System;Neoliberalism
+376,2013,2021,1,Market economy;Economic calculation problem;Supply and demand;Capitalism
+377,2013,2018,1,Economic calculation problem;Capitalism;Factors of production;Economics;Classical economics;Market economy
 378,2013,2100,1,Market economy;Public good
 379,2013,2100,1,Market economy;Industrial policy
 380,2013,2100,1,Market economy;Price control
@@ -387,7 +387,7 @@ i,birth,death,dim,nodes
 385,2013,2100,1,Minimum wage;Efficiency wages
 386,2013,2100,1,Efficiency wages;Public good
 387,2013,2100,1,Efficiency wages;Elasticity (economics)
-388,2014,2020,1,Market (economics);Market failure
+388,2014,2020,1,Microeconomics;Market (economics);Natural monopoly;Market failure;Economics;Economies of scale
 389,2014,2100,1,Market (economics);Balance of payments
 390,2014,2100,1,Market (economics);Underground economy
 391,2014,2100,1,Cash crop;Supply and demand
@@ -396,7 +396,7 @@ i,birth,death,dim,nodes
 394,2015,2100,1,Finance;Invisible hand
 395,2015,2100,1,Finance;Energy economics
 396,2015,2100,1,Welfare economics;Contestable market
-397,2015,2021,1,Market (economics);Labour economics
+397,2015,2021,1,Market (economics);Labour economics;Capital (economics);Capitalism
 398,2015,2100,1,Commodity;Cash crop
 399,2015,2100,1,Commodity;Electricity market
 400,2015,2100,1,Purchasing power parity;List of international trade topics
@@ -423,7 +423,7 @@ i,birth,death,dim,nodes
 421,2016,2100,1,Competition law;List of business law topics
 422,2016,2100,1,Supply and demand;Real estate economics
 423,2016,2100,1,Income;Yield (finance)
-424,2016,2017,1,Chicago School of Economics;Monetarism
+424,2016,2017,1,Monetary policy;Chicago School of Economics;Monetarism;Neoclassical economics;Keynesian economics
 425,2016,2100,1,Monetarism;Measures of national income and output
 426,2016,2100,1,Law and economics;List of business law topics
 427,2016,2100,1,Consumer;Social Credit
@@ -454,7 +454,7 @@ i,birth,death,dim,nodes
 452,2017,2100,1,Consumer;Utility maximization problem
 453,2017,2100,1,Consumer;Endogeneity (economics)
 454,2017,2100,1,Consumer price index;Hedonic regression
-455,2017,2018,1,Utility;Utility maximization problem
+455,2017,2018,1,Microeconomics;Utility maximization problem;Utility;Opportunity cost
 456,2017,2100,1,Economic problem;Scarcity
 457,2017,2100,1,Scarcity;Evolutionary economics
 458,2017,2100,1,Endogeneity (economics);Preference
@@ -474,9 +474,9 @@ i,birth,death,dim,nodes
 472,2018,2100,1,Factors of production;Entrepreneurial economics
 473,2018,2100,1,Ecological economics;Regenerative economic theory
 474,2018,2100,1,Gold standard;Price specie flow mechanism
-475,2018,2020,1,Monopoly;Marginal cost
+475,2018,2020,1,Economics;Monopoly;Industrial organization;Cost;Marginal cost
 476,2018,2100,1,Monopoly;Government-granted monopoly
-477,2018,2019,1,Monopoly;Monopsony
+477,2018,2019,1,Monopoly;Industrial organization;Monopsony;Economics
 478,2018,2100,1,Monopoly;Islamic economic jurisprudence
 479,2018,2100,1,Income;Saving
 480,2018,2100,1,Income;Luxury goods
@@ -500,13 +500,13 @@ i,birth,death,dim,nodes
 498,2019,2100,1,Network effect;Economies of agglomeration
 499,2019,2100,1,Network effect;Infrastructural capital
 500,2019,2100,1,Substitute good;General equilibrium
-501,2019,2020,1,Substitute good;Consumer theory
+501,2019,2020,1,Inferior good;Economics;Consumer theory;Substitute good;Good (economics)
 502,2019,2100,1,Perfect competition;Limit price
 503,2019,2100,1,Means of production;Infrastructural capital
 504,2019,2100,1,Profit (economics);List of management topics
 505,2019,2100,1,Monopoly;Cournot competition
 506,2019,2100,1,Monopoly;X-efficiency
-507,2019,2021,1,Monopoly;Geographical pricing
+507,2019,2021,1,Market (economics);Geographical pricing;List of international trade topics;Trade;Monopoly
 508,2019,2100,1,Supply and demand;Cournot competition
 509,2019,2100,1,Cost;Economies of agglomeration
 510,2019,2100,1,Chicago School of Economics;Imperfect competition
@@ -531,7 +531,7 @@ i,birth,death,dim,nodes
 529,2019,2100,1,Value of life;Infrastructural capital
 530,2019,2100,1,Infrastructural capital;Instructional capital
 531,2019,2100,1,Job hunting;Search theory
-532,2019,2020,1,Price discrimination;Two-part tariff
+532,2019,2020,1,Microeconomics;Market (economics);Economics;Two-part tariff;Price discrimination
 533,2019,2100,1,Model (macroeconomics);Social welfare function
 534,2019,2100,1,Workers' self-management;List of management topics
 535,2019,2100,1,List of accounting topics;List of management topics

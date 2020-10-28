@@ -1,201 +1,201 @@
 i,birth,death,dim,nodes
 0,-8000,2100,0,Farmer
-1,-5000,501,0,Debt
-2,-5000,-328,0,Factory
-3,-3000,-2999,0,Law
-4,-3000,124,0,Trade
-5,-3000,135,0,Post mortem
-6,-2800,223,0,Cannabis (drug)
-7,-2750,546,0,Surety bond
-8,-2600,-500,0,Sacred text
-9,-1754,-1700,0,Bank
-10,-1700,117,0,Prostitution
-11,-1500,151,0,Sick pay
-12,-1200,1789,0,Extradition
-13,-1152,224,0,Strike action
-14,-800,-799,0,Animal rights
-15,-800,600,0,Roman Forum
-16,-700,-621,0,Democracy
-17,-600,192,0,Manslaughter
-18,-600,117,0,Frenchman
-19,-600,1865,0,Toll road
-20,-500,100,0,Intellectual property
-21,-500,-499,0,Tax
-22,-483,2016,0,Citizen's dividend
-23,-415,150,0,Voluntary association
-24,-399,301,0,Freedom of religion
-25,-399,900,0,Censorship
-26,-330,-328,0,Education
-27,-326,136,0,Debt bondage
-28,-300,400,0,Deductive reasoning
-29,-300,143,0,Circumcision
-30,-300,201,0,Land value tax
-31,100,123,0,Divorce
-32,100,150,0,American Civil Rights Movement
-33,100,2010,0,Burgage
-34,100,1315,0,Emancipation Proclamation
+1,-5000,501,0,Debt;Farmer
+2,-5000,-328,0,Factory;Interest
+3,-3000,-2999,0,Law;Interest
+4,-3000,124,0,Trade;Legal
+5,-3000,135,0,Law;Post mortem
+6,-2800,223,0,Law;Cannabis (drug)
+7,-2750,546,0,Law;Surety bond
+8,-2600,-500,0,Sacred text;Legal
+9,-1754,-1700,0,Debt;Bank
+10,-1700,117,0,International law;Prostitution
+11,-1500,151,0,Sick pay;International law
+12,-1200,1789,0,Extradition;Law
+13,-1152,224,0,Strike action;International law
+14,-800,-799,0,Animal rights;Legal
+15,-800,600,0,Law;Roman Forum
+16,-700,-621,0,Legal;Democracy
+17,-600,192,0,Law;Manslaughter
+18,-600,117,0,Frenchman;International law
+19,-600,1865,0,Law;Toll road
+20,-500,100,0,Law;Intellectual property
+21,-500,-499,0,Law;Tax
+22,-483,2016,0,Law;Citizen's dividend
+23,-415,150,0,Voluntary association;Frenchman
+24,-399,301,0,Freedom of religion;Death penalty
+25,-399,900,0,Law;Censorship
+26,-330,-328,0,Education;Factory
+27,-326,136,0,Criminal;Debt bondage
+28,-300,400,0,Deductive reasoning;Law
+29,-300,143,0,Capital punishment;Circumcision
+30,-300,201,0,Tax law;Land value tax
+31,100,123,0,Law;Divorce
+32,100,150,0,Voluntary association;American Civil Rights Movement
+33,100,2010,0,Law;Burgage
+34,100,1315,0,Criminal;Emancipation Proclamation
 35,100,2100,0,Lübeck law
-36,101,142,0,Vigilante
-37,108,1000,0,Federal Communications Commission
-38,110,1100,0,Speed limit
-39,116,133,0,Asharite
-40,116,192,0,Law of treaties
-41,116,1790,0,Vienna Convention on the Law of Treaties
-42,120,1914,0,Frequency
-43,125,1500,0,Codex
-44,127,136,0,Slavery at common law
-45,150,1500,0,Fair
-46,172,1601,0,Debenture
-47,200,242,0,Refugee
-48,200,1626,0,Orphan
-49,200,313,0,United States Declaration of Independence
-50,200,400,0,Reform Judaism
-51,230,2015,0,War reparations
-52,263,1701,0,Bluebook
-53,300,313,0,Edict of Milan
-54,300,2002,0,Ferry
-55,311,1789,0,Semble
-56,320,500,0,Doctrine of equivalents
-57,320,1100,0,Private Express Statutes
-58,330,1316,0,Homestead Act
-59,400,500,0,Medical ethics
-60,400,1257,0,Conduct money
-61,415,1890,0,Expert determination
-62,500,504,0,Corpus juris secundum
-63,500,1756,0,Sex offender registries in the United States
-64,505,1988,0,Tax haven
+36,101,142,0,Capital punishment;Vigilante
+37,108,1000,0,Federal Communications Commission;Law
+38,110,1100,0,Crime;Speed limit
+39,116,133,0,Sacred text;Asharite
+40,116,192,0,Diplomatic immunity;Law of treaties
+41,116,1790,0,Law;Vienna Convention on the Law of Treaties
+42,120,1914,0,Law;Frequency
+43,125,1500,0,Law;Codex
+44,127,136,0,Slavery at common law;Criminal
+45,150,1500,0,Fair;International law
+46,172,1601,0,Law;Debenture
+47,200,242,0,Refugee;Crime
+48,200,1626,0,Orphan;Common law
+49,200,313,0,Law;United States Declaration of Independence
+50,200,400,0,Jewish Theological Seminary of America;Reform Judaism
+51,230,2015,0,Law;War reparations
+52,263,1701,0,Bluebook;Common law
+53,300,313,0,Edict of Milan;Law
+54,300,2002,0,Ferry;Common law
+55,311,1789,0,Common law;Semble
+56,320,500,0,World Trade Organization;Doctrine of equivalents
+57,320,1100,0,Law;Private Express Statutes
+58,330,1316,0,Slavery;Homestead Act
+59,400,500,0,Law;Medical ethics
+60,400,1257,0,Conduct money;Common law
+61,415,1890,0,Expert determination;Common law
+62,500,504,0,Law;Corpus juris secundum
+63,500,1756,0,Sex offender registries in the United States;Common law
+64,505,1988,0,Tax haven;Sharia law
 65,509,2100,0,Fiat
-66,549,1800,0,Paraphilia
-67,576,2001,0,Compounding a felony
-68,683,1601,0,Treasure trove
-69,700,2020,0,Fisheries management
-70,700,2009,0,Impotence
-71,802,1189,0,Prerogative writ
-72,858,1900,0,Trinoda necessitas
-73,987,1285,0,Primogeniture
-74,1100,1617,0,Highway
-75,1100,1342,0,Tosafists
-76,1200,1701,0,Abeyance
-77,1200,1600,0,Bailiff
-78,1200,1801,0,Accountability
-79,1300,2009,0,Tipstaff
-80,1400,1601,0,Seven deadly sins
-81,1400,2020,0,De minimis
-82,1485,1787,0,Court calendar
-83,1485,1787,0,Court docket
-84,1500,1601,0,Terra nullius
-85,1500,2010,0,Court of High Commission
-86,1500,1790,0,Regulatory taking
-87,1500,1981,0,Mopery
-88,1540,1800,0,Border control
-89,1556,1949,0,Articles of War
-90,1568,1570,0,Flag
-91,1591,1800,0,Shoplifting
-92,1600,1601,0,Probable cause
-93,1600,1601,0,Life
-94,1600,1932,0,Blue law
-95,1600,2020,0,Ipse dixit
-96,1617,2010,0,Tenement
-97,1634,1932,0,Privy Council of Sweden
-98,1700,1893,0,Franc
-99,1700,2025,0,Best evidence rule
-100,1773,2000,0,Fair Play Men
-101,1775,2010,0,Occupational disease
-102,1777,1948,0,Herem (censure)
-103,1781,1789,0,Full faith and credit
-104,1788,2008,0,Judge advocate
-105,1791,1902,0,Fox's Libel Act
-106,1800,1801,0,Construction
+66,549,1800,0,Law;Paraphilia
+67,576,2001,0,Compounding a felony;Common law
+68,683,1601,0,Treasure trove;Common law
+69,700,2020,0,Fisheries management;International law
+70,700,2009,0,Slavery;Impotence
+71,802,1189,0,Prerogative writ;Common law
+72,858,1900,0,Trinoda necessitas;Government
+73,987,1285,0,Primogeniture;Common law
+74,1100,1617,0,Crime;Highway
+75,1100,1342,0,Tosafists;Sharia law
+76,1200,1701,0,Abeyance;Common law
+77,1200,1600,0,Bailiff;Criminal law
+78,1200,1801,0,Law;Accountability
+79,1300,2009,0,Law;Tipstaff
+80,1400,1601,0,Law;Seven deadly sins
+81,1400,2020,0,Law;De minimis
+82,1485,1787,0,Court calendar;Rape
+83,1485,1787,0,Court docket;Rape
+84,1500,1601,0,Terra nullius;Common law
+85,1500,2010,0,Law;Court of High Commission
+86,1500,1790,0,Law;Regulatory taking
+87,1500,1981,0,Real property;Mopery
+88,1540,1800,0,Border control;International law
+89,1556,1949,0,Articles of War;Law
+90,1568,1570,0,Flag;Signature
+91,1591,1800,0,Shoplifting;Law
+92,1600,1601,0,Prison;Probable cause
+93,1600,1601,0,Property;Life
+94,1600,1932,0,Blue law;Minor (law)
+95,1600,2020,0,Law;Ipse dixit
+96,1617,2010,0,Tenement;Common law
+97,1634,1932,0,Privy Council of Sweden;Australian Constitution
+98,1700,1893,0,License;Franc
+99,1700,2025,0,Law;Best evidence rule
+100,1773,2000,0,Real property;Fair Play Men
+101,1775,2010,0,Occupational disease;Common law
+102,1777,1948,0,Rights;Herem (censure)
+103,1781,1789,0,Legislature;Full faith and credit
+104,1788,2008,0,Judge advocate;Sharia law
+105,1791,1902,0,Legislature;Fox's Libel Act
+106,1800,1801,0,Construction;Contract
 107,1800,2100,0,Family (biology)
-108,1805,2020,0,Quaere
-109,1822,1869,0,Mutation
-110,1834,2009,0,John Doe
-111,1862,2020,0,High Courts of India
-112,1870,1871,0,Military alliance
-113,1877,1900,0,Blood quantum laws
-114,1879,1999,0,Consent decree
-115,1886,1952,0,Copyright law of the European Union
-116,1893,1978,0,Anomie
-117,1895,1900,0,Failure
-118,1895,1896,0,Fail
-119,1900,2008,0,Best interests
-120,1906,1996,0,Headnote
-121,1917,2022,0,Ratum sed non consummatum
-122,1930,1960,0,Indecent exposure
-123,1931,2009,0,Prime suspect
-124,1931,1932,0,Queen's Privy Council for Canada
-125,1939,2014,0,Satyagraha
-126,1940,2018,0,Jurat
-127,1946,1947,0,Constitution of France
-128,1950,2024,0,Draft document
-129,1960,2009,0,Accounts payable
-130,1960,1962,0,Timeshare
-131,1968,1980,0,Strict construction
-132,1969,2020,0,High Court of Malaya
-133,1969,2020,0,High Court of Sabah and Sarawak
-134,1970,2010,0,Rocket docket
-135,1976,1977,0,Virtue ethics
-136,1994,2013,0,Radical transparency
-137,1996,2009,0,Group Litigation Order
-138,1997,2021,0,High Court (Hong Kong)
-139,1997,2007,0,High Court of Fiji
-140,2002,2020,0,Retraction
-141,2006,2007,0,Livery
-142,2008,2017,0,Capitalized value
-143,2011,2020,0,Earned income tax credit
-144,2013,2014,0,Entrapment
-145,2020,2022,0,Deadlock
-146,2020,2024,0,Special damages
-147,2020,2025,0,Forcible entry
-148,2020,2022,0,Official receiver
-149,2020,2021,0,Temporary restraining order
-150,2020,2022,0,Domestic partner
-151,2020,2021,0,Small claims track
-152,2020,2021,0,Champerty
-153,2020,2024,0,Restrictive covenant
-154,2020,2021,0,Tenancy by the entirety
-155,2020,2024,0,Speedy trial
-156,2020,2024,0,Prosecute
-157,2020,2024,0,Nominal damages
-158,2020,2024,0,General damages
-159,2020,2024,0,Penal colony
-160,2020,2022,0,Legal custody
-161,2020,2024,0,Proceeding
-162,2020,2021,0,Confiscate
-163,2020,2021,0,Motion to suppress
-164,2020,2021,0,Buy-sell agreement
-165,2020,2021,0,Abuse of discretion
+108,1805,2020,0,Law;Quaere
+109,1822,1869,0,Mutation;Life
+110,1834,2009,0,John Doe;Common law
+111,1862,2020,0,High Courts of India;United States Constitution
+112,1870,1871,0,Military alliance;Slavery
+113,1877,1900,0,Rape;Blood quantum laws
+114,1879,1999,0,Consent decree;Pleading
+115,1886,1952,0,Copyright law of the European Union;Legal
+116,1893,1978,0,Rights;Anomie
+117,1895,1900,0,Criminal;Failure
+118,1895,1896,0,Fail;Failure
+119,1900,2008,0,Law;Best interests
+120,1906,1996,0,Headnote;Law
+121,1917,2022,0,Law;Ratum sed non consummatum
+122,1930,1960,0,Rape;Indecent exposure
+123,1931,2009,0,Prime suspect;Criminal law
+124,1931,1932,0,Queen's Privy Council for Canada;Australian Constitution
+125,1939,2014,0,Law;Satyagraha
+126,1940,2018,0,Law;Jurat
+127,1946,1947,0,Constitution of France;Decree
+128,1950,2024,0,Draft document;Contract
+129,1960,2009,0,Law;Accounts payable
+130,1960,1962,0,Timeshare;Real estate
+131,1968,1980,0,Law;Strict construction
+132,1969,2020,0,United States Constitution;High Court of Malaya
+133,1969,2020,0,United States Constitution;High Court of Sabah and Sarawak
+134,1970,2010,0,Law;Rocket docket
+135,1976,1977,0,Virtue ethics;Human rights
+136,1994,2013,0,Radical transparency;Privacy
+137,1996,2009,0,Group Litigation Order;Tribunal
+138,1997,2021,0,High Court (Hong Kong);Tribunal
+139,1997,2007,0,High Court of Fiji;Tribunal
+140,2002,2020,0,Retraction;Law
+141,2006,2007,0,Livery;Jim Crow laws
+142,2008,2017,0,Shareholder;Capitalized value
+143,2011,2020,0,Earned income tax credit;Rent control
+144,2013,2014,0,Morality;Entrapment
+145,2020,2022,0,Deadlock;Common law
+146,2020,2024,0,Law;Special damages
+147,2020,2025,0,Forcible entry;Common law
+148,2020,2022,0,Prima facie;Official receiver
+149,2020,2021,0,Temporary restraining order;Common law
+150,2020,2022,0,Domestic partner;Common law
+151,2020,2021,0,Small claims track;Statute
+152,2020,2021,0,Statute;Champerty
+153,2020,2024,0,Contract;Restrictive covenant
+154,2020,2021,0,Decree;Tenancy by the entirety
+155,2020,2024,0,Common law;Speedy trial
+156,2020,2024,0,Common law;Prosecute
+157,2020,2024,0,Nominal damages;Criminal negligence
+158,2020,2024,0,Criminal negligence;General damages
+159,2020,2024,0,Penal colony;Guilt (law)
+160,2020,2022,0,Law;Legal custody
+161,2020,2024,0,Proceeding;Common law
+162,2020,2021,0,Confiscate;Common law
+163,2020,2021,0,Motion to suppress;Common law
+164,2020,2021,0,Buy-sell agreement;Contract
+165,2020,2021,0,Habeas corpus;Abuse of discretion
 166,-1900,2100,1,Crime;Diplomatic immunity
-167,-1754,1100,1,Legal;Code of Hammurabi
+167,-1754,1100,1,Crime;Criminal;Code of Hammurabi;Legal;Law
 168,-1700,2100,1,Bank;Invest
 169,-1700,2100,1,Code of Hammurabi;Capital investment
 170,-1700,2100,1,Code of Hammurabi;Invest
 171,-1700,2100,1,Solicitation;Prostitute
-172,-621,1878,1,Prison;Death penalty
-173,-621,2022,1,Prison;Capital offense
-174,-621,2022,1,Prison;Execution
-175,-621,2022,1,Prison;Execution (legal)
+172,-621,1878,1,Death penalty;Prison;Code of Hammurabi;Legal;Constitutional charter;International law
+173,-621,2022,1,Crime;Criminal;Prison;Legal;Capital offense;Law
+174,-621,2022,1,Crime;Criminal;Execution;Prison;Legal;Law
+175,-621,2022,1,Crime;Criminal;Execution (legal);Prison;Legal;Law
 176,-621,2100,1,Death penalty;Moratorium (law)
 177,-621,2100,1,Capital offense;Moratorium (law)
 178,-621,2100,1,Moratorium (law);Execution
 179,-621,2100,1,Moratorium (law);Execution (legal)
 180,-621,2100,1,Usury;Constitutional charter
 181,-500,2100,1,International law;International relations
-182,-500,1946,1,Death penalty;Torah
-183,-500,1800,1,Capital offense;Torah
-184,-500,1800,1,Torah;Execution
-185,-500,1800,1,Torah;Execution (legal)
-186,-450,600,1,Code of Hammurabi;Legal code
-187,-450,2019,1,Torah;Legal code
+182,-500,1946,1,Death penalty;Torah;Rights;Legal;Constitutional charter;Law
+183,-500,1800,1,Criminal;Capital offense;Torah;Death penalty
+184,-500,1800,1,Execution;Criminal;Torah;Death penalty
+185,-500,1800,1,Execution (legal);Criminal;Torah;Death penalty
+186,-450,600,1,Code of Hammurabi;Legal;Constitutional charter;Legal code;Law
+187,-450,2019,1,Legal code;Law;Legal;Torah
 188,-327,2100,1,Interest;Nominal value
 189,-202,2100,1,Law school;Faculty (university)
 190,-132,2100,1,Septuagint;Witchhunt
 191,100,2100,1,Ward (law);Magna carta
-192,117,1756,1,Capital punishment;Amnesty International
-193,117,1400,1,Amnesty International;Death penalty
-194,117,1400,1,Amnesty International;Capital offense
-195,117,1400,1,Amnesty International;Execution
-196,117,1400,1,Amnesty International;Execution (legal)
+192,117,1756,1,Crime;Criminal;Death penalty;Prison;International law;Capital punishment;Amnesty International
+193,117,1400,1,Crime;Criminal;Death penalty;Capital punishment;Amnesty International
+194,117,1400,1,Crime;Criminal;Capital offense;Capital punishment;Amnesty International
+195,117,1400,1,Crime;Criminal;Execution;Capital punishment;Amnesty International
+196,117,1400,1,Crime;Criminal;Execution (legal);Capital punishment;Amnesty International
 197,117,2100,1,Amnesty International;Prostitute
 198,127,2100,1,Counsel;Drawing and quartering
 199,136,2100,1,Slavery;Legal
@@ -203,11 +203,11 @@ i,birth,death,dim,nodes
 201,136,2100,1,Slavery;Magna carta
 202,139,2100,1,Universal jurisdiction;Residency (domicile)
 203,142,2100,1,Animal rights;Terrorism
-204,142,1474,1,Terrorism;Death penalty
-205,142,1474,1,Terrorism;Capital offense
-206,142,1474,1,Terrorism;Execution
+204,142,1474,1,Crime;Criminal;Death penalty;Capital punishment;Terrorism
+205,142,1474,1,Crime;Criminal;Capital offense;Capital punishment;Terrorism
+206,142,1474,1,Crime;Criminal;Execution;Capital punishment;Terrorism
 207,142,2100,1,Terrorism;International relations
-208,142,1474,1,Terrorism;Execution (legal)
+208,142,1474,1,Crime;Criminal;Execution (legal);Capital punishment;Terrorism
 209,150,2100,1,Racism;Frenchman
 210,160,2100,1,American Civil Rights Movement;Racial segregation
 211,161,2100,1,Racial segregation;Ipsissima verba
@@ -220,46 +220,46 @@ i,birth,death,dim,nodes
 218,185,2100,1,Board of directors;Deadlock provision
 219,186,2100,1,Non-executive director;Co-trustee
 220,186,2100,1,Alternate director;Co-trustee
-221,189,1342,1,Mishnah;Sacred text
+221,189,1342,1,Sacred text;Kashrut;Mishnah;Torah
 222,192,2100,1,Common law;Vigilante
 223,192,2100,1,Common law;Co-trustee
 224,192,2100,1,Common law;Drawing and quartering
 225,192,2100,1,Common law;Slavery at common law
 226,193,2100,1,Real estate;Administer
-227,193,504,1,Crime;Misdemeanor
+227,193,504,1,Law;Crime;Misdemeanor;Common law
 228,193,2100,1,Testimony;Falsus in uno, falsus in omnibus
 229,193,2100,1,Obligation;Substantial performance
 230,194,2100,1,Copyright;Slander of title
 231,196,2100,1,Geneva Conventions;Law of treaties
 232,200,2100,1,Sharia law;Debt
-233,200,1800,1,Sharia law;Capital punishment
+233,200,1800,1,Death penalty;Torah;Legal;Capital punishment;Law;Sharia law;Amnesty International
 234,200,2100,1,Sharia law;Law school
 235,200,2100,1,Sharia law;Hadith
-236,200,1689,1,Sharia law;Democracy
+236,200,1689,1,Democracy;Torah;Death penalty;Legal;Constitutional charter;Sharia law
 237,200,2100,1,Debt;Islamic Law
-238,200,2019,1,Capital punishment;Islamic Law
+238,200,2019,1,Torah;Death penalty;Islamic Law;Common law;Capital punishment;Law;Sharia law
 239,200,2100,1,Lawyer;Government
 240,200,2100,1,Government;Terrorism
-241,200,2009,1,Government;Democracy
-242,200,2023,1,Law school;Islamic Law
+241,200,2009,1,Government;Democracy;Legal;Constitutional charter;Law;Lawyer
+242,200,2023,1,Islamic Law;Common law;Law;Sharia law;Law school
 243,200,2100,1,Alternative Minimum Tax;Tax deduction
-244,200,2018,1,Sharia;Marriage
-245,200,1293,1,Sharia;Hadith
-246,200,1800,1,Sharia;Democracy
-247,200,1506,1,Hadith;Islamic Law
-248,200,1689,1,Democracy;Islamic Law
-249,200,1325,1,Death penalty;Islamic Law
+244,200,2018,1,Sharia;Marriageable age;Democracy;Common law;Legal;Constitutional charter;Law;Sharia law;Marriage
+245,200,1293,1,Sharia;Legal;Sharia law;Hadith
+246,200,1800,1,Sharia;Legal;Sharia law;Democracy
+247,200,1506,1,Capital punishment;Islamic Law;Sharia law;Hadith
+248,200,1689,1,Capital punishment;Islamic Law;Sharia law;Democracy
+249,200,1325,1,Capital punishment;Islamic Law;Sharia law;Death penalty
 250,201,2100,1,Slavery;De jure
 251,201,2100,1,Capital punishment;De jure
-252,201,2011,1,Government;De jure
+252,201,2011,1,Democracy;De jure;Legal;Constitutional charter;Law;Government
 253,201,2100,1,American Civil Rights Movement;De jure
 254,201,2100,1,De jure;Death penalty
 255,201,2100,1,De jure;Capital offense
 256,201,2100,1,De jure;Execution
 257,201,2100,1,De jure;Execution (legal)
 258,202,2100,1,De facto;Co-trustee
-259,220,1789,1,Rights;Constitutional rights
-260,220,800,1,Democracy;Constitutional rights
+259,220,1789,1,Constitution;Rights;Constitutional rights;Legal;Law
+260,220,800,1,Democracy;Rights;Constitutional rights;Legal;Constitutional charter;Law
 261,223,2100,1,Capital punishment;Mandatory sentence
 262,223,2100,1,Prison;Mandatory sentence
 263,225,2100,1,Act of God;Maritime law
@@ -268,13 +268,13 @@ i,birth,death,dim,nodes
 266,300,2100,1,Sodomy;Capital offense
 267,300,2100,1,Sodomy;Execution
 268,300,2100,1,Sodomy;Execution (legal)
-269,301,500,1,World Trade Organization;Antitrust laws
+269,301,500,1,Antitrust laws;Law;Antitrust;World Trade Organization
 270,301,2100,1,State religion;Capital offense
 271,301,2100,1,State religion;Execution
 272,301,2100,1,State religion;Execution (legal)
 273,301,2100,1,Antitrust;Campaign finance reform
 274,301,2100,1,Incorporation (business);Corporate haven
-275,313,1689,1,International law;Civil rights
+275,313,1689,1,Democracy;Death penalty;Rights;Constitutional rights;International law;Amnesty International;Sharia law;Civil rights
 276,313,2100,1,Civil rights;American Civil Rights Movement
 277,313,2100,1,Civil rights;Freedom of religion
 278,313,2100,1,Civil rights;Freedom of thought
@@ -282,8 +282,8 @@ i,birth,death,dim,nodes
 280,313,2100,1,Sharia;Freedom of thought
 281,313,2100,1,Freedom of thought;Islamic Law
 282,315,2100,1,Trade secret;Information
-283,350,935,1,Wahhabism;Islamic Law
-284,350,1453,1,Wahhabism;Madrassa
+283,350,935,1,Islamic Law;Sharia law;Wahhabism;Hadith
+284,350,1453,1,Sharia;Madrassa;Hadith;Wahhabism;Sharia law
 285,379,2100,1,Euthanasia;Mandatory sentence
 286,382,2100,1,Slavery;Feme covert
 287,382,2100,1,Copyright;Feme covert
@@ -295,10 +295,10 @@ i,birth,death,dim,nodes
 293,400,2100,1,Sanhedrin;Semicha
 294,412,2100,1,Free will;Original sin
 295,500,2100,1,Deductive reasoning;Early Muslim philosophy
-296,500,1700,1,Manslaughter;Gender bias
-297,500,1400,1,Manslaughter;Sexual discrimination
-298,500,2022,1,Divorce;Gender bias
-299,500,1800,1,Divorce;Sexual discrimination
+296,500,1700,1,Crime;Rape;Gender bias;Manslaughter;Common law;Capital punishment;Law
+297,500,1400,1,Sexual discrimination;Gender bias;Rape;Manslaughter
+298,500,2022,1,Gender bias;Rape;Marriageable age;Divorce;Capital punishment;Law;Sharia law;Marriage
+299,500,1800,1,Sexual discrimination;Gender bias;Rape;Divorce
 300,500,2100,1,Government;Early Muslim philosophy
 301,500,2100,1,Racism;Gender bias
 302,500,2100,1,Racism;Sexual discrimination
@@ -306,11 +306,11 @@ i,birth,death,dim,nodes
 304,500,2100,1,De facto;Sexual discrimination
 305,500,2100,1,Code of Hammurabi;Jus civile
 306,500,2100,1,Sharia;Early Muslim philosophy
-307,500,800,1,Sharia;Jus civile
+307,500,800,1,Sharia;Democracy;Law;Jus civile;Civil rights
 308,500,2100,1,Patent;Royalties
 309,500,2100,1,Patent;Patentability
 310,500,2100,1,Patent;Feme covert
-311,500,568,1,Islamic philosophy;Madrassa
+311,500,568,1,Sharia;Madrassa;Islamic philosophy;Early Muslim philosophy
 312,500,2100,1,Conscription;Gender bias
 313,500,2100,1,Conscription;Sexual discrimination
 314,501,2100,1,Decree;Monarch
@@ -319,18 +319,18 @@ i,birth,death,dim,nodes
 317,501,2100,1,American Civil Liberties Union;Execution (legal)
 318,501,2100,1,Patent;License
 319,501,2100,1,Vassal;Magna carta
-320,504,1756,1,Law of the United States;American Civil Liberties Union
+320,504,1756,1,Law of the United States;Democracy;Death penalty;Common law;American Civil Liberties Union;Law;Sharia law;Civil rights
 321,504,2100,1,Law of the United States;Royalties
-322,504,1789,1,Law of the United States;United States Permanent Resident Card
-323,504,2021,1,Prison;Case law in the United States
+322,504,1789,1,Crime;Law of the United States;Common law;Legal;Law;United States Permanent Resident Card
+323,504,2021,1,Criminal;Crime;Prison;Case law in the United States;Legal;Law
 324,505,2100,1,Pleading;Alternative pleading
 325,529,2100,1,Jurisprudence;Corpus juris civilis
 326,529,2100,1,State religion;Corpus juris civilis
 327,529,2100,1,Civil code;Jus civile
 328,530,2100,1,Legal history;Civil code
-329,546,2021,1,Debt;Fiduciary duty
-330,546,2014,1,Board of directors;Fiduciary duty
-331,546,1901,1,Administer;Fiduciary
+329,546,2021,1,Common law;Fiduciary duty;Debt;Legal;Law;Sharia law
+330,546,2014,1,Constitution;Board of directors;Common law;Fiduciary duty;Legal;Law
+331,546,1901,1,Constitution;Administer;Board of directors;Fiduciary;Legal;Law
 332,567,2100,1,Cheque;Tithe
 333,588,2100,1,Lawyer;Practice of law
 334,600,2100,1,Roman law;Corpus juris secundum
@@ -341,35 +341,35 @@ i,birth,death,dim,nodes
 339,600,2100,1,Torah;Laws of war
 340,601,2100,1,Roman law;Fatwa
 341,601,2100,1,Roman law;Jus naturale
-342,601,1293,1,Sharia;Fatwa
+342,601,1293,1,Sharia;Legal;Sharia law;Fatwa
 343,601,2100,1,Corpus juris civilis;List of Roman laws
-344,601,1293,1,Fatwa;Islamic Law
+344,601,1293,1,Islamic Law;Sharia law;Hadith;Fatwa
 345,607,2100,1,Malum prohibitum;Prostitution
 346,613,2100,1,Leviticus;Sin
 347,613,2100,1,Asharite;Sin
 348,614,2100,1,Original sin;Total depravity
 349,632,2100,1,Caliphate;Early Muslim philosophy
 350,632,2100,1,Caliphate;Madrassa
-351,700,1293,1,Jurisprudence;Madhhab
+351,700,1293,1,Sharia;Jurisprudence;Legal;Madhhab;Jus civile;Sharia law
 352,700,2100,1,Negotiable instrument;Cheque
 353,700,2100,1,Negotiable instrument;Cut a check
 354,700,2100,1,Caliphate;Futuwa
 355,700,2100,1,Corpus juris civilis;Feudalism
 356,700,2100,1,Demesne;Feudal system
-357,700,900,1,Demesne;Feodal
-358,700,900,1,Demesne;Feodal system
+357,700,900,1,Feodal;Vassal;Demesne;Feudal system
+358,700,900,1,Feodal system;Vassal;Demesne;Feudal system
 359,700,2100,1,Feudal system;Tithe
 360,700,2100,1,Feudal system;Hacienda
 361,700,2100,1,Feodal;Tithe
-362,700,900,1,Feodal;Hacienda
+362,700,900,1,Hacienda;Feodal;Vassal;Feudal system
 363,700,2100,1,Tithe;Feodal system
-364,700,900,1,Hacienda;Feodal system
+364,700,900,1,Feodal system;Hacienda;Vassal;Feudal system
 365,701,2100,1,Feudalism;Feoffment
-366,749,1900,1,Death penalty;Capital punishment in the United States
-367,749,1942,1,Capital punishment in the United States;Capital offense
+366,749,1900,1,Capital punishment;Capital punishment in the United States;Sharia law;Death penalty
+367,749,1942,1,Capital punishment;Capital punishment in the United States;Rape;Capital offense
 368,749,2100,1,Capital punishment in the United States;Case law in the United States
-369,749,1942,1,Capital punishment in the United States;Execution
-370,749,1942,1,Capital punishment in the United States;Execution (legal)
+369,749,1942,1,Capital punishment;Capital punishment in the United States;Rape;Execution
+370,749,1942,1,Capital punishment;Capital punishment in the United States;Rape;Execution (legal)
 371,766,2100,1,Injury;Sick pay
 372,769,2100,1,United States Department of Justice;False Claims Law
 373,800,2100,1,International law;Friend of the court
@@ -377,13 +377,13 @@ i,birth,death,dim,nodes
 375,800,2100,1,Waqf;Financial endowment
 376,800,2100,1,American Civil Liberties Union;Friend of the court
 377,858,2100,1,Antitrust;Guild
-378,858,1903,1,Guild;Antitrust laws
+378,858,1903,1,Antitrust laws;Antitrust;Patent;Guild
 379,858,2100,1,Guild;Monarch
 380,858,2100,1,Guild;Futuwa
 381,875,2100,1,Civil rights;Corporation
-382,875,2011,1,Corporation;Board of directors
+382,875,2011,1,Administer;Corporation;Board of directors;Fiduciary;Law;Sharia law
 383,875,2100,1,Corporation;Alternative Minimum Tax
-384,875,1500,1,Corporation;Corporate governance
+384,875,1500,1,Corporate governance;Corporation;Common law;Co-trustee;Fiduciary;Law
 385,875,2100,1,Corporation;Incorporation (business)
 386,875,2100,1,Corporation;Islamic Law
 387,875,2100,1,Masoretic Text;Masoretes
@@ -397,53 +397,53 @@ i,birth,death,dim,nodes
 395,900,2100,1,Incest;Execution (legal)
 396,900,2100,1,Debt;Limited partner
 397,900,2100,1,Charitable organization;Tax exemption
-398,900,2011,1,Joint and several liability;Limited partnership
+398,900,2011,1,Limited partnership;Corporation;Joint and several liability;Common law;Debt;Fiduciary;Legal;Limited partner;Law
 399,900,2100,1,Joint and several liability;Limited partner
 400,900,2100,1,Roman law;Serf
 401,900,2100,1,De facto;Strategic lawsuits against public participation
 402,900,2100,1,Sharia;Limited partner
-403,900,2008,1,Private company;Limited partnership
+403,900,2008,1,Limited partnership;Private company;Corporation;Debt;Limited partner
 404,900,2100,1,Vassal;Serf
 405,901,2100,1,Legal;Charitable trust
 406,901,2100,1,Waqf;Charitable trust
 407,901,2100,1,Charitable trust;Settlor
-408,928,1789,1,Constitution;Australian Constitution
+408,928,1789,1,Constitution;Australian Constitution;Legal;Common law
 409,928,2100,1,De jure;Australian Constitution
 410,928,2100,1,Australian Constitution;Freedom of religion
 411,974,2100,1,Yeshiva;Madrassa
 412,982,2100,1,Death penalty;Outlaw
 413,1000,2100,1,Equity (law);Set-off (law)
-414,1000,2008,1,Lawyer;Bachelor of Legal Letters
+414,1000,2008,1,Bachelor of Legal Letters;Legal;Lawyer;Common law
 415,1000,2100,1,Tax;Property tax
 416,1000,2100,1,Property tax;Land value tax
 417,1001,2100,1,Undue influence;Jurisprudence
 418,1086,2100,1,Public record;Marriage
 419,1086,2100,1,Public record;Tax
-420,1100,2023,1,Criminal law;Islamic Law
-421,1100,1790,1,Scots law;Feudalism
-422,1100,1800,1,Crime;Premeditation
+420,1100,2023,1,Law;Islamic Law;Criminal law;Common law
+421,1100,1790,1,Serf;Roman law;Law;Common law;Scots law;Feudalism
+422,1100,1800,1,Crime;Gender bias;Manslaughter;Premeditation;Common law;Capital punishment
 423,1100,2100,1,Age of consent;Marriageable age
 424,1100,2100,1,Age of consent;Misdemeanor
 425,1100,2100,1,Age of consent;Prostitute
 426,1100,2100,1,Police;Conscription
 427,1100,2100,1,Jury instructions;Premeditation
-428,1100,1900,1,Penal law;Universal jurisdiction
+428,1100,1900,1,Universal jurisdiction;Penal law;Rape;Democracy;Death penalty;International law;Amnesty International;Sharia law;Civil rights
 429,1101,2100,1,Kidnapping;Capital punishment
-430,1101,1756,1,Kidnapping;Death penalty
-431,1101,1540,1,Kidnapping;Capital offense
+430,1101,1756,1,Democracy;Death penalty;International law;Capital punishment;Amnesty International;Sharia law;Civil rights;Kidnapping
+431,1101,1540,1,Kidnapping;Capital offense;Prison;Death penalty
 432,1101,2100,1,Kidnapping;Execution
 433,1101,2100,1,Kidnapping;United States Permanent Resident Card
 434,1101,2100,1,Kidnapping;Execution (legal)
 435,1101,2100,1,Trespass;Penal law
 436,1101,2100,1,Crime;Subornation of perjury
-437,1101,2019,1,Prosecutor;Presumption of innocence
+437,1101,2019,1,Presumption of innocence;Criminal law;Prosecutor;Legal;Law
 438,1101,2100,1,Motion to strike (court of law);Jury trial
 439,1101,2100,1,Death penalty;Ritual
 440,1101,2100,1,Official;Nominee
 441,1102,2100,1,Trespass;Continuing trespass
 442,1122,2100,1,Jurisprudence;Separation of church and state
 443,1122,2100,1,Separation of church and state;State religion
-444,1166,1820,1,Criminal law;Tortfeasor
+444,1166,1820,1,Criminal law;Tortfeasor;Tort;Common law
 445,1166,2100,1,Waiver;Tortfeasor
 446,1166,2100,1,Lawyer;Tortfeasor
 447,1166,2100,1,Trade union;Tortfeasor
@@ -452,50 +452,50 @@ i,birth,death,dim,nodes
 450,1167,2100,1,Force majeure;Negligence
 451,1167,2100,1,Fiduciary;Tortious
 452,1167,2100,1,Fiduciary duty;Tortious
-453,1168,2019,1,Negligence;Licensee
+453,1168,2019,1,Negligence;Common law;Legal;Licensee;Law;Damages
 454,1168,2100,1,Negligence;Family purpose doctrine
 455,1168,2100,1,Joint and several liability;Family purpose doctrine
 456,1168,2100,1,License;Licensee
 457,1168,2100,1,Police;Licensee
 458,1169,2100,1,Licensee;Software license
-459,1170,1800,1,Capital offense;Fornication
+459,1170,1800,1,Death penalty;Fornication;Capital offense;Capital punishment;Amnesty International;Sharia law
 460,1170,2100,1,Fornication;Damnation
-461,1170,1800,1,Fornication;Execution
-462,1170,1800,1,Fornication;Execution (legal)
-463,1170,1800,1,Fornication;Gender bias
-464,1170,1800,1,Fornication;Sexual discrimination
+461,1170,1800,1,Death penalty;Execution;Fornication;Capital punishment;Amnesty International;Sharia law
+462,1170,1800,1,Death penalty;Execution (legal);Fornication;Capital punishment;Amnesty International;Sharia law
+463,1170,1800,1,Gender bias;Death penalty;Fornication;Capital punishment;Sharia law
+464,1170,1800,1,Gender bias;Death penalty;Sexual discrimination;Divorce;Fornication;Capital punishment;Sharia law
 465,1178,2100,1,Trespass;King's Bench
 466,1178,2100,1,Trespass;Queen's bench
 467,1178,2100,1,Trespass;Queens bench division
 468,1188,2100,1,Income tax;Alternative Minimum Tax
 469,1188,2100,1,Income tax;Tax
-470,1188,1621,1,Government;Parliamentary system
-471,1188,2011,1,Monarch;Parliamentary system
-472,1189,1819,1,Quo warranto;Constitutional charter
+470,1188,1621,1,Democracy;Parliamentary system;Legal;Constitutional charter;Government
+471,1188,2011,1,Monarch;Legal;Parliamentary system;Law;Decree
+472,1189,1819,1,Quo warranto;Legal;Constitutional charter;Common law
 473,1195,2100,1,Waiver;Justice of the Peace
 474,1195,2100,1,Constable;Justice of the Peace
 475,1195,2100,1,Debt;Justice of the Peace
-476,1195,2009,1,Attorney at law;Justice of the Peace
+476,1195,2009,1,Attorney at law;Common law;Justice of the Peace;Law;Lawyer
 477,1195,2100,1,Lord Chancellor;Justice of the Peace
 478,1195,2100,1,Same-sex marriage;Justice of the Peace
-479,1199,2014,1,Mortgage law;Legal
-480,1199,2020,1,Mortgage law;Law French
+479,1199,2014,1,Mortgage law;Legal;Real estate;Common law
+480,1199,2020,1,Legal;Mortgage law;Common law;Law French
 481,1200,2100,1,Lien;Debt
 482,1200,2100,1,Lien;Maritime law
 483,1200,2100,1,Mortgage law;Equity of redemption
 484,1200,2100,1,Voluntary association;Class action suit
 485,1200,2100,1,Corporation;Class action suit
-486,1200,1400,1,Corporation;Copartner
+486,1200,1400,1,Limited partnership;Private company;Corporation;Joint and several liability;Copartner;Common law
 487,1200,2100,1,Debt;Class action suit
 488,1200,2100,1,Interest;Partnership
 489,1200,2100,1,Interest;Copartner
 490,1200,2100,1,International trade;Copartner
 491,1200,2100,1,Government;Partnership
 492,1200,2100,1,Government;Copartner
-493,1200,2018,1,Partnership;Fiduciary duty
-494,1200,2013,1,Jurisprudence;Council of State (France)
+493,1200,2018,1,Corporation;Fiduciary duty;Fiduciary;Law;Partnership
+494,1200,2013,1,Law;Jurisprudence;Council of State (France);Criminal law
 495,1200,2100,1,Class action;Case law in the United States
-496,1200,2009,1,Class action;Strategic lawsuits against public participation
+496,1200,2009,1,Criminal;Tortfeasor;Common law;Strategic lawsuits against public participation;Class action;Law;Damages;Tort
 497,1200,2100,1,Prison;Smuggling
 498,1200,2100,1,Pacta sunt servanda;Law of treaties
 499,1200,2100,1,Prerogative writ;Prohibition (writ)
@@ -511,11 +511,11 @@ i,birth,death,dim,nodes
 509,1234,2100,1,Lord Chief Justice of England and Wales;Islamic Law
 510,1234,2100,1,Lord Chief Justice of England and Wales;Magna carta
 511,1234,2100,1,Lord Chancellor;Lord Chief Justice
-512,1248,1782,1,Testimony;Forensics
+512,1248,1782,1,Law;Crime;Testimony;Forensics
 513,1248,2100,1,Forensics;Roman Forum
 514,1248,2100,1,Forensics;Prostitute
-515,1250,1601,1,Debt;Stock
-516,1250,1500,1,Stock;Co-trustee
+515,1250,1601,1,Corporation;Board of directors;Stock;Fiduciary duty;Debt
+516,1250,1500,1,Corporation;Stock;Common law;Co-trustee;Fiduciary;Law
 517,1250,2100,1,Inquisition;Spanish Inquisition
 518,1250,2100,1,Inquisition;Madrassa
 519,1251,2100,1,Legal;Capital (economics)
@@ -530,47 +530,47 @@ i,birth,death,dim,nodes
 528,1252,2100,1,Capital (economics);Individual capital
 529,1253,2100,1,Disembowelment;Drawing and quartering
 530,1256,2100,1,Writ;House of Lords
-531,1256,2009,1,Writ;Prerogative writ
+531,1256,2009,1,Quo warranto;Criminal;Prerogative writ;Common law;Law;Writ
 532,1256,2100,1,Writ;Constitutional charter
 533,1256,2100,1,Writ;Magna carta
 534,1256,2100,1,House of Lords;Concurrent writ
 535,1256,2100,1,Concurrent writ;Vassal
 536,1257,2100,1,Subpoena;Concurrent writ
 537,1267,2100,1,Constitution;British constitution
-538,1267,2020,1,Rule of law;British constitution
+538,1267,2020,1,Law;Rule of law;British constitution;Common law
 539,1267,2100,1,State religion;British constitution
 540,1267,2100,1,Royalties;Service mark
-541,1267,2022,1,House of Lords;British constitution
+541,1267,2022,1,Court of Chancery;Lord Chancellor;House of Lords;British constitution;Common law
 542,1267,2100,1,British constitution;Royal Charter
 543,1274,2100,1,Pillory;Antitrust laws
-544,1285,1474,1,Mortgage law;Entail
+544,1285,1474,1,Entail;Legal;Mortgage law;Common law
 545,1285,2100,1,Corporation;Entail
-546,1285,2012,1,Debt;Entail
+546,1285,2012,1,Entail;Debt;Sharia law;Common law
 547,1292,2100,1,Divorce;Hotch-pot
-548,1292,2001,1,Equity (law);Hotch-pot
-549,1292,2008,1,Law school;Juris Doctor
+548,1292,2001,1,Equity (law);Hotch-pot;Scots law;Common law
+549,1292,2008,1,Common law;Legal;Juris Doctor;Lawyer;Law school
 550,1300,2100,1,Public record;Freedom of speech
-551,1300,1906,1,Prosecutor;Criminal justice
+551,1300,1906,1,Law;Criminal;Criminal justice;Prosecutor
 552,1300,2100,1,Insurance;Underwriter
 553,1300,2100,1,Insurance;Tortfeasor
 554,1300,2100,1,Insurance;Capital investment
-555,1300,1789,1,Insurance;Case law in the United States
+555,1300,1789,1,Tortfeasor;Insurance;Case law in the United States;Legal;Law;Damages
 556,1300,2100,1,Insurance;Invest
-557,1300,1689,1,Legal;Freedom of speech
-558,1300,2009,1,Government;Criminal justice
-559,1300,1946,1,Government;Free speech
+557,1300,1689,1,Freedom of speech;Legal;Constitutional charter;Rule of law;Civil rights
+558,1300,2009,1,Criminal;Criminal justice;Civil rights;Law;Government
+559,1300,1946,1,Democracy;Rights;Declaration of the Rights of Man and of the Citizen;Civil rights;Free speech;Government
 560,1300,2100,1,De facto;Impeach
 561,1300,2100,1,Intellectual property;Freedom of expression
 562,1300,2100,1,Intellectual property;Free speech
 563,1300,2100,1,Impeachment;British constitution
-564,1300,1946,1,Freedom of religion;Freedom of expression
-565,1300,1946,1,Freedom of religion;Free speech
+564,1300,1946,1,Rights;Freedom of religion;Civil rights;Freedom of expression
+565,1300,1946,1,Rights;Freedom of religion;Civil rights;Free speech
 566,1300,2100,1,House of Lords;Impeach
 567,1300,2100,1,Medical ethics;Informed consent
-568,1300,1945,1,Freedom of speech;Freedom of expression
-569,1300,1789,1,Freedom of speech;Censorship
+568,1300,1945,1,Freedom of speech;Freedom of religion;Civil rights;Freedom of expression
+569,1300,1789,1,Freedom of speech;Censorship;Common law;Strategic lawsuits against public participation;Legal
 570,1300,2100,1,Freedom of speech;Early Muslim philosophy
-571,1300,1945,1,Freedom of speech;Free speech
+571,1300,1945,1,Freedom of speech;Freedom of religion;Civil rights;Free speech
 572,1300,2100,1,Freedom of expression;Freedom of thought
 573,1300,2100,1,Informed consent;Circumcision
 574,1300,2100,1,Informed consent;Fiduciary duty
@@ -584,30 +584,30 @@ i,birth,death,dim,nodes
 582,1302,2100,1,Torture;Sexual assault
 583,1302,2100,1,Consent;Espionage
 584,1302,2100,1,Confidentiality;Espionage
-585,1302,1700,1,Death penalty;Espionage
-586,1302,1814,1,Espionage;Capital offense
-587,1302,1814,1,Espionage;Execution
-588,1302,1814,1,Espionage;Execution (legal)
-589,1302,2024,1,Espionage;Laws of war
+585,1302,1700,1,Crime;Criminal;Gender bias;Manslaughter;Death penalty;Criminal law;Prosecutor;Common law;Capital punishment;Espionage
+586,1302,1814,1,Crime;Criminal;Capital offense;Espionage;Law
+587,1302,1814,1,Crime;Criminal;Execution;Espionage;Law
+588,1302,1814,1,Crime;Criminal;Execution (legal);Espionage;Law
+589,1302,2024,1,Penal law;Crime;Rape;Democracy;Death penalty;Laws of war;Legal;International law;Capital punishment;Law;Sharia law;Civil rights;Kidnapping;Espionage
 590,1303,2100,1,Admiralty law;Mercantile law
 591,1306,2100,1,Tort;European Union Law
 592,1306,2100,1,World Trade Organization;European Union Law
-593,1306,1689,1,Rule of law;European Union Law
+593,1306,1689,1,Rule of law;European Union Law;Civil rights;International law
 594,1306,2100,1,Tax evasion;European Union Law
 595,1306,2100,1,Collective agreement;European Union Law
 596,1315,2100,1,Abolitionism;International law
 597,1325,2100,1,Suicide;Hanging
-598,1325,1900,1,Capital offense;Hanging
-599,1325,1900,1,Hanging;Execution
-600,1325,1900,1,Hanging;Execution (legal)
-601,1340,1400,1,Capital offense;Guillotine
-602,1340,1400,1,Guillotine;Execution
-603,1340,1400,1,Guillotine;Execution (legal)
+598,1325,1900,1,Capital punishment;Capital punishment in the United States;Capital offense;Hanging
+599,1325,1900,1,Capital punishment;Capital punishment in the United States;Hanging;Execution
+600,1325,1900,1,Capital punishment;Capital punishment in the United States;Execution (legal);Hanging
+601,1340,1400,1,Guillotine;Capital offense;Death penalty;Hanging
+602,1340,1400,1,Execution;Guillotine;Death penalty;Hanging
+603,1340,1400,1,Execution (legal);Guillotine;Death penalty;Hanging
 604,1342,2100,1,Talmud;Freedom of expression
 605,1342,2100,1,Talmud;Free speech
-606,1354,2011,1,International law;Due process of law
-607,1354,1756,1,Due process;Prison
-608,1354,2008,1,Due process;Class action suit
+606,1354,2011,1,Due process of law;Rule of law;International law;Law;Civil rights
+607,1354,1756,1,Due process;Civil rights;Prison;International law
+608,1354,2008,1,Criminal;Tortfeasor;Class action suit;Due process;Strategic lawsuits against public participation;Class action;Law;Damages;Tort
 609,1354,2100,1,Due process;Justice of the Peace
 610,1354,2100,1,Due process;Magna carta
 611,1354,2100,1,Presumption of innocence;Due process of law
@@ -615,34 +615,34 @@ i,birth,death,dim,nodes
 613,1354,2100,1,Right to silence;Self-incrimination
 614,1354,2100,1,Due process of law;King's Bench
 615,1360,2100,1,Police;Secret police
-616,1362,2020,1,Courts of England and Wales;Lord Chief Justice of England and Wales
+616,1362,2020,1,Criminal law;British constitution;Lord Chief Justice of England and Wales;Common law;Courts of England and Wales;Law
 617,1362,2100,1,Courts of England and Wales;Law French
-618,1362,1867,1,Courts of England and Wales;Lord Chief Justice
+618,1362,1867,1,Lord Chancellor;Lord Chief Justice of England and Wales;Lord Chief Justice;Courts of England and Wales
 619,1400,2100,1,Murder;Post mortem
 620,1400,2100,1,Discovery (law);Subpoena
-621,1400,2023,1,Discovery (law);Islamic Law
-622,1400,2009,1,Discovery (law);Strategic lawsuits against public participation
+621,1400,2023,1,Law;Islamic Law;Discovery (law);Common law
+622,1400,2009,1,Criminal;Tortfeasor;Discovery (law);Class action;Strategic lawsuits against public participation;Law;Damages
 623,1400,2100,1,Decapitation;Drawing and quartering
 624,1400,2100,1,Censorship;Publish
-625,1400,2020,1,Subpoena;Discovery of documents
-626,1400,2012,1,Subpoena;Pretrial discovery
+625,1400,2020,1,Subpoena;Discovery of documents;Common law;Writ
+626,1400,2012,1,Subpoena;Pretrial discovery;Common law;Discovery of documents
 627,1400,2100,1,Information;Publish
-628,1401,1500,1,Lawyer;Business
-629,1401,1500,1,Board of directors;Business
+628,1401,1500,1,Interest;Corporation;Copartner;Business;Fiduciary;Law;Lawyer;Limited liability
+629,1401,1500,1,Corporation;Board of directors;Business;Fiduciary;Law;Lawyer
 630,1401,2100,1,Business;Trade secret
-631,1401,1500,1,Business;Incorporation (business)
-632,1401,1500,1,Business;Co-trustee
+631,1401,1500,1,Incorporation (business);Corporation;Business;Fiduciary;Law;Lawyer
+632,1401,1500,1,Business;Common law;Co-trustee;Law;Lawyer
 633,1401,2100,1,Business;Trade
 634,1401,2100,1,Business;Common property
 635,1402,2100,1,Trade union;Secondary boycott
 636,1409,2100,1,Capital offense;Trial by combat
 637,1409,2100,1,Trial by combat;Execution
 638,1409,2100,1,Trial by combat;Execution (legal)
-639,1458,2009,1,Trial (law);Government
-640,1458,1902,1,Trial (law);Presumption of innocence
+639,1458,2009,1,Government;Law;Civil rights;Trial (law)
+640,1458,1902,1,Law;Presumption of innocence;Legal;Trial (law)
 641,1458,2100,1,Trial (law);Trial by combat
-642,1458,1995,1,Government;Court trial
-643,1458,1902,1,Presumption of innocence;Court trial
+642,1458,1995,1,Law;Court trial;Government;Trial (law)
+643,1458,1902,1,Court trial;Law;Presumption of innocence;Legal
 644,1458,2100,1,Trial by combat;Court trial
 645,1459,2100,1,Damages;Bifurcation (law)
 646,1459,2100,1,Bifurcation (law);Trial (law)
@@ -656,46 +656,46 @@ i,birth,death,dim,nodes
 654,1462,2100,1,Child;Lineal descendant
 655,1470,2100,1,Usury;Rent control
 656,1470,2100,1,Rent control;Land value tax
-657,1473,2019,1,Property;Corporation
-658,1473,2003,1,Property;Intellectual property
-659,1473,2002,1,Property;Penal law
-660,1473,1800,1,Property;Cooperative
-661,1473,2018,1,Property;Property tax
+657,1473,2019,1,Corporation;Property;Fiduciary;Legal;Mortgage law;Law
+658,1473,2003,1,Criminal law;Property;Intellectual property;Law;Copyright
+659,1473,2002,1,Penal law;Property;Intellectual property;Law;Copyright
+660,1473,1800,1,Democracy;Corporation;Roman law;Property;Common law;Fiduciary;Constitutional charter;Law;Cooperative
+661,1473,2018,1,Real estate;Property;Mortgage law;Lien;Property tax
 662,1473,2100,1,Property;European Union Law
-663,1473,2020,1,Property;Jus civile
+663,1473,2020,1,Criminal;Prerogative writ;Concurrent writ;Property;Common law;Legal;Mortgage law;Law;Jus civile;Writ
 664,1473,2100,1,Property;Unified estate and gift tax
-665,1474,1558,1,Property;Inheritance
+665,1474,1558,1,Entail;Real property;Inheritance;Property;Common law;Debt;Sharia law
 666,1474,2100,1,Property;Capital gain
 667,1474,2100,1,Chain of title;Civil law notary
-668,1474,2017,1,Divorce;Division of property
-669,1474,2015,1,Divorce;Equitable distribution
+668,1474,2017,1,Real property;Division of property;Property;Divorce;Common law;Legal;Law;Jus civile;Marriage
+669,1474,2015,1,Property;Equitable distribution;Division of property;Divorce
 670,1474,2100,1,Income tax;Capital gain
 671,1474,2100,1,Next of kin;Inheritance
 672,1474,2100,1,Inheritance;Monarch
-673,1474,1558,1,Inheritance;Fee tail
+673,1474,1558,1,Real property;Inheritance;Property;Common law;Fee tail
 674,1474,2100,1,Inheritance;Hotch-pot
 675,1474,2100,1,Inheritance;Official
 676,1474,2100,1,Stock;Capital gain
 677,1474,2100,1,Capital gain;False Claims Law
 678,1474,2100,1,War crime;Universal jurisdiction
-679,1474,1942,1,War crime;Geneva Conventions
+679,1474,1942,1,Democracy;Death penalty;War crime;Geneva Conventions;International law;Capital punishment;Sharia law;Civil rights;Kidnapping
 680,1475,2100,1,Specific performance;European Union Law
-681,1475,2012,1,Next of kin;Escheat
+681,1475,2012,1,Next of kin;Inheritance;Common law;Sharia law;Escheat
 682,1475,2100,1,Personal property;Land value tax
 683,1475,2100,1,Escheat;Feudalism
-684,1475,2014,1,Vassal;Fief
+684,1475,2014,1,Real property;Inheritance;Fief;Property;Common law;Vassal;Feudalism;Escheat
 685,1475,2100,1,Donation;Unified estate and gift tax
 686,1476,2100,1,Tort;Loss of use
 687,1476,2100,1,Injury;Loss of use
-688,1479,2018,1,Equity (law);Conversion (law)
-689,1479,2003,1,Personal property;Conversion (law)
+688,1479,2018,1,Equity (law);Tort;Common law;Conversion (law)
+689,1479,2003,1,Criminal law;Conversion (law);Personal property;Common law;Law
 690,1479,2100,1,Partnership;Conversion (law)
 691,1495,2100,1,Feud;Vigilante
 692,1495,2100,1,Feud;Tortfeasor
 693,1500,2100,1,Criminal;Natural law
 694,1500,2100,1,Insurance;Corporations law
 695,1500,2100,1,Business ethics;Corporations law
-696,1500,1621,1,Government;Natural law
+696,1500,1621,1,Criminal;Natural law;Legal;Parliamentary system;Law;Government
 697,1500,2100,1,Roman law;Jus gentium
 698,1500,2100,1,American Civil Rights Movement;Self-determination
 699,1500,2100,1,Self-determination;Sovereignty
@@ -708,7 +708,7 @@ i,birth,death,dim,nodes
 706,1500,2100,1,Sovereignty;Case law in the United States
 707,1500,2100,1,Sovereignty;Universal jurisdiction
 708,1500,2100,1,Jury instructions;Not guilty by reason of insanity
-709,1500,2019,1,Capital punishment in the United States;Not guilty by reason of insanity
+709,1500,2019,1,Criminal;Democracy;Death penalty;Criminal law;Concurrent writ;Prerogative writ;Trial (law);Due process;Capital punishment in the United States;Common law;Law;Sharia law;Civil rights;Not guilty by reason of insanity;Writ
 710,1500,2100,1,Case law in the United States;Natural law
 711,1500,2100,1,Informed consent;Not guilty by reason of insanity
 712,1500,2100,1,Heresy;Edict of Nantes
@@ -721,7 +721,7 @@ i,birth,death,dim,nodes
 719,1501,2100,1,Sovereignty;Reprisal
 720,1524,2100,1,High Court of Justiciary;Lord Chief Justice
 721,1529,2100,1,Contraband;Forgery
-722,1532,2020,1,Court of Session;Faculty of Advocates
+722,1532,2020,1,British constitution;Common law;High Court of Justiciary;Faculty of Advocates;Law;Court of Session;Lawyer
 723,1532,2100,1,Court of Session;Criminal justice
 724,1534,2100,1,Geneva Conventions;International Criminal Tribunal for the Former Yugoslavia
 725,1540,2100,1,Kidnapping;False swearing
@@ -737,20 +737,20 @@ i,birth,death,dim,nodes
 735,1546,2100,1,Cuius regio, eius religio;European Union Law
 736,1547,2100,1,Cuius regio, eius religio;Res publica christiana
 737,1550,2100,1,Jurisprudence;Casuistry
-738,1557,1789,1,Bankrupt;Corporation
-739,1557,2008,1,Bankrupt;Perjury
+738,1557,1789,1,Crime;Bankrupt;Law of the United States;Criminal law;Corporation;Common law;Fiduciary duty;Legal;Law;Partnership
+739,1557,2008,1,Crime;Criminal;Bankrupt;Common law;Law;Perjury
 740,1557,2100,1,Corporation;Bankruptcy proceedings
 741,1557,2100,1,Corporation;Voluntary bankruptcy
-742,1557,1789,1,Crime;Bankruptcy proceedings
-743,1557,1789,1,Crime;Voluntary bankruptcy
-744,1557,2008,1,Perjury;Bankruptcy proceedings
-745,1557,2008,1,Perjury;Voluntary bankruptcy
+742,1557,1789,1,Crime;Law of the United States;Criminal law;Common law;Legal;Law;Bankruptcy proceedings
+743,1557,1789,1,Voluntary bankruptcy;Crime;Law of the United States;Criminal law;Common law;Legal;Law
+744,1557,2008,1,Crime;Criminal;Common law;Law;Perjury;Bankruptcy proceedings
+745,1557,2008,1,Voluntary bankruptcy;Crime;Criminal;Common law;Law;Perjury
 746,1557,2100,1,Bankruptcy;Alternative Minimum Tax
-747,1557,2011,1,Bankruptcy;Corporations law
+747,1557,2011,1,Bankruptcy;Accountancy;Corporations law;Corporation
 748,1557,2100,1,Bankruptcy;Publish
 749,1558,2100,1,Judgment debtor;Bankruptcy
 750,1558,2100,1,Bank;Crown corporation
-751,1558,2022,1,Estate (law);Bankruptcy
+751,1558,2022,1,Bankrupt;Corporations law;Inheritance;Corporation;Property;Fiduciary duty;Debt;Bankruptcy;Estate (law)
 752,1558,2100,1,Government;Crown corporation
 753,1558,2100,1,Bankruptcy;Trustee in bankruptcy
 754,1558,2100,1,Bankruptcy;Commingling
@@ -772,7 +772,7 @@ i,birth,death,dim,nodes
 770,1600,2100,1,Justice;Corpus juris civilis
 771,1600,2100,1,Justice;Social justice
 772,1600,2100,1,Deductive reasoning;Reasonable
-773,1600,1622,1,Scots law;Parliamentary supremacy
+773,1600,1622,1,Constitution;Parliamentary supremacy;Legal;Scots law;Law;Jus civile
 774,1600,2100,1,Abolitionism in the United States;American Civil Rights Movement
 775,1600,2100,1,Abortion;Incest
 776,1600,2100,1,Manslaughter;Bail bond
@@ -786,13 +786,13 @@ i,birth,death,dim,nodes
 784,1600,2100,1,Corporation;Public company
 785,1600,2100,1,Private property;Police
 786,1600,2100,1,Private property;Private company
-787,1600,1789,1,Crime;Bail
-788,1600,1789,1,Crime;Bail bond
-789,1600,1789,1,Crime;Bail schedule
-790,1600,1789,1,Crime;Go bail
-791,1600,1789,1,Crime;Jump bail
+787,1600,1789,1,Property;Crime;Bail;Criminal law
+788,1600,1789,1,Property;Crime;Bail bond;Criminal law
+789,1600,1789,1,Property;Crime;Criminal law;Bail schedule
+790,1600,1789,1,Property;Crime;Go bail;Criminal law
+791,1600,1789,1,Property;Crime;Jump bail;Criminal law
 792,1600,2100,1,Promissory note;Bearer paper
-793,1600,2013,1,Due process;Parliamentary supremacy
+793,1600,2013,1,Due process;Parliamentary supremacy;Common law;Scots law;Law
 794,1600,2100,1,Trial (law);Secret tribunal
 795,1600,2100,1,Court of Session;Parliamentary supremacy
 796,1600,2100,1,High Court of Justiciary;Bail bond
@@ -800,27 +800,27 @@ i,birth,death,dim,nodes
 798,1600,2100,1,High Court of Justiciary;Go bail
 799,1600,2100,1,High Court of Justiciary;Jump bail
 800,1600,2100,1,Roman law;Uti possidetis
-801,1600,2013,1,De jure;Parliamentary supremacy
+801,1600,2013,1,Constitution;De jure;Parliamentary supremacy;Legal;Law;De facto
 802,1600,2100,1,Self-determination;Reasonable
 803,1600,2100,1,Restraint of trade;Antitrust laws
 804,1600,2100,1,Islamic philosophy;Reasonable
 805,1600,2100,1,House of Lords;Parliamentary supremacy
-806,1600,1814,1,Sovereignty;Bail bond
-807,1600,1814,1,Sovereignty;Bail schedule
+806,1600,1814,1,Crime;Criminal;Law;Bail bond;Sovereignty
+807,1600,1814,1,Crime;Criminal;Bail schedule;Law;Sovereignty
 808,1600,2100,1,Sovereignty;Parliamentary supremacy
-809,1600,1814,1,Sovereignty;Go bail
-810,1600,1814,1,Sovereignty;Jump bail
+809,1600,1814,1,Crime;Criminal;Law;Go bail;Sovereignty
+810,1600,1814,1,Crime;Criminal;Jump bail;Law;Sovereignty
 811,1600,2100,1,Prison;Bail bond
 812,1600,2100,1,Prison;Bail schedule
 813,1600,2100,1,Prison;Go bail
 814,1600,2100,1,Prison;Jump bail
-815,1600,2011,1,Bail bond;Monarch
-816,1600,2010,1,Monarch;Bail schedule
-817,1600,2011,1,Monarch;Parliamentary supremacy
-818,1600,2010,1,Monarch;Go bail
-819,1600,2010,1,Monarch;Jump bail
+815,1600,2011,1,Criminal;Monarch;Bail bond;Law;Decree;Sovereignty
+816,1600,2010,1,Monarch;Bail bond;Sovereignty;Bail schedule
+817,1600,2011,1,Monarch;Parliamentary supremacy;Scots law;Law;Jus civile;Decree
+818,1600,2010,1,Go bail;Monarch;Bail bond;Sovereignty
+819,1600,2010,1,Jump bail;Monarch;Bail bond;Sovereignty
 820,1600,2100,1,Bearer paper;Tax evasion
-821,1600,1789,1,Parliamentary supremacy;Due process of law
+821,1600,1789,1,Due process of law;Parliamentary supremacy;Legal;Scots law;Rule of law;Law;Jus civile
 822,1600,2100,1,Star Chamber;Secret tribunal
 823,1600,2100,1,Information;Reasonable
 824,1600,2100,1,European Union Law;Reasonable
@@ -828,7 +828,7 @@ i,birth,death,dim,nodes
 826,1601,2100,1,Private property;Socialist law
 827,1601,2100,1,Private property;Res nulis
 828,1601,2100,1,Government;Emergency
-829,1601,2023,1,Jurist;Laws of war
+829,1601,2023,1,Penal law;Rape;Democracy;Death penalty;Laws of war;Jurist;Legal;International law;Capital punishment;Law;Sharia law;Civil rights;Kidnapping
 830,1601,2100,1,Jurist;Madrassa
 831,1601,2100,1,Jurist;Magna carta
 832,1601,2100,1,Hadith;Final judgment
@@ -841,13 +841,13 @@ i,birth,death,dim,nodes
 839,1606,2100,1,Novation;Share certificate
 840,1606,2100,1,Bearer paper;Stock certificate
 841,1606,2100,1,Share certificate;Stamp duty
-842,1620,1789,1,Separation of powers;Australian Constitution
+842,1620,1789,1,Australian Constitution;Legal;Common law;Separation of powers
 843,1620,2100,1,Separation of powers;Bill of attainder
-844,1620,2011,1,Separation of powers;British constitution
-845,1620,1621,1,Separation of powers;Parliamentary supremacy
+844,1620,2011,1,British constitution;Common law;Separation of powers;Legal;Law
+845,1620,1621,1,Parliamentary supremacy;Separation of powers;Legal;Scots law;Law;Jus civile
 846,1620,2100,1,Separation of powers;Class action suit
 847,1620,2100,1,Separation of powers;Mandatory sentence
-848,1622,1789,1,Judicial review;Case law in the United States
+848,1622,1789,1,Common law;Case law in the United States;Legal;Judicial review;Legislature
 849,1622,2100,1,Judicial review;European Union Law
 850,1622,2100,1,Judicial review;Impeach
 851,1622,2100,1,The Crown;Jurisprudence
@@ -866,8 +866,8 @@ i,birth,death,dim,nodes
 864,1623,2100,1,Lien;Notorious possession
 865,1623,2100,1,Trespass;Notorious possession
 866,1623,2100,1,The Crown;Notorious possession
-867,1623,1871,1,American Civil Rights Movement;Constitutionality
-868,1623,1789,1,Constitutionality;United States Permanent Resident Card
+867,1623,1871,1,American Civil Rights Movement;Constitution;Trial (law);Due process;Common law;Legal;Judicial review;Constitutionality;Legislature;Civil rights
+868,1623,1789,1,Constitution;Law of the United States;Common law;Legal;Judicial review;Constitutionality;Legislature;United States Permanent Resident Card
 869,1623,2100,1,Constitutionality;Friend of the court
 870,1623,2100,1,Copyright;Crown copyright
 871,1623,2100,1,Crown land;Demesne
@@ -876,30 +876,30 @@ i,birth,death,dim,nodes
 874,1623,2100,1,Crown corporation;Crown entity
 875,1623,2100,1,Uti possidetis;Notorious possession
 876,1624,2100,1,The Crown;Quasi community property
-877,1626,2022,1,Legitimacy (family law);Inheritance
+877,1626,2022,1,Gender bias;Inheritance;Divorce;Common law;Estate (law);Legitimacy (family law);Capital punishment;Law;Sharia law
 878,1626,2100,1,Legitimacy (family law);Child
-879,1626,2021,1,Divorce;Illegitimacy
-880,1626,2021,1,Adoption;Illegitimacy
-881,1626,1800,1,Stoning;Illegitimacy
-882,1626,2021,1,Child;Illegitimacy
+879,1626,2021,1,Gender bias;Divorce;Common law;Capital punishment;Law;Sharia law;Illegitimacy
+880,1626,2021,1,Gender bias;Inheritance;Adoption;Divorce;Common law;Legitimacy (family law);Capital punishment;Law;Sharia law;Illegitimacy
+881,1626,1800,1,Gender bias;Divorce;Capital punishment;Sharia law;Stoning;Illegitimacy
+882,1626,2021,1,Gender bias;Divorce;Common law;Legitimacy (family law);Capital punishment;Law;Sharia law;Child;Illegitimacy
 883,1636,2100,1,Free will;Deliberation
 884,1641,2100,1,Marriage;Domestic violence
 885,1641,2100,1,Sexual abuse;Domestic violence
 886,1644,2100,1,Parliament;Concurrent writ
 887,1644,2100,1,Parliament;Notorious possession
 888,1644,2100,1,Parliament;Synod
-889,1645,1903,1,Parliament;Constitutional monarchy
+889,1645,1903,1,Constitution;Parliament;Constitutional monarchy;Legal;Parliamentary system;Legislature
 890,1645,2100,1,Government;Pension plan
 891,1645,2100,1,Government;Pension scheme
 892,1645,2100,1,Bankruptcy;Pension plan
 893,1645,2100,1,Bankruptcy;Pension scheme
 894,1645,2100,1,Stock;Pension plan
-895,1645,2017,1,Stock;Pension scheme
+895,1645,2017,1,Pension scheme;Stock;Pension plan;Government
 896,1645,2100,1,Tax;Pension plan
-897,1645,1646,1,Tax;Pension scheme
+897,1645,1646,1,Pension scheme;Pension plan;Government;Tax
 898,1645,2100,1,Sovereignty;Constitutional monarchy
 899,1645,2100,1,Investment;Pension plan
-900,1645,1646,1,Investment;Pension scheme
+900,1645,1646,1,Pension scheme;Pension plan;Government;Investment
 901,1645,2100,1,Solvency;Pension plan
 902,1645,2100,1,Solvency;Pension scheme
 903,1648,2100,1,Yeshiva;Rabbinical Assembly
@@ -912,48 +912,48 @@ i,birth,death,dim,nodes
 910,1676,2100,1,Doom book;Drawing and quartering
 911,1688,2100,1,Alternative Minimum Tax;Stock option
 912,1689,2100,1,Slavery;Human rights
-913,1689,2012,1,Civil rights;English Bill of Rights
+913,1689,2012,1,Manslaughter;Death penalty;Trial (law);Due process;Common law;Murder;Legal;Human rights;International law;Rule of law;Scots law;English Bill of Rights;Sharia law;Civil rights
 914,1689,2100,1,Government;Civil disobedience
 915,1689,2100,1,American Civil Rights Movement;Civil disobedience
 916,1689,2100,1,Civil disobedience;Strategic lawsuits against public participation
-917,1700,2011,1,Justice;Blue ribbon jury
-918,1700,2009,1,Justice;Juror
-919,1700,2009,1,Justice;Jury box
-920,1700,2009,1,Justice;Jury panel
+917,1700,2011,1,Law;Justice;Criminal law;Blue ribbon jury
+918,1700,2009,1,Justice;Juror;Common law;Blue ribbon jury
+919,1700,2009,1,Jury box;Justice;Common law;Blue ribbon jury
+920,1700,2009,1,Jury panel;Justice;Common law;Blue ribbon jury
 921,1700,2100,1,Slavery;Blue ribbon jury
 922,1700,2100,1,Slavery;Juror
 923,1700,2100,1,Slavery;Jury box
 924,1700,2100,1,Slavery;Jury panel
 925,1700,2100,1,Bailiff;Blue ribbon jury
-926,1700,2009,1,Bailiff;Juror
-927,1700,2009,1,Bailiff;Jury box
-928,1700,2009,1,Bailiff;Jury panel
-929,1700,2009,1,Rule of law;Blue ribbon jury
-930,1700,1975,1,Rule of law;Juror
-931,1700,1975,1,Rule of law;Jury box
-932,1700,1975,1,Rule of law;Jury panel
-933,1700,1789,1,Jury;Trial (law)
-934,1700,1789,1,Jury;Case law in the United States
-935,1700,2020,1,Jury;Deliberate
+926,1700,2009,1,Bailiff;Juror;Common law;Blue ribbon jury
+927,1700,2009,1,Jury box;Bailiff;Common law;Blue ribbon jury
+928,1700,2009,1,Jury panel;Bailiff;Common law;Blue ribbon jury
+929,1700,2009,1,Law;Rule of law;Common law;Blue ribbon jury
+930,1700,1975,1,Justice;Juror;Rule of law;Blue ribbon jury
+931,1700,1975,1,Jury box;Justice;Rule of law;Blue ribbon jury
+932,1700,1975,1,Jury panel;Justice;Rule of law;Blue ribbon jury
+933,1700,1789,1,Jury;Trial (law);Legal;Common law
+934,1700,1789,1,Jury;Case law in the United States;Legal;Common law
+935,1700,2020,1,Deliberate;Criminal;Jury trial;Prosecutor;Common law;Jury;Law;Discovery of documents
 936,1700,2100,1,Jury;Impeach
-937,1700,2023,1,Jury;Islamic Law
-938,1700,1789,1,Judicial review;Blue ribbon jury
-939,1700,1787,1,Judicial review;Juror
-940,1700,1787,1,Judicial review;Jury box
-941,1700,1787,1,Judicial review;Jury panel
+937,1700,2023,1,Islamic Law;Jury;Common law;Law;Sharia law
+938,1700,1789,1,Death penalty;Trial (law);Blue ribbon jury;Due process;Common law;Legal;Judicial review;International law;Human rights;Murder;Legislature;Civil rights
+939,1700,1787,1,Judicial review;Juror;Blue ribbon jury;Abortion
+940,1700,1787,1,Jury box;Judicial review;Blue ribbon jury;Abortion
+941,1700,1787,1,Jury panel;Judicial review;Blue ribbon jury;Abortion
 942,1700,2100,1,Undue influence;Blue ribbon jury
 943,1700,2100,1,Undue influence;Juror
 944,1700,2100,1,Undue influence;Jury box
 945,1700,2100,1,Undue influence;Jury panel
-946,1700,1789,1,Insurance;Lessee
+946,1700,1789,1,Tortfeasor;Insurance;Consideration;Lessee;Legal;Damages
 947,1700,2100,1,Social class;Death penalty
 948,1700,2100,1,Social class;Capital offense
 949,1700,2100,1,Social class;Execution
 950,1700,2100,1,Social class;Execution (legal)
 951,1700,2100,1,Social class;Frenchman
-952,1700,2010,1,Testimony;Blue ribbon jury
-953,1700,2010,1,Testimony;Jury box
-954,1700,2010,1,Testimony;Jury panel
+952,1700,2010,1,Law;Testimony;Common law;Blue ribbon jury
+953,1700,2010,1,Jury box;Law;Testimony;Common law
+954,1700,2010,1,Law;Jury panel;Testimony;Common law
 955,1700,2100,1,United States Department of Justice;United States prison population
 956,1700,2100,1,Police brutality;Police
 957,1700,2100,1,Intellectual property;Public domain
@@ -962,28 +962,28 @@ i,birth,death,dim,nodes
 960,1700,2100,1,License;Lessee
 961,1700,2100,1,Criminal justice;United States prison population
 962,1700,2100,1,Free will;Blue ribbon jury
-963,1700,1893,1,Free will;Juror
-964,1700,1893,1,Free will;Jury box
-965,1700,1893,1,Free will;Jury panel
-966,1700,2010,1,Lease;Justice of the Peace
+963,1700,1893,1,Free will;Juror;Common law;Blue ribbon jury
+964,1700,1893,1,Jury box;Free will;Common law;Blue ribbon jury
+965,1700,1893,1,Free will;Jury panel;Common law;Blue ribbon jury
+966,1700,2010,1,Lease;Consideration;Common law;Legal;Justice of the Peace
 967,1700,2100,1,Tortfeasor;Law and economics
 968,1700,2100,1,Monarch;Declaration of war
-969,1700,2022,1,Jury instructions;Blue ribbon jury
-970,1700,2022,1,Jury instructions;Juror
-971,1700,2022,1,Jury instructions;Jury box
-972,1700,2022,1,Jury instructions;Jury panel
+969,1700,2022,1,Jury trial;Jury;Common law;Blue ribbon jury;Law;Jury instructions
+970,1700,2022,1,Jury trial;Jury;Common law;Juror;Law;Jury instructions
+971,1700,2022,1,Jury trial;Jury box;Jury;Common law;Law;Jury instructions
+972,1700,2022,1,Jury trial;Jury;Common law;Law;Jury panel;Jury instructions
 973,1700,2100,1,Blue ribbon jury;Coroner
 974,1700,2100,1,Blue ribbon jury;Freedom of the press
-975,1700,2001,1,Blue ribbon jury;Lord Chief Justice of England and Wales
-976,1700,2012,1,Coroner;Juror
-977,1700,2012,1,Coroner;Jury box
-978,1700,2012,1,Coroner;Jury panel
+975,1700,2001,1,Criminal law;Lord Chief Justice of England and Wales;Common law;Courts of England and Wales;Blue ribbon jury;Law
+976,1700,2012,1,Coroner;Juror;Common law;Blue ribbon jury
+977,1700,2012,1,Jury box;Coroner;Common law;Blue ribbon jury
+978,1700,2012,1,Jury panel;Coroner;Common law;Blue ribbon jury
 979,1700,2100,1,Freedom of the press;Juror
 980,1700,2100,1,Freedom of the press;Jury box
 981,1700,2100,1,Freedom of the press;Jury panel
-982,1700,2001,1,Lord Chief Justice of England and Wales;Juror
-983,1700,2001,1,Lord Chief Justice of England and Wales;Jury box
-984,1700,2001,1,Lord Chief Justice of England and Wales;Jury panel
+982,1700,2001,1,Criminal law;Lord Chief Justice of England and Wales;Common law;Courts of England and Wales;Juror;Law
+983,1700,2001,1,Criminal law;Jury box;Lord Chief Justice of England and Wales;Common law;Courts of England and Wales;Law
+984,1700,2001,1,Criminal law;Lord Chief Justice of England and Wales;Common law;Courts of England and Wales;Law;Jury panel
 985,1700,2100,1,Dower;Gender bias
 986,1700,2100,1,Dower;Sexual discrimination
 987,1700,2100,1,Catholic Emancipation;Suffrage
@@ -996,7 +996,7 @@ i,birth,death,dim,nodes
 994,1701,2100,1,Privilege (legal ethics);Social class
 995,1701,2100,1,Future interest;Lease
 996,1701,2100,1,Lien;Title search
-997,1701,2015,1,Real estate;Title search
+997,1701,2015,1,Real property;Conveyancing;Real estate;Title search;Consideration;Common law;Lessee;Lien
 998,1701,2100,1,Real property;Deforce
 999,1701,2100,1,Accommodation (law);Signature
 1000,1701,2100,1,Accommodation (law);Debt
@@ -1005,7 +1005,7 @@ i,birth,death,dim,nodes
 1003,1701,2100,1,Gift;Donee
 1004,1701,2100,1,Charitable organization;Donee
 1005,1701,2100,1,The Crown;Demise
-1006,1701,2010,1,Demise;Lease
+1006,1701,2010,1,Lease;Demise;Consideration;Common law;Legal
 1007,1701,2100,1,Tax deduction;Donee
 1008,1701,2100,1,Royalties;Mining claim
 1009,1701,2100,1,Lease;Mining claim
@@ -1019,7 +1019,7 @@ i,birth,death,dim,nodes
 1017,1707,2100,1,Legal;Law of the United Kingdom
 1018,1707,2100,1,Court of Session;Law of the United Kingdom
 1019,1707,2100,1,Judicial Committee of the Privy Council;Law of the United Kingdom
-1020,1707,2001,1,Courts of England and Wales;Law of the United Kingdom
+1020,1707,2001,1,Criminal law;Common law;Courts of England and Wales;Law of the United Kingdom;Scots law;Law
 1021,1709,2100,1,Force majeure;Riot
 1022,1709,2100,1,Riot;Conscription
 1023,1710,2100,1,Police;Civil disorder
@@ -1032,15 +1032,15 @@ i,birth,death,dim,nodes
 1030,1732,2100,1,Alienation (property law);Waqf
 1031,1735,2100,1,Admiralty law;Barratry (common law)
 1032,1738,2100,1,Slavery;Indentured servant
-1033,1756,1789,1,Abolitionism in the United States;Human rights issues in the United States
+1033,1756,1789,1,American Civil Rights Movement;Constitution;Human rights issues in the United States;Common law;Legal;Abolitionism in the United States;Judicial review;Constitutionality;Legislature
 1034,1756,2100,1,Euthanasia;Human rights issues in the United States
 1035,1756,2100,1,Immigration;Human rights issues in the United States
-1036,1756,1789,1,United States Department of Justice;Human rights issues in the United States
+1036,1756,1789,1,American Civil Rights Movement;United States Department of Justice;Law of the United States;Human rights issues in the United States;Common law;Abolitionism in the United States
 1037,1756,2100,1,Copyright;Human rights issues in the United States
 1038,1756,2100,1,Solicitation;Human rights issues in the United States
 1039,1756,2100,1,Federal Communications Commission;Human rights issues in the United States
 1040,1756,2100,1,Sexual abuse;Human rights issues in the United States
-1041,1756,1942,1,Prisoner of war;Human rights issues in the United States
+1041,1756,1942,1,Capital punishment;Human rights issues in the United States;War crime;Prisoner of war
 1042,1756,2100,1,Human rights issues in the United States;Cannabis (drug)
 1043,1768,2100,1,The Crown;Letters patent
 1044,1768,2100,1,Patent;Letters patent
@@ -1048,58 +1048,58 @@ i,birth,death,dim,nodes
 1046,1768,2100,1,Letters patent;Seal (device)
 1047,1768,2100,1,Letters patent;Scire facias
 1048,1768,2100,1,Letters patent;Morganatic marriage
-1049,1769,2022,1,Exclusionary rule;Case law in the United States
+1049,1769,2022,1,Crime;Criminal;Exclusionary rule;Common law;Case law in the United States;Law;Police
 1050,1776,2100,1,Virginia Declaration of Rights;Indefeasible
 1051,1780,2100,1,Petition;Frenchman
 1052,1780,2100,1,Petition;Strategic lawsuits against public participation
-1053,1782,2010,1,Jury;Forensic testimony
+1053,1782,2010,1,Jury trial;Forensic testimony;Jury;Common law;Law
 1054,1782,2100,1,Expert witness;Forensics
 1055,1782,2100,1,Expert witness;Not guilty by reason of insanity
 1056,1782,2100,1,Perjury;Forensic testimony
 1057,1782,2100,1,Intellectual property;Forensic testimony
 1058,1782,2100,1,Injury;Forensic testimony
 1059,1782,2100,1,Education;Forensic testimony
-1060,1784,1789,1,International law;Labor law
+1060,1784,1789,1,Due process;Common law;Labor law;Legal;Human rights;Rule of law;International law
 1061,1784,2100,1,General Agreement on Tariffs and Trade;Labor law
 1062,1784,2100,1,Trade union;Labor law
 1063,1784,2100,1,Labor law;Education
 1064,1784,2100,1,Labor law;Feudalism
-1065,1784,1789,1,Labor law;United States Permanent Resident Card
-1066,1784,1945,1,Labor law;Free speech
+1065,1784,1789,1,United States Permanent Resident Card;Labor law;Law of the United States;Common law
+1066,1784,1945,1,Freedom of religion;Free speech;Labor law;International law;Civil rights
 1067,1784,2100,1,Labor law;Strike action
 1068,1784,2100,1,Courts of England and Wales;Employment law
 1069,1786,2100,1,Metes and bounds;Gaps and gores
-1070,1787,1789,1,Bail;United States Supreme Court
-1071,1787,2013,1,Exclusionary rule;United States Supreme Court
-1072,1787,2025,1,Law school;United States Supreme Court
-1073,1787,2010,1,Court of Session;Supreme court
-1074,1787,2009,1,Court of Session;Court of last resort
+1070,1787,1789,1,Law of the United States;Criminal law;Property;Common law;Bail;Legal;United States Supreme Court;Legislature
+1071,1787,2013,1,Crime;Exclusionary rule;Case law in the United States;Bail;Law;United States Supreme Court
+1072,1787,2025,1,Crime;Bail;Law;United States Supreme Court;Lawyer;Law school
+1073,1787,2010,1,Trial (law);Criminal justice;Common law;Law;Supreme court;Court of Session;Government
+1074,1787,2009,1,Trial (law);Criminal justice;Legislature;Court of last resort;Law;Court of Session;Government
 1075,1787,2100,1,Federal law;Supreme court
 1076,1787,2100,1,Federal law;Court of last resort
-1077,1787,2011,1,De jure;Court of last resort
+1077,1787,2011,1,De jure;Court of last resort;Law;Legislature;De facto
 1078,1787,2100,1,United States Supreme Court;Marriage
 1079,1787,2100,1,United States Supreme Court;Antitrust
-1080,1787,2010,1,United States Supreme Court;Antitrust laws
+1080,1787,2010,1,Antitrust laws;Law;United States Supreme Court;Antitrust
 1081,1787,2100,1,United States Supreme Court;Supreme court
-1082,1787,1789,1,United States Supreme Court;Impeachment
+1082,1787,1789,1,Law of the United States;Criminal law;Common law;Legal;Impeachment;United States Supreme Court;Legislature
 1083,1787,2100,1,United States Supreme Court;Bluebook
-1084,1787,1948,1,United States Supreme Court;Freedom of expression
-1085,1787,2012,1,United States Supreme Court;Free speech
+1084,1787,1948,1,Law of the United States;Due process;Civil rights;Common law;Legal;Rule of law;Freedom of expression;United States Supreme Court;Government
+1085,1787,2012,1,Blue ribbon jury;Free speech;Civil rights;Common law;Scots law;English Bill of Rights;United States Supreme Court;Government
 1086,1787,2100,1,United States Supreme Court;Falsify
 1087,1787,2100,1,United States Supreme Court;Friend of the court
 1088,1787,2100,1,United States Supreme Court;Official
-1089,1787,1819,1,United States Supreme Court;Not guilty by reason of insanity
+1089,1787,1819,1,United States Supreme Court;Law of the United States;Not guilty by reason of insanity;Common law
 1090,1787,2100,1,Sharia;Court of last resort
 1091,1787,2100,1,Patent;Industrial design rights
 1092,1787,2100,1,Supreme court;Judicial Committee of the Privy Council
-1093,1787,2009,1,Supreme court;Council of State (France)
-1094,1787,2007,1,Supreme court;Prohibition (writ)
+1093,1787,2009,1,Criminal law;Common law;Law;Supreme court;Council of State (France)
+1094,1787,2007,1,Criminal;Prohibition (writ);Common law;Law;Supreme court;Writ
 1095,1787,2100,1,Supreme court;Rescue doctrine
 1096,1787,2100,1,Trial de novo;Court of last resort
-1097,1787,2021,1,Judicial Committee of the Privy Council;Court of last resort
+1097,1787,2021,1,Judicial Committee of the Privy Council;Common law;Court of last resort;Law;Supreme court;Legislature
 1098,1787,2100,1,House of Lords;Court of last resort
-1099,1787,2002,1,Civil code;Court of last resort
-1100,1788,2013,1,Conveyancing;Lease and release
+1099,1787,2002,1,Civil code;Court of last resort;Legal code;Law;Legislature
+1100,1788,2013,1,Lease and release;Real property;Real estate;Consideration;Common law;Lessee;Conveyancing
 1101,1788,2100,1,Lease;Lease and release
 1102,1788,2100,1,Letters patent;Australian Constitutional history
 1103,1788,2100,1,Terra nullius;Australian Constitutional history
@@ -1107,15 +1107,15 @@ i,birth,death,dim,nodes
 1105,1788,2100,1,Australian Constitutional history;Treaty of Waitangi
 1106,1788,2100,1,Australian Constitutional history;House of Lords
 1107,1789,2100,1,Contract;Force majeure
-1108,1789,2009,1,Contract;Copartner
+1108,1789,2009,1,Copartner;Damages;Contract;Common law
 1109,1789,2100,1,Contract;Deadlock provision
-1110,1789,1901,1,Contract;For value received
-1111,1789,2011,1,Contract;Islamic Law
-1112,1789,2011,1,Contract;Limited partner
+1110,1789,1901,1,Law;For value received;Common law;Contract
+1111,1789,2011,1,Corporations law;Corporation;Islamic Law;Contract;Legal;Law
+1112,1789,2011,1,Corporations law;Corporation;Contract;Legal;Limited partner;Law
 1113,1789,2100,1,Contract;Rule in Dumpor's Case
 1114,1789,2100,1,Probable cause;United States Constitution
-1115,1789,2009,1,Corporation;Guarantees
-1116,1789,2001,1,Corporation;Obligee
+1115,1789,2009,1,Corporations law;Corporation;Common law;Law;Guarantees
+1116,1789,2001,1,Obligee;Guarantees;Tort;Corporation
 1117,1789,2100,1,United States Constitution;Campaign finance reform
 1118,1789,2100,1,United States Constitution;Emancipation Proclamation
 1119,1789,2100,1,United States Constitution;Self-incrimination
@@ -1126,18 +1126,18 @@ i,birth,death,dim,nodes
 1124,1789,2100,1,Minor (law);Guarantees
 1125,1789,2100,1,Minor (law);Obligee
 1126,1789,2100,1,Waqf;Usufruct
-1127,1789,2007,1,United States federal courts;Supreme court
+1127,1789,2007,1,Criminal;Law of the United States;Concurrent writ;United States federal courts;Prohibition (writ);Common law;Law;Supreme court;Writ
 1128,1789,2100,1,United States federal courts;Bluebook
 1129,1789,2100,1,United States federal courts;Piracy
-1130,1789,2020,1,United States federal courts;Friend of the court
-1131,1789,2014,1,United States court of appeals;United States Supreme Court
+1130,1789,2020,1,Friend of the court;Supreme court;Common law;United States federal courts
+1131,1789,2014,1,Concurrent writ;Common law;United States Constitution;Appeal;United States Supreme Court;United States court of appeals
 1132,1789,2100,1,United States court of appeals;Patent
 1133,1789,2100,1,Sharia;Guarantees
-1134,1789,2018,1,Sharia;Obligee
+1134,1789,2018,1,Obligee;Sharia;Guarantees;Common law
 1135,1789,2100,1,Ten Commandments;Establishment clause
 1136,1789,2100,1,Patent;United States federal judicial circuit
 1137,1789,2100,1,Negotiation;Guarantees
-1138,1789,2002,1,Negotiation;Obligee
+1138,1789,2002,1,Obligee;Guarantees;Common law;Negotiation
 1139,1789,2100,1,Tax;Establishment clause
 1140,1789,2100,1,Chief Justice of the United States;United States federal judicial circuit
 1141,1789,2100,1,Judicial Committee of the Privy Council;Guarantees
@@ -1154,21 +1154,21 @@ i,birth,death,dim,nodes
 1152,1789,2100,1,Software license;Obligee
 1153,1789,2100,1,Establishment clause;Vulgate
 1154,1789,2100,1,Semble;Obligee
-1155,1790,2009,1,Contract;Surety
-1156,1790,2025,1,Constitution;Treaty
+1155,1790,2009,1,Surety;Consideration;Common law;Contract
+1156,1790,2025,1,Constitution;Parliamentary supremacy;Common law;Contract;Equity (law);Treaty;Legal;Human rights;International law;Scots law;English Bill of Rights;Law;Guarantees;Legislature;Civil rights
 1157,1790,2100,1,Rights;Erga omnes
-1158,1790,2020,1,International law;Treaty
+1158,1790,2020,1,Constitution;International law;Treaty;Law;Civil rights
 1159,1790,2100,1,Tort;Sounds in
 1160,1790,2100,1,Real property;Bond for deed
 1161,1790,2100,1,Debt;Surety
 1162,1790,2100,1,Criminal;Treaty
 1163,1790,2100,1,General Agreement on Tariffs and Trade;Treaty
-1164,1790,2009,1,Jury;Napoleonic code
+1164,1790,2009,1,Jury trial;Napoleonic code;Jury;Common law;Law
 1165,1790,2100,1,Judicial review;Napoleonic code
 1166,1790,2100,1,United States Constitution;Confederate States Constitution
 1167,1790,2100,1,United States Constitution;Suppression of evidence
 1168,1790,2100,1,Treaty;Treaty of Waitangi
-1169,1790,1945,1,Treaty;Constitutional charter
+1169,1790,1945,1,Treaty;Constitutional charter;International law;Human rights
 1170,1790,2100,1,Treaty;Extradition
 1171,1790,2100,1,Void (law);Restraint of trade
 1172,1790,2100,1,Void (law);Settlor
@@ -1188,7 +1188,7 @@ i,birth,death,dim,nodes
 1186,1790,2100,1,Assignment (law);Novation
 1187,1790,2100,1,Assignment (law);Debenture
 1188,1790,2100,1,Roman law;Consensu
-1189,1790,2001,1,United States court of appeals;United States federal judicial district
+1189,1790,2001,1,Concurrent writ;United States federal courts;United States Constitution;United States court of appeals;United States federal judicial district
 1190,1790,2100,1,United States Department of Justice;United States federal judicial district
 1191,1790,2100,1,Pardon;Blue ribbon jury
 1192,1790,2100,1,Pardon;Juror
@@ -1198,19 +1198,19 @@ i,birth,death,dim,nodes
 1196,1790,2100,1,Surety bond;Surety
 1197,1790,2100,1,Articles of impeachment;Chief Justice of the United States
 1198,1790,2100,1,Bail bond;Surety
-1199,1790,2008,1,Surety;Bail schedule
-1200,1790,2008,1,Surety;Go bail
-1201,1790,2008,1,Surety;Jump bail
+1199,1790,2008,1,Crime;Bail bond;Surety;Bail schedule
+1200,1790,2008,1,Go bail;Crime;Bail bond;Surety
+1201,1790,2008,1,Crime;Bail bond;Jump bail;Surety
 1202,1790,2100,1,Piercing the corporate veil;European Union Law
 1203,1790,2100,1,Presumption of innocence;Napoleonic code
-1204,1790,2024,1,Declaration of the Rights of Man and of the Citizen;Napoleonic code
+1204,1790,2024,1,Penal law;Criminal;Rape;Declaration of the Rights of Man and of the Citizen;Human rights issues in the United States;Napoleonic code;War crime;Legal;International law;Capital punishment;Law;Civil rights
 1205,1790,2100,1,Standard form contract;Class action suit
 1206,1790,2100,1,Standard form contract;Guarantees
 1207,1790,2100,1,Standard form contract;Obligee
 1208,1790,2100,1,Warranty;Guarantees
 1209,1790,2100,1,Warranty;Obligee
-1210,1790,1978,1,United States federal judicial district;United States federal judicial circuit
-1211,1790,1901,1,Napoleonic code;Council of State (France)
+1210,1790,1978,1,United States federal judicial circuit;Appeal;United States court of appeals;United States federal judicial district
+1211,1790,1901,1,Napoleonic code;Law;Council of State (France);Criminal law
 1212,1790,2100,1,Napoleonic code;Heresy
 1213,1790,2100,1,Universal jurisdiction;Erga omnes
 1214,1790,2100,1,Obligation;Erga omnes
@@ -1228,7 +1228,7 @@ i,birth,death,dim,nodes
 1226,1791,2100,1,Oath;False swearing
 1227,1791,2100,1,Citizenship;Citizen
 1228,1791,2100,1,Assignment (law);Bill of lading
-1229,1791,2009,1,Writ;Warrant (legal)
+1229,1791,2009,1,Trial (law);Common law;Warrant (legal);Law;Government;Writ
 1230,1791,2100,1,Roman law;Jus inter gentes
 1231,1791,2100,1,Intellectual property;Berne three-step test
 1232,1791,2100,1,Caveat emptor;Warranty
@@ -1238,27 +1238,27 @@ i,birth,death,dim,nodes
 1236,1791,2100,1,Freedom of expression;Citizen
 1237,1791,2100,1,Citizen;Free speech
 1238,1791,2100,1,Citizen;Serf
-1239,1791,2009,1,Concurrent writ;Warrant (legal)
+1239,1791,2009,1,Concurrent writ;Trial (law);Common law;Warrant (legal);Law;Government
 1240,1791,2100,1,Warrant (legal);Heresy
 1241,1791,2100,1,Controlled substance;Forensics
-1242,1792,2025,1,Oath;Affirmation in law
+1242,1792,2025,1,Trial by ordeal;Trial (law);Affirmation in law;Law;Oath
 1243,1792,2100,1,Jury trial;Voir dire
 1244,1792,2100,1,Bill of lading;Himalaya clause
 1245,1792,2100,1,Voir dire;Forensic testimony
 1246,1792,2100,1,Citizen;Totalitarian democracy
 1247,1792,2100,1,Vassal;Fealty
 1248,1792,2100,1,Maritime law;Himalaya clause
-1249,1800,1890,1,Contract;Implied covenant of good faith and fair dealing
-1250,1800,2001,1,Rights;Procedural law
+1249,1800,1890,1,Implied covenant of good faith and fair dealing;Consideration;Common law;Contract
+1250,1800,2001,1,Rights;Due process;Parliamentary supremacy;Common law;Scots law;Human rights;Procedural law
 1251,1800,2100,1,International law;Legal person
-1252,1800,2007,1,International law;Legal entity
+1252,1800,2007,1,Constitution;Corporations law;Corporation;Board of directors;Legal;International law;Legal entity;Law
 1253,1800,2100,1,Murder;Retributive justice
 1254,1800,2100,1,Voluntary association;Legal entity
 1255,1800,2100,1,Debt;Legal entity
 1256,1800,2100,1,Debt;Incidental beneficiary
 1257,1800,2100,1,Felony;Aid and abet
 1258,1800,2100,1,Felony;War on Drugs
-1259,1800,2020,1,Treaty;Procedural law
+1259,1800,2020,1,Constitution;Common law;Treaty;Law;Procedural law
 1260,1800,2100,1,Gift;Incidental beneficiary
 1261,1800,2100,1,High Court of Australia;Fiduciary
 1262,1800,2100,1,High Court of Australia;Supreme court
@@ -1300,7 +1300,7 @@ i,birth,death,dim,nodes
 1298,1800,2100,1,United States Permanent Resident Card;Moral turpitude
 1299,1800,2100,1,Individual capital;Intellectual rights
 1300,1801,2100,1,Decree;Authoritarianism
-1301,1801,1802,1,Debt;Debtor
+1301,1801,1802,1,Debt;Bankrupt;Debtor;Fiduciary duty
 1302,1801,2100,1,Capital punishment;An eye for an eye
 1303,1801,2100,1,Debtor;Bank
 1304,1801,2100,1,Felony;Civil death
@@ -1324,7 +1324,7 @@ i,birth,death,dim,nodes
 1322,1801,2100,1,Ultra vires;Constitutional charter
 1323,1801,2100,1,Ultra vires;Jus civile
 1324,1801,2100,1,False Claims Law;Subcontractor
-1325,1802,2011,1,Creditor;Property
+1325,1802,2011,1,Bankrupt;Creditor;Debtor;Inheritance;Property;Debt
 1326,1802,2100,1,Debtor;Cleanup clause
 1327,1802,2100,1,Debtor;Walking possession
 1328,1802,2100,1,Parliamentary procedure;Adjourn
@@ -1334,7 +1334,7 @@ i,birth,death,dim,nodes
 1332,1802,2100,1,Auditor;Deadlock provision
 1333,1802,2100,1,Sub modo;Riparian
 1334,1803,2100,1,Creditor;Homestead exemption
-1335,1803,2021,1,Lien;Debtor in possession
+1335,1803,2021,1,Debtor in possession;Consideration;Common law;Contract;Mechanics lien;Lien
 1336,1803,2100,1,Treaty;Guarantee
 1337,1803,2100,1,Tax;Bankruptcy remote
 1338,1803,2100,1,Police;Reports
@@ -1363,20 +1363,20 @@ i,birth,death,dim,nodes
 1361,1820,2100,1,Pedophilia;Involuntary commitment
 1362,1820,2100,1,Involuntary commitment;Justice of the Peace
 1363,1824,2100,1,Prosecutor;Judicial discretion
-1364,1824,2020,1,Rule of law;Judicial discretion
-1365,1824,2020,1,Separation of powers;Judicial discretion
-1366,1824,2022,1,Three strikes law;Judicial discretion
+1364,1824,2020,1,Law;Judicial discretion;Rule of law;Prosecutor
+1365,1824,2020,1,Common law;Separation of powers;Judicial review;Rule of law;Blue ribbon jury;Law;Judicial discretion
+1366,1824,2022,1,Prosecutor;Habitual criminal;Three strikes law;Law;Judicial discretion
 1367,1824,2100,1,Ultra vires;Judicial discretion
 1368,1824,2100,1,Judicial discretion;Sex offender registries in the United States
 1369,1826,2100,1,Criminal law;High Court of Singapore
-1370,1826,2007,1,Habeas corpus;High Court of Singapore
-1371,1826,2008,1,Divorce;High Court of Singapore
-1372,1826,2014,1,Judicial review;High Court of Singapore
+1370,1826,2007,1,Criminal;Criminal law;Prerogative writ;Habeas corpus;High Court of Singapore;Law;Writ
+1371,1826,2008,1,Criminal law;Adultery;Divorce;High Court of Singapore;Law;Sharia law
+1372,1826,2014,1,Habeas corpus;United States Constitution;High Court of Singapore;Judicial review
 1373,1826,2100,1,Admiralty law;High Court of Singapore
-1374,1826,2008,1,Estate (law);High Court of Singapore
-1375,1826,2014,1,Testimony;High Court of Singapore
+1374,1826,2008,1,Criminal law;Common law;Legal;Estate (law);High Court of Singapore;Law
+1375,1826,2014,1,High Court of Singapore;Law;Testimony;Criminal law
 1376,1826,2100,1,Minor (law);High Court of Singapore
-1377,1826,2022,1,Appeal;High Court of Singapore
+1377,1826,2022,1,Criminal law;Common law;Appeal;High Court of Singapore;Law
 1378,1826,2100,1,Intellectual property;High Court of Singapore
 1379,1826,2100,1,Judicial Committee of the Privy Council;High Court of Singapore
 1380,1826,2100,1,Letters patent;High Court of Singapore
@@ -1408,14 +1408,14 @@ i,birth,death,dim,nodes
 1406,1848,2100,1,Trade union;Right-to-work laws
 1407,1850,2100,1,Equal Protection Clause;Illegitimacy
 1408,1850,2100,1,Torrens title;Notorious possession
-1409,1853,2015,1,Title insurance;Insurance
-1410,1853,1890,1,Title insurance;Lease
+1409,1853,2015,1,Lease and release;Real property;Real estate;Title insurance;Insurance;Contract;Common law;Lessee;Conveyancing
+1410,1853,1890,1,Real property;Title insurance;Lease;Consideration;Common law;Contract
 1411,1853,2100,1,Title insurance;Torrens title
 1412,1856,2100,1,Replevin;King's Bench
 1413,1856,2100,1,Replevin;Queen's bench
 1414,1856,2100,1,Replevin;Queens bench division
 1415,1858,2100,1,Parole;Probation
-1416,1858,2022,1,Parole;Habitual criminal
+1416,1858,2022,1,Crime;Habitual criminal;Parole;Blue ribbon jury;Murder;Law
 1417,1859,2100,1,Document;Court docket
 1418,1859,2100,1,Document;Forger
 1419,1860,2100,1,United States Bill of Rights;Establishment clause
@@ -1444,9 +1444,9 @@ i,birth,death,dim,nodes
 1442,1866,2100,1,Royal Courts of Justice;Queens bench division
 1443,1866,2100,1,Royal Courts of Justice;The Old Bailey
 1444,1867,2100,1,Court of Appeal of England and Wales;Co-trustee
-1445,1867,2001,1,Court of Appeal of England and Wales;Royal Courts of Justice
-1446,1867,2001,1,Court of Appeal of England and Wales;Guarantees
-1447,1867,2001,1,Court of Appeal of England and Wales;Obligee
+1445,1867,2001,1,Criminal law;Court of Appeal of England and Wales;Common law;Courts of England and Wales;Royal Courts of Justice;Maritime law;Law
+1446,1867,2001,1,Criminal law;Court of Appeal of England and Wales;Common law;Courts of England and Wales;Law;Guarantees
+1447,1867,2001,1,Criminal law;Court of Appeal of England and Wales;Common law;Courts of England and Wales;Obligee;Law
 1448,1867,2100,1,Freedom of speech;Implied Bill of Rights
 1449,1867,2100,1,Implied Bill of Rights;Parliamentary supremacy
 1450,1869,2100,1,Supreme Court of Canada;Maritime law
@@ -1465,7 +1465,7 @@ i,birth,death,dim,nodes
 1463,1871,2100,1,Martial law;Coup d'état
 1464,1871,2100,1,Tax;Tribute
 1465,1872,2100,1,Oath;Affidavit
-1466,1872,2018,1,Affidavit;Justice of the Peace
+1466,1872,2018,1,Trial by ordeal;Criminal;Trial (law);Prosecutor;Common law;Justice of the Peace;Affidavit;Law;Oath;Lawyer;Discovery of documents
 1467,1872,2100,1,Inheritance;Household
 1468,1872,2100,1,Martial law;Court-martial
 1469,1872,2100,1,War crime;Court-martial
@@ -1484,25 +1484,25 @@ i,birth,death,dim,nodes
 1482,1878,2100,1,Discrimination;United States Constitution
 1483,1878,2100,1,Discrimination;Racism
 1484,1878,2100,1,Discrimination;Family
-1485,1878,2021,1,Family law;Alimony
+1485,1878,2021,1,Family law;Alimony;Adultery;Divorce;Law;Sharia law
 1486,1878,2100,1,Family law;Family
 1487,1878,2100,1,Family law;Justice of the Peace
-1488,1878,2021,1,Family law;Illegitimacy
+1488,1878,2021,1,Law;Family law;Common law;Illegitimacy
 1489,1878,2100,1,United States Code;Aid and abet
 1490,1878,2100,1,United States Code;Feme covert
-1491,1878,1945,1,Freedom of expression;Freedom of association
+1491,1878,1945,1,Freedom of association;Freedom of religion;Civil rights;Freedom of expression
 1492,1878,2100,1,Implied Bill of Rights;Freedom of association
 1493,1879,2100,1,Discrimination;Judgment
 1494,1879,2100,1,Discrimination;Common carrier
 1495,1879,2100,1,Discrimination;Elder law
 1496,1879,2100,1,Equal Protection Clause;Consent judgment
 1497,1879,2100,1,Judgment;Bias
-1498,1879,2008,1,Class action;Consent judgment
+1498,1879,2008,1,Criminal;Tortfeasor;Class action;Consent judgment;Law;Damages
 1499,1879,2100,1,Bill of lading;Common carrier
 1500,1880,2100,1,Intellectual property;Paris Convention for the Protection of Industrial Property
 1501,1881,2100,1,Collective trade marks;Paris Convention for the Protection of Industrial Property
 1502,1884,2100,1,United States Supreme Court;Life without possibility of parole
-1503,1884,2022,1,Parole;Life without possibility of parole
+1503,1884,2022,1,Murder;Life without possibility of parole;Parole;Blue ribbon jury
 1504,1884,2100,1,Illegal drug trade;Life without possibility of parole
 1505,1886,2100,1,Liberty;Rule of law
 1506,1886,2100,1,Liberty;Antitrust
@@ -1520,30 +1520,30 @@ i,birth,death,dim,nodes
 1518,1889,2100,1,Licence;Bachelor of Legal Letters
 1519,1889,2100,1,Licence;Parole
 1520,1889,2100,1,Licence;Driver's license
-1521,1890,2009,1,Criminal law;Binding arbitration
+1521,1890,2009,1,Law;Binding arbitration;Criminal law;Common law
 1522,1890,2100,1,Equal Protection Clause;Covenant that runs with the land
 1523,1890,2100,1,Human rights;Covenant (law)
 1524,1890,2100,1,Human rights;Covenant that runs with the land
-1525,1890,2011,1,Pleading;Binding arbitration
+1525,1890,2011,1,Law;Binding arbitration;Common law;Pleading
 1526,1890,2100,1,Family law;Binding arbitration
 1527,1890,2100,1,Covenant (law);Seal (device)
-1528,1890,2009,1,Discovery (law);Binding arbitration
+1528,1890,2009,1,Criminal;Tortfeasor;Discovery (law);Binding arbitration;Common law;Class action;Strategic lawsuits against public participation;Law;Damages
 1529,1890,2100,1,Arbitration;Class action suit
 1530,1890,2100,1,Arbitration;European Union Law
-1531,1890,2009,1,Arbitration;Guarantees
+1531,1890,2009,1,Criminal;Tortfeasor;Class action suit;Common law;Strategic lawsuits against public participation;Class action;Guarantees;Law;Damages;Tort;Arbitration
 1532,1890,2100,1,Arbitration;High Court of Singapore
 1533,1890,2100,1,Arbitration;Mercantile law
-1534,1890,2001,1,Arbitration;Obligee
+1534,1890,2001,1,Obligee;Guarantees;Corporation;Arbitration
 1535,1890,2100,1,High Court of Justice;Court of protection
 1536,1890,2100,1,Trade union;Binding arbitration
 1537,1890,2100,1,Jim Crow laws;Covenant that runs with the land
 1538,1890,2100,1,Racial segregation;Covenant that runs with the land
-1539,1890,2000,1,Class action;Binding arbitration
+1539,1890,2000,1,Class action;Strategic lawsuits against public participation;Discovery (law);Binding arbitration
 1540,1890,2100,1,Expert determination;Binding arbitration
 1541,1890,2100,1,Federal Communications Commission;Covenant that runs with the land
 1542,1890,2100,1,Binding arbitration;Patent infringement
 1543,1890,2100,1,Informed consent;Court of protection
-1544,1890,2011,1,Seal (device);Covenant that runs with the land
+1544,1890,2011,1,Seal (device);Covenant (law);Covenant that runs with the land;Contract
 1545,1890,2100,1,Covenant that runs with the land;Federal preemption
 1546,1891,2100,1,Income tax;Pay as you earn (paye)
 1547,1891,2100,1,Per minas;Meeting of the minds
@@ -1559,8 +1559,8 @@ i,birth,death,dim,nodes
 1557,1891,2100,1,Meeting of the minds;Obligee
 1558,1891,2100,1,Pay as you earn (paye);Sick pay
 1559,1892,2100,1,Trespass;Right-of-way
-1560,1892,2021,1,Nolle prosequi;Verdict
-1561,1892,2011,1,Jury;Verdict
+1560,1892,2021,1,Criminal law;Common law;Jury;Verdict;United States Constitution;Nolle prosequi;Blue ribbon jury;Law
+1561,1892,2011,1,Jury;Common law;Verdict;United States Constitution;Nolle prosequi
 1562,1892,2100,1,Verdict;Black's Law Dictionary
 1563,1892,2100,1,Verdict;High Court of Singapore
 1564,1892,2100,1,Verdict;Secret tribunal
@@ -1581,11 +1581,11 @@ i,birth,death,dim,nodes
 1579,1894,2100,1,Gross income;United States Federal Income Tax Personal Exemption
 1580,1895,2100,1,United States Permanent Resident Card;Taxation in the United States
 1581,1896,2100,1,Vexatious litigation;Strategic lawsuits against public participation
-1582,1898,2008,1,Bail bond;Bail bondsman
+1582,1898,2008,1,Bail;Crime;Bail bond;Bail bondsman
 1583,1898,2100,1,Bail bondsman;United States prison population
 1584,1899,2100,1,Sovereignty;Permanent Court of Arbitration
 1585,1899,2100,1,Hague Conventions (1899 and 1907);Permanent Court of Arbitration
-1586,1900,1901,1,Regulation;Government
+1586,1900,1901,1,Law;Legislature;Regulation;Government
 1587,1900,2100,1,Regulation;Corporate governance
 1588,1900,2100,1,Regulation;Social justice
 1589,1900,2100,1,Regulation;Regulatory taking
@@ -1594,12 +1594,12 @@ i,birth,death,dim,nodes
 1592,1900,2100,1,Capital punishment;Lethal injection
 1593,1900,2100,1,Accountability;Rulemaking
 1594,1900,2100,1,Good (economics);Regulations
-1595,1900,2010,1,Unjust enrichment;Legal
+1595,1900,2010,1,Common law;Unjust enrichment;Equity (law);Legal;Law;Guarantees
 1596,1900,2100,1,Board of directors;Regulations
 1597,1900,2100,1,The Crown;Condemnation action
 1598,1900,2100,1,Government;Regulations
 1599,1900,2100,1,Product liability;Tortfeasor
-1600,1900,2009,1,Product liability;Case law in the United States
+1600,1900,2009,1,Case law in the United States;Product liability;Tortfeasor;Criminal law
 1601,1900,2100,1,Jurist;Condemnation action
 1602,1900,2100,1,Court of Session;Legal aid
 1603,1900,2100,1,Racism;Genocide
@@ -1618,7 +1618,7 @@ i,birth,death,dim,nodes
 1616,1900,2100,1,Marriage;Bride price
 1617,1900,2100,1,Marriage;Irresistible impulse
 1618,1900,2100,1,Patent;Condemnation action
-1619,1900,1902,1,Copyright;Condemnation action
+1619,1900,1902,1,Condemnation action;Antitrust;Patent;Copyright
 1620,1900,2100,1,Trade secret;Condemnation action
 1621,1900,2100,1,Tax;Condemnation action
 1622,1900,2100,1,Police;Militia
@@ -1638,30 +1638,30 @@ i,birth,death,dim,nodes
 1636,1900,2100,1,Violence;Laws of war
 1637,1900,2100,1,Violence;Secret police
 1638,1900,2100,1,International Court of Justice;European Union Law
-1639,1900,1945,1,International Court of Justice;Laws of war
+1639,1900,1945,1,Laws of war;European Union Law;International law;International Court of Justice
 1640,1900,2100,1,International Court of Justice;Permanent Court of Arbitration
-1641,1900,1919,1,International Court of Justice;International Criminal Tribunal for the Former Yugoslavia
+1641,1900,1919,1,Penal law;International Court of Justice;International Criminal Tribunal for the Former Yugoslavia;Legal;International law;Genocide
 1642,1900,2100,1,International Court of Justice;Law of treaties
 1643,1900,2100,1,Employment contract;Guarantees
-1644,1900,2016,1,Employment contract;Obligee
+1644,1900,2016,1,Obligee;Guarantees;Employment contract;Corporation
 1645,1900,2100,1,Employment contract;Sick pay
 1646,1900,2100,1,Public;Ombudsman
 1647,1901,2100,1,Statute;Faculty of Advocates
 1648,1901,2100,1,Statute;Age of consent
 1649,1901,2100,1,Statute;Federal Communications Commission
 1650,1901,2100,1,Statute;Unitary state
-1651,1901,2009,1,Statute;Cy pres doctrine
-1652,1901,2009,1,Statute;Guarantees
-1653,1901,1902,1,Statute;Magna carta
-1654,1901,1997,1,Statute;Premeditation
-1655,1901,2002,1,Statute;Obligee
+1651,1901,2009,1,Law;Cy pres doctrine;Statute;Common law
+1652,1901,2009,1,Law;Guarantees;Statute;Common law
+1653,1901,1902,1,Law;Statute;Due process;Magna carta
+1654,1901,1997,1,Law;Statute;Premeditation;Common law
+1655,1901,2002,1,Obligee;Guarantees;Statute;Common law
 1656,1901,2100,1,Statute;Strategic lawsuits against public participation
 1657,1901,2100,1,Unfree labour;Conscription
 1658,1901,2100,1,Unfree labour;Violence
-1659,1901,2011,1,International law;Peremptory norm
+1659,1901,2011,1,Peremptory norm;Rights;Legal;International law;Slavery;Civil rights
 1660,1901,2100,1,Corporation;Government-granted monopoly
 1661,1901,2100,1,Jury;Jury selection
-1662,1901,2011,1,Unjust enrichment;Officious intermeddler
+1662,1901,2011,1,Unjust enrichment;Officious intermeddler;Quantum meruit;Common law
 1663,1901,2100,1,Fair market value;Royalties
 1664,1901,2100,1,Fair market value;Eminent domain
 1665,1901,2100,1,Apprenticeship;Trade union
@@ -1679,7 +1679,7 @@ i,birth,death,dim,nodes
 1677,1901,2100,1,Piracy;Peremptory norm
 1678,1901,2100,1,Eminent domain;Estate in land
 1679,1901,2100,1,Peremptory norm;Law of treaties
-1680,1901,2015,1,Estate in land;Feoffee
+1680,1901,2015,1,Real property;Fief;Feoffee;Common law;Estate in land;Feudalism;Escheat
 1681,1901,2100,1,Violence;Fighting words
 1682,1901,2100,1,Fighting words;Heat of passion
 1683,1902,2100,1,Guilt (law);Free will
@@ -1689,8 +1689,8 @@ i,birth,death,dim,nodes
 1687,1902,2100,1,Human rights;Amelioration Act 1798
 1688,1902,2100,1,Corporation;Creature of statute
 1689,1902,2100,1,Double jeopardy;Dna
-1690,1902,1939,1,Act of Parliament;Australian Constitution
-1691,1902,1939,1,Act of Parliament;British constitution
+1690,1902,1939,1,Act of Parliament;Monarch;Statute;Australian Constitution;English Bill of Rights;Letters patent
+1691,1902,1939,1,Act of Parliament;Monarch;British constitution;Constitutional monarchy;Australian Constitution;Letters patent
 1692,1902,2100,1,Act of Parliament;Drawing and quartering
 1693,1902,2100,1,Act of Parliament;Life without possibility of parole
 1694,1902,2100,1,United States Constitution;Just compensation
@@ -1701,7 +1701,7 @@ i,birth,death,dim,nodes
 1699,1902,2100,1,Monopoly;Government-granted monopoly
 1700,1902,2100,1,License;Game law
 1701,1902,2100,1,Statutory law;Bankruptcy proceedings
-1702,1902,1996,1,Statutory law;United States Permanent Resident Card
+1702,1902,1996,1,Statutory law;Statute;Common law;United States Constitution;Law;United States Permanent Resident Card
 1703,1902,2100,1,Statutory law;Voluntary bankruptcy
 1704,1902,2100,1,Associate justice;High Court of New Zealand
 1705,1902,2100,1,Death penalty;Jus cogens
@@ -1725,12 +1725,12 @@ i,birth,death,dim,nodes
 1723,1903,2100,1,Property tax;Municipal
 1724,1903,2100,1,Creature of statute;Municipal
 1725,1905,2100,1,Laïcité;French law on secularity and conspicuous religious symbols in schools
-1726,1906,2012,1,Misdemeanor;Copyright infringement of software
+1726,1906,2012,1,Criminal law;Copyright infringement of software;Common law;Scots law;Blue ribbon jury;Law;Misdemeanor
 1727,1906,2100,1,Criminal justice;Copyright infringement
-1728,1906,2003,1,Conversion (law);Copyright infringement of software
+1728,1906,2003,1,Penal law;Criminal;Criminal law;Conversion (law);Copyright infringement of software;Property;Statute;Law
 1729,1906,2100,1,Tortfeasor;Copyright infringement
 1730,1906,2100,1,Royal Charter;Copyright infringement of software
-1731,1906,2012,1,Freedom of speech;Copyright infringement of software
+1731,1906,2012,1,Freedom of speech;Criminal law;Blue ribbon jury;Copyright infringement of software;Scots law;English Bill of Rights;Law;Civil rights
 1732,1906,2100,1,Plagiarism;Copyright infringement
 1733,1906,2100,1,Plagiarism;Copyright infringement of software
 1734,1906,2100,1,Copyright infringement;Malum prohibitum
@@ -1742,7 +1742,7 @@ i,birth,death,dim,nodes
 1740,1911,2100,1,Renting;Justice of the Peace
 1741,1911,2100,1,Renting;Socage
 1742,1911,2100,1,Renting;Free socage
-1743,1911,1950,1,Renting;Lessee
+1743,1911,1950,1,Renting;Lessee;Real estate;Justice of the Peace
 1744,1912,2100,1,Renting;Occupant
 1745,1912,2100,1,Lease;Occupancy
 1746,1912,2100,1,Lease;Occupant
@@ -1763,24 +1763,24 @@ i,birth,death,dim,nodes
 1761,1913,2100,1,Arson;Male fide
 1762,1913,2100,1,Political science;Mala fides
 1763,1913,2100,1,Political science;Male fide
-1764,1914,2009,1,Jury;Admissible evidence
+1764,1914,2009,1,Jury trial;Admissible evidence;Jury;Common law;Law
 1765,1914,2100,1,Business;Good faith
-1766,1914,2009,1,Admissible evidence;Exclusionary rule
+1766,1914,2009,1,Crime;Exclusionary rule;Admissible evidence;Bail;Law;United States Supreme Court
 1767,1914,2100,1,Admissible evidence;Forensics
 1768,1914,2100,1,Good faith;Bad faith
 1769,1914,2100,1,Good faith;European Union Law
 1770,1914,2100,1,Good faith;Guarantees
 1771,1914,2100,1,Good faith;Mala fides
 1772,1914,2100,1,Good faith;Male fide
-1773,1914,2024,1,Good faith;Obligee
-1774,1915,2011,1,Personal representative;High Court of Singapore
+1773,1914,2024,1,Obligee;Guarantees;Good faith;Corporation
+1774,1915,2011,1,Criminal law;Personal representative;Common law;Legal;High Court of Singapore;Law
 1775,1915,2100,1,Admissible evidence;Miranda warning
 1776,1915,2100,1,Miranda warning;Right to silence
 1777,1915,2100,1,Miranda warning;Not guilty by reason of insanity
 1778,1915,2100,1,Polygraph;Lie detector test
 1779,1918,2100,1,Law school;American Bar Association
 1780,1918,2100,1,American Bar Association;Aid and abet
-1781,1918,2008,1,American Bar Association;Bachelor of Legal Letters
+1781,1918,2008,1,Bachelor of Legal Letters;American Bar Association;Common law;Legal;Lawyer;Law school
 1782,1918,2100,1,American Bar Association;Bail bondsman
 1783,1918,2100,1,American Bar Association;Binding arbitration
 1784,1918,2100,1,American Bar Association;Justice of the Peace
@@ -1797,9 +1797,9 @@ i,birth,death,dim,nodes
 1795,1919,2100,1,Desertion;Life without possibility of parole
 1796,1919,2100,1,Desertion;Ruse of war
 1797,1919,2100,1,Of counsel;Partner (business rank)
-1798,1920,2012,1,Equity (law);Declaratory judgment
-1799,1920,2012,1,Equity (law);Declaratory relief
-1800,1920,2010,1,United States Constitution;Declaratory judgment
+1798,1920,2012,1,Contract;Common law;Equity (law);Damages;Declaratory judgment
+1799,1920,2012,1,Declaratory relief;Contract;Common law;Equity (law);Damages
+1800,1920,2010,1,United States federal courts;Common law;Equity (law);United States Constitution;Supreme court;Declaratory judgment
 1801,1920,2100,1,Declaratory judgment;Counterclaim
 1802,1920,2100,1,Patent;Declaratory relief
 1803,1920,2100,1,Barratry (admiralty law);Desertion
@@ -1816,7 +1816,7 @@ i,birth,death,dim,nodes
 1814,1923,2100,1,High Court of Australia;Restatement of the law
 1815,1923,2100,1,Expert witness;Daubert standard
 1816,1923,2100,1,Monarch;Shaikh
-1817,1926,2009,1,American Arbitration Association;Binding arbitration
+1817,1926,2009,1,Criminal;Tortfeasor;Discovery (law);Class action suit;Binding arbitration;Common law;Strategic lawsuits against public participation;Class action;American Arbitration Association;Law;Damages;Tort;Arbitration
 1818,1927,2100,1,Murder;Racketeering
 1819,1927,2100,1,Business;Racketeering
 1820,1927,2100,1,American Depositary Receipt;Transfer agent
@@ -1825,9 +1825,9 @@ i,birth,death,dim,nodes
 1823,1927,2100,1,Racketeering;Copyright infringement
 1824,1927,2100,1,Racketeering;Prostitution
 1825,1927,2100,1,Racketeering;Illegal drug trade
-1826,1927,2002,1,Racketeering;Shoplifting
+1826,1927,2002,1,Crime;Criminal;Racketeering;Statute;Habitual criminal;Shoplifting
 1827,1928,2100,1,Rights;Moral rights (copyright law)
-1828,1928,1955,1,Public domain;Moral rights (copyright law)
+1828,1928,1955,1,Intellectual property;Public domain;Moral rights (copyright law);Copyright
 1829,1930,2100,1,Citizenship;Nationality
 1830,1930,2100,1,Money laundering;Racketeering
 1831,1930,2100,1,Prisoner of war;Neutral country
@@ -1842,17 +1842,17 @@ i,birth,death,dim,nodes
 1840,1932,2100,1,Interstate commerce;Exempt employees
 1841,1933,2100,1,Constitution;Weimar constitution
 1842,1933,2100,1,Rape;Indictable offense
-1843,1933,2022,1,Murder;Indictable offense
+1843,1933,2022,1,Crime;Criminal;Common law;Murder;Law;Indictable offense
 1844,1933,2100,1,Civil rights;Weimar constitution
 1845,1933,2100,1,Parliament;Weimar constitution
 1846,1933,2100,1,Self-determination;Equal opportunity
 1847,1933,2100,1,Self-determination;Weimar constitution
 1848,1933,2100,1,Education;Equal opportunity
-1849,1935,1942,1,Criminal;Crime against peace
+1849,1935,1942,1,Criminal;Human rights issues in the United States;Crime against peace;International law;Capital punishment;Genocide
 1850,1935,2100,1,Impeachment;Judicial functions of the House of Lords
-1851,1935,2019,1,Tortfeasor;Judicial functions of the House of Lords
-1852,1935,2009,1,House of Lords;Judicial functions of the House of Lords
-1853,1935,2019,1,Judicial functions of the House of Lords;High Court of Singapore
+1851,1935,2019,1,Tortfeasor;Corporations law;Criminal law;Corporation;Court of Appeal of England and Wales;High Court of Justice;Law;Guarantees;Judicial functions of the House of Lords
+1852,1935,2009,1,Lord Chancellor;High Court of Justice;House of Lords;Court of Appeal of England and Wales;Judicial functions of the House of Lords
+1853,1935,2019,1,High Court of Singapore;Tortfeasor;Criminal law;Judicial functions of the House of Lords
 1854,1937,2100,1,Interest;Income
 1855,1937,2100,1,Social class;Income
 1856,1939,2100,1,Royal Assent;Private bill
@@ -1860,18 +1860,18 @@ i,birth,death,dim,nodes
 1858,1939,2100,1,Royal Assent;Supreme Court of Canada
 1859,1939,2100,1,Royal Assent;Law French
 1860,1939,2100,1,Royal Assent;Militia
-1861,1941,1942,1,Hanging;Night and Fog prisoner
+1861,1941,1942,1,Capital punishment;Night and Fog prisoner;War crime;Hanging
 1862,1941,2100,1,Gas chamber;Night and Fog prisoner
 1863,1941,2100,1,Resistance movement;Night and Fog prisoner
-1864,1942,2013,1,Prosecutor;Nuremberg Trials
+1864,1942,2013,1,Prosecutor;Nuremberg Trials;Laws of war;Jurist;International law;Law
 1865,1942,2100,1,Uniform Commercial Code;Bearer paper
 1866,1942,2100,1,Uniform Commercial Code;Case law in the United States
 1867,1942,2100,1,Uniform Commercial Code;Napoleonic code
 1868,1942,2100,1,Uniform Commercial Code;Cut a check
-1869,1942,2011,1,Uniform Commercial Code;Guarantees
+1869,1942,2011,1,Corporations law;Corporation;Contract;Legal;Law;Guarantees;Uniform Commercial Code
 1870,1942,2100,1,Uniform Commercial Code;Lessee
 1871,1942,2100,1,Uniform Commercial Code;Jus civile
-1872,1942,2001,1,Uniform Commercial Code;Mercantile law
+1872,1942,2001,1,Guarantees;Uniform Commercial Code;Mercantile law;Arbitration
 1873,1942,2100,1,Uniform Commercial Code;Restatement of the law
 1874,1942,2100,1,Interrogation;Nuremberg Trials
 1875,1942,2100,1,Nuremberg Trials;Trial in absentia
@@ -1934,9 +1934,9 @@ i,birth,death,dim,nodes
 1932,1948,2100,1,Excommunication;Magna carta
 1933,1949,2100,1,Constitution;State of Emergency
 1934,1949,2100,1,Slavery;State of Emergency
-1935,1949,1997,1,International law;State of Emergency
-1936,1949,2018,1,Felony;State of Emergency
-1937,1949,1997,1,Parliament;State of Emergency
+1935,1949,1997,1,Constitution;Legal;International law;State of Emergency
+1936,1949,2018,1,Criminal;Legal;Felony;International law;Law;State of Emergency
+1937,1949,1997,1,Constitution;Parliament;Legal;Legislature;State of Emergency
 1938,1949,2100,1,Judicial review;Law of Ireland
 1939,1949,2100,1,United States Code;Military law
 1940,1949,2100,1,United States Code;Military tribunal
@@ -1975,7 +1975,7 @@ i,birth,death,dim,nodes
 1973,1949,2100,1,Constitution of France;State of Emergency
 1974,1950,2100,1,Alimony;Uniform reciprocal enforcement of support act
 1975,1950,2100,1,Federal law;Landlady
-1976,1950,2021,1,Child;Father
+1976,1950,2021,1,Father;Inheritance;Adoption;Legitimacy (family law);Child
 1977,1950,2100,1,United Nations Charter;Jus Ad Bellum
 1978,1950,2100,1,Landlord;Serf
 1979,1950,2100,1,Landlord;Rule in Dumpor's Case
@@ -1989,17 +1989,17 @@ i,birth,death,dim,nodes
 1987,1951,2100,1,Renting;Landlord's lien
 1988,1951,2100,1,Asylum seeker;Refugee
 1989,1951,2100,1,Asylum seeker;Deportation
-1990,1951,2011,1,Asylum seeker;European Convention on Human Rights
+1990,1951,2011,1,Human rights issues in the United States;Asylum seeker;European Convention on Human Rights;Immigration;International law;Human rights;Sharia law
 1991,1951,2100,1,Warranty;Triple net lease
-1992,1951,2008,1,Constructive eviction;Landlord
+1992,1951,2008,1,Real property;Common law;Landlord;Real estate;Constructive eviction
 1993,1952,2100,1,European Court of Justice;Antitrust laws
 1994,1952,2100,1,European Court of Justice;Supreme court
 1995,1952,2100,1,European Court of Justice;Labor law
-1996,1952,1959,1,European Court of Justice;British constitution
+1996,1952,1959,1,British constitution;European Convention on Human Rights;European Court of Justice;Legal;Sharia law
 1997,1952,2100,1,European Court of Justice;Parliamentary supremacy
 1998,1952,2100,1,European Court of Justice;European Patent Convention
 1999,1952,2100,1,European Court of Justice;Court of last resort
-2000,1952,1959,1,European Court of Justice;European Union Law
+2000,1952,1959,1,European Union Law;European Court of Justice;Legal;International law;Human rights;Sharia law
 2001,1952,2100,1,Court of last resort;High Court of Cassation and Justice
 2002,1955,2100,1,High Court of Australia;Australian copyright law
 2003,1955,2100,1,Federal law;Australian copyright law
@@ -2017,7 +2017,7 @@ i,birth,death,dim,nodes
 2015,1957,2100,1,Arrears;Child support
 2016,1957,2100,1,Child support;Cohabitation agreement
 2017,1957,2100,1,Conspiracy (crime);House of Lords
-2018,1957,2019,1,Conspiracy (crime);Nuremberg Trials
+2018,1957,2019,1,Crime;Criminal;Prosecutor;Nuremberg Trials;Common law;Conspiracy (crime);United States Constitution;Law
 2019,1957,2100,1,Child;Cohabitation agreement
 2020,1958,2100,1,Universal jurisdiction;International waters
 2021,1958,2100,1,International waters;Mare clausum
@@ -2054,7 +2054,7 @@ i,birth,death,dim,nodes
 2052,1960,2100,1,Child endangerment;Domestic violence
 2053,1960,2100,1,Contract theory;Law and economics
 2054,1960,2100,1,Contract theory;Guarantees
-2055,1960,2011,1,Contract theory;Obligee
+2055,1960,2011,1,Obligee;Guarantees;Contract theory;Corporation
 2056,1960,2100,1,Critical legal studies;Legal realism
 2057,1960,2100,1,Mitzvah;Enjoyment
 2058,1960,2100,1,Mitzvah;Haraam
@@ -2085,8 +2085,8 @@ i,birth,death,dim,nodes
 2083,1969,2100,1,Age discrimination;Penal code
 2084,1969,2100,1,Age discrimination;Age of consent
 2085,1970,2100,1,Justice;Probative
-2086,1970,2013,1,Testimony;Probative
-2087,1970,2010,1,Exclusionary rule;Probative
+2086,1970,2013,1,Probative;Law;Testimony;Common law
+2087,1970,2010,1,Crime;Testimony;Exclusionary rule;Probative;Bail;Law;United States Supreme Court
 2088,1970,2100,1,Probative;Inference
 2089,1970,2100,1,Probative;Materiality (law)
 2090,1970,2100,1,Asset forfeiture;Antitrust laws
@@ -2167,7 +2167,7 @@ i,birth,death,dim,nodes
 2165,1979,2100,1,Abortion, legal and moral issues;Equal Protection Clause
 2166,1979,2100,1,Person;Property
 2167,1979,2100,1,Person;Animal rights
-2168,1979,1980,1,Person;United States Permanent Resident Card
+2168,1979,1980,1,Law;Citizenship;Person;United States Permanent Resident Card
 2169,1979,2100,1,Crime;Ethics
 2170,1979,2100,1,Ethics;Accountability
 2171,1979,2100,1,Ethics;Parliamentary procedure
@@ -2200,11 +2200,11 @@ i,birth,death,dim,nodes
 2198,1980,2100,1,Business;Reputation
 2199,1980,2100,1,Business ethics;Ethical code
 2200,1980,2100,1,Fiduciary;Conflict of interest
-2201,1980,2014,1,Legal;Conflict of interest
+2201,1980,2014,1,Conflict of interest;Contract;Common law;Fiduciary duty;Fiduciary;Legal
 2202,1980,2100,1,Receivership;Bankruptcy
 2203,1980,2100,1,Trial (law);Case-based reasoning
-2204,1980,2024,1,Affidavit;Motion for a summary judgment
-2205,1980,2021,1,Affidavit;Summary dismissal
+2204,1980,2024,1,Discovery (law);Motion for a summary judgment;Common law;Strategic lawsuits against public participation;Justice of the Peace;Affidavit;Tort
+2205,1980,2021,1,Affidavit;Discovery (law);Motion for a summary judgment;Summary dismissal
 2206,1980,2100,1,Age of consent;Sexual norm
 2207,1980,2100,1,United States federal courts;Motion for a summary judgment
 2208,1980,2100,1,United States federal courts;Summary dismissal
@@ -2230,7 +2230,7 @@ i,birth,death,dim,nodes
 2228,1980,2100,1,Moral universalism;Categorical Imperative
 2229,1980,2100,1,Moral responsibility;Heat of passion
 2230,1980,2100,1,Legal code;Ethical code
-2231,1980,2012,1,Conflict of interest;Fiduciary duty
+2231,1980,2012,1,Conflict of interest;Legal;Contract;Fiduciary duty
 2232,1980,2100,1,Conflict of interest;Copartner
 2233,1980,2100,1,Conflict of interest;European Union Law
 2234,1980,2100,1,Conflict of interest;Special prosecutor
@@ -2270,11 +2270,11 @@ i,birth,death,dim,nodes
 2268,1982,2100,1,Crime;Targeting civilians
 2269,1982,2100,1,Estate (law);Defeasance
 2270,1982,2100,1,Terrorism;Targeting civilians
-2271,1982,2009,1,Culpability;Recklessness (law)
+2271,1982,2009,1,Criminal;Criminal law;Heat of passion;Common law;Culpability;Law;Recklessness (law)
 2272,1982,2100,1,Culpability;Repentance
 2273,1982,2100,1,Geneva Conventions;Targeting civilians
 2274,1983,2100,1,Rule of law;Fundamental justice
-2275,1983,2016,1,Equity (law);Fundamental justice
+2275,1983,2016,1,Common law;Equity (law);Rule of law;Fundamental justice;Law
 2276,1983,2100,1,Ritual;Liturgy
 2277,1983,2100,1,Repentance;Liturgy
 2278,1983,2100,1,Liturgy;Samaritan Pentateuch
@@ -2296,7 +2296,7 @@ i,birth,death,dim,nodes
 2294,1988,2100,1,Tax avoidance;Window tax
 2295,1989,2100,1,Civil union;Child support
 2296,1989,2100,1,European Court of Justice;Reasonable time
-2297,1990,2016,1,Arbitration;Alternative dispute resolution
+2297,1990,2016,1,Criminal;Tortfeasor;Discovery (law);Class action suit;Binding arbitration;Strategic lawsuits against public participation;Class action;Legal;Alternative dispute resolution;Law;Damages;Sharia law;Tort;Arbitration
 2298,1990,2100,1,Legal;Canon law
 2299,1990,2100,1,Jurist;Indeterminacy debate in legal theory
 2300,1990,2100,1,Alternative dispute resolution;Deadlock provision
@@ -2310,8 +2310,8 @@ i,birth,death,dim,nodes
 2308,1990,2100,1,Critical legal studies;Indeterminacy debate in legal theory
 2309,1991,2100,1,Religious law;Morality
 2310,1991,2100,1,Religious law;Heresy
-2311,1991,2019,1,Religious law;Islamic Law
-2312,1991,2019,1,Religious law;Karaite Judaism
+2311,1991,2019,1,Islamic Law;Sharia law;Religious law;Talmud
+2312,1991,2019,1,Karaite Judaism;Religious law;Sharia law;Talmud
 2313,1991,2100,1,Duress;Torture
 2314,1991,2100,1,Duress;Free will
 2315,1991,2100,1,Duress;Political freedom
@@ -2319,12 +2319,12 @@ i,birth,death,dim,nodes
 2317,1991,2100,1,Duress;Credibility
 2318,1991,2100,1,Duress;Duress in English law
 2319,1991,2100,1,Duress;Guarantees
-2320,1991,1992,1,Duress;Obligee
+2320,1991,1992,1,Obligee;Equity (law);Guarantees;Duress
 2321,1991,2100,1,Racism;Indigent
 2322,1991,2100,1,Disability;Indigent
 2323,1991,2100,1,Income;Indigent
 2324,1991,2100,1,Coercion;Free will
-2325,1991,2012,1,Coercion;Blackmail
+2325,1991,2012,1,Torture;Coercion;Blackmail;Duress
 2326,1991,2100,1,Coercion;Credibility
 2327,1991,2100,1,Indigent;Money laundering
 2328,1991,2100,1,Indigent;Social capital
@@ -2333,7 +2333,7 @@ i,birth,death,dim,nodes
 2331,1991,2100,1,Indigent;Tax haven
 2332,1992,2100,1,Common law;Matrimonial regime
 2333,1992,2100,1,Property;Matrimonial regime
-2334,1992,2016,1,Marriage;Matrimonial regime
+2334,1992,2016,1,Matrimonial regime;Consideration;Common law;Contract;Marriage
 2335,1992,2100,1,Matrimonial regime;Civil Code of Quebec
 2336,1992,2100,1,Rescission (contract law);Co-trustee
 2337,1992,2100,1,Assisted person;Statutory law
@@ -2355,22 +2355,22 @@ i,birth,death,dim,nodes
 2353,1994,2100,1,Affreightment;Maritime law
 2354,1994,2100,1,Refugee;Civil and social disobedience
 2355,1994,2100,1,Refugee;Disobbedienti
-2356,1995,2007,1,Tribunal;Prohibition (writ)
-2357,1995,2009,1,Tribunal;Credible witness
+2356,1995,2007,1,Criminal law;Prohibition (writ);Tribunal;High Court of Singapore;Law
+2357,1995,2009,1,Law;Credible witness;Tribunal;Common law
 2358,1995,2100,1,Tribunal;Spanish Inquisition
 2359,1995,2100,1,Tribunal;Sanhedrin
 2360,1995,2100,1,Tribunal;Juvenile court
 2361,1995,2100,1,Lawyer;In terrorem
 2362,1995,2100,1,High Court of Australia;In terrorem
 2363,1995,2100,1,Intellectual property;In terrorem
-2364,1996,2001,1,Precedent;United States court of appeals
+2364,1996,2001,1,Criminal law;Common law;United States Constitution;United States bankruptcy court;Law;United States court of appeals;Precedent
 2365,1996,2100,1,Precedent;Australian Constitutional history
-2366,1996,1997,1,Precedent;Parliamentary supremacy
+2366,1996,1997,1,Legal;Legislature;Parliamentary supremacy;Precedent
 2367,1996,2100,1,Precedent;United States federal judicial circuit
 2368,1996,2100,1,Accept (organization);Human rights
 2369,1997,2100,1,Mortgage law;Commentaries on the Laws of England
 2370,1997,2100,1,Admissible evidence;Harmless error
-2371,1997,2010,1,Expert witness;Harmless error
+2371,1997,2010,1,Expert witness;Jury trial;Daubert standard;Admissible evidence;Jury;Common law;Harmless error;Law
 2372,1997,2100,1,Appeal;Harmless error
 2373,1997,2100,1,Crime against nature;Commentaries on the Laws of England
 2374,1997,2100,1,Credibility;Harmless error
@@ -2389,20 +2389,20 @@ i,birth,death,dim,nodes
 2387,1998,2100,1,Feudalism;Monopoly on the legitimate use of physical force
 2388,1998,2100,1,Feudalism;Right of the first night
 2389,1998,2100,1,International relations;Monopoly on the legitimate use of physical force
-2390,1999,2009,1,Criminal;Plaintiff
+2390,1999,2009,1,Criminal;Pleading;Binding arbitration;Common law;Plaintiff;Law
 2391,1999,2100,1,Prosecutor;Complainant
-2392,1999,2024,1,Plaintiff;Affidavit
+2392,1999,2024,1,Tortfeasor;Discovery (law);Binding arbitration;Common law;Plaintiff;Strategic lawsuits against public participation;Class action;Justice of the Peace;Affidavit;Damages;Tort
 2393,1999,2100,1,Plaintiff;Interpleader
-2394,1999,2007,1,Plaintiff;Attractive nuisance doctrine
-2395,1999,2000,1,Plaintiff;Class action suit
-2396,1999,2007,1,Plaintiff;Concurrent writ
-2397,1999,2000,1,Plaintiff;Consent judgment
-2398,1999,2008,1,Plaintiff;Fiduciary duty
+2394,1999,2007,1,Plaintiff;Law;Criminal;Attractive nuisance doctrine
+2395,1999,2000,1,Tortfeasor;Discovery (law);Binding arbitration;Plaintiff;Strategic lawsuits against public participation;Class action;Class action suit;Tort
+2396,1999,2007,1,Criminal;Concurrent writ;United States federal courts;Common law;Plaintiff;Law;Supreme court
+2397,1999,2000,1,Plaintiff;Class action;Tortfeasor;Consent judgment
+2398,1999,2008,1,Crime;Criminal;Fiduciary duty;Plaintiff;Law
 2399,1999,2100,1,Plaintiff;Trial advocacy
 2400,1999,2100,1,Plaintiff;Set-off (law)
 2401,1999,2100,1,Plaintiff;Jane Doe (pseudonym)
-2402,1999,2009,1,Plaintiff;Special appearance
-2403,1999,2000,1,Plaintiff;Strategic lawsuits against public participation
+2402,1999,2009,1,Special appearance;Law;Criminal;Plaintiff
+2403,1999,2000,1,Plaintiff;Strategic lawsuits against public participation;Class action suit;Tort
 2404,1999,2100,1,Damages;Complainant
 2405,1999,2100,1,Insurance;Complainant
 2406,1999,2100,1,Bail;Recognizance
@@ -2410,7 +2410,7 @@ i,birth,death,dim,nodes
 2408,1999,2100,1,Bail;Recognisance
 2409,1999,2100,1,Bail;Release on one's own recognizance
 2410,1999,2100,1,Affidavit;Complainant
-2411,1999,2011,1,Class action;Complainant
+2411,1999,2011,1,Criminal;Tortfeasor;Complainant;Pleading;Plaintiff;Class action;Law
 2412,1999,2100,1,Bail bond;Recognizance
 2413,1999,2100,1,Breach of the peace;Recognizance
 2414,1999,2100,1,Breach of the peace;Own recognizance
@@ -2423,32 +2423,32 @@ i,birth,death,dim,nodes
 2421,1999,2100,1,Recognizance;United States prison population
 2422,2000,2100,1,Civil law (common law);Court of Session
 2423,2000,2100,1,Civil law (common law);Quasi-contract
-2424,2000,2001,1,Civil law (common law);Hotch-pot
+2424,2000,2001,1,Hotch-pot;Scots law;Common law;Civil law (common law)
 2425,2000,2100,1,Civil law (common law);Rebus sic stantibus
 2426,2000,2100,1,Civil law (common law);Madrassa
 2427,2000,2100,1,Lawsuit;Tort
-2428,2000,2009,1,Lawsuit;Procedural law
-2429,2000,2009,1,Lawsuit;Practice of law
-2430,2000,2009,1,Lawsuit;Declaratory judgment
+2428,2000,2009,1,Criminal;Lawsuit;Common law;Plaintiff;Law;Procedural law
+2429,2000,2009,1,Criminal;Lawsuit;Practice of law;Plaintiff;Law;Lawyer
+2430,2000,2009,1,Criminal;Lawsuit;Common law;Plaintiff;Equity (law);Law;Declaratory judgment
 2431,2000,2100,1,Lawsuit;Moral rights (copyright law)
 2432,2000,2100,1,Lawsuit;Community patent
-2433,2000,2001,1,Lawsuit;Legal entity
-2434,2000,2012,1,Lawsuit;Declaratory relief
+2433,2000,2001,1,Corporation;Lawsuit;Legal entity;Guarantees;Tort
+2434,2000,2012,1,Declaratory relief;Criminal;Lawsuit;Contract;Common law;Plaintiff;Law;Damages
 2435,2000,2100,1,Lawsuit;Diplomatic immunity
 2436,2000,2100,1,Lawsuit;Early Muslim philosophy
-2437,2000,2010,1,Lawsuit;False Claims Law
-2438,2000,2009,1,Lawsuit;Copyright infringement of software
+2437,2000,2010,1,False Claims Law;Damages;Lawsuit;Plaintiff
+2438,2000,2009,1,Criminal;Copyright infringement of software;Lawsuit;Plaintiff;Law
 2439,2000,2100,1,Probable cause;False arrest
 2440,2000,2100,1,Crime;Squatter
 2441,2000,2100,1,Plaintiff;False arrest
-2442,2000,2024,1,Equity (law);Laches (equity)
+2442,2000,2024,1,Criminal;Laches (equity);Common law;Plaintiff;Equity (law);Tribunal;Law;Precedent
 2443,2000,2100,1,Squatting;Civil and social disobedience
 2444,2000,2100,1,Squatting;Disobbedienti
 2445,2000,2100,1,Squatting;Notorious possession
 2446,2000,2100,1,De facto;Squatter
 2447,2000,2100,1,Limited liability;Claimant
 2448,2000,2100,1,War crime;Squatter
-2449,2000,2009,1,Claimant;Taxation of costs
+2449,2000,2009,1,Taxation of costs;Criminal;Common law;Plaintiff;Claimant;Law
 2450,2000,2100,1,Laches (equity);Law French
 2451,2001,2100,1,Murder;Acquit
 2452,2001,2100,1,Civil rights;Acquit
@@ -2467,33 +2467,33 @@ i,birth,death,dim,nodes
 2465,2001,2100,1,United States district court;Pretrial discovery
 2466,2001,2100,1,Petition;Originating application
 2467,2001,2100,1,Family law;Case number
-2468,2001,2002,1,Criminal;Natural person
+2468,2001,2002,1,Criminal;Natural person;Lawsuit;Common law;Tort
 2469,2001,2100,1,European Court of Human Rights;Case number
 2470,2001,2100,1,Verdict;Time served
 2471,2001,2100,1,Fraud;Bankruptcy proceedings
-2472,2001,2002,1,Fraud;Racketeering
+2472,2001,2002,1,Crime;Criminal;Fraud;Civil law (common law);Racketeering
 2473,2001,2100,1,Fraud;Contraband
 2474,2001,2100,1,Fraud;Forger
 2475,2001,2100,1,Fraud;Guarantees
 2476,2001,2100,1,Fraud;Human rights issues in the United States
 2477,2001,2100,1,Fraud;Life without possibility of parole
 2478,2001,2100,1,Fraud;Mala fides
-2479,2001,2003,1,Fraud;Male fide
+2479,2001,2003,1,Mala fides;Fraud;Male fide;Tort
 2480,2001,2100,1,Fraud;Obligee
 2481,2001,2100,1,Fraud;Voluntary bankruptcy
 2482,2001,2100,1,Negligence;Comparative responsibility
 2483,2001,2100,1,Damages;But for rule
-2484,2001,2020,1,English law;Per minas
+2484,2001,2020,1,Crime;Criminal;Per minas;Consideration;Common law;English law;Law
 2485,2001,2100,1,English law;Nisi prius
 2486,2001,2100,1,English law;Australian Constitutional history
-2487,2001,2014,1,English law;Prerogative writ
+2487,2001,2014,1,Law of the United States;Prerogative writ;Habeas corpus;English law;United States Constitution
 2488,2001,2100,1,English law;Court calendar
 2489,2001,2100,1,English law;Court docket
 2490,2001,2100,1,English law;Preferential creditor
 2491,2001,2100,1,English law;Gender bias
 2492,2001,2100,1,English law;Jane Doe (pseudonym)
 2493,2001,2100,1,English law;Non compos mentis
-2494,2001,2011,1,English law;Limited partner
+2494,2001,2011,1,Corporations law;Contract;English law;Legal;Tribunal;Limited partner;Law
 2495,2001,2100,1,English law;Practice Direction
 2496,2001,2100,1,English law;Sexual discrimination
 2497,2001,2100,1,Void (law);Substitution of attorney
@@ -2501,10 +2501,10 @@ i,birth,death,dim,nodes
 2499,2001,2100,1,American Law Institute;But for rule
 2500,2001,2100,1,Government;Natural person
 2501,2001,2100,1,United States Code;Court costs
-2502,2001,2013,1,Exclusionary rule;Legal technicality
+2502,2001,2013,1,Crime;Exclusionary rule;Legal technicality;Bail;Law;United States Supreme Court
 2503,2001,2100,1,Legal technicality;Mercantile law
-2504,2001,2009,1,Product liability;Case number
-2505,2001,2002,1,Commercial law;Civil code
+2504,2001,2009,1,Case number;Product liability;Tortfeasor;Criminal law
+2505,2001,2002,1,Commercial law;Statute;Napoleonic code;Contract;Civil code;Legal
 2506,2001,2100,1,Commercial law;Guarantee
 2507,2001,2100,1,Commercial law;Trade
 2508,2001,2100,1,Natural person;Cheque
@@ -2523,7 +2523,7 @@ i,birth,death,dim,nodes
 2521,2001,2100,1,Bluebook;Case number
 2522,2001,2100,1,Case number;Environmental law
 2523,2001,2100,1,Cybersquatting;Squatter
-2524,2002,2011,1,Contract;Misrepresentation
+2524,2002,2011,1,English law;Contract;Common law;Misrepresentation;Consideration
 2525,2002,2100,1,Contract;Impossibility
 2526,2002,2100,1,Debt;Situs (law)
 2527,2002,2100,1,Income tax;Situs (law)
@@ -2533,18 +2533,18 @@ i,birth,death,dim,nodes
 2531,2002,2100,1,Fraud;Consumer protection
 2532,2002,2100,1,Fraud;Data protection
 2533,2002,2100,1,Unjust enrichment;Impossibility
-2534,2002,2014,1,English law;Tangible property
-2535,2002,2019,1,English law;Situs (law)
+2534,2002,2014,1,Real property;Tangible property;English law;Common law
+2535,2002,2019,1,Property;Tangible property;English law;Situs (law)
 2536,2002,2100,1,English law;Chattel mortgage
 2537,2002,2100,1,English law;Transferred intent
 2538,2002,2100,1,English law;Public nuisance
-2539,2002,2020,1,Misrepresentation;Forgery
+2539,2002,2020,1,Forgery;Criminal;Misrepresentation;Common law
 2540,2002,2100,1,Misrepresentation;Forger
 2541,2002,2100,1,Fiduciary;Standard of care
 2542,2002,2100,1,Legal;Data protection
-2543,2002,2021,1,Personal property;Chattel mortgage
+2543,2002,2021,1,Real property;Chattel mortgage;Personal property;Common law;Mortgage law
 2544,2002,2100,1,Negotiable instrument;Postdated check
-2545,2002,2014,1,Reasonable person;Standard of care
+2545,2002,2014,1,Standard of care;Reasonable person;Common law;Fiduciary;Law
 2546,2002,2100,1,Patent;Private law
 2547,2002,2100,1,Collusion;Conspiracy (civil)
 2548,2002,2100,1,Trademark;Juristic person
@@ -2556,8 +2556,8 @@ i,birth,death,dim,nodes
 2554,2002,2100,1,Conspiracy (crime);Conspiracy (civil)
 2555,2002,2100,1,Public domain;Insider trading
 2556,2002,2100,1,Democracy;Data protection
-2557,2002,2014,1,Standard of care;Fiduciary duty
-2558,2002,2003,1,Theft;Joyride (crime)
+2557,2002,2014,1,Law;Fiduciary;Standard of care;Fiduciary duty
+2558,2002,2003,1,Theft;Joyride (crime);Civil law (common law);Common law
 2559,2002,2100,1,Theft;Lessee
 2560,2002,2100,1,Situs (law);Forced heirship
 2561,2002,2100,1,Situs (law);International waters
@@ -2574,14 +2574,14 @@ i,birth,death,dim,nodes
 2572,2003,2100,1,Affirmative action;Human rights issues in the United States
 2573,2003,2100,1,Consumer protection;Implied warranty
 2574,2003,2100,1,Surety bond;Guarantor
-2575,2003,2008,1,Implied warranty;Warranty
+2575,2003,2008,1,Covenant (law);Contract;Common law;Warranty;Implied warranty
 2576,2003,2100,1,Legal aid;Department for Constitutional Affairs
 2577,2003,2100,1,Courts of England and Wales;Department for Constitutional Affairs
 2578,2003,2100,1,Coroner;Department for Constitutional Affairs
 2579,2003,2100,1,Corporations law;Quasi corporation
 2580,2003,2100,1,Burglary;Forensics
 2581,2003,2100,1,Juristic person;Quasi corporation
-2582,2003,2004,1,Guarantor;Guarantee
+2582,2003,2004,1,Debt;Surety;Guarantor;Guarantee
 2583,2003,2100,1,Jus commune;Ratio scripta
 2584,2003,2100,1,Law of obligations;Legal entity
 2585,2003,2100,1,Conspiracy (civil);Group boycott
@@ -2595,7 +2595,7 @@ i,birth,death,dim,nodes
 2593,2005,2100,1,Immigration;Asylum and Immigration Tribunal
 2594,2005,2100,1,Freight;Customs
 2595,2005,2100,1,Appeal;Asylum and Immigration Tribunal
-2596,2005,2009,1,Marriage;Legal consequences of marriage and civil partnership in the United Kingdom
+2596,2005,2009,1,Contract;Common law;Consideration;Estate (law);Legal consequences of marriage and civil partnership in the United Kingdom;Marriage
 2597,2005,2100,1,Labor law;Customs
 2598,2005,2100,1,Tax;Customs
 2599,2005,2100,1,Customs;Excise
@@ -2606,14 +2606,14 @@ i,birth,death,dim,nodes
 2604,2006,2100,1,Fair market value;Liquidation
 2605,2006,2100,1,American Law Institute;Conflict of law
 2606,2006,2100,1,American Law Institute;Private international law
-2607,2006,2023,1,Liquidation;Bankruptcy
+2607,2006,2023,1,Liquidation;Bankruptcy;Creditor;Bankrupt
 2608,2006,2100,1,Liquidation;Customs
-2609,2006,2023,1,Liquidation;Bankruptcy proceedings
-2610,2006,2023,1,Liquidation;Voluntary bankruptcy
+2609,2006,2023,1,Liquidation;Creditor;Bankrupt;Bankruptcy proceedings
+2610,2006,2023,1,Voluntary bankruptcy;Liquidation;Creditor;Bankrupt
 2611,2006,2100,1,Arbitration;Conflict of law
 2612,2006,2100,1,Arbitration;Private international law
 2613,2006,2100,1,Conflict of laws;European Union Law
-2614,2006,2007,1,Conflict of laws;Maritime law
+2614,2006,2007,1,Corporations law;Corporation;Conflict of laws;Legal;Tribunal;Maritime law;Law;Guarantees
 2615,2006,2100,1,Nationality;Conflict of law
 2616,2006,2100,1,Nationality;Private international law
 2617,2006,2100,1,Marriage;Conflict of law
@@ -2630,19 +2630,19 @@ i,birth,death,dim,nodes
 2628,2006,2100,1,Border control;Port of entry
 2629,2007,2100,1,Jurisdiction;Trade secret
 2630,2007,2100,1,Jurisdiction;Legal tender
-2631,2007,2008,1,Jurisdiction;Complainant
+2631,2007,2008,1,Plaintiff;Jurisdiction;Lawsuit;Complainant
 2632,2007,2100,1,Jurisdiction;Obstruction of justice
 2633,2007,2100,1,Jurisdiction;District Attorney
-2634,2007,2009,1,Jurisdiction;Declaratory relief
-2635,2007,2008,1,Jurisdiction;Holographic will
+2634,2007,2009,1,Plaintiff;Jurisdiction;Lawsuit;Declaratory relief
+2635,2007,2008,1,Common law;Legal;Estate (law);Holographic will;Jurisdiction
 2636,2007,2100,1,Jurisdiction;Preferential creditor
-2637,2007,2013,1,Jurisdiction;Vexatious litigation
+2637,2007,2013,1,Tortfeasor;Contract;Vexatious litigation;Jurisdiction;Law
 2638,2007,2100,1,Jurisdiction;Illegitimacy
-2639,2007,2008,1,Jurisdiction;Indictable offense
+2639,2007,2008,1,Jurisdiction;Indictable offense;Indictable offence;Common law
 2640,2007,2100,1,Jurisdiction;Mercantile law
-2641,2007,2010,1,Jurisdiction;Notorious possession
+2641,2007,2010,1,Jurisdiction;Law;Common law;Notorious possession
 2642,2007,2100,1,Jurisdiction;Shepardize
-2643,2007,2009,1,Waiver;Promissory estoppel
+2643,2007,2009,1,Waiver;Promissory estoppel;Justice of the Peace;Common law
 2644,2007,2100,1,International law;Promissory estoppel
 2645,2007,2100,1,Creditor;Promissory estoppel
 2646,2007,2100,1,Probable cause;Arrest
@@ -2650,21 +2650,21 @@ i,birth,death,dim,nodes
 2648,2007,2100,1,Arrest;Interrogation
 2649,2007,2100,1,Judicial review;Promissory estoppel
 2650,2007,2100,1,Void (law);Floating charge
-2651,2007,2021,1,Liquidation;Floating charge
+2651,2007,2021,1,Real property;Creditor;Property;Common law;Equity (law);Bankruptcy;Mortgage law;Liquidation;Floating charge
 2652,2007,2100,1,Liquidation;Claim in bankruptcy
 2653,2007,2100,1,Business;Going concern
-2654,2007,2021,1,Secured creditor;Negative pledge
+2654,2007,2021,1,Real property;Creditor;Property;Preferential creditor;Contract;Common law;Equity (law);Bankruptcy;Mortgage law;Negative pledge;Secured creditor;Liquidation;Floating charge
 2655,2007,2100,1,Floating charge;Partnership
-2656,2007,2021,1,Going concern;Deadlock provision
+2656,2007,2021,1,Deadlock provision;Corporations law;Board of directors;Going concern;Liquidation
 2657,2007,2100,1,Conflict of laws;Evasion (law)
 2658,2007,2100,1,Legal technicality;Unspecified claim
 2659,2007,2100,1,Minor (law);Dependent (law)
-2660,2007,2008,1,Estoppel;Limited partner
+2660,2007,2008,1,Limited partnership;Copartner;Estoppel;Common law;Debt;Limited partner
 2661,2007,2100,1,Black's Law Dictionary;Willful violation
 2662,2007,2100,1,Tax law;Unspecified claim
 2663,2007,2100,1,Tax deduction;Dependent (law)
 2664,2007,2100,1,Income;Dependent (law)
-2665,2007,2008,1,Insanity;Heat of passion
+2665,2007,2008,1,Insanity defense;Criminal;Criminal law;Insanity;Heat of passion;Common law;Jurisdiction
 2666,2007,2100,1,Stock;Preferred stock
 2667,2007,2100,1,Bankruptcy court;Claim in bankruptcy
 2668,2007,2100,1,Jury instructions;Unspecified claim
@@ -2680,13 +2680,13 @@ i,birth,death,dim,nodes
 2678,2007,2100,1,Household;Servant (domestic)
 2679,2007,2100,1,Master and Servant Act;Servant (domestic)
 2680,2007,2100,1,Evasion (law);Speed trap
-2681,2008,2009,1,Jurisdiction;Beyond a reasonable doubt
+2681,2008,2009,1,Jurisdiction;Mens rea;Beyond a reasonable doubt;Common law
 2682,2008,2100,1,Jurisdiction;Admiralty court
 2683,2008,2100,1,Jurisdiction;Habitable
 2684,2008,2100,1,Jurisdiction;Impanel
 2685,2008,2100,1,Jurisdiction;Impaneling
 2686,2008,2100,1,Jurisdiction;Pro hac vice
-2687,2008,2013,1,Scots law;Solicitor
+2687,2008,2013,1,Concurrent writ;Common law;Solicitor;Scots law;Jurisdiction
 2688,2008,2100,1,Abortion, legal and moral issues;Prima facie
 2689,2008,2100,1,Prima facie;Bail bond
 2690,2008,2100,1,Prima facie;Bail schedule
@@ -2694,19 +2694,19 @@ i,birth,death,dim,nodes
 2692,2008,2100,1,Prima facie;Indefeasible
 2693,2008,2100,1,Prima facie;Utility (patent)
 2694,2008,2100,1,Prima facie;Jump bail
-2695,2008,2010,1,Lawsuit;Eviction
+2695,2008,2010,1,Jurisdiction;Defendant;Lawsuit;Eviction
 2696,2008,2100,1,Defendant;Scire facias
 2697,2008,2100,1,Defendant;Right to silence
 2698,2008,2100,1,Defendant;Fox's Libel Act
-2699,2008,2009,1,Defendant;Taxation of costs
+2699,2008,2009,1,Taxation of costs;Defendant;Common law;Tribunal;Jurisdiction;Law
 2700,2008,2100,1,Judgment debtor;Fieri facias
 2701,2008,2100,1,Will (law);Signature
-2702,2008,2010,1,Will (law);Age of majority
+2702,2008,2010,1,Marriageable age;Age of majority;Will (law);Age of consent;Estate (law);Legal consequences of marriage and civil partnership in the United Kingdom;Marriage
 2703,2008,2100,1,Will (law);Burglary
 2704,2008,2100,1,Will (law);Document
 2705,2008,2100,1,Will (law);In terrorem
 2706,2008,2100,1,Conveyancing;Admission to the bar
-2707,2008,2021,1,Property;Cessate
+2707,2008,2021,1,Jurisdiction;Property;Cessate;Legal
 2708,2008,2100,1,Tort;Admiralty court
 2709,2008,2100,1,Probable cause;Beyond a reasonable doubt
 2710,2008,2100,1,United States district court;Admiralty court
@@ -2721,28 +2721,28 @@ i,birth,death,dim,nodes
 2719,2008,2100,1,Damages;Fieri facias
 2720,2008,2100,1,Admiralty law;Admiralty court
 2721,2008,2100,1,Beyond a reasonable doubt;Jurisprudence
-2722,2008,2019,1,Beyond a reasonable doubt;Presumption of innocence
+2722,2008,2019,1,Presumption of innocence;Beyond a reasonable doubt;Criminal law;Prosecutor;Jurisdiction
 2723,2008,2100,1,Insurance;Cessate
 2724,2008,2100,1,Lawyer;Pro hac vice
 2725,2008,2100,1,Shareholder;Shareholders' agreement
 2726,2008,2100,1,Admiralty court;Letter of marque
 2727,2008,2100,1,Admiralty court;Maritime law
-2728,2008,2018,1,Affidavit;Admission to the bar
+2728,2008,2018,1,Affidavit;Admission to the bar;Justice of the Peace;Common law
 2729,2008,2100,1,Admission to the bar;Apprenticeship
 2730,2008,2100,1,Solicitor;Judge Advocate General (United Kingdom)
 2731,2008,2100,1,Faculty of Advocates;Judge Advocate General (United Kingdom)
-2732,2008,2021,1,Adoption;Child custody
-2733,2008,2022,1,Child custody;Family court
-2734,2008,2021,1,Child custody;Contact (law)
+2732,2008,2021,1,Inheritance;Adoption;Divorce;Legitimacy (family law);Child custody
+2733,2008,2022,1,Law;Family law;Child custody;Family court
+2734,2008,2021,1,Law;Family law;Contact (law);Child custody
 2735,2008,2100,1,Child custody;Islamic Law
 2736,2008,2100,1,Insanity defense;Impanel
 2737,2008,2100,1,Insanity defense;Impaneling
 2738,2008,2100,1,Apparent authority;Estoppel
-2739,2008,2011,1,Estoppel;Ostensible authority
+2739,2008,2011,1,Corporations law;Board of directors;Estoppel;Legal;Jurisdiction;Ostensible authority
 2740,2008,2100,1,Assignment (law);Cessate
 2741,2008,2100,1,Pardon;Ex post facto law
 2742,2008,2100,1,Ex post facto law;Bill of rights
-2743,2008,2009,1,Ex post facto law;Nuremberg Trials
+2743,2008,2009,1,Ex post facto law;Nuremberg Trials;Jurisdiction;Law;Genocide;International Criminal Court
 2744,2008,2100,1,Trademark;Doing business as
 2745,2008,2100,1,Consumer protection;Doing business as
 2746,2008,2100,1,Labor law;Wrongful dismissal
@@ -2769,11 +2769,11 @@ i,birth,death,dim,nodes
 2767,2009,2100,1,International law;Legal instrument
 2768,2009,2100,1,Murder;Nullum crimen, nulla poena sine praevia lege poenali
 2769,2009,2100,1,Euthanasia;Intent (law)
-2770,2009,2015,1,Lawsuit;Adverse party
+2770,2009,2015,1,Defendant;Lawsuit;Court;Jurisdiction;Law;Adverse party
 2771,2009,2100,1,Defendant;Partial verdict
 2772,2009,2100,1,Creditor;Exempt property
-2773,2009,2020,1,Lien;Litigation
-2774,2009,2010,1,Will (law);Legal instrument
+2773,2009,2020,1,Legal;Litigation;Lien;Common law
+2774,2009,2010,1,Legal instrument;Marriageable age;Age of majority;Will (law);Age of consent;Law
 2775,2009,2100,1,Will (law);Testator
 2776,2009,2100,1,Will (law);Exempt property
 2777,2009,2100,1,Will (law);Manumission
@@ -2783,9 +2783,9 @@ i,birth,death,dim,nodes
 2781,2009,2100,1,Litigation;Federalism
 2782,2009,2100,1,Litigation;Restorative justice
 2783,2009,2100,1,Property;Testamentary disposition
-2784,2009,2014,1,Court;Amicus curiae
+2784,2009,2014,1,Friend of the court;Amicus curiae;Common law;Court;American Civil Liberties Union
 2785,2009,2100,1,Court;Chairman
-2786,2009,2022,1,Court;Family court
+2786,2009,2022,1,Law;Family law;Court;Family court
 2787,2009,2100,1,Court;Conduct money
 2788,2009,2100,1,Court;Court calendar
 2789,2009,2100,1,Court;Court docket
@@ -2800,14 +2800,14 @@ i,birth,death,dim,nodes
 2798,2009,2100,1,Capital punishment;Religion and homosexuality
 2799,2009,2100,1,Ethics;The problem of evil
 2800,2009,2100,1,Legal instrument;Promissory note
-2801,2009,2018,1,Legal instrument;Practice of law
+2801,2009,2018,1,Law;Legal instrument;Practice of law;Court
 2802,2009,2100,1,Legal instrument;Writ
 2803,2009,2100,1,Legal instrument;Trade secret
-2804,2009,2011,1,Legal instrument;Letters patent
+2804,2009,2011,1,Legal instrument;Covenant (law);Contract;Letters patent;Seal (device)
 2805,2009,2100,1,Legal instrument;Forgery
 2806,2009,2100,1,Legal instrument;Defeasance
 2807,2009,2100,1,Legal instrument;Due and owing
-2808,2009,2014,1,Legal instrument;Due, owing and unpaid
+2808,2009,2014,1,Due, owing and unpaid;Legal instrument;Good (economics);Due and owing
 2809,2009,2100,1,Legal instrument;Municipal
 2810,2009,2100,1,Good (economics);Ownership
 2811,2009,2100,1,Interest;Ownership
@@ -2819,15 +2819,15 @@ i,birth,death,dim,nodes
 2817,2009,2100,1,Negligence;Intent (law)
 2818,2009,2100,1,Negligence;Intervening cause
 2819,2009,2100,1,Damages;Ownership
-2820,2009,2010,1,Judicial review;Actual controversy
+2820,2009,2010,1,Defendant;Court;United States Constitution;Judicial review;Actual controversy;Declaratory judgment
 2821,2009,2100,1,Actual controversy;Treaty
 2822,2009,2100,1,Actual controversy;Admiralty law
 2823,2009,2100,1,Ad colligenda bona;English law
-2824,2009,2013,1,English law;Intent (law)
+2824,2009,2013,1,Criminal law;English law;Common law;Intent (law);Law
 2825,2009,2100,1,English law;Contramandatio placiti
 2826,2009,2100,1,Ademption;Insurance
 2827,2009,2100,1,Testator;Insanity defense
-2828,2009,2018,1,Lawyer;Scrivener
+2828,2009,2018,1,Common law;Will (law);Scrivener;Law;Lawyer
 2829,2009,2100,1,Administer;Ownership
 2830,2009,2100,1,Ownership;Limited liability company
 2831,2009,2100,1,Ownership;Share certificate
@@ -2836,7 +2836,7 @@ i,birth,death,dim,nodes
 2834,2009,2100,1,Ownership;Sexual discrimination
 2835,2009,2100,1,Intent (law);United States Supreme Court
 2836,2009,2100,1,Intent (law);Battery (crime)
-2837,2009,2010,1,Ejectment;Jane Doe (pseudonym)
+2837,2009,2010,1,Jane Doe (pseudonym);Reasonable person;Common law;Ejectment
 2838,2009,2100,1,Statutory rape;Strict liability
 2839,2009,2100,1,Partnership;Joint liability
 2840,2009,2100,1,Punitive damages;Antitrust
@@ -2854,7 +2854,7 @@ i,birth,death,dim,nodes
 2852,2009,2100,1,Lease;Warrant of possession
 2853,2009,2100,1,European Convention on Human Rights;Nullum crimen, nulla poena sine praevia lege poenali
 2854,2009,2100,1,Strict liability;International environmental law
-2855,2009,2021,1,Judicial Committee of the Privy Council;Law lords
+2855,2009,2021,1,Law lords;Judicial Committee of the Privy Council;Common law;Jurisdiction;Law;Supreme court;Court of Session
 2856,2009,2100,1,House of Lords;Law lords
 2857,2009,2100,1,House of Lords;Pierce the corporate veil
 2858,2009,2100,1,Monarch;Scrivener
@@ -2870,13 +2870,13 @@ i,birth,death,dim,nodes
 2868,2009,2100,1,Scrivener;Cut a check
 2869,2009,2100,1,Warrant (legal);Warrant of possession
 2870,2009,2100,1,Humanism;Religion and homosexuality
-2871,2009,2020,1,Conservative Judaism;Religion and homosexuality
+2871,2009,2020,1,Torah;Conservative Judaism;Talmud;Semicha;Religion and homosexuality;Sharia law;Leviticus
 2872,2009,2100,1,Landlord;Mesne
 2873,2009,2100,1,Courts of the United Kingdom;The Old Bailey
 2874,2009,2100,1,Subcontractor;Mesne
 2875,2009,2100,1,Manumission;Islamic Law
 2876,2009,2100,1,Responsa;Religion and homosexuality
-2877,2009,2020,1,Reform Judaism;Religion and homosexuality
+2877,2009,2020,1,Torah;Talmud;Reform Judaism;Semicha;Religion and homosexuality;Sharia law;Leviticus
 2878,2010,2100,1,Contract;Attorney's fee
 2879,2010,2100,1,Possession (law);Legal
 2880,2010,2100,1,Possession (law);Cut a check
@@ -2904,7 +2904,7 @@ i,birth,death,dim,nodes
 2902,2010,2100,1,Probable cause;Non-contestability clause
 2903,2010,2100,1,Real property;Legal process
 2904,2010,2100,1,Acceptance of service;Small claims court
-2905,2010,2011,1,Acceptance of service;Pleading
+2905,2010,2011,1,Civil law (common law);Pleading;Lawsuit;Litigation;Acceptance of service;Law
 2906,2010,2100,1,Acceptance of service;United States district court
 2907,2010,2100,1,Acceptance of service;Dwelling
 2908,2010,2100,1,Acceptance of service;Due diligence
@@ -2915,18 +2915,18 @@ i,birth,death,dim,nodes
 2913,2010,2100,1,Acceptance of service;Family law
 2914,2010,2100,1,Acceptance of service;Private property
 2915,2010,2100,1,Legal process;Due process of law
-2916,2010,2020,1,United States district court;Trial court
+2916,2010,2020,1,United States district court;Criminal law;Common law;Court;Trial court;Law;Supreme court
 2917,2010,2100,1,Complaint;Grand jury
 2918,2010,2100,1,Consideration;Legal release
 2919,2010,2100,1,Accountability;Cause
 2920,2010,2100,1,Income tax;Treble damages
-2921,2010,2018,1,Legal instrument;Power of attorney
+2921,2010,2018,1,Law;Legal instrument;Common law;Power of attorney
 2922,2010,2100,1,Criminal;Authorities
 2923,2010,2100,1,Acquis;Corpus juris
-2924,2010,2019,1,Evidence (law);Beyond a reasonable doubt
+2924,2010,2019,1,Jurisdiction;Litigation;Beyond a reasonable doubt;Evidence (law)
 2925,2010,2100,1,Evidence (law);Holographic will
 2926,2010,2100,1,Evidence (law);Police lineup
-2927,2010,2020,1,Double jeopardy;Corpus juris
+2927,2010,2020,1,Habeas corpus;Double jeopardy;Corpus juris;Common law
 2928,2010,2100,1,Damages;Ad quod damnum
 2929,2010,2100,1,Advisory opinion;Supreme Court of India
 2930,2010,2100,1,Advisory opinion;Laws of war
@@ -2936,8 +2936,8 @@ i,birth,death,dim,nodes
 2934,2010,2100,1,English law;Commission of rebellion
 2935,2010,2100,1,Ad litem;Legal guardian
 2936,2010,2100,1,Ad litem;Estate (law)
-2937,2010,2023,1,Ad litem;International Criminal Tribunal for Rwanda
-2938,2010,2012,1,Estate (law);Legitime
+2937,2010,2023,1,Crime;Ad litem;International Criminal Tribunal for Rwanda;Common law;Court;United States Constitution;International Criminal Tribunal for the Former Yugoslavia;Tribunal;Law
+2938,2010,2012,1,Case law;Statute;Common law;Estate (law);Legitime
 2939,2010,2100,1,Estate (law);Free-bench
 2940,2010,2100,1,Ad quod damnum;Due process
 2941,2010,2100,1,Ad quod damnum;Discovery (law)
@@ -2946,7 +2946,7 @@ i,birth,death,dim,nodes
 2944,2010,2100,1,Insurance;Fault auto insurance system
 2945,2010,2100,1,Insurance;No fault insurance
 2946,2010,2100,1,Case law;Restatement of the law
-2947,2010,2024,1,Lawyer;Preliminary hearing
+2947,2010,2024,1,Criminal law;Prosecutor;Preliminary hearing;United States Constitution;Probable cause;Complaint;Lawyer;Grand jury
 2948,2010,2100,1,Adjourn;Adjournment sine die
 2949,2010,2100,1,Adjourn;Sine die
 2950,2010,2100,1,Adjournment sine die;Board of directors
@@ -2966,9 +2966,9 @@ i,birth,death,dim,nodes
 2964,2010,2100,1,Power of attorney;Court of protection
 2965,2010,2100,1,Magistrate;Bail bond
 2966,2010,2100,1,Magistrate;Bail schedule
-2967,2010,2011,1,Magistrate;Constitution of Spain
+2967,2010,2011,1,Constitution of Spain;Law;Magistrate;Justice
 2968,2010,2100,1,Magistrate;Supreme Court of Canada
-2969,2010,2011,1,Magistrate;Spanish Constitution of 1978
+2969,2010,2011,1,Law;Spanish Constitution of 1978;Justice;Magistrate
 2970,2010,2100,1,Magistrate;Go bail
 2971,2010,2100,1,Magistrate;Indentured servant
 2972,2010,2100,1,Magistrate;Jump bail
@@ -2990,7 +2990,7 @@ i,birth,death,dim,nodes
 2988,2010,2100,1,Grand jury;Catholic Emancipation
 2989,2010,2100,1,Grand jury;Subpoena
 2990,2010,2100,1,United States federal courts;Calendar call
-2991,2010,2024,1,Punitive damages;Gross negligence
+2991,2010,2024,1,Punitive damages;Penal law;Gross negligence;Mens rea;Negligence;Culpability;Recklessness (law);Tort
 2992,2010,2100,1,General denial;Seriatim
 2993,2010,2100,1,American Civil Liberties Union;Juvenile (law)
 2994,2010,2100,1,Amicus curiae;Fault auto insurance system
@@ -3001,7 +3001,7 @@ i,birth,death,dim,nodes
 2999,2010,2100,1,Antinomianism;Ten Commandments
 3000,2010,2100,1,Treble damages;Patent infringement
 3001,2010,2100,1,Treble damages;Racketeer Influenced and Corrupt Organizations Act
-3002,2010,2024,1,Reasonable person;Gross negligence
+3002,2010,2024,1,Punitive damages;Gross negligence;Mens rea;Reasonable person;Criminal negligence;Tort
 3003,2010,2100,1,Intellectual property;Course of employment
 3004,2010,2100,1,Intellectual property;Homestead principle
 3005,2010,2100,1,Copyright;Legal release
@@ -3024,7 +3024,7 @@ i,birth,death,dim,nodes
 3022,2010,2100,1,Social control;Intimate part
 3023,2010,2100,1,Federal Communications Commission;Obscene
 3024,2010,2100,1,Bill of lading;Nemo dat quod non habet
-3025,2010,2014,1,Beneficial interest;Power of appointment
+3025,2010,2014,1,Real property;Power of appointment;Common law;Beneficial interest;Will (law)
 3026,2010,2100,1,Obscene;Sexual norm
 3027,2010,2100,1,Obscene;Breach of the peace
 3028,2010,2100,1,Obscene;Indecent exposure
@@ -3035,7 +3035,7 @@ i,birth,death,dim,nodes
 3033,2010,2100,1,Parent;Father-in-law
 3034,2010,2100,1,Freedom of speech;Obscenity
 3035,2010,2100,1,Juristic person;Registered office
-3036,2010,2012,1,Eminent domain;Tenancy
+3036,2010,2012,1,Real property;Tenancy;Common law;Eminent domain;Estate in land
 3037,2010,2100,1,Cause;International trade law
 3038,2010,2100,1,Obscenity;Limitations clause
 3039,2010,2100,1,Indecent exposure;Intimate part
@@ -3056,7 +3056,7 @@ i,birth,death,dim,nodes
 3054,2010,2100,1,Homestead principle;Notorious possession
 3055,2010,2100,1,Industrial design rights;Legal release
 3056,2010,2100,1,Property damage;State of Emergency
-3057,2011,2021,1,Contract;Bailment
+3057,2011,2021,1,Real property;Creditor;Property;Contract;Common law;Mortgage law;Bailment
 3058,2011,2100,1,Rights;Consuetudinary
 3059,2011,2100,1,Deductive reasoning;Custom (law)
 3060,2011,2100,1,Deductive reasoning;Consuetudinary
@@ -3078,14 +3078,14 @@ i,birth,death,dim,nodes
 3076,2011,2100,1,Creditor;Executrix
 3077,2011,2100,1,Lien;Free and clear
 3078,2011,2100,1,Real estate;Latent defect
-3079,2011,2012,1,Deed;Conveyancing
-3080,2011,2012,1,Deed;Property
-3081,2011,2018,1,Deed;Interest
+3079,2011,2012,1,Lease and release;Real estate;Contract;Common law;Deed;Lessee;Conveyancing
+3080,2011,2012,1,Property;Conveyancing;Deed;Mortgage law
+3081,2011,2018,1,Tort;Consideration;Common law;Contract;Deed;Conversion (law);Partnership;Interest
 3082,2011,2100,1,Deed;Charter
 3083,2011,2100,1,Deed;Rebuttable presumption
 3084,2011,2100,1,Deed;Rule against perpetuities
-3085,2011,2012,1,Deed;Entail
-3086,2011,2012,1,Deed;Notorious possession
+3085,2011,2012,1,Entail;Contract;Common law;Deed;Lessee
+3086,2011,2012,1,Contract;Notorious possession;Deed;Legal;Jurisdiction
 3087,2011,2100,1,Will (law);Documentary evidence
 3088,2011,2100,1,Will (law);Intestacy
 3089,2011,2100,1,Will (law);Pretermitted heir
@@ -3096,7 +3096,7 @@ i,birth,death,dim,nodes
 3094,2011,2100,1,Probable cause;Will contest
 3095,2011,2100,1,Probable cause;Color of law
 3096,2011,2100,1,Probable cause;Color of title
-3097,2011,2015,1,Real property;Constructive possession
+3097,2011,2015,1,Theft;Real property;Civil law (common law);Property;Constructive possession
 3098,2011,2100,1,Legal process;Attachment of earnings
 3099,2011,2100,1,Motion (legal);Motion in limine
 3100,2011,2100,1,Motion (legal);In limine
@@ -3111,14 +3111,14 @@ i,birth,death,dim,nodes
 3109,2011,2100,1,Felony;Back-to-back life sentences
 3110,2011,2100,1,Rule of law;Consuetudinary
 3111,2011,2100,1,European Court of Human Rights;Illegal immigrant
-3112,2011,2020,1,Evidence (law);Ad idem
+3112,2011,2020,1,Ad idem;Consideration;Common law;Evidence (law);Law
 3113,2011,2100,1,Evidence (law);Spoliation of evidence
-3114,2011,2019,1,Evidence (law);Rebuttable presumption
+3114,2011,2019,1,Rebuttable presumption;Litigation;Evidence (law);Prima facie;Jurisdiction
 3115,2011,2100,1,Evidence (law);Color of law
 3116,2011,2100,1,Evidence (law);Color of title
-3117,2011,2020,1,Evidence (law);Consensus ad idem
+3117,2011,2020,1,Consideration;Common law;Evidence (law);Law;Consensus ad idem
 3118,2011,2100,1,Evidence (law);Exculpatory
-3119,2011,2024,1,Jury;In limine
+3119,2011,2024,1,Defendant;In limine;Lawsuit;Common law;Court;Jury;Tort
 3120,2011,2100,1,Acquittal;Presumption of innocence
 3121,2011,2100,1,Acquittal;Irresistible impulse
 3122,2011,2100,1,Acquittal;United States Office of the Independent Counsel
@@ -3129,7 +3129,7 @@ i,birth,death,dim,nodes
 3127,2011,2100,1,Standing (law);Parens patriae
 3128,2011,2100,1,Ad idem;Undue influence
 3129,2011,2100,1,Undue influence;Consensus ad idem
-3130,2011,2020,1,Per minas;Judge
+3130,2011,2020,1,Per minas;Mens rea;Law;Common law;Judge
 3131,2011,2100,1,Ad litem;Next friend
 3132,2011,2100,1,Legal guardian;Parens patriae
 3133,2011,2100,1,Judge;Chief Justice of the United States
@@ -3138,7 +3138,7 @@ i,birth,death,dim,nodes
 3136,2011,2100,1,Judge;Law lords
 3137,2011,2100,1,Judge;Restatement of the law
 3138,2011,2100,1,Due process;Exculpatory
-3139,2011,2024,1,Discovery (law);In limine
+3139,2011,2024,1,Defendant;Lawsuit;Discovery (law);In limine
 3140,2011,2100,1,Case law;Illegal immigrant
 3141,2011,2100,1,Gift;Power (sociology)
 3142,2011,2100,1,Business;Power (sociology)
@@ -3146,13 +3146,13 @@ i,birth,death,dim,nodes
 3144,2011,2100,1,Charitable organization;Executrix
 3145,2011,2100,1,Ownership;Exclusive right
 3146,2011,2100,1,Fiduciary;Constructive fraud
-3147,2011,2022,1,Administration of an estate on death;High Court of Justice
-3148,2011,2012,1,Administration of an estate on death;Next of kin
+3147,2011,2022,1,Administration of an estate on death;High Court of Justice;English law;Common law
+3148,2011,2012,1,Next of kin;Inheritance;Administration of an estate on death;Common law;Sharia law
 3149,2011,2100,1,Administration of an estate on death;The Crown
 3150,2011,2100,1,Next of kin;Next friend
 3151,2011,2100,1,Trial (law);Reserved decision
 3152,2011,2100,1,Government;Attorney general
-3153,2011,2024,1,Probative;In limine
+3153,2011,2024,1,Defendant;In limine;Lawsuit;Common law;Probative;Tort
 3154,2011,2100,1,Spoliation of evidence;Black's Law Dictionary
 3155,2011,2100,1,Jurist;Consuetudinary
 3156,2011,2100,1,Adverse possession;Operation of law
@@ -3219,7 +3219,7 @@ i,birth,death,dim,nodes
 3217,2011,2100,1,Bestiality;Blood libel
 3218,2011,2100,1,Sexual abuse;Power (sociology)
 3219,2011,2100,1,Obscene;Sex-related court cases
-3220,2011,2019,1,Presumption of innocence;Rebuttable presumption
+3220,2011,2019,1,Presumption of innocence;Criminal law;Prosecutor;Rebuttable presumption;Prima facie;Jurisdiction
 3221,2011,2100,1,Executive (government);Moral responsibility
 3222,2011,2100,1,Bill of costs;Certificate of legal aid costs
 3223,2011,2100,1,Regulations;Custom (law)
@@ -3230,7 +3230,7 @@ i,birth,death,dim,nodes
 3228,2011,2100,1,Fee;Feu (land tenure)
 3229,2011,2100,1,Fee;Feudal system
 3230,2011,2100,1,Fee;Toll road
-3231,2011,2017,1,Operation of law;Mechanics lien
+3231,2011,2017,1,Debtor in possession;Contract;Mechanics lien;Lien;Operation of law
 3232,2011,2100,1,Racketeering;Organized crime
 3233,2011,2100,1,Child abuse;Good samaritan rule
 3234,2011,2100,1,Pornography;Sex-related court cases
@@ -3265,7 +3265,7 @@ i,birth,death,dim,nodes
 3263,2011,2100,1,Prostitute;Sex worker
 3264,2011,2100,1,Good samaritan rule;Rescue doctrine
 3265,2011,2100,1,Situational ethics;Situated ethics
-3266,2012,2022,1,Common law;Misfeasance
+3266,2012,2022,1,Law;Misfeasance;Statute;Common law
 3267,2012,2100,1,Contract;Four corners of an instrument
 3268,2012,2100,1,Constitution;Bylaw
 3269,2012,2100,1,Constitution;Bylaws
@@ -3277,7 +3277,7 @@ i,birth,death,dim,nodes
 3275,2012,2100,1,Incest;Sex offender
 3276,2012,2100,1,Lien;Extinguishment
 3277,2012,2100,1,Deed;Constructive notice
-3278,2012,2013,1,Deed;Cloud on title
+3278,2012,2013,1,Deed;Cloud on title;Encumbrance;Conveyancing;Lien
 3279,2012,2100,1,Deed;Company seal
 3280,2012,2100,1,Deed;Contemplation of death
 3281,2012,2100,1,Deed;Forced sale
@@ -3289,7 +3289,7 @@ i,birth,death,dim,nodes
 3287,2012,2100,1,Deed;In haec verba
 3288,2012,2100,1,Deed;Transfer in contemplation of death
 3289,2012,2100,1,Abstract of title;Litigation
-3290,2012,2017,1,Mortgage law;Security agreement
+3290,2012,2017,1,Debtor in possession;Contract;Mortgage law;Security agreement;Lien
 3291,2012,2100,1,Litigation;Title abstract
 3292,2012,2100,1,Encumbrance;Charging order
 3293,2012,2100,1,Tort;Contingent fee
@@ -3299,8 +3299,8 @@ i,birth,death,dim,nodes
 3297,2012,2100,1,Court;Judgment notwithstanding the verdict
 3298,2012,2100,1,Court;Judgment notwithstanding verdict
 3299,2012,2100,1,Court;Non obstante verdicto
-3300,2012,2014,1,Probable cause;Prosecution
-3301,2012,2013,1,Prosecution;Nuremberg Trials
+3300,2012,2014,1,Prosecution;Malicious prosecution;Common law;Probable cause
+3301,2012,2013,1,Law;Nuremberg Trials;Prosecution;Prosecutor
 3302,2012,2100,1,Prosecution;Diplomatic immunity
 3303,2012,2100,1,Prosecution;District attorney
 3304,2012,2100,1,Prosecution;In terrorem
@@ -3309,7 +3309,7 @@ i,birth,death,dim,nodes
 3307,2012,2100,1,Real property;Copyhold
 3308,2012,2100,1,Pleading;In haec verba
 3309,2012,2100,1,Complaint;In haec verba
-3310,2012,2020,1,Family law;Ne exeat
+3310,2012,2020,1,Ne exeat;Law;Family law;Common law
 3311,2012,2100,1,Corporation;In haec verba
 3312,2012,2100,1,Signature;Security agreement
 3313,2012,2100,1,Capital punishment;Objectivist philosophy
@@ -3317,12 +3317,12 @@ i,birth,death,dim,nodes
 3315,2012,2100,1,Promissory note;Security agreement
 3316,2012,2100,1,Criminal;Babylonian law
 3317,2012,2100,1,Jury;Specific finding
-3318,2012,2013,1,Acquittal;Criminal procedure
+3318,2012,2013,1,Defendant;Criminal procedure;Jury;Blue ribbon jury;Acquittal
 3319,2012,2100,1,Defamation;Business
 3320,2012,2100,1,Defamation;Conflict of law
 3321,2012,2100,1,Defamation;Private international law
 3322,2012,2100,1,Unjust enrichment;Contingency fee
-3323,2012,2020,1,Judicial review;Ex parte
+3323,2012,2020,1,Habeas corpus;Common law;Ex parte;United States Constitution;Judicial review;Law
 3324,2012,2100,1,Legal case;In haec verba
 3325,2012,2100,1,Libel;Social class
 3326,2012,2100,1,Libel;Consent
@@ -3340,7 +3340,7 @@ i,birth,death,dim,nodes
 3338,2012,2100,1,Judge;Arrest warrant
 3339,2012,2100,1,Judge;Petit jury
 3340,2012,2100,1,Judge;Status conference
-3341,2012,2017,1,Equitable remedy;Receivership
+3341,2012,2017,1,Debtor in possession;Receivership;Property;Contract;Equitable remedy;Lien
 3342,2012,2100,1,Lawyer;Straw deed
 3343,2012,2100,1,Uniform Commercial Code;Security agreement
 3344,2012,2100,1,Parliamentary procedure;Bylaw
@@ -3362,7 +3362,7 @@ i,birth,death,dim,nodes
 3360,2012,2100,1,Federal law;Rational basis
 3361,2012,2100,1,Agency (law);Indemnity
 3362,2012,2100,1,Agency (law);Ostensible agent
-3363,2012,2014,1,Natural person;Trust law
+3363,2012,2014,1,Corporation;Trust law;Natural person;Will (law);Jurisdiction
 3364,2012,2100,1,Agency agreement;Fiduciary relationship
 3365,2012,2100,1,Black's Law Dictionary;Obiter dicta
 3366,2012,2100,1,Black's Law Dictionary;Comity
@@ -3373,11 +3373,11 @@ i,birth,death,dim,nodes
 3371,2012,2100,1,Trust law;Massachusetts trust
 3372,2012,2100,1,Ambulance chasing;Contingency fee
 3373,2012,2100,1,Civil liberties;In loco parentis
-3374,2012,2013,1,United States court of appeals;En banc
+3374,2012,2013,1,En banc;Chief Justice of the United States;Court;Tribunal;Judge;United States court of appeals
 3375,2012,2100,1,Impleader;Indemnity
 3376,2012,2100,1,Impleader;Joinder
 3377,2012,2100,1,Bill of particulars;Motion for more definite statement
-3378,2012,2013,1,United States Supreme Court;Law clerk
+3378,2012,2013,1,Law clerk;Judge;United States Supreme Court;Lawyer;Law school
 3379,2012,2100,1,United States Supreme Court;Dissenting opinion
 3380,2012,2100,1,Police brutality;Political corruption
 3381,2012,2100,1,Self-determination;Objectivist philosophy
@@ -3406,7 +3406,7 @@ i,birth,death,dim,nodes
 3404,2012,2100,1,Monarch;Free warren
 3405,2012,2100,1,Money laundering;Political corruption
 3406,2012,2100,1,En banc;Three strikes law
-3407,2012,2020,1,En banc;United States Permanent Resident Card
+3407,2012,2020,1,Court;En banc;United States Permanent Resident Card;Precedent
 3408,2012,2100,1,En banc;United States federal judicial circuit
 3409,2012,2100,1,Exclusive right;Free warren
 3410,2012,2100,1,Bestiality;Sex offender
@@ -3452,7 +3452,7 @@ i,birth,death,dim,nodes
 3450,2012,2100,1,Subpoena;Executive privilege
 3451,2012,2100,1,Subpoena;Quash
 3452,2012,2100,1,Subpoena duces tecum;Due process of law
-3453,2012,2020,1,Parens patriae;In loco parentis
+3453,2012,2020,1,Law;Parens patriae;In loco parentis;Common law
 3454,2012,2100,1,Clear title;Warranty deed
 3455,2012,2100,1,Conflict of interest;Peremptory challenges
 3456,2012,2100,1,Discretion;Power (sociology)
@@ -3466,7 +3466,7 @@ i,birth,death,dim,nodes
 3464,2012,2100,1,Continuance;Due process of law
 3465,2012,2100,1,Joint liability;Joinder
 3466,2012,2100,1,Copyhold;Socage
-3467,2012,2013,1,Copyhold;Serf
+3467,2012,2013,1,Copyhold;Socage;Serf;Feudal system
 3468,2012,2100,1,Copyhold;Free socage
 3469,2012,2100,1,Vicarious liability;Copyright infringement of software
 3470,2012,2100,1,Quiet enjoyment;Nuisance
@@ -3498,7 +3498,7 @@ i,birth,death,dim,nodes
 3496,2013,2100,1,Will (law);Attestation clause
 3497,2013,2100,1,Will (law);Law library
 3498,2013,2100,1,Conveyancing;Enfeoff
-3499,2013,2021,1,Encumbrance;Lis pendens
+3499,2013,2021,1,Real property;Lawsuit;Eviction;Common law;Lis pendens;Encumbrance
 3500,2013,2100,1,Property;Dishonor
 3501,2013,2100,1,Property;Hereditament
 3502,2013,2100,1,Property;Patrimony of affectation
@@ -3515,7 +3515,7 @@ i,birth,death,dim,nodes
 3513,2013,2100,1,Balance sheet;Accounts payable
 3514,2013,2100,1,Balance sheet;Royalties
 3515,2013,2100,1,Balance sheet;Due and owing
-3516,2013,2014,1,Balance sheet;Due, owing and unpaid
+3516,2013,2014,1,Due, owing and unpaid;Legal instrument;Balance sheet;Due and owing
 3517,2013,2100,1,Bank;Joint and several
 3518,2013,2100,1,Bank;Joint tortfeasors
 3519,2013,2100,1,Bank;Several liability
@@ -3542,15 +3542,15 @@ i,birth,death,dim,nodes
 3540,2013,2100,1,Parliamentary procedure;Rehearing (disambiguation)
 3541,2013,2100,1,Robert's Rules of Order;Ex officio
 3542,2013,2100,1,Criminal procedure;Exigent Circumstances
-3543,2013,2020,1,Court of record;Trial court
+3543,2013,2020,1,United States district court;Criminal law;Civil procedure;Trial court;Court of record;Law
 3544,2013,2100,1,Court of record;High Court of Singapore
 3545,2013,2100,1,Adjudication;Sovereign immunity
 3546,2013,2100,1,Business;Transparency (humanities)
 3547,2013,2100,1,Administrative law;International trade
 3548,2013,2100,1,Administrative law;Immigration
 3549,2013,2100,1,Government;Ministerial act
-3550,2013,2014,1,Admission of evidence;Hearsay
-3551,2013,2014,1,Admission of evidence;Expert witness
+3550,2013,2014,1,Defendant;Hearsay;Criminal procedure;Evidence (law);Admission of evidence;Jurisdiction;Judge
+3551,2013,2014,1,Expert witness;Defendant;Criminal procedure;Evidence (law);Admission of evidence;Jurisdiction;Judge
 3552,2013,2100,1,Admission of evidence;Affidavit
 3553,2013,2100,1,Admission of evidence;Product liability
 3554,2013,2100,1,Admission of evidence;Law school
@@ -3558,7 +3558,7 @@ i,birth,death,dim,nodes
 3556,2013,2100,1,Competence (law);Forensic medicine
 3557,2013,2100,1,Barrister;Intellectual property
 3558,2013,2100,1,Barrister;Sole proprietorship
-3559,2013,2015,1,Court of Session;Bench (law)
+3559,2013,2015,1,Bench (law);Court;Faculty of Advocates;Court of Session;Lawyer
 3560,2013,2100,1,Torture;Mental cruelty
 3561,2013,2100,1,Natural person;Beneficiary (trust)
 3562,2013,2100,1,Partnership;Joint and several
@@ -3573,7 +3573,7 @@ i,birth,death,dim,nodes
 3571,2013,2100,1,Trust law;Directors register
 3572,2013,2100,1,Trust law;Patrimony of affectation
 3573,2013,2100,1,Income;Bare trust
-3574,2013,2020,1,United States federal courts;Bench (law)
+3574,2013,2020,1,Jurisdiction;Law;Bench (law);United States federal courts
 3575,2013,2100,1,United States Department of Justice;Mental cruelty
 3576,2013,2100,1,De jure;Devolve
 3577,2013,2100,1,De jure;Devolved government
@@ -3581,7 +3581,7 @@ i,birth,death,dim,nodes
 3579,2013,2100,1,Death row;Mental cruelty
 3580,2013,2100,1,Amnesty International;Dishonor
 3581,2013,2100,1,Sharia;Mental cruelty
-3582,2013,2014,1,Tax;Testamentary trust
+3582,2013,2014,1,Tax;Corporation;Tax avoidance;Will (law);Jurisdiction;Testamentary trust
 3583,2013,2100,1,Tax;Quitrent
 3584,2013,2100,1,Lease;Quitrent
 3585,2013,2100,1,Asylum seeker;Resident alien
@@ -3589,7 +3589,7 @@ i,birth,death,dim,nodes
 3587,2013,2100,1,Consultant;Education
 3588,2013,2100,1,En banc;Rehearing (disambiguation)
 3589,2013,2100,1,En banc;Resident alien
-3590,2013,2014,1,Beneficial interest;Beneficiary
+3590,2013,2014,1,Real property;Beneficiary;Common law;Beneficial interest;Will (law)
 3591,2013,2100,1,Beneficiary;Face amount
 3592,2013,2100,1,Exclusive right;Hereditament
 3593,2013,2100,1,Sexual abuse;Mental cruelty
@@ -3629,7 +3629,7 @@ i,birth,death,dim,nodes
 3627,2013,2100,1,Quiet enjoyment;Peaceable possession
 3628,2013,2100,1,Burgage;Feudal land tenure
 3629,2013,2100,1,Motion in limine;In chambers
-3630,2013,2020,1,Motion in limine;In curia
+3630,2013,2020,1,Motion (legal);Law;Motion in limine;In curia;Judge
 3631,2013,2100,1,Mental cruelty;Denial
 3632,2013,2100,1,Executioner;Dishonor
 3633,2013,2100,1,Repeal;Devolve
@@ -3659,7 +3659,7 @@ i,birth,death,dim,nodes
 3657,2014,2100,1,Jurisdiction;Limited jurisdiction
 3658,2014,2100,1,Cause of action;Abandonment (legal)
 3659,2014,2100,1,Cause of action;Abuse of process
-3660,2014,2023,1,Cause of action;Collateral estoppel
+3660,2014,2023,1,Collateral estoppel;Litigation;Common law;Jurisdiction;Cause of action
 3661,2014,2100,1,Cause of action;Locus in quo
 3662,2014,2100,1,Abandonment (legal);Possession (law)
 3663,2014,2100,1,Abandonment (legal);Waiver
@@ -3696,10 +3696,10 @@ i,birth,death,dim,nodes
 3694,2014,2100,1,Balance sheet;Not-for-profit corporation
 3695,2014,2100,1,Asset;Interest
 3696,2014,2100,1,Asset;Fair market value
-3697,2014,2023,1,Asset;Fiduciary
+3697,2014,2023,1,Bankrupt;Creditor;Corporations law;Corporation;Trust law;Asset;Fiduciary duty;Fiduciary;Balance sheet
 3698,2014,2100,1,Asset;Receivership
 3699,2014,2100,1,Asset;Stock option
-3700,2014,2015,1,Asset;Stock
+3700,2014,2015,1,Trust law;Stock;Asset;Fiduciary duty;Fiduciary
 3701,2014,2100,1,Asset;Tangible property
 3702,2014,2100,1,Asset;Class action suit
 3703,2014,2100,1,Promissory note;Deficiency judgment
@@ -3752,7 +3752,7 @@ i,birth,death,dim,nodes
 3750,2014,2100,1,United States Supreme Court;Ex rel
 3751,2014,2100,1,Code of Hammurabi;Disinheritance
 3752,2014,2100,1,Charter;Public benefit corporation
-3753,2014,2015,1,Marriage;Void marriage
+3753,2014,2015,1,Divorce;Void marriage;Law;Child custody;Marriage
 3754,2014,2100,1,Monopoly;Public benefit corporation
 3755,2014,2100,1,Patent;Incorporate by reference
 3756,2014,2100,1,Surety bond;Inter vivos trust
@@ -3835,9 +3835,9 @@ i,birth,death,dim,nodes
 3833,2014,2100,1,Sasine;Seised
 3834,2014,2100,1,Sasine;Seized
 3835,2014,2100,1,Short cause;Long cause
-3836,2015,2016,1,Common law;Article I and Article III tribunals
+3836,2015,2016,1,Law;Tribunal;Common law;Article I and Article III tribunals
 3837,2015,2100,1,Contract;Disclaimer
-3838,2015,2016,1,Cause of action;Affirmative defense
+3838,2015,2016,1,Defendant;Affirmative defense;Civil law (common law);Lawsuit;Litigation;Jurisdiction;Cause of action
 3839,2015,2100,1,Waiver;Affirmative defense
 3840,2015,2100,1,Waiver;Disclaimer
 3841,2015,2100,1,Waiver;Hold harmless
@@ -3873,12 +3873,12 @@ i,birth,death,dim,nodes
 3871,2015,2100,1,Voluntary association;Annual General Meeting
 3872,2015,2100,1,Voluntary association;Non-profit corporation
 3873,2015,2100,1,Voluntary association;Shareholders' meeting
-3874,2015,2017,1,Eviction;Foreclosure
+3874,2015,2017,1,Eviction;Foreclosure;Deed;Cloud on title;Lessee;Lien
 3875,2015,2100,1,Corporation;Mandamus
 3876,2015,2100,1,Trespass;Embezzler
 3877,2015,2100,1,Trespass;Peculation
 3878,2015,2100,1,Affirmative defense;Statute of frauds
-3879,2015,2019,1,Affirmative defense;Insanity defense
+3879,2015,2019,1,Insanity defense;Affirmative defense;Criminal law;Civil law (common law)
 3880,2015,2100,1,Affirmative defense;Entrapment
 3881,2015,2100,1,Affirmative defense;Motion for a summary judgment
 3882,2015,2100,1,Affirmative defense;Summary dismissal
@@ -3888,7 +3888,7 @@ i,birth,death,dim,nodes
 3886,2015,2100,1,Accounts payable;Balance due
 3887,2015,2100,1,Accounts receivable;Balance due
 3888,2015,2100,1,Accounts receivable;Creditor's rights
-3889,2015,2021,1,Asset;Administration Order
+3889,2015,2021,1,Creditor;Corporations law;Corporation;Asset;Balance sheet;Administration Order
 3890,2015,2100,1,Asset;Bypass trust
 3891,2015,2100,1,Asset;Embezzlement
 3892,2015,2100,1,Asset;Dissolution (law)
@@ -3899,7 +3899,7 @@ i,birth,death,dim,nodes
 3897,2015,2100,1,Accrue;Bank
 3898,2015,2100,1,Expense;Renting
 3899,2015,2100,1,Criminal;Insolvency
-3900,2015,2024,1,Prosecutor;Immunity from prosecution
+3900,2015,2024,1,Immunity from prosecution;Prosecutor;Lawsuit;Common law;Tort
 3901,2015,2100,1,Felony;Delict
 3902,2015,2100,1,Felony;Willfully
 3903,2015,2100,1,Felony;Tolling (law)
@@ -3945,15 +3945,15 @@ i,birth,death,dim,nodes
 3943,2015,2100,1,Liquidation;Divestment
 3944,2015,2100,1,Liquidation;Embezzler
 3945,2015,2100,1,Liquidation;Peculation
-3946,2015,2016,1,Adjudication;Article I and Article III tribunals
+3946,2015,2016,1,Adjudication;Article I and Article III tribunals;Tribunal;Court
 3947,2015,2100,1,Adjudication;Fungible things
 3948,2015,2100,1,Risk of loss;Common carrier
 3949,2015,2100,1,Charitable organization;Non-profit corporation
 3950,2015,2100,1,The Crown;Queen's counsel
-3951,2015,2023,1,Insolvency;Bankruptcy proceedings
+3951,2015,2023,1,Insolvency;Creditor;Bankrupt;Bankruptcy proceedings
 3952,2015,2100,1,Insolvency;European Union Law
-3953,2015,2023,1,Insolvency;Voluntary bankruptcy
-3954,2015,2020,1,International trade;Balance due
+3953,2015,2023,1,Voluntary bankruptcy;Creditor;Bankrupt;Insolvency
+3954,2015,2020,1,Balance due;International trade;Good (economics);Accounts receivable;Capital (economics)
 3955,2015,2100,1,Administrative law judge;Article I and Article III tribunals
 3956,2015,2100,1,Government;Theocracy
 3957,2015,2100,1,Witness;Witness statement
@@ -4075,21 +4075,21 @@ i,birth,death,dim,nodes
 4073,2015,2100,1,Feodum;Francia
 4074,2015,2100,1,War reparations;Indemnify
 4075,2015,2100,1,War reparations;Save harmless
-4076,2016,2022,1,Common law;Malfeasance
+4076,2016,2022,1,Law;Malfeasance;Statute;Common law
 4077,2016,2100,1,Common law;Non-feasance
 4078,2016,2100,1,Contract;Quasi-delict
 4079,2016,2100,1,Rights;Heirs
 4080,2016,2100,1,Scots law;Codefendant
-4081,2016,2023,1,Defendant;Circumstantial evidence
+4081,2016,2023,1,Defendant;Testimony;Criminal law;Admission of evidence;Witness;Law;Circumstantial evidence;Sharia law
 4082,2016,2100,1,Real estate;Conditional sale
 4083,2016,2100,1,Deed;Patent ambiguity
-4084,2016,2020,1,Mortgage law;Emblements
-4085,2016,2020,1,Mortgage law;Fructus industriales
+4084,2016,2020,1,Emblements;Mortgage law;Common law;Law French
+4085,2016,2020,1,Fructus industriales;Mortgage law;Common law;Law French
 4086,2016,2100,1,Will (law);Revocation
 4087,2016,2100,1,Property;Adverse interest
 4088,2016,2100,1,Property;Collateral (finance)
 4089,2016,2100,1,Legal process;Collateral (finance)
-4090,2016,2022,1,Personal jurisdiction;Allegation
+4090,2016,2022,1,Defendant;Personal jurisdiction;Court;Allegation;Jurisdiction
 4091,2016,2100,1,Motion (legal);Conditional dismissal
 4092,2016,2100,1,Divorce;Living trust
 4093,2016,2100,1,Family law;Heirs
@@ -4107,7 +4107,7 @@ i,birth,death,dim,nodes
 4105,2016,2100,1,Income tax;Dividend
 4106,2016,2100,1,Promissory note;Restraint on alienation
 4107,2016,2100,1,Interest;Adverse interest
-4108,2016,2018,1,Interest;Collateral (finance)
+4108,2016,2018,1,Collateral (finance);Property;Deed;Interest
 4109,2016,2100,1,Expense;Dividend
 4110,2016,2100,1,Expense;Synthetic lease
 4111,2016,2100,1,Belief;Freedom of religion
@@ -4154,15 +4154,15 @@ i,birth,death,dim,nodes
 4152,2016,2100,1,International trade;Free on board
 4153,2016,2100,1,Immigration;Employment
 4154,2016,2100,1,Immigration;Claim against a governmental agency
-4155,2016,2020,1,Administrator (law);Fiduciary duty
+4155,2016,2020,1,Liquidator (law);Administrator (law);Liquidation;Fiduciary duty
 4156,2016,2100,1,Conflict of laws;Derivatives law
 4157,2016,2100,1,Admissible evidence;Patent ambiguity
 4158,2016,2100,1,Circumstantial evidence;Inference
 4159,2016,2100,1,Circumstantial evidence;Corroborating evidence
-4160,2016,2023,1,Circumstantial evidence;Islamic Law
+4160,2016,2023,1,Islamic Law;Common law;Law;Circumstantial evidence;Sharia law
 4161,2016,2100,1,American Bar Association;Claim against a governmental agency
 4162,2016,2100,1,Party (law);Employment
-4163,2016,2018,1,Party (law);Mediation
+4163,2016,2018,1,Mediation;Party (law);Court;Arbitration
 4164,2016,2100,1,Party (law);Maxims of equity
 4165,2016,2100,1,Party (law);Inspection of documents
 4166,2016,2100,1,Party (law);Notice
@@ -4206,8 +4206,8 @@ i,birth,death,dim,nodes
 4204,2016,2100,1,Articles of Association;Royal Assent
 4205,2016,2100,1,Articles of Incorporation;Living trust
 4206,2016,2100,1,Lease;Executory interest
-4207,2016,2017,1,Collateral (finance);Foreclosure
-4208,2016,2017,1,Collateral (finance);Security agreement
+4207,2016,2017,1,Collateral (finance);Property;Lien;Foreclosure
+4208,2016,2017,1,Debtor in possession;Property;Collateral (finance);Contract;Security agreement;Lien
 4209,2016,2100,1,Foreclosure;Frustration of purpose
 4210,2016,2100,1,Foreclosure;Forbearance
 4211,2016,2100,1,Legal aid;Pro bono publico
@@ -4231,7 +4231,7 @@ i,birth,death,dim,nodes
 4229,2016,2100,1,Payee;Cut a check
 4230,2016,2100,1,Confidentiality;Non-disclosure agreement
 4231,2016,2100,1,Lord Chancellor;Living trust
-4232,2016,2018,1,Licensee;Duty to warn
+4232,2016,2018,1,Duty to warn;Duty of care;Negligence;Licensee;Law;Tort
 4233,2016,2100,1,Capital (economics);Living trust
 4234,2016,2100,1,Political corruption;Malfeasance
 4235,2016,2100,1,Political corruption;Non-feasance
@@ -4289,7 +4289,7 @@ i,birth,death,dim,nodes
 4287,2017,2100,1,Will (law);Rule in Re Atkinson
 4288,2017,2100,1,Tax sale;Try title
 4289,2017,2100,1,Divorce;Moral code
-4290,2017,2021,1,Signature;Last will and testament
+4290,2017,2021,1,Signature;Will (law);Last will and testament;Common law
 4291,2017,2100,1,Asset;Double taxation
 4292,2017,2100,1,Promissory note;Indorse
 4293,2017,2100,1,Belief;Criminal accusation
@@ -4306,7 +4306,7 @@ i,birth,death,dim,nodes
 4304,2017,2100,1,Invasion of privacy;Creditor's claim
 4305,2017,2100,1,Defamation;Character witness
 4306,2017,2100,1,Defamation;Creditor's claim
-4307,2017,2021,1,Negligence;Last will and testament
+4307,2017,2021,1,Last will and testament;Will (law);Negligence;Common law
 4308,2017,2100,1,Equity (law);Bona fide
 4309,2017,2100,1,Treaty;Try title
 4310,2017,2100,1,Legal guardian;Legal personal representative
@@ -4323,12 +4323,12 @@ i,birth,death,dim,nodes
 4321,2017,2100,1,Legal;Share (finance)
 4322,2017,2100,1,Oath;Fact
 4323,2017,2100,1,Government;Arm's length
-4324,2017,2022,1,Administrator (law);Legal personal representative
+4324,2017,2022,1,Administrator (law);De bonis non administratis;Common law;Legal personal representative;Will (law);Estate (law);Probate
 4325,2017,2100,1,Expert witness;Fact
 4326,2017,2100,1,Circumstantial evidence;Character witness
 4327,2017,2100,1,Affirmative action;Bona fide
 4328,2017,2100,1,Trade union;Arm's length
-4329,2017,2021,1,Age of majority;Last will and testament
+4329,2017,2021,1,Will (law);Last will and testament;Common law;Age of majority
 4330,2017,2100,1,Partnership;Offshore corporation
 4331,2017,2100,1,Employment;Intellectual capital
 4332,2017,2100,1,Employment;Grace period
@@ -4380,7 +4380,7 @@ i,birth,death,dim,nodes
 4378,2017,2100,1,Extortion;Pain and suffering
 4379,2017,2100,1,Court of Appeal of England and Wales;Rule in Re Atkinson
 4380,2017,2100,1,Book value;Intellectual capital
-4381,2017,2021,1,Burglary;Last will and testament
+4381,2017,2021,1,Burglary;Will (law);Last will and testament;Common law
 4382,2017,2100,1,Fraudulent conveyance;Try title
 4383,2017,2100,1,Capital (economics);Capital assets
 4384,2017,2100,1,Capital assets;Construction
@@ -4390,16 +4390,16 @@ i,birth,death,dim,nodes
 4388,2017,2100,1,Security (finance);Certificate of deposit
 4389,2017,2100,1,Security (finance);Debenture
 4390,2017,2100,1,Capitalized value;Treasury stock
-4391,2017,2021,1,Document;Last will and testament
-4392,2017,2018,1,Remainderman;Rule in Re Atkinson
+4391,2017,2021,1,Document;Will (law);Last will and testament;Common law
+4392,2017,2018,1,Rule in Re Atkinson;Will (law);Remainderman;Rule in Allhusen v Whittell
 4393,2017,2100,1,Subpoena duces tecum;Privileged communication
 4394,2017,2100,1,Waive;Privileged communication
 4395,2017,2100,1,Coinsurance;Out-of-pocket expenses
 4396,2017,2100,1,Torrens title;Try title
 4397,2017,2100,1,Trade;Seller
-4398,2017,2021,1,Last will and testament;Specific legacy
-4399,2017,2021,1,Last will and testament;Revocation
-4400,2017,2021,1,Last will and testament;Totten trust
+4398,2017,2021,1,Specific legacy;Will (law);Last will and testament;Common law
+4399,2017,2021,1,Revocation;Will (law);Last will and testament;Common law
+4400,2017,2021,1,Last will and testament;Will (law);Totten trust;Common law
 4401,2017,2100,1,Conditional sale;Seller
 4402,2017,2100,1,Right to silence;Privileged communication
 4403,2017,2100,1,Obligation;Family patrimony
@@ -4497,7 +4497,7 @@ i,birth,death,dim,nodes
 4495,2018,2100,1,Assignee;Truth in Lending Act
 4496,2018,2100,1,Assignee;Interpleader
 4497,2018,2100,1,Assignee;Contingent interest
-4498,2018,2019,1,Lease;Fixture (property law)
+4498,2018,2019,1,Real property;Property;Lease;Tangible property;Fixture (property law)
 4499,2018,2100,1,Collateral (finance);Stock in trade
 4500,2018,2100,1,Conversion (law);Repossess
 4501,2018,2100,1,Privy Council;Carrying for hire
@@ -4546,15 +4546,15 @@ i,birth,death,dim,nodes
 4544,2019,2100,1,Future interest;Vested right
 4545,2019,2100,1,Lawsuit;Court order
 4546,2019,2100,1,Lawsuit;Bait and switch
-4547,2019,2020,1,Defendant;Plea
+4547,2019,2020,1,Defendant;Plea;Trial (law);Guilt (law)
 4548,2019,2100,1,Bankrupt;Court order
 4549,2019,2100,1,Deed;As is
 4550,2019,2100,1,Property;Pre-emption rights
-4551,2019,2021,1,United States district court;Amended complaint
+4551,2019,2021,1,United States district court;Amended complaint;United States federal courts;Litigation;Common law;Court;Plaintiff;Jurisdiction;Cause of action
 4552,2019,2100,1,Petition;Amended complaint
 4553,2019,2100,1,Petition;Commencement of action
 4554,2019,2100,1,Debt;Bulk sales acts
-4555,2019,2024,1,Indictment;Amended complaint
+4555,2019,2024,1,Complaint;Defendant;Amended complaint;Indictment
 4556,2019,2100,1,Indictment;Plea
 4557,2019,2100,1,Indictment;Internment
 4558,2019,2100,1,Notary public;Court order
@@ -4566,10 +4566,10 @@ i,birth,death,dim,nodes
 4564,2019,2100,1,Libel;Halakha
 4565,2019,2100,1,Service of process;Amended complaint
 4566,2019,2100,1,Due process;Forum conveniens
-4567,2019,2021,1,Discovery (law);Amended complaint
+4567,2019,2021,1,Discovery (law);Court;Plaintiff;Amended complaint;Law
 4568,2019,2100,1,Court order;Receivership
-4569,2019,2024,1,Court order;Family court
-4570,2019,2021,1,Lawyer;Amended complaint
+4569,2019,2024,1,Divorce;Litigation;Lawsuit;Court order;Child custody;Family court
+4570,2019,2021,1,Court;Plaintiff;Amended complaint;Law;Lawyer
 4571,2019,2100,1,Uniform Commercial Code;Bulk sales acts
 4572,2019,2100,1,High Court of Australia;Forum conveniens
 4573,2019,2100,1,Parliamentary procedure;Ratification
@@ -4597,7 +4597,7 @@ i,birth,death,dim,nodes
 4595,2019,2100,1,Income;Pimp
 4596,2019,2100,1,Amended complaint;Grand jury
 4597,2019,2100,1,Amended complaint;Civil liberties
-4598,2019,2025,1,Motion for more definite statement;Plea
+4598,2019,2025,1,Defendant;Bill of particulars;Motion for more definite statement;Common law;Complaint;Law;Cause of action;Plea
 4599,2019,2100,1,Plea;False swearing
 4600,2019,2100,1,Dividend;Redemption of shares
 4601,2019,2100,1,Transfer agent;Broker
@@ -4663,9 +4663,9 @@ i,birth,death,dim,nodes
 4661,2020,2100,1,Privacy;Cyber law
 4662,2020,2100,1,Euthanasia;Homicide
 4663,2020,2100,1,Judgment;Judgment (law)
-4664,2020,2021,1,Deed;Presumption
+4664,2020,2021,1,Rebuttable presumption;Litigation;Common law;Legal burden of proof;Deed;Presumption;Law
 4665,2020,2100,1,Mortgage law;Decree absolute
-4666,2020,2021,1,Will (law);Presumption
+4666,2020,2021,1,Law;Will (law);Presumption;Common law
 4667,2020,2100,1,Property;Drop dead date
 4668,2020,2100,1,Tort;Adequate remedy
 4669,2020,2100,1,Court;Stakeholder (law)
@@ -4732,7 +4732,7 @@ i,birth,death,dim,nodes
 4730,2020,2100,1,Acknowledgment (law);Antenuptial (prenuptial) agreement
 4731,2020,2100,1,Evidence (law);Privilege (evidence)
 4732,2020,2100,1,Evidence (law);Opinion
-4733,2020,2024,1,Acquittal;Nolo contendere
+4733,2020,2024,1,Crime;Defendant;Lawsuit;Common law;Nolo contendere;Law;Tort;Acquittal;Guilt (law)
 4734,2020,2100,1,Force majeure;Legal Latin
 4735,2020,2100,1,Negligence;Mishpat Ivri
 4736,2020,2100,1,Judicial review;Protocol (treaty)
@@ -4753,7 +4753,7 @@ i,birth,death,dim,nodes
 4751,2020,2100,1,Civil action;Cloud on title
 4752,2020,2100,1,Civil action;Interim order
 4753,2020,2100,1,Memorandum;Bench memorandum
-4754,2020,2024,1,Court order;Legal separation
+4754,2020,2024,1,Legal separation;Divorce;Litigation;Lawsuit;Court order
 4755,2020,2100,1,Court order;Decree nisi
 4756,2020,2100,1,Court order;Homicide
 4757,2020,2100,1,Court order;Decree absolute
@@ -4780,7 +4780,7 @@ i,birth,death,dim,nodes
 4778,2020,2100,1,Non-profit organization;Public benefit corporation
 4779,2020,2100,1,Non-profit organization;Legal Aid Society
 4780,2020,2100,1,Intestate;Legal personal representative
-4781,2020,2021,1,Intestate;Last will and testament
+4781,2020,2021,1,Will (law);Last will and testament;Intestate;Common law
 4782,2020,2100,1,Executor;Bargain and sale deed
 4783,2020,2100,1,Executor;Fiduciary duty
 4784,2020,2100,1,Widow;Suicide
@@ -5018,7 +5018,7 @@ i,birth,death,dim,nodes
 5016,2020,2100,1,Dowry;Magna carta
 5017,2020,2100,1,Remuneration;Fee
 5018,2020,2100,1,Remuneration;Copartner
-5019,2020,2021,1,Obiter dicta;Stare decisis
+5019,2020,2021,1,Obiter dicta;Black's Law Dictionary;Stare decisis;Legal Latin;Obiter dictum
 5020,2020,2100,1,Obiter dicta;Dictum
 5021,2020,2100,1,Constitutional amendment;Protocol (treaty)
 5022,2020,2100,1,Lord Chancellor;Revocable living trust
@@ -5092,9 +5092,9 @@ i,birth,death,dim,nodes
 5090,2020,2100,1,Commingling;Stakeholder (law)
 5091,2020,2100,1,Scrivener;Judicial
 5092,2020,2100,1,Seal (device);Letter (message)
-5093,2020,2021,1,Last will and testament;Presumption
-5094,2020,2021,1,Last will and testament;Incapacity
-5095,2020,2021,1,Last will and testament;Intestate succession
+5093,2020,2021,1,Will (law);Last will and testament;Presumption;Common law
+5094,2020,2021,1,Incapacity;Will (law);Last will and testament;Common law
+5095,2020,2021,1,Will (law);Last will and testament;Common law;Intestate succession
 5096,2020,2100,1,Common property;Public property
 5097,2020,2100,1,Compromise;In haec verba
 5098,2020,2100,1,Compromise;Legal release
@@ -5275,7 +5275,7 @@ i,birth,death,dim,nodes
 5273,2021,2100,1,Chain of title;Registry of deeds
 5274,2021,2100,1,Tort;Intra vires
 5275,2021,2100,1,Tort;Long-arm statute
-5276,2021,2022,1,Prosecution;Appellate court
+5276,2021,2022,1,Mens rea;Common law;Appellate court;Jurisdiction;Prosecution
 5277,2021,2100,1,Duty of care;Writ of mandate
 5278,2021,2100,1,Small claims court;Acknowledgement of service
 5279,2021,2100,1,Small claims court;Agent for acceptance of service
@@ -5344,7 +5344,7 @@ i,birth,death,dim,nodes
 5342,2021,2100,1,Rule of law;Intra vires
 5343,2021,2100,1,European Court of Human Rights;Nullity (conflict)
 5344,2021,2100,1,Fraud;Charging lien
-5345,2021,2025,1,Equity (law);Preliminary injunction
+5345,2021,2025,1,Court;Preliminary injunction;Equity (law);Equitable remedy;Precedent
 5346,2021,2100,1,Duty;Inter se
 5347,2021,2100,1,Judicial review;Intra vires
 5348,2021,2100,1,Judicial review;Writ of mandate
@@ -5380,12 +5380,12 @@ i,birth,death,dim,nodes
 5378,2021,2100,1,Administrative law;Intra vires
 5379,2021,2100,1,Administrative law;Writ of mandate
 5380,2021,2100,1,Administrative Procedure Act (United States);Writ of mandate
-5381,2021,2023,1,Admission of evidence;Direct examination
+5381,2021,2023,1,Witness;Admission of evidence;Direct examination;Trial (law)
 5382,2021,2100,1,Privilege (evidence);Writ of mandate
 5383,2021,2100,1,Expert witness;Law of costs
 5384,2021,2100,1,Dispute resolution;Shareholders agreement
 5385,2021,2100,1,Direct examination;Trial advocacy
-5386,2021,2022,1,Direct examination;High Court of Singapore
+5386,2021,2022,1,Witness;Admission of evidence;High Court of Singapore;Direct examination
 5387,2021,2100,1,Pro bono;Law of costs
 5388,2021,2100,1,Fine (penalty);Age discrimination
 5389,2021,2100,1,Fine (penalty);Tax
@@ -5511,7 +5511,7 @@ i,birth,death,dim,nodes
 5509,2022,2100,1,Common law;Retaining lien
 5510,2022,2100,1,Jurisdiction;Governmental immunity
 5511,2022,2100,1,Justice;Circuit courts
-5512,2022,2023,1,Cause of action;Issue preclusion
+5512,2022,2023,1,Common law;Litigant;Jurisdiction;Issue preclusion;Cause of action
 5513,2022,2100,1,Cause of action;Joint property
 5514,2022,2100,1,Manslaughter;Tainted evidence
 5515,2022,2100,1,Defendant;Garnishee
@@ -5572,7 +5572,7 @@ i,birth,death,dim,nodes
 5570,2022,2100,1,Testator;Retaining lien
 5571,2022,2100,1,Court order;Claim against an estate
 5572,2022,2100,1,Court order;Sealing of records
-5573,2022,2024,1,Lawyer;Arbitrator
+5573,2022,2024,1,Law;Arbitrator;Lawyer;Common law
 5574,2022,2100,1,Lawyer;Lienor
 5575,2022,2100,1,Lawyer;Retaining lien
 5576,2022,2100,1,Specific performance;Liquidate
@@ -5594,7 +5594,7 @@ i,birth,death,dim,nodes
 5592,2022,2100,1,Conflict of laws;State of domicile
 5593,2022,2100,1,Affidavit;Arbitrator
 5594,2022,2100,1,Legal technicality;Sharp practice
-5595,2022,2023,1,Cross-examination;Islamic Law
+5595,2022,2023,1,Law;Islamic Law;Cross-examination;Common law
 5596,2022,2100,1,Cross-examination;Mandatory sentence
 5597,2022,2100,1,Procedural law;Change of venue
 5598,2022,2100,1,Adverse party;Sharp practice
@@ -5637,11 +5637,11 @@ i,birth,death,dim,nodes
 5635,2022,2100,1,Judgment (law);Lienor
 5636,2022,2100,1,Judgment (law);Retaining lien
 5637,2022,2100,1,Judgment (law);Sharp practice
-5638,2022,2023,1,Trial court;Oral argument
+5638,2022,2023,1,Trial court;Appellate court;Appeal;Oral argument;Law
 5639,2022,2100,1,Supreme court;Federal Constitutional Court
 5640,2022,2100,1,High Court (Hong Kong);Enter a judgment
 5641,2022,2100,1,Appellate court;Remand (court procedure)
-5642,2022,2023,1,Appellate court;Law of the case
+5642,2022,2023,1,Law of the case;Common law;Litigant;Appellate court;Jurisdiction
 5643,2022,2100,1,Appellate court;Official misconduct
 5644,2022,2100,1,Appellate court;Sharp practice
 5645,2022,2100,1,Appellate court;Tainted evidence
@@ -5758,7 +5758,7 @@ i,birth,death,dim,nodes
 5756,2023,2100,1,Jury;Remittitur
 5757,2023,2100,1,Double jeopardy;Cop a plea
 5758,2023,2100,1,Act of Parliament;Reckless disregard
-5759,2023,2025,1,Standing (law);Moot court
+5759,2023,2025,1,Moot court;Litigation;Standing (law);Oral argument;Appellate court;Jurisdiction;United States Supreme Court;Lawyer;Law school
 5760,2023,2100,1,English law;Police powers (United States constitutional law)
 5761,2023,2100,1,Legal guardian;Letters testamentary
 5762,2023,2100,1,Insurance;Declaration of trust
@@ -6228,11 +6228,11 @@ i,birth,death,dim,nodes
 6226,2027,2100,1,Enforcement;Judgment by default
 6227,2027,2100,1,Issue (legal);Judgment by default
 6228,2027,2100,1,Judgment by default;Trial in absentia
-6229,1166,2008,2,Criminal law;Tort;Criminal
+6229,1166,2008,2,Criminal;Law of the United States;Criminal law;Common law;Legal;Law;Tort
 6230,1166,2100,2,Criminal law;Tort;Case law in the United States
 6231,1166,2100,2,Tort;Crime;Penal law
-6232,1293,1453,2,Sharia;Fiqh;Sunnah
-6233,1293,1453,2,Fiqh;Sunnah;Islamic Law
+6232,1293,1453,2,Fiqh;Sharia;Hadith;Maliki;Sunnah;Sharia law
+6233,1293,1453,2,Fiqh;Hadith;Maliki;Islamic Law;Sunnah;Sharia law
 6234,1453,2100,2,Islamic philosophy;Ulema;Madrassa
 6235,1454,2100,2,Qur'an;Ijtihad;Ijma
 6236,1500,2100,2,Limited liability;Corporations law;Limited partnership
@@ -6361,12 +6361,12 @@ i,birth,death,dim,nodes
 6359,2000,2100,2,Civil law (common law);Plaintiff;Jury box
 6360,2000,2100,2,Civil law (common law);Plaintiff;Jury panel
 6361,2000,2100,2,Lawsuit;Black's Law Dictionary;Obligee
-6362,2001,2012,2,Criminal law;Tort;Malicious prosecution
+6362,2001,2012,2,Criminal;Civil law (common law);Criminal law;Common law;Malicious prosecution;Tort
 6363,2001,2100,2,Fraud;Conspiracy (crime);Penal law
 6364,2001,2100,2,Uniform Commercial Code;Commercial law;Obligee
 6365,2002,2100,2,Common law;Legal;Private law
 6366,2002,2100,2,Common law;Private law;Penal law
-6367,2002,2009,2,Common law;Private law;Napoleonic code
+6367,2002,2009,2,Statute;Napoleonic code;Common law;Private law;Legal;Law
 6368,2002,2100,2,Common law;Private law;Court of last resort
 6369,2002,2100,2,Contract;Private law;Penal law
 6370,2002,2100,2,Civil law (common law);Theft;Penal law
@@ -6398,22 +6398,22 @@ i,birth,death,dim,nodes
 6396,2008,2100,2,Constitution;United States Constitution;Ex post facto law
 6397,2008,2100,2,Constitution;Ex post facto law;Parliamentary supremacy
 6398,2008,2100,2,Jurisdiction;Prima facie;Trial (law)
-6399,2008,2019,2,Jurisdiction;Prima facie;Court trial
+6399,2008,2019,2,Court trial;Civil law (common law);Trial (law);Common law;Prima facie;Tribunal;Jurisdiction;Law
 6400,2008,2100,2,Jurisdiction;Mens rea;Heat of passion
 6401,2008,2100,2,Jurisdiction;Mens rea;Premeditation
 6402,2008,2100,2,Jurisdiction;Penal code;Ex post facto law
-6403,2008,2020,2,Criminal law;Civil law (common law);Prima facie
+6403,2008,2020,2,Civil law (common law);Trial (law);Criminal law;Common law;Prima facie;Legal;Tribunal;Jurisdiction;Law
 6404,2008,2100,2,Criminal law;Mens rea;Not guilty by reason of insanity
 6405,2008,2100,2,Criminal law;United States Constitution;Ex post facto law
-6406,2008,2012,2,Scots law;Defendant;Juror
-6407,2008,2012,2,Scots law;Defendant;Jury box
-6408,2008,2012,2,Scots law;Defendant;Jury panel
+6406,2008,2012,2,Crime;Defendant;Criminal law;Civil law (common law);Common law;Juror;Scots law;Blue ribbon jury;Jurisdiction
+6407,2008,2012,2,Crime;Defendant;Criminal law;Civil law (common law);Jury box;Common law;Scots law;Blue ribbon jury;Jurisdiction
+6408,2008,2012,2,Crime;Defendant;Criminal law;Civil law (common law);Common law;Scots law;Blue ribbon jury;Jurisdiction;Jury panel
 6409,2008,2100,2,Defendant;Crime;Tortfeasor
 6410,2008,2100,2,Defendant;United States Supreme Court;Blue ribbon jury
 6411,2008,2100,2,Defendant;United States Supreme Court;Juror
 6412,2008,2100,2,Defendant;United States Supreme Court;Jury box
 6413,2008,2100,2,Defendant;United States Supreme Court;Jury panel
-6414,2008,2009,2,Defendant;Court trial;Inquisitorial system
+6414,2008,2009,2,Court trial;Defendant;Trial (law);Common law;Inquisitorial system;Tribunal;Jurisdiction;Law
 6415,2008,2100,2,Eviction;Landlord;Lessee
 6416,2008,2100,2,Eviction;Landlord;Landlady
 6417,2008,2100,2,Mens rea;Penal law;Proximate cause
@@ -6441,10 +6441,10 @@ i,birth,death,dim,nodes
 6439,2009,2100,2,Court;Jury;Trial (law)
 6440,2009,2100,2,Court;Jury;Conspiracy (crime)
 6441,2009,2100,2,Court;Jury;Blue ribbon jury
-6442,2009,2012,2,Court;Jury;Juror
-6443,2009,2012,2,Court;Jury;Court trial
-6444,2009,2012,2,Court;Jury;Jury box
-6445,2009,2012,2,Court;Jury;Jury panel
+6442,2009,2012,2,Criminal law;Jury trial;Prosecutor;Jury;Court;Juror;Blue ribbon jury;Jurisdiction
+6443,2009,2012,2,Court trial;Trial (law);Jury trial;Common law;Jury;Court;Tribunal;Law
+6444,2009,2012,2,Criminal law;Jury trial;Prosecutor;Jury box;Jury;Court;Blue ribbon jury;Jurisdiction
+6445,2009,2012,2,Criminal law;Jury trial;Prosecutor;Jury;Court;Blue ribbon jury;Jurisdiction;Jury panel
 6446,2009,2100,2,Court;Arbitration;Obligee
 6447,2009,2100,2,Prosecutor;Plea bargain;Juror
 6448,2009,2100,2,Prosecutor;Plea bargain;Jury box
@@ -6454,7 +6454,7 @@ i,birth,death,dim,nodes
 6452,2009,2100,2,Death penalty;Plea bargain;Jury panel
 6453,2010,2100,2,Legislature;Government;Authority
 6454,2010,2100,2,Law of the United States;Case law;United States Permanent Resident Card
-6455,2010,2020,2,Defendant;Plaintiff;Legal case
+6455,2010,2020,2,Defendant;Legal case;Criminal law;Trial (law);Civil law (common law);Lawsuit;Litigation;Common law;Court;Plaintiff;Prima facie;Legal;Jurisdiction;Law
 6456,2010,2100,2,Probate;Property;Legal
 6457,2010,2100,2,Legal process;Due process;Court trial
 6458,2010,2100,2,Crime;Grand jury;Blue ribbon jury
@@ -6510,8 +6510,8 @@ i,birth,death,dim,nodes
 6508,2012,2100,2,Will (law);Trust law;Entail
 6509,2012,2100,2,Property;Libel;Copyright infringement of software
 6510,2012,2100,2,Prosecution;Jury;Case law in the United States
-6511,2012,2013,2,Prosecution;Judge;Admission to the bar
-6512,2012,2013,2,Prosecution;Solicitor;Magistrate
+6511,2012,2013,2,Judge;Admission to the bar;Common law;Court;Prosecution;Tribunal;Law
+6512,2012,2013,2,Prosecutor;Magistrate;Common law;Admission to the bar;Court;Solicitor;Prosecution;Scots law;Law;Lawyer
 6513,2012,2100,2,Real property;Title search;Cloud on title
 6514,2012,2100,2,Crime;Libel;Misdemeanor
 6515,2012,2100,2,Criminal;Libel;Copyright infringement of software
@@ -6689,18 +6689,18 @@ i,birth,death,dim,nodes
 6687,2016,2100,2,Executive (government);Claim against a governmental agency;Council of State (France)
 6688,2016,2100,2,Settlor;Constructive trust;Living trust
 6689,2016,2100,2,Prerogative writ;Claim against a governmental agency;Mandamus
-6690,2017,2021,2,Jurisdiction;Last will and testament;Testate
+6690,2017,2021,2,Testate;Last will and testament;Common law;Court;Will (law);Jurisdiction
 6691,2017,2100,2,Criminal law;Civil law (common law);Demurrer
 6692,2017,2100,2,Lawsuit;Eviction;Try title
-6693,2017,2021,2,Probate;Last will and testament;Holographic will
+6693,2017,2021,2,Last will and testament;Common law;Court;Will (law);Estate (law);Holographic will;Probate;Jurisdiction
 6694,2017,2100,2,Real property;Lessee;Try title
 6695,2017,2100,2,Pleading;Plaintiff;Creditor's claim
 6696,2017,2100,2,Plaintiff;Damages;Creditor's claim
 6697,2017,2100,2,English law;Agency (law);Employers' liability
-6698,2017,2021,2,Undue influence;Will contest;Last will and testament
-6699,2017,2021,2,Estate (law);Administrator (law);Last will and testament
-6700,2017,2021,2,Ademption;Testator;Last will and testament
-6701,2017,2021,2,Testator;Last will and testament;Forced heirship
+6698,2017,2021,2,Last will and testament;Common law;Will contest;Equity (law);Undue influence;Will (law);Estate (law);Probate
+6699,2017,2021,2,Administrator (law);Last will and testament;Common law;Court;Will (law);Estate (law)
+6700,2017,2021,2,Ademption;Testator;Last will and testament;Common law;Will (law);Estate (law);Probate
+6701,2017,2021,2,Testator;Last will and testament;Forced heirship;Will (law);Estate (law);Probate
 6702,2017,2100,2,Adverse possession;Ejectment;Try title
 6703,2017,2100,2,International human rights instruments;European Convention on Human Rights;Freedom of expression
 6704,2017,2100,2,International human rights instruments;European Convention on Human Rights;Free speech
@@ -6711,8 +6711,8 @@ i,birth,death,dim,nodes
 6709,2017,2100,2,Share (finance);Stock;Share certificate
 6710,2017,2100,2,Share (finance);Limited liability company;Stock certificate
 6711,2017,2100,2,Share (finance);Limited liability company;Corporations law
-6712,2017,2021,2,Beneficiary;Last will and testament;Holographic will
-6713,2017,2021,2,Will contest;Last will and testament;Testamentary capacity
+6712,2017,2021,2,Trust law;Beneficiary;Last will and testament;Will (law);Holographic will;Jurisdiction
+6713,2017,2021,2,Last will and testament;Common law;Testamentary capacity;Will contest;Will (law);Estate (law);Probate
 6714,2018,2100,2,Jurisdiction;Contract of sale;Obligee
 6715,2018,2100,2,Mortgage law;Real property;Personalty
 6716,2018,2100,2,Property;Real property;Assignee
@@ -6748,7 +6748,7 @@ i,birth,death,dim,nodes
 6746,2019,2100,2,Corporation;Living trust;Intangible property
 6747,2019,2100,2,Affirmative defense;Allegation;Legal burden of proof
 6748,2019,2100,2,Crime;Misdemeanor;Summary offence
-6749,2019,2020,2,Evidence (law);Legal;Legal burden of proof
+6749,2019,2020,2,Litigation;Legal burden of proof;Evidence (law);Court;Legal;Jurisdiction
 6750,2019,2100,2,Evidence (law);Trial (law);Legal burden of proof
 6751,2019,2100,2,Evidence (law);Legal burden of proof;Court trial
 6752,2019,2100,2,Equity (law);Legal burden of proof;Guarantees

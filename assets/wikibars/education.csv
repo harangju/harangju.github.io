@@ -1,79 +1,79 @@
 i,birth,death,dim,nodes
 0,-8000,2100,0,Biliteracy
-1,-8000,-7999,0,Literacy
-2,-6600,-1650,0,Music
-3,-2600,1960,0,Esalen Institute
-4,-2200,1800,0,Program evaluation
-5,-900,1777,0,Corporal punishment
-6,-700,1960,0,Optics
-7,-385,-384,0,Academy
-8,100,500,0,Boarding school
-9,108,1502,0,The Dalton School
-10,127,1991,0,Board of education
-11,130,1765,0,Gifted education
-12,130,400,0,Distance education
-13,150,1800,0,Nurture
-14,165,597,0,Normal school
-15,326,1953,0,Encaenia
-16,401,1961,0,Community High School (Ann Arbor, Michigan)
-17,511,1501,0,Cliffsnotes
-18,605,1800,0,Imperial examination
-19,650,1792,0,United States Academic Decathlon
-20,1088,1300,0,Studium Generale
+1,-8000,-7999,0,Biliteracy;Literacy
+2,-6600,-1650,0,Music;Numeracy
+3,-2600,1960,0,Trivium (education);Esalen Institute
+4,-2200,1800,0,Trivium (education);Program evaluation
+5,-900,1777,0,Trivium (education);Corporal punishment
+6,-700,1960,0,Trivium (education);Optics
+7,-385,-384,0,Academia;Academy
+8,100,500,0,Boarding school;Academia
+9,108,1502,0,Academia;The Dalton School
+10,127,1991,0,Board of education;Academia
+11,130,1765,0,Gifted education;Teaching
+12,130,400,0,Academia;Distance education
+13,150,1800,0,Nurture;University
+14,165,597,0,Academia;Normal school
+15,326,1953,0,Encaenia;Academia
+16,401,1961,0,Education;Community High School (Ann Arbor, Michigan)
+17,511,1501,0,Cliffsnotes;University
+18,605,1800,0,Education;Imperial examination
+19,650,1792,0,Education;United States Academic Decathlon
+20,1088,1300,0,Academia;Studium Generale
 21,1200,2100,0,Globalization
-22,1200,1801,0,Mnemonic
+22,1200,1801,0,Education;Mnemonic
 23,1248,2100,0,Forensics
-24,1347,1348,0,Occam's razor
-25,1347,1777,0,Occam's Razor
-26,1450,1954,0,Textbook
-27,1458,1502,0,Demyship
-28,1500,1800,0,Language education
-29,1509,1601,0,Obscurantism
-30,1600,1920,0,Democratic school
-31,1600,1930,0,Meta-analysis
-32,1600,1601,0,Reasoning
-33,1700,1935,0,Attention-deficit hyperactivity disorder
-34,1734,1952,0,Doctor of Canon Law
-35,1776,1800,0,Honor code
-36,1777,1778,0,Character education
-37,1786,1974,0,Repressed memory
-38,1798,1870,0,Adult high school
-39,1800,1935,0,Decay theory
-40,1800,1942,0,Peer pressure
-41,1800,2012,0,Public lecture
-42,1800,1960,0,Sex education
-43,1800,1801,0,Connectionism
-44,1862,2020,0,Nobel Conference
-45,1880,1892,0,Forgetting curve
-46,1883,2020,0,University of Auckland Society
-47,1885,1886,0,Recollection
-48,1892,1957,0,Interference theory
-49,1893,1972,0,Childhood amnesia
-50,1898,1938,0,Psychology of learning
-51,1898,1964,0,School discipline
-52,1900,2008,0,Kohlberg's stages of moral development
-53,1915,1987,0,American Educational Research Association
-54,1920,1960,0,Mastery learning
-55,1926,1946,0,Method of focal objects
-56,1940,1951,0,Kinesthetic learning
-57,1945,1948,0,Peace education
-58,1949,1960,0,Taxonomy of Educational Objectives
-59,1953,1954,0,Simulated annealing
-60,1959,1960,0,Machine learning
-61,1960,1967,0,Logovisual thinking (LVT)
+24,1347,1348,0,Education;Occam's razor
+25,1347,1777,0,Occam's Razor;Secondary education
+26,1450,1954,0,Secondary education;Textbook
+27,1458,1502,0,Education;Demyship
+28,1500,1800,0,Language education;Academic degree
+29,1509,1601,0,Academia;Obscurantism
+30,1600,1920,0,Secondary education;Democratic school
+31,1600,1930,0,University;Meta-analysis
+32,1600,1601,0,Reasoning;Academia
+33,1700,1935,0,Attention-deficit hyperactivity disorder;Academic degree
+34,1734,1952,0,Doctor of Canon Law;Academia
+35,1776,1800,0,Academia;Honor code
+36,1777,1778,0,Character education;Academia
+37,1786,1974,0,Repressed memory;Educational psychology
+38,1798,1870,0,Adult high school;University
+39,1800,1935,0,Computer-based training;Decay theory
+40,1800,1942,0,Peer pressure;Academia
+41,1800,2012,0,Academia;Public lecture
+42,1800,1960,0,Academia;Sex education
+43,1800,1801,0,Education;Connectionism
+44,1862,2020,0,Nobel Conference;Academia
+45,1880,1892,0,Forgetting curve;Decay theory
+46,1883,2020,0,University of Auckland Society;Academia
+47,1885,1886,0,Recollection;Active learning
+48,1892,1957,0,Computer-based training;Interference theory
+49,1893,1972,0,Knowledge;Childhood amnesia
+50,1898,1938,0,Psychology of learning;Behaviorism
+51,1898,1964,0,School discipline;School
+52,1900,2008,0,Kohlberg's stages of moral development;Behaviorism
+53,1915,1987,0,Secondary education;American Educational Research Association
+54,1920,1960,0,Mastery learning;Instructional design
+55,1926,1946,0,Method of focal objects;Knowledge
+56,1940,1951,0,Education;Kinesthetic learning
+57,1945,1948,0,Peace education;Democratic school
+58,1949,1960,0,Taxonomy of Educational Objectives;Liberal arts
+59,1953,1954,0,Simulated annealing;Knowledge
+60,1959,1960,0,Machine learning;Academia
+61,1960,1967,0,Logovisual thinking (LVT);Algorithm of Inventive Problems Solving
 62,1960,2100,0,Availability heuristic
-63,1960,2015,0,Webinar
-64,1969,1970,0,Four stages of competence
-65,1970,2020,0,Laws of Technical Systems Evolution
-66,1970,1976,0,Mind map
+63,1960,2015,0,Academia;Webinar
+64,1969,1970,0,Four stages of competence;Punishment
+65,1970,2020,0,Algorithm of Inventive Problems Solving;Laws of Technical Systems Evolution
+66,1970,1976,0,Autism;Mind map
 67,1971,2100,0,Dual-coding theory
-68,1990,2020,0,Level of Invention
-69,1990,1991,0,Prospective memory
+68,1990,2020,0,Level of Invention;Algorithm of Inventive Problems Solving
+69,1990,1991,0,Prospective memory;Knowledge
 70,2020,2100,0,Distar
 71,2020,2100,0,Bilingual education
 72,2020,2100,0,Qualitative psychological research
-73,-330,400,1,Education;Teaching
-74,-330,400,1,Education;Math education
+73,-330,400,1,Music;Education;Academia;Teaching
+74,-330,400,1,Education;Academia;Music;Math education;Teaching;Trivium (education)
 75,-330,2100,1,Literacy;Teaching
 76,-329,2100,1,Scholarly method;Teaching
 77,-329,2100,1,Teaching;Postdoctoral researcher
@@ -81,7 +81,7 @@ i,birth,death,dim,nodes
 79,301,2100,1,Functional illiteracy;Reading (activity)
 80,500,2100,1,Biliteracy;Classics
 81,597,2100,1,Secondary education;Academy
-82,597,1950,1,Secondary education;Teaching
+82,597,1950,1,Secondary education;Academia;Liberal arts;Teaching
 83,597,2100,1,Secondary education;Education of girls and women
 84,1301,2100,1,Medieval university (Asia);Academy
 85,1348,2100,1,Occam's razor;Grounded theory (Strauss)
@@ -115,9 +115,9 @@ i,birth,death,dim,nodes
 113,1792,2100,1,Ivy League;Grade (education)
 114,1800,2100,1,Student;Social promotion
 115,1800,2100,1,Active learning;Computer-based training
-116,1800,2011,1,Active learning;Educational progressivism
+116,1800,2011,1,Educational progressivism;Pedagogy;Computer-based training;Active learning;Teaching;Academic degree;Education
 117,1800,2100,1,Behaviorism;Autism
-118,1800,1992,1,Agricultural education;Private school
+118,1800,1992,1,Private school;Secondary education;Agricultural education;Single-sex education
 119,1800,2100,1,Computer-based training;Distance education
 120,1800,2100,1,Computer-based training;Educational assessment
 121,1800,2100,1,Waldorf education;Standardized testing
@@ -125,7 +125,7 @@ i,birth,death,dim,nodes
 123,1800,2100,1,Norm-referenced test;Standardized testing
 124,1800,2100,1,Book flood;Reading education
 125,1801,2100,1,Language education;Second language acquisition
-126,1811,1954,1,Pro-vice-chancellor;Provost (education)
+126,1811,1954,1,Provost (education);Academic administration;University;Pro-vice-chancellor
 127,1830,2100,1,Disability;Standardized testing
 128,1834,2100,1,Tuition;Mature student
 129,1852,2100,1,Private school;Legality of homeschooling in the United States
@@ -145,7 +145,7 @@ i,birth,death,dim,nodes
 143,1881,2100,1,Dyslexia;Subvocalization
 144,1886,2100,1,Rote learning;Math education
 145,1886,2100,1,Rote learning;The Dalton School
-146,1892,1974,1,Forgetting curve;Retroactive interference
+146,1892,1974,1,Proactive interference;Retroactive interference;Forgetting curve;Decay theory
 147,1896,2100,1,Private school;Dsamun
 148,1900,2100,1,Educational psychology;Operant conditioning
 149,1900,2100,1,United States Department of Education;Infant Education
@@ -157,7 +157,7 @@ i,birth,death,dim,nodes
 155,1901,2100,1,Operant conditioning;Trial and error
 156,1901,2100,1,Law of effect;Trial and error
 157,1901,2100,1,Early childhood education;Froebel Gifts
-158,1902,1991,1,Private school;Independent school
+158,1902,1991,1,Private school;Secondary education;Independent school;Agricultural education
 159,1902,2100,1,Project-based learning;Creativity
 160,1907,2100,1,Legality of homeschooling in the United States;Outdoor education
 161,1907,2100,1,Outdoor education;Ropes course
@@ -168,10 +168,10 @@ i,birth,death,dim,nodes
 166,1922,2100,1,Edutainment;Disability
 167,1935,2100,1,Working memory;General intelligence factor
 168,1935,2100,1,Working memory;Reading Comprehension
-169,1935,1957,1,Working memory;Retroactive interference
-170,1940,1991,1,Free education;Comprehensive school
+169,1935,1957,1,Proactive interference;Retroactive interference;Working memory;Decay theory
+170,1940,1991,1,Secondary education;Independent school;Free education;Comprehensive school
 171,1940,2100,1,Nurture;Socialization
-172,1950,1954,1,Higher education;Provost (education)
+172,1950,1954,1,Academic administration;Academia;Provost (education);University;Higher education
 173,1950,2100,1,Training;Human Performance Technology
 174,1950,2100,1,Educational technology;Human Performance Technology
 175,1950,2100,1,Instructional design;Human Performance Technology
@@ -187,7 +187,7 @@ i,birth,death,dim,nodes
 185,1952,2100,1,Graduate school;Grade (education)
 186,1952,2100,1,Graduate school;Scholarship
 187,1952,2100,1,Graduate school;Teachers College
-188,1952,1953,1,Education;Further education
+188,1952,1953,1,Education;University;Tertiary education;Further education
 189,1952,2100,1,Advanced Placement Program;Homeschooling
 190,1952,2100,1,Advanced Placement Program;Standardized testing
 191,1953,2100,1,Education;List of colleges and universities by country
@@ -212,7 +212,7 @@ i,birth,death,dim,nodes
 210,1954,2100,1,Educational reform in occupied Japan;Rote learning
 211,1954,2100,1,Extracurricular Activity;United States Academic Decathlon
 212,1954,2100,1,Higher National Diploma;Higher Diploma
-213,1955,1991,1,Private school;School choice
+213,1955,1991,1,Private school;Secondary education;Compulsory education;Agricultural education;Homeschooling;School choice
 214,1955,2100,1,United States Department of Education;Alumnus/a
 215,1955,2100,1,Specialist degree;School psychologist
 216,1957,2100,1,Short-term memory;The Magical Number Seven, Plus or Minus Two
@@ -240,7 +240,7 @@ i,birth,death,dim,nodes
 238,1967,2100,1,Lateral thinking;Creativity
 239,1967,2100,1,Lateral thinking;Reasoning
 240,1968,2100,1,Lateral thinking;Creative problem solving
-241,1968,1971,1,Democratic school;Sudbury school
+241,1968,1971,1,Special education;Waldorf education;Alternative education;Curriculum;Democratic school;Sudbury school
 242,1968,2100,1,Democratic school;Sudbury Valley School
 243,1968,2100,1,Sudbury school;Grade (education)
 244,1968,2100,1,Teaching;Sudbury Valley School
@@ -250,7 +250,7 @@ i,birth,death,dim,nodes
 248,1970,2100,1,Second language acquisition;Computer Supported Cooperative Learning
 249,1970,2100,1,Pedagogy;Reggio Emilia approach
 250,1970,2100,1,School accreditation;Carnegie Classification of Institutions of Higher Education
-251,1970,2011,1,Problem-based learning;Computer Supported Cooperative Learning
+251,1970,2011,1,Pedagogy;Computer-based training;Educational psychology;Knowledge;Teaching;Problem-based learning;Computer Supported Cooperative Learning;Education
 252,1970,2100,1,Project-based learning;Computer Supported Cooperative Learning
 253,1970,2100,1,Computer Supported Cooperative Learning;Cooperative learning
 254,1970,2100,1,Computer Supported Cooperative Learning;Humanistic education
@@ -260,7 +260,7 @@ i,birth,death,dim,nodes
 258,1971,2100,1,Erhard Seminars Training;Landmark Education
 259,1973,2100,1,Long-term memory;Flashcard
 260,1973,2100,1,Interference theory;Peak-end rule
-261,1974,1991,1,Working memory;Memory
+261,1974,1991,1,Working memory;Long-term memory;Educational psychology;Knowledge;Teaching;Memory;Episodic memory
 262,1974,2100,1,Chunking (psychology);Memory
 263,1974,2100,1,Memory;Subvocalization
 264,1974,2100,1,Memory;Mnemonic
@@ -274,7 +274,7 @@ i,birth,death,dim,nodes
 272,1975,2100,1,Creativity;Gifted
 273,1975,2100,1,Gifted;Reasoning
 274,1975,2100,1,Sensory memory;Iconic memory
-275,1976,2009,1,Student;Lesson
+275,1976,2009,1,University;School;Student;Higher education;Education;Lesson
 276,1976,2100,1,Learning;Evolutionary educational psychology
 277,1976,2100,1,Instructional scaffolding;Taxonomy of Educational Objectives
 278,1976,2100,1,Reinforcement;Observational learning
@@ -309,15 +309,15 @@ i,birth,death,dim,nodes
 307,1989,2100,1,Undergraduate;Grade (education)
 308,1989,2100,1,Undergraduate;Matriculation
 309,1989,2100,1,Educational technology;Scorm
-310,1990,1994,1,Undergraduate;Postgraduate Diploma
+310,1990,1994,1,University;Postgraduate Diploma;Undergraduate;Teaching
 311,1990,2100,1,Graduate school;Latin honors
 312,1990,2100,1,School;Vocational school
-313,1990,1991,1,Apprenticeship;Dual education system
-314,1990,1991,1,Dual education system;Vocational school
-315,1991,1992,1,Public school (government funded);United States Department of Education
-316,1991,1992,1,Public school (government funded);Religious education
+313,1990,1991,1,Education;College;Dual education system;Apprenticeship
+314,1990,1991,1,Dual education system;Secondary education;Tertiary education;College;Vocational school
+315,1991,1992,1,Secondary education;Math education;Public school (government funded);United States Department of Education;Teaching
+316,1991,1992,1,Public school (government funded);Secondary education;Religious education;Teaching
 317,1991,2100,1,Public school (government funded);Dual education system
-318,1991,1992,1,Public school (government funded);Kindergarten
+318,1991,1992,1,Public school (government funded);Secondary education;Kindergarten;Teaching
 319,1992,2100,1,Dean (education);University-preparatory school
 320,1992,2100,1,Public school (government funded);School principal
 321,1992,2100,1,Boarding school;University-preparatory school

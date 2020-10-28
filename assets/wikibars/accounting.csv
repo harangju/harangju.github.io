@@ -1,19 +1,19 @@
 i,birth,death,dim,nodes
 0,-5000,2100,0,Interest
-1,-1968,1864,0,Spreadsheet
-2,-300,1974,0,History of accounting
-3,104,1870,0,International Accounting Standards Committee
-4,140,2020,0,Institute of Management Accountants
-5,1000,1001,0,Double-entry bookkeeping system
-6,1105,1314,0,Management Assertions
-7,1800,1975,0,Mark-to-market accounting
-8,1950,2020,0,Accounting research
-9,1970,1971,0,Accounting information system
-10,2001,2002,0,Goodwill (accounting)
+1,-1968,1864,0,Debt;Spreadsheet
+2,-300,1974,0,Investment;History of accounting
+3,104,1870,0,International Accounting Standards Committee;History of accounting
+4,140,2020,0,Institute of Management Accountants;Spreadsheet
+5,1000,1001,0,Spreadsheet;Double-entry bookkeeping system
+6,1105,1314,0,Management Assertions;Pricewaterhousecoopers
+7,1800,1975,0,Mark-to-market accounting;Investment
+8,1950,2020,0,Accounting research;Double-entry bookkeeping system
+9,1970,1971,0,Accounting information system;Double-entry bookkeeping system
+10,2001,2002,0,Current asset;Goodwill (accounting)
 11,1252,2100,1,Shareholder;Dividend
-12,1253,1975,1,Dividend;Treasury stock
+12,1253,1975,1,Treasury stock;Stock;Dividend;Shareholder
 13,1690,2100,1,Common stock;Preferred stock
-14,1690,1975,1,Common stock;Dividend
+14,1690,1975,1,Preferred stock;Stock;Dividend;Shareholder;Common stock
 15,1865,2100,1,Spreadsheet;Work sheet
 16,1968,2100,1,Creative accounting;Stock option
 17,1974,2100,1,Common stock;Diluted EPS
@@ -21,19 +21,19 @@ i,birth,death,dim,nodes
 19,1974,2100,1,Diluted EPS;Financial Accounting Standards Board
 20,1974,2100,1,Diluted EPS;International Financial Reporting Standards
 21,1975,2100,1,International Accounting Standards Board;Ownership equity
-22,1976,2003,1,International Accounting Standards Board;Liability (accounting)
+22,1976,2003,1,International Accounting Standards Board;Bond (finance);Stock;Liability (accounting);Ownership equity
 23,1977,2100,1,Income statement;Expense
 24,1977,2100,1,Dividend;Expense
 25,1978,2100,1,Depreciation;Income
 26,1978,2100,1,Depreciation;Equivalent Annual Cost
-27,1979,2003,1,Depreciation;Net income
+27,1979,2003,1,Net income;Bond (finance);Stock;Depreciation;Liability (accounting);Ownership equity
 28,1979,2100,1,Income statement;Net income
 29,1980,2100,1,Depreciation;Free cash flow
 30,1980,2100,1,Double-entry bookkeeping system;Retained earnings
-31,1980,2002,1,Double-entry bookkeeping system;Revenue
+31,1980,2002,1,Income statement;Net income;Bond (finance);Stock;Revenue;Double-entry bookkeeping system;General ledger;Ownership equity
 32,1980,2100,1,Common stock;Earnings per share
 33,1980,2100,1,Financial Accounting Standards Board;Earnings per share
-34,1980,2002,1,International Financial Reporting Standards;Revenue
+34,1980,2002,1,International Financial Reporting Standards;International Accounting Standards Board;Bond (finance);Stock;Revenue;Ownership equity
 35,1980,2100,1,Earnings before interest and taxes;Free cash flow
 36,1980,2100,1,Online Accounting;Payroll
 37,1981,2100,1,Depreciation;Fixed assets
@@ -46,7 +46,7 @@ i,birth,death,dim,nodes
 44,2002,2100,1,Depreciation;Book value
 45,2002,2100,1,Depreciation;Ebitda
 46,2003,2100,1,International Accounting Standards Board;Shareholders' equity
-47,2003,2020,1,Book value;Shareholders' equity
+47,2003,2020,1,Book value;Shareholders' equity;Stock;Shareholder;Financial accountancy;Retained earnings;Ownership equity
 48,2007,2100,1,Security (finance);Financial statements
 49,2007,2100,1,Financial statements;Debt
 50,2007,2100,1,Financial statements;Income
