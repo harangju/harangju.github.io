@@ -10,6 +10,7 @@ const width = 770,
   height_bar = 300;
 const year_min = 0,
   year_max = 2020;
+const margin = {top: 10, right: 20, bottom: 20, left: 40}
 
 const topics = ['cognitive science',
  'evolutionary biology', 'immunology',
@@ -64,7 +65,7 @@ let svg_bar = d3.select('.viz_bar')
   .attr('width', width)
   .attr('height', height_bar)
   .append('g')
-  .attr('transform', `translate(${5},${5})`);
+  .attr('transform', `translate(${margin.left},${-margin.bottom})`);
 
 let tooltip = d3.select('.viz_net')
   .append('div')
@@ -131,7 +132,8 @@ function load_network(topic) {
 
 let barcode;
 function load_barcode(topic) {
-  d3.csv(`/assets/wikibars/${'test'}.csv`, data => {
+  d3.csv(`/assets/wikibars/${'test'}.csv`).then(data => {
+    console.log(data);
     barcode = data;
     update_barcode();
   });
@@ -208,5 +210,39 @@ function mouseout(event) {
 // Barcodes
 
 function update_barcode() {
+  let x = d3.scaleLinear()
+    .domain(d3.extent(barcode, d => d.year))
+    .range([0, width-margin.right-margin.left]);
+  svg_bar.append('g')
+    .attr('transform', `translate(0,${height_bar})`)
+    .call(d3.axisBottom(x));
+  let y = d3.scaleLinear()
+    .domain(d3.extent(barcode, d => d.i))
+    .range([height_bar-margin.bottom, margin.top]);
+  svg_bar.append('g')
+    .attr('transform', `translate(0,${margin.bottom})`)
+    .call(d3.axisLeft(y).ticks(Number(d3.max(barcode, d => d.i))+1));
 
+  let series = barcode.map(d => {
+    return {key: d.i, values: barcode.columns.map(k => +d[k])}
+  });
+
+  console.log(series);
+
+  let res = series.map(d => d.key)
+  let color = d3.scaleOrdinal()
+    .domain(res)
+    .range(['#e41a1c','#377eb8','#4daf4a','#984ea3','#ff7f00','#ffff33']);
+
+  // let path = svg_bar.append('g')
+  //     .attr('fill', 'none')
+  //     .attr('stroke-width', 1.5)
+    // .selectAll('path')
+    // .data(barcode)
+    // .join('path')
+    //   .style('mix-blend-mode', 'multiply')
+    //   .attr('d', d => d3.line()
+    //     .x(d => x(d.year))
+    //     .y(d => y(d.i)))
+    //   .attr('stroke', 'steelblue');
 }
