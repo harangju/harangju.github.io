@@ -10,7 +10,7 @@ const width = 770,
   height_bar = 280;
 const year_min = -1000,
   year_max = 2020;
-const margin = {top: 20, right: 30, bottom: 18, left: 10};
+const margin = {top: 24, right: 30, bottom: 18, left: 10};
 const link_width = 0.4,
   link_width_on = 2;
 
@@ -155,12 +155,12 @@ function update_network() {
     .join('line');
   node = node.data(nodes)
     .join(enter => enter.append('circle')
-      .attr('r', d => (d.degree-rmin)/(rmax-rmin)*(tmax-tmin)+tmin)
       .on('mouseover', mouseover)
       .on('mousemove', mousemove)
       .on('mouseout', mouseout)
       .call(drag(simulation))
       .call(node => node.append('title').text(d => d.id)));
+  node.attr('r', d => (d.degree-rmin)/(rmax-rmin)*(tmax-tmin)+tmin)
   simulation.nodes(nodes)
   simulation.force('link').links(links)
   simulation.alpha(1).restart().tick();
