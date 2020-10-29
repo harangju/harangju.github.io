@@ -291,7 +291,7 @@ function hover(svg, path, x, y, series) {
     if (bar.death_nodes.length > 0 && bar.death_nodes[0].length > 0) {
       tooltip_bar.html(`<div style='color: red;'><b>Cavity:</b> `
         + `${bar.cavity.join(', ')}</div>`
-        + `<div style='color: green';><b>Closed by:</b> `
+        + `<div style='color: orange';><b>Closed by:</b> `
         + `${bar.death_nodes.join(', ')}</div>`);
     } else {
       tooltip_bar.html(`<div style='color: red;'><b>Cavity:</b> `
@@ -300,7 +300,7 @@ function hover(svg, path, x, y, series) {
     node
       .style('fill', d => {
         if (bar.death_nodes.indexOf(d.id) > -1) {
-          return 'green';
+          return 'orange';
         } else if (bar.cavity.indexOf(d.id) > -1) {
           return 'red';
         } else {
@@ -310,10 +310,10 @@ function hover(svg, path, x, y, series) {
     link
       .style('stroke', d => {
         if ((bar.death_nodes.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
-          return 'green';
+          return 'orange';
         } else if ((bar.cavity.indexOf(d.source.id) > -1) &&
          (bar.death_nodes.indexOf(d.target.id) > -1)) {
-           return 'green';
+           return 'orange';
         } else if ((bar.cavity.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
           return 'red';
         } else {
