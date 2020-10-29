@@ -6,9 +6,9 @@
 // TODO: https://observablehq.com/@d3/delaunay-find-zoom
 
 const width = 770,
-  height_net = 540,
+  height_net = 500,
   height_bar = 280;
-const year_min = 0,
+const year_min = -1000,
   year_max = 2020;
 const margin = {top: 20, right: 30, bottom: 18, left: 10};
 const link_width = 0.4,
@@ -52,10 +52,11 @@ let slider = d3.select('#year_slider')
   .attr('max', year_max)
   .attr('value', year_max)
   .on('change', function() {
-    update_network();
+
   })
   .on('input', function() {
     year_label.html(this.value);
+    update_network();
   });
 
 let svg_net = d3.select('.viz_net')
@@ -236,7 +237,8 @@ function update_barcode() {
         {year: d.birth, i: Number(d.i)+1},
         {year: d.death, i: Number(d.i)+1}
       ],
-      nodes: d.nodes.split(';')
+      cavity: d.cavity.split(';'),
+      death_nodes: d.death_nodes.split(';')
     };
   });
   let res = series.map(d => d.key);
@@ -286,14 +288,50 @@ function hover(svg, path, x, y, series) {
     path.style('opacity', d => d === bar ? 1 : 0.5);
     tooltip_bar.style('right', (width-pointer[0]+10) + 'px')
       .style('bottom', (height_bar-pointer[1]+10) + 'px');
-    tooltip_bar.html(bar.nodes.join(', '));
-    node.style('fill',
-      d => (bar.nodes.indexOf(d.id) > -1) ? 'red' : 'steelblue');
+    if (bar.death_nodes.length > 0 && bar.death_nodes[0].length > 0) {
+      tooltip_bar.html(`<div style='color: red;'><b>Cavity:</b> `
+        + `${bar.cavity.join(', ')}</div>`
+        + `<div style='color: green';><b>Closed by:</b> `
+        + `${bar.death_nodes.join(', ')}</div>`);
+    } else {
+      tooltip_bar.html(`<div style='color: red;'><b>Cavity:</b> `
+        + `${bar.cavity.join(', ')}</div><b>Still open.</b>`);
+    }
+    node
+      .style('fill', d => {
+        if (bar.death_nodes.indexOf(d.id) > -1) {
+          return 'green';
+        } else if (bar.cavity.indexOf(d.id) > -1) {
+          return 'red';
+        } else {
+          return 'steelblue';
+        }
+      });
     link
-      .style('stroke', d => (bar.nodes.indexOf(d.source.id) > -1) &&
-        (bar.nodes.indexOf(d.target.id) > -1) ? 'red' : 'steelblue')
-      .style('stroke-width', d => (bar.nodes.indexOf(d.source.id) > -1) &&
-        (bar.nodes.indexOf(d.target.id) > -1) ? link_width_on : link_width);
+      .style('stroke', d => {
+        if ((bar.death_nodes.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
+          return 'green';
+        } else if ((bar.cavity.indexOf(d.source.id) > -1) &&
+         (bar.death_nodes.indexOf(d.target.id) > -1)) {
+           return 'green';
+        } else if ((bar.cavity.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
+          return 'red';
+        } else {
+          return 'steelblue';
+        }
+      })
+      .style('stroke-width', d => {
+        if ((bar.death_nodes.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
+          return link_width_on;
+        } else if ((bar.cavity.indexOf(d.source.id) > -1) &&
+         (bar.death_nodes.indexOf(d.target.id) > -1)) {
+           return link_width_on;
+        } else if ((bar.cavity.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
+          return link_width_on;
+        } else {
+          return link_width;
+        }
+      });
   }
   function entered() {
     tooltip_bar.style('opacity', 1);
