@@ -1,7 +1,7 @@
 ---
 layout: page
 title: wikipedia networks
-description: visualizing knowledge gaps
+description: visualizing networks & knowledge gaps
 img: /assets/img/big_graph.jpg
 importance: 1
 ---
@@ -10,7 +10,7 @@ importance: 1
 <script defer src="/assets/js/wikinet_viz.js"></script>
 
 In my recent <a href='http://arxiv.org/abs/2010.08381' target='blank'>paper</a>,
- we use persistent homology to identify knowledge gaps. You can explore networks of hyperlinked science articles on Wikipedia.
+ we use persistent homology to identify knowledge gaps in networks of hyperlinked articles on Wikipedia. You can explore the networks and knowledge gaps that have been filled.
 
 <div class="container">
   <div class="row">
@@ -34,4 +34,7 @@ In my recent <a href='http://arxiv.org/abs/2010.08381' target='blank'>paper</a>,
   <div class="viz_bar" style="position: relative;"></div>
 </div>
 
-I have omitted some of the larger networks because the current D3 app is slow in handling larger (>1000 nodes) networks.
+##### Notes
+* I used [`dionysus2`](https://www.mrzv.org/software/dionysus2/) to calculate persistent homology.
+* [`dionysus2`](https://www.mrzv.org/software/dionysus2/) does not currently support finding representative cavities that are still open. So, for cavities that are still open, the visualization highlights only the nodes that are a part of the simplex that starts the cavity, without highlighting the whole cavity.
+* I have omitted some of the larger networks because the current D3 app is slow in handling larger (>1000 nodes) networks.
