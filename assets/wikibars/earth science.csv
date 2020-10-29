@@ -1,74 +1,74 @@
-i,birth,death,dim,nodes
-0,-4000,2100,0,Hydrology
-1,-3000,263,0,Hydrology;Physics
-2,-800,263,0,Physics;Geography
-3,-800,-799,0,Cartography;Geography
-4,100,200,0,Mesosphere;Geography
-5,132,1600,0,Geophysics;Geography
-6,132,1603,0,Seismology;Chemistry
-7,180,400,0,Geomorphology;Geography
-8,253,1603,0,Volcanology;Chemistry
-9,800,2013,0,New York, NY;Chemistry
-10,1926,2002,0,Planetary science;Holism
-11,1936,2013,0,Planetary science;Gravimetry
-12,1941,2013,0,Chelsea House Publishers;Planetary science
-13,2012,2013,0,Crystallography;Planetary science
-14,200,2013,1,Geoinformatics;Cartography;Geography;Earth (planet)
-15,263,2013,1,Oceanography;Geography;Surveying;Earth (planet);Physics;Chemistry
-16,400,2013,1,Oceanography;Geography;Science;Physics;Chemistry
-17,400,2013,1,Science;Cartography;Geography;Earth (planet)
-18,401,2004,1,Meteorology;Oceanography;Physics;Atmospheric physics;Chemistry
-19,1600,2013,1,Oceanography;Geography;Dynamo theory;Earth (planet);Physics;Chemistry
-20,1603,2002,1,Oceanography;Geography;Earth (planet);Geology;Chemistry
-21,1603,2013,1,Geography;Science;Earth (planet);Geochronology;Geology
-22,1603,2003,1,Geology;Oceanography;Geomorphology;Climatology
-23,1609,2013,1,Planetary science;Geophysics;Earth (planet);Magnetosphere;Geology
-24,1700,2013,1,Biogeography;Geography;Geology;Earth (planet)
-25,1735,2013,1,Biology;Earth (planet);Physics;Life;Geology;Chemistry
-26,1769,2013,1,Physical oceanography;Physics;Marine biology;Biology
-27,1832,2013,1,Geographical Information System;Cartography;Geography;Science
-28,1832,2013,1,Geographical Information System;Geography;Chemistry;Earth (planet);Physics;Geology;Surveying
-29,1832,1839,1,Hydrology;Oceanography;Geographical Information System;Geography
-30,1832,2013,1,Climatology;Planetary science;Geographical Information System;Oceanography;Geography;Earth (planet);Geology
-31,1839,2013,1,Planetary science;Geochemistry;Geography;Geostatistics;Earth (planet);Geology
-32,1839,2013,1,Geography;Geostatistics;Soil science;Earth (planet);Geology
-33,1900,1901,1,Magnetosphere;Plate tectonics;Geophysics;Earth (planet)
-34,1901,2013,1,Planetary science;Geochemistry;Plate tectonics;Earth (planet);Marine geology;Geology
-35,1901,2013,1,Plate tectonics;Earth (planet);Mineralogy;Geodynamics;Geology
-36,1901,2013,1,Structural geology;Historical geology;Plate tectonics;Earth (planet);Geology
-37,1901,2013,1,Physical oceanography;Plate tectonics;Earth (planet);Physics;Marine geology;Geology;Chemistry
-38,1902,2013,1,Geochemistry;Planetary science;Geophysics;Economic geology
-39,1902,2013,1,Planetary science;Geochemistry;Petrology;Economic geology;Geology
-40,1902,2013,1,Planetary science;Geochemistry;Economic geology;Mineralogy;Geology
-41,1902,2013,1,Planetary science;Structural geology;Geochemistry;Economic geology;Plate tectonics;Earth (planet);Geology
-42,1903,2013,1,Planetary science;Geomorphology;Geochemistry;Economic geology;Geology;Tectonics
-43,1904,2013,1,Planetary science;Magma;Geophysics;Volcanology;Geology
-44,1904,2013,1,Planetary science;Geochemistry;Geophysics;Economic geology;Magma;Tectonics
-45,1905,2013,1,Geomagnetic;Plate tectonics;Earth (planet);Geochronology;Geology
-46,1905,2013,1,Planetary science;Geomagnetic;Geophysics;Magma;Plate tectonics;Earth (planet);Geology
-47,1941,2001,1,Lithosphere;Geosphere;Geography;Earth (planet)
-48,1941,2013,1,Magnetosphere;Geosphere;Earth (planet);Lithosphere
-49,1941,2013,1,Planetary science;Lithosphere;Geosphere;Hydrology;Cryosphere;Earth (planet);Geology
-50,1942,2013,1,Geomicrobiology;Lithosphere;Geosphere;Earth (planet);Geology
-51,2002,2013,1,Chronology;Geography;Earth science;Science
-52,2002,2013,1,Pedosphere;Lithosphere;Chemistry;Earth science
-53,2002,2013,1,Planetary science;Biosphere;Hydrology;Earth science;Physical geography
-54,2002,2003,1,Planetary science;Climatology;Hydrology;Earth science;Physical geography
-55,2002,2013,1,Planetary science;Lithosphere;Soil science;Edaphology;Environmental geology;Earth science;Geology
-56,2002,2013,1,Planetary science;Lithosphere;Environmental geology;Earth science;Geology;Engineering geology
-57,2002,2013,1,Planetary science;Hydrogeology;Lithosphere;Environmental geology;Earth science;Geology
-58,2002,2013,1,Planetary science;Historical geology;Lithosphere;Environmental geology;Earth science;Geology
-59,2003,2013,1,Planetary science;Lithosphere;Pedology (soil study);Earth science;Geology
-60,2003,2013,1,Pedology (soil study);Lithosphere;Biology;Earth science
-61,2003,2013,1,Gemology;Geography;Earth science;Science
-62,2003,2013,1,Geodynamics;Plate tectonics;Geodesy;Earth science
-63,2003,2013,1,Planetary science;Geodesy;Geomorphology;Earth science;Geology
-64,2003,2013,1,Planetary science;Geodesy;Environmental science;Earth science;Geology
-65,2003,2013,1,Planetary science;Erosion;Earth science;Geology;Engineering geology
-66,2003,2013,1,Planetary science;Gemology;Mineralogy;Earth science;Geology
-67,2004,2013,1,Planetary science;Lithosphere;Magma;Geophysics;Crust (geology);Earth science
-68,2004,2013,1,Planetary science;Sedimentology;Erosion;Earth science;Stratigraphy;Geology
-69,2004,2013,1,Sedimentology;Plate tectonics;Erosion;Earth science;Marine geology
-70,2005,2013,1,Meridional flow;Atmospheric sciences;Planetary science;Earth science
-71,2003,2013,2,Climatology;Meteorology;Planetary science;Oceanography;Glaciology;Hydrology;Earth science
-72,2003,2013,2,Climatology;Meteorology;Planetary science;Geomorphology;Oceanography;Glaciology;Hydrology;Pedology (soil study);Earth science;Geology
+i,birth,death,dim,cavity,death_nodes
+0,-4000,2100,0,Hydrology,
+1,-3000,263,0,Physics;Hydrology,Oceanography
+2,-800,263,0,Physics;Geography,Oceanography
+3,-800,-799,0,Cartography;Geography,Geoinformatics
+4,100,200,0,Mesosphere;Geography,Earth (planet)
+5,132,1600,0,Geophysics;Geography,Magnetosphere
+6,132,1603,0,Seismology;Chemistry,Geology
+7,180,400,0,Geomorphology;Geography,Climatology
+8,253,1603,0,Volcanology;Chemistry,Geology
+9,800,2013,0,New York, NY;Chemistry,List of earth science topics (alphabetical)
+10,1926,2002,0,Holism;Planetary science,Earth science
+11,1936,2013,0,Gravimetry;Planetary science,List of earth science topics (alphabetical)
+12,1941,2013,0,Chelsea House Publishers;Planetary science,List of earth science topics (alphabetical)
+13,2012,2013,0,Crystallography;Planetary science,List of earth science topics (alphabetical)
+14,200,2013,1,Geoinformatics;Cartography;Geography;Earth (planet),List of earth science topics (alphabetical)
+15,263,2013,1,Physics;Earth (planet);Chemistry;Geography;Surveying;Oceanography,List of earth science topics (alphabetical)
+16,400,2013,1,Physics;Chemistry;Geography;Science;Oceanography,List of earth science topics (alphabetical)
+17,400,2013,1,Science;Cartography;Geography;Earth (planet),List of earth science topics (alphabetical)
+18,401,2004,1,Physics;Chemistry;Meteorology;Atmospheric physics;Oceanography,Atmospheric sciences
+19,1600,2013,1,Physics;Earth (planet);Chemistry;Geography;Dynamo theory;Oceanography,List of earth science topics (alphabetical)
+20,1603,2002,1,Geology;Chemistry;Earth (planet);Geography;Oceanography,Earth science
+21,1603,2013,1,Geochronology;Earth (planet);Geography;Science;Geology,List of earth science topics (alphabetical)
+22,1603,2003,1,Oceanography;Climatology;Geology;Geomorphology,Glaciology
+23,1609,2013,1,Earth (planet);Geophysics;Magnetosphere;Planetary science;Geology,List of earth science topics (alphabetical)
+24,1700,2013,1,Geology;Biogeography;Geography;Earth (planet),List of earth science topics (alphabetical)
+25,1735,2013,1,Physics;Earth (planet);Chemistry;Biology;Geology;Life,List of earth science topics (alphabetical)
+26,1769,2013,1,Biology;Physical oceanography;Physics;Marine biology,List of earth science topics (alphabetical)
+27,1832,2013,1,Science;Cartography;Geographical Information System;Geography,List of earth science topics (alphabetical)
+28,1832,2013,1,Physics;Earth (planet);Chemistry;Geographical Information System;Geography;Surveying;Geology,List of earth science topics (alphabetical)
+29,1832,1839,1,Oceanography;Geographical Information System;Geography;Hydrology,Geostatistics
+30,1832,2013,1,Geology;Climatology;Earth (planet);Geographical Information System;Geography;Planetary science;Oceanography,List of earth science topics (alphabetical)
+31,1839,2013,1,Earth (planet);Geostatistics;Geography;Geochemistry;Planetary science;Geology,List of earth science topics (alphabetical)
+32,1839,2013,1,Soil science;Earth (planet);Geostatistics;Geography;Geology,List of earth science topics (alphabetical)
+33,1900,1901,1,Plate tectonics;Geophysics;Magnetosphere;Earth (planet),Earth's magnetic field
+34,1901,2013,1,Plate tectonics;Earth (planet);Geochemistry;Marine geology;Planetary science;Geology,List of earth science topics (alphabetical)
+35,1901,2013,1,Plate tectonics;Earth (planet);Geodynamics;Geology;Mineralogy,List of earth science topics (alphabetical)
+36,1901,2013,1,Historical geology;Structural geology;Plate tectonics;Earth (planet);Geology,List of earth science topics (alphabetical)
+37,1901,2013,1,Physical oceanography;Physics;Plate tectonics;Earth (planet);Chemistry;Marine geology;Geology,List of earth science topics (alphabetical)
+38,1902,2013,1,Geophysics;Economic geology;Geochemistry;Planetary science,List of earth science topics (alphabetical)
+39,1902,2013,1,Economic geology;Petrology;Geochemistry;Planetary science;Geology,List of earth science topics (alphabetical)
+40,1902,2013,1,Economic geology;Geochemistry;Planetary science;Geology;Mineralogy,List of earth science topics (alphabetical)
+41,1902,2013,1,Economic geology;Structural geology;Plate tectonics;Earth (planet);Geochemistry;Planetary science;Geology,List of earth science topics (alphabetical)
+42,1903,2013,1,Tectonics;Economic geology;Geochemistry;Planetary science;Geology;Geomorphology,List of earth science topics (alphabetical)
+43,1904,2013,1,Geophysics;Volcanology;Magma;Planetary science;Geology,List of earth science topics (alphabetical)
+44,1904,2013,1,Tectonics;Economic geology;Geophysics;Magma;Geochemistry;Planetary science,List of earth science topics (alphabetical)
+45,1905,2013,1,Geochronology;Plate tectonics;Earth (planet);Geomagnetic;Geology,List of earth science topics (alphabetical)
+46,1905,2013,1,Plate tectonics;Earth (planet);Geophysics;Magma;Geomagnetic;Planetary science;Geology,List of earth science topics (alphabetical)
+47,1941,2001,1,Lithosphere;Geography;Geosphere;Earth (planet),Biosphere
+48,1941,2013,1,Lithosphere;Magnetosphere;Geosphere;Earth (planet),List of earth science topics (alphabetical)
+49,1941,2013,1,Lithosphere;Hydrology;Earth (planet);Cryosphere;Geosphere;Planetary science;Geology,List of earth science topics (alphabetical)
+50,1942,2013,1,Earth (planet);Geosphere;Lithosphere;Geomicrobiology;Geology,List of earth science topics (alphabetical)
+51,2002,2013,1,Science;Earth science;Geography;Chronology,List of earth science topics (alphabetical)
+52,2002,2013,1,Lithosphere;Pedosphere;Chemistry;Earth science,List of earth science topics (alphabetical)
+53,2002,2013,1,Hydrology;Earth science;Physical geography;Planetary science;Biosphere,List of earth science topics (alphabetical)
+54,2002,2003,1,Climatology;Hydrology;Earth science;Physical geography;Planetary science,Glaciology
+55,2002,2013,1,Soil science;Lithosphere;Environmental geology;Earth science;Planetary science;Geology;Edaphology,List of earth science topics (alphabetical)
+56,2002,2013,1,Environmental geology;Earth science;Engineering geology;Lithosphere;Geology;Planetary science,List of earth science topics (alphabetical)
+57,2002,2013,1,Hydrogeology;Environmental geology;Earth science;Lithosphere;Geology;Planetary science,List of earth science topics (alphabetical)
+58,2002,2013,1,Historical geology;Environmental geology;Earth science;Lithosphere;Geology;Planetary science,List of earth science topics (alphabetical)
+59,2003,2013,1,Earth science;Lithosphere;Geology;Planetary science;Pedology (soil study),List of earth science topics (alphabetical)
+60,2003,2013,1,Lithosphere;Pedology (soil study);Biology;Earth science,List of earth science topics (alphabetical)
+61,2003,2013,1,Gemology;Science;Geography;Earth science,List of earth science topics (alphabetical)
+62,2003,2013,1,Geodynamics;Plate tectonics;Geodesy;Earth science,List of earth science topics (alphabetical)
+63,2003,2013,1,Geodesy;Earth science;Planetary science;Geology;Geomorphology,List of earth science topics (alphabetical)
+64,2003,2013,1,Geodesy;Earth science;Environmental science;Geology;Planetary science,List of earth science topics (alphabetical)
+65,2003,2013,1,Erosion;Earth science;Engineering geology;Planetary science;Geology,List of earth science topics (alphabetical)
+66,2003,2013,1,Earth science;Gemology;Geology;Planetary science;Mineralogy,List of earth science topics (alphabetical)
+67,2004,2013,1,Geophysics;Crust (geology);Magma;Earth science;Lithosphere;Planetary science,List of earth science topics (alphabetical)
+68,2004,2013,1,Erosion;Sedimentology;Earth science;Stratigraphy;Planetary science;Geology,List of earth science topics (alphabetical)
+69,2004,2013,1,Plate tectonics;Erosion;Sedimentology;Earth science;Marine geology,List of earth science topics (alphabetical)
+70,2005,2013,1,Meridional flow;Earth science;Atmospheric sciences;Planetary science,List of earth science topics (alphabetical)
+71,2003,2013,2,Climatology;Hydrology;Glaciology;Meteorology;Earth science;Planetary science;Oceanography,List of earth science topics (alphabetical)
+72,2003,2013,2,Geology;Climatology;Hydrology;Glaciology;Meteorology;Earth science;Planetary science;Oceanography;Geomorphology;Pedology (soil study),List of earth science topics (alphabetical)

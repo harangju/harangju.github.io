@@ -1,56 +1,56 @@
-i,birth,death,dim,nodes
-0,-465,2100,0,Justitium
-1,-343,1950,0,Aristotle
-2,120,1869,0,International Association for Philosophy of Law and Social Philosophy
-3,400,1500,0,Jurisprudence
-4,1252,2100,0,Torture
-5,1300,2100,0,Postglossator
-6,1500,1588,0,Sovereignty
-7,1500,2100,0,Monarchomachs
-8,1580,2100,0,Nicolas Barnaud
-9,1700,1900,0,Law and economics
-10,1800,1900,0,Pandectists
-11,1800,1949,0,Positivism
-12,1879,1880,0,Wesley Newcomb Hohfeld
-13,1895,1899,0,Felix Kaufmann
-14,1908,2100,0,Muhammad Hamidullah
-15,1909,2007,0,Learned Hand
-16,1928,2100,0,Geojurisprudence
-17,1931,1958,0,Leon Petrazycki
-18,1968,1969,0,Strict constructionism
-19,1976,2007,0,Robert Alexy
-20,1996,2100,0,Earth jurisprudence
-21,2020,2100,0,Legalism (theology)
-22,1588,2100,1,Aristotle;Thomas Hobbes
-23,1588,2100,1,Thomas Hobbes;Hugo Grotius
-24,1600,2100,1,Plato;Justice
-25,1601,2100,1,Justice;Public policy doctrine (conflict of laws)
-26,1632,2100,1,John Locke;Rule of law
-27,1716,2100,1,Emerich de Vattel;Gottfried Leibniz
-28,1748,2100,1,Plato;Lorenzo Peña
-29,1800,2100,1,Retributive justice;Justice
-30,1888,2100,1,Carl Schmitt;Immanuel Kant
-31,1889,2100,1,Rule of law;Rechtsstaat
-32,1899,2100,1,John Locke;Friedrich von Hayek
-33,1899,2100,1,Friedrich von Hayek;Law, Legislation and Liberty
-34,1900,1959,1,Legal realism;Oliver Wendell Holmes, Jr.
-35,1907,2100,1,John Rawls;H. L. A. Hart
-36,1907,1958,1,H. L. A. Hart;Jeremy Bentham
-37,1920,2100,1,Hans Kelsen;Immanuel Kant
-38,1949,2100,1,Textualism;The Case of the Speluncean Explorers
-39,1950,2100,1,State of exception;Rule of law
-40,1950,2100,1,State of exception;Sovereignty
-41,1955,2100,1,John Rawls;American Society for Political and Legal Philosophy
-42,1959,2100,1,Analytical jurisprudence;Legal formalism
-43,1959,2100,1,Rule of law;Scepticism in law
-44,1960,1981,1,Legal positivism;Critical legal studies
-45,1961,2100,1,H. L. A. Hart;Prediction theory of law
-46,1980,2100,1,Critical legal studies;Critical race theory
-47,1981,2100,1,Rule of law;International legal theory
-48,1990,2100,1,Rule of law;Indeterminacy debate in legal theory
-49,2007,2100,1,António Castanheira Neves;Ronald Dworkin
-50,2007,2100,1,Ronald Dworkin;Indeterminacy debate in legal theory
-51,2020,2100,1,Interpretivism (legal);Original meaning
-52,2020,2100,1,Norm (philosophy);Basic norm
-53,1958,2100,2,Legal positivism;Lon L. Fuller;The Case of the Speluncean Explorers
-54,1959,2100,2,Analytical jurisprudence;H. L. A. Hart;Jeremy Bentham
+i,birth,death,dim,cavity,death_nodes
+0,-465,2100,0,Justitium,
+1,-343,1950,0,Justitium;Aristotle,State of exception
+2,120,1869,0,International Association for Philosophy of Law and Social Philosophy;Aristotle,Fritz Berolzheimer
+3,400,1500,0,Jurisprudence;Aristotle,Natural law
+4,1252,2100,0,Torture,
+5,1300,2100,0,Postglossator,
+6,1500,1588,0,Jurisprudence;Sovereignty,Thomas Hobbes
+7,1500,2100,0,Monarchomachs,
+8,1580,2100,0,Nicolas Barnaud,
+9,1700,1900,0,Natural law;Law and economics,Oliver Wendell Holmes, Jr.
+10,1800,1900,0,Natural law;Pandectists,Oliver Wendell Holmes, Jr.
+11,1800,1949,0,Positivism;Natural law,The Case of the Speluncean Explorers
+12,1879,1880,0,Wesley Newcomb Hohfeld;Jurisprudence,Corelative
+13,1895,1899,0,Felix Kaufmann;Carl Schmitt,Friedrich von Hayek
+14,1908,2100,0,Muhammad Hamidullah,
+15,1909,2007,0,Learned Hand;Jurisprudence,Ronald Dworkin
+16,1928,2100,0,Geojurisprudence,
+17,1931,1958,0,Natural law;Leon Petrazycki,Legal positivism
+18,1968,1969,0,Natural law;Strict constructionism,Declarationism
+19,1976,2007,0,Jurisprudence;Robert Alexy,Ronald Dworkin
+20,1996,2100,0,Earth jurisprudence,
+21,2020,2100,0,Legalism (theology),
+22,1588,2100,1,Aristotle;Thomas Hobbes,
+23,1588,2100,1,Thomas Hobbes;Hugo Grotius,
+24,1600,2100,1,Plato;Justice,
+25,1601,2100,1,Justice;Public policy doctrine (conflict of laws),
+26,1632,2100,1,John Locke;Rule of law,
+27,1716,2100,1,Emerich de Vattel;Gottfried Leibniz,
+28,1748,2100,1,Plato;Lorenzo Peña,
+29,1800,2100,1,Retributive justice;Justice,
+30,1888,2100,1,Carl Schmitt;Immanuel Kant,
+31,1889,2100,1,Rule of law;Rechtsstaat,
+32,1899,2100,1,John Locke;Friedrich von Hayek,
+33,1899,2100,1,Friedrich von Hayek;Law, Legislation and Liberty,
+34,1900,1959,1,Oliver Wendell Holmes, Jr.;Jurisprudence;Natural law;Legal realism,Scepticism in law
+35,1907,2100,1,John Rawls;H. L. A. Hart,
+36,1907,1958,1,Jurisprudence;Natural law;H. L. A. Hart;Jeremy Bentham,Legal positivism
+37,1920,2100,1,Hans Kelsen;Immanuel Kant,
+38,1949,2100,1,Textualism;The Case of the Speluncean Explorers,
+39,1950,2100,1,State of exception;Rule of law,
+40,1950,2100,1,State of exception;Sovereignty,
+41,1955,2100,1,John Rawls;American Society for Political and Legal Philosophy,
+42,1959,2100,1,Analytical jurisprudence;Legal formalism,
+43,1959,2100,1,Rule of law;Scepticism in law,
+44,1960,1981,1,Natural law;Legal realism;Legal positivism;Jurisprudence;Critical legal studies,International legal theory
+45,1961,2100,1,H. L. A. Hart;Prediction theory of law,
+46,1980,2100,1,Critical legal studies;Critical race theory,
+47,1981,2100,1,Rule of law;International legal theory,
+48,1990,2100,1,Rule of law;Indeterminacy debate in legal theory,
+49,2007,2100,1,António Castanheira Neves;Ronald Dworkin,
+50,2007,2100,1,Ronald Dworkin;Indeterminacy debate in legal theory,
+51,2020,2100,1,Interpretivism (legal);Original meaning,
+52,2020,2100,1,Norm (philosophy);Basic norm,
+53,1958,2100,2,Legal positivism;Lon L. Fuller;The Case of the Speluncean Explorers,
+54,1959,2100,2,Analytical jurisprudence;H. L. A. Hart;Jeremy Bentham,

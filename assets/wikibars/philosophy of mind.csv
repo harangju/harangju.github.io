@@ -1,38 +1,38 @@
-i,birth,death,dim,nodes
-0,-400,2100,0,Philosophy of mind
-1,1705,1880,0,David Hartley (philosopher)
-2,1714,1924,0,Chinese room
-3,1830,2020,0,Instrumentalism
-4,1851,1900,0,Alexius Meinong
-5,1859,1880,0,Henri Bergson
-6,1994,2019,0,Association for the Scientific Study of Consciousness
-7,2009,2019,0,Conscience
-8,301,2100,1,Idealism;Naïve realism
-9,1873,1923,1,Idealism;George Edward Moore
-10,1900,2100,1,Philosophy of perception;Hilary Putnam
-11,1900,2100,1,Hilary Putnam;Edmund Husserl
-12,1902,2100,1,Philosophy of perception;Wilfrid Sellars
-13,1923,2100,1,Physicalism;Edmund Husserl
-14,1926,2100,1,David Malet Armstrong;Australian materialism
-15,1932,2018,1,John Searle;Chinese room
-16,1936,2100,1,Turing test;John Searle
-17,1951,2018,1,René Descartes;Noam Chomsky
-18,1951,2100,1,Gilbert Harman;Noam Chomsky
-19,1970,2100,1,Philosophy of mind;Embodied philosophy
-20,1970,2100,1,Gilbert Harman;Naming and Necessity
-21,1970,2100,1,David Kellogg Lewis;Naming and Necessity
-22,1970,2100,1,David Kellogg Lewis;Mad pain and Martian pain
-23,1991,2018,1,John Searle;Multiple Drafts Model
-24,1991,2018,1,Qualia;Multiple Drafts Model
-25,1991,2018,1,Physicalism;Multiple Drafts Model
-26,2019,2100,1,Consciousness;Duration (Bergson)
-27,2020,2100,1,Mind;Subjective idealism
-28,2020,2100,1,Brain in a vat;Gilbert Harman
-29,2020,2100,1,Monism;Reflexive monism
-30,2020,2100,1,Personal identity;Self (philosophy)
-31,2020,2100,1,Privileged access;Self (philosophy)
-32,2018,2100,2,John Searle;Mind;Noam Chomsky
-33,2019,2100,2,Consciousness;Qualia;Multiple Drafts Model
-34,2019,2100,2,Gottfried Leibniz;Mind;Parallelism (philosophy)
-35,2020,2100,2,Direct realism;Qualia;Hilary Putnam
-36,2020,2100,2,Direct realism;Qualia;Eliminative materialism
+i,birth,death,dim,cavity,death_nodes
+0,-400,2100,0,Philosophy of mind,
+1,1705,1880,0,David Hartley (philosopher);Philosophy of mind,William James
+2,1714,1924,0,Chinese room;Philosophy of mind,Functionalism (philosophy of mind)
+3,1830,2020,0,Instrumentalism;Philosophy of mind,Direct realism
+4,1851,1900,0,Alexius Meinong;Philosophy of mind,Gilbert Ryle
+5,1859,1880,0,Philosophy of mind;Henri Bergson,William James
+6,1994,2019,0,Association for the Scientific Study of Consciousness;Philosophy of mind,Consciousness
+7,2009,2019,0,Conscience;Philosophy of mind,Consciousness
+8,301,2100,1,Idealism;Naïve realism,
+9,1873,1923,1,George Edward Moore;Dualism (philosophy of mind);Philosophy of mind;Idealism,Physicalism
+10,1900,2100,1,Philosophy of perception;Hilary Putnam,
+11,1900,2100,1,Hilary Putnam;Edmund Husserl,
+12,1902,2100,1,Philosophy of perception;Wilfrid Sellars,
+13,1923,2100,1,Physicalism;Edmund Husserl,
+14,1926,2100,1,David Malet Armstrong;Australian materialism,
+15,1932,2018,1,John Searle;Chinese room;Philosophy of mind;Functionalism (philosophy of mind),Mind
+16,1936,2100,1,Turing test;John Searle,
+17,1951,2018,1,Hilary Putnam;Alan Turing;Philosophy of mind;Noam Chomsky;René Descartes,Mind
+18,1951,2100,1,Gilbert Harman;Noam Chomsky,
+19,1970,2100,1,Philosophy of mind;Embodied philosophy,
+20,1970,2100,1,Gilbert Harman;Naming and Necessity,
+21,1970,2100,1,David Kellogg Lewis;Naming and Necessity,
+22,1970,2100,1,David Kellogg Lewis;Mad pain and Martian pain,
+23,1991,2018,1,René Descartes;John Searle;Multiple Drafts Model;Philosophy of mind,Mind
+24,1991,2018,1,Multiple Drafts Model;Philosophy of mind;Daniel Dennett;Qualia;René Descartes,Mind
+25,1991,2018,1,René Descartes;Physicalism;Multiple Drafts Model;Philosophy of mind,Mind
+26,2019,2100,1,Consciousness;Duration (Bergson),
+27,2020,2100,1,Mind;Subjective idealism,
+28,2020,2100,1,Brain in a vat;Gilbert Harman,
+29,2020,2100,1,Monism;Reflexive monism,
+30,2020,2100,1,Personal identity;Self (philosophy),
+31,2020,2100,1,Privileged access;Self (philosophy),
+32,2018,2100,2,John Searle;Mind;Noam Chomsky,
+33,2019,2100,2,Consciousness;Qualia;Multiple Drafts Model,
+34,2019,2100,2,Gottfried Leibniz;Mind;Parallelism (philosophy),
+35,2020,2100,2,Direct realism;Qualia;Hilary Putnam,
+36,2020,2100,2,Direct realism;Qualia;Eliminative materialism,

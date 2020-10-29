@@ -1,75 +1,75 @@
-i,birth,death,dim,nodes
-0,-200,2100,0,Negative feedback
-1,100,101,0,Pendulum;Negative feedback
-2,100,101,0,Pendulum;Electronic oscillator
-3,900,1609,0,Rotational energy;Oscillation
-4,946,1696,0,Oscillation;Liénard's theorem
-5,1000,1600,0,Oscillation;Ballistics
-6,1600,1601,0,Equation of motion;Centrifugal governor
-7,1800,1899,0,Pendulum;Population dynamics
-8,1848,1900,0,Perturbation theory;Negative feedback
-9,1905,1906,0,Random walk;Dynamical system
-10,1950,2008,0,Dynamical system;System dynamics
-11,1951,2100,0,Autoregressive–moving-average model
-12,1964,2008,0,Sharkovskii's theorem;Dynamical system
-13,1989,2100,0,Swarm intelligence
-14,2020,2100,0,Tetration
-15,1601,1602,1,Mechanical equilibrium;Oscillation;Equation of motion;Pendulum;Classical mechanics
-16,1659,2100,1,Equation of motion;Centripetal force
-17,1736,2100,1,Angular momentum;Rotational energy
-18,1737,2100,1,Torque;Equation of motion
-19,1772,2100,1,Orbit;Lagrange point
-20,1788,2100,1,Lagrangian mechanics;Lagrange point
-21,1801,2100,1,Control theory;Inverted pendulum
-22,1801,2100,1,Feedback;Inverted pendulum
-23,1801,2100,1,Torque;Inverted pendulum
-24,1801,2100,1,Dynamics (mechanics);Inverted pendulum
-25,1826,2100,1,Electronic oscillator;Rlc circuit
-26,1826,2100,1,Rlc circuit;Harmonic oscillator
-27,1826,2100,1,Rlc circuit;Resonance
-28,1880,2100,1,Chaos theory;Equation of motion
-29,1881,2100,1,Control theory;Positive feedback
-30,1890,2100,1,Resonance;Rotational inertia
-31,1890,2100,1,Kinematics;Rotational inertia
-32,1891,2100,1,Chaos theory;Double pendulum
-33,1891,2100,1,Ordinary differential equation;Double pendulum
-34,1899,2100,1,Dynamical system;Chaos theory
-35,1899,2100,1,Dynamical system;Control theory
-36,1899,1900,1,Liénard's theorem;Control theory;Differential equation;Dynamical system
-37,1899,2100,1,Dynamical system;Lagrange point
-38,1900,2100,1,Differential equation;Partial differential equation
-39,1900,2100,1,Ordinary differential equation;Autonomous system (mathematics)
-40,1900,2100,1,Classical mechanics;Isolated physical system
-41,1900,2100,1,Feedback;Metastability
-42,1900,2100,1,Feedback;Non-linear control
-43,1900,2100,1,Mandelbrot set;Julia set
-44,1900,2100,1,Almost periodic function;Orbit
-45,1900,2100,1,Fatou set;Complex dynamics
-46,1900,2100,1,Julia set;Complex dynamics
-47,1900,2100,1,Julia set;Perturbation theory
-48,1901,2100,1,Arithmetic dynamics;Julia set
-49,1901,2100,1,Control theory;Numerical ordinary differential equations
-50,1901,2100,1,Numerical ordinary differential equations;Hamiltonian mechanics
-51,1902,2100,1,Linear differential equation;Laplace transform applied to differential equations
-52,1919,2100,1,Feedback;Oscillator
-53,1919,2100,1,Oscillator;Dynamics (mechanics)
-54,1922,2100,1,Ergodic theory;Topological dynamical system
-55,1922,2100,1,Symbolic dynamics;Topological dynamical system
-56,1975,2100,1,Bifurcation diagram;Feigenbaum constant
-57,1975,2100,1,Feigenbaum constant;Mandelbrot set
-58,1982,2100,1,Lorenz attractor;Ordinary differential equation
-59,2008,2100,1,Dynamical systems and chaos theory;Classical mechanics
-60,2008,2100,1,Dynamical systems and chaos theory;Stochastic differential equation
-61,2008,2100,1,Dynamical systems and chaos theory;Arithmetic dynamics
-62,2008,2100,1,Dynamical systems and chaos theory;Feedback
-63,2008,2100,1,Dynamical systems and chaos theory;Oscillation
-64,2011,2100,1,Flywheel;Rotational inertia
-65,2020,2100,1,Linear system;Floquet theory
-66,2020,2100,1,Graph dynamical system;Sequential dynamical system
-67,2020,2100,1,Damping;Rlc circuit
-68,2020,2100,1,Limit cycle;Liénard's theorem
-69,2020,2100,1,Limit cycle;Topological dynamical system
-70,2020,2100,1,Axis of rotation;Rotational inertia
-71,2020,2100,1,Axis of rotation;Nutation
-72,2020,2100,1,Angular velocity;Lagrange point
-73,2020,2100,2,Angular acceleration;Angular velocity;Rotational inertia
+i,birth,death,dim,cavity,death_nodes
+0,-200,2100,0,Negative feedback,
+1,100,101,0,Pendulum;Negative feedback,Oscillation
+2,100,101,0,Pendulum;Electronic oscillator,Oscillation
+3,900,1609,0,Rotational energy;Oscillation,Celestial mechanics
+4,946,1696,0,Oscillation;Liénard's theorem,Ordinary differential equation
+5,1000,1600,0,Oscillation;Ballistics,Classical mechanics
+6,1600,1601,0,Equation of motion;Centrifugal governor,Centrifugal force
+7,1800,1899,0,Pendulum;Population dynamics,Dynamical system
+8,1848,1900,0,Perturbation theory;Negative feedback,Fatou set
+9,1905,1906,0,Random walk;Dynamical system,Deterministic system (mathematics)
+10,1950,2008,0,Dynamical system;System dynamics,Dynamical systems and chaos theory
+11,1951,2100,0,Autoregressive–moving-average model,
+12,1964,2008,0,Sharkovskii's theorem;Dynamical system,Dynamical systems and chaos theory
+13,1989,2100,0,Swarm intelligence,
+14,2020,2100,0,Tetration,
+15,1601,1602,1,Mechanical equilibrium;Oscillation;Equation of motion;Pendulum;Classical mechanics,Harmonic oscillator
+16,1659,2100,1,Equation of motion;Centripetal force,
+17,1736,2100,1,Angular momentum;Rotational energy,
+18,1737,2100,1,Torque;Equation of motion,
+19,1772,2100,1,Orbit;Lagrange point,
+20,1788,2100,1,Lagrangian mechanics;Lagrange point,
+21,1801,2100,1,Control theory;Inverted pendulum,
+22,1801,2100,1,Feedback;Inverted pendulum,
+23,1801,2100,1,Torque;Inverted pendulum,
+24,1801,2100,1,Dynamics (mechanics);Inverted pendulum,
+25,1826,2100,1,Electronic oscillator;Rlc circuit,
+26,1826,2100,1,Rlc circuit;Harmonic oscillator,
+27,1826,2100,1,Rlc circuit;Resonance,
+28,1880,2100,1,Chaos theory;Equation of motion,
+29,1881,2100,1,Control theory;Positive feedback,
+30,1890,2100,1,Resonance;Rotational inertia,
+31,1890,2100,1,Kinematics;Rotational inertia,
+32,1891,2100,1,Chaos theory;Double pendulum,
+33,1891,2100,1,Ordinary differential equation;Double pendulum,
+34,1899,2100,1,Dynamical system;Chaos theory,
+35,1899,2100,1,Dynamical system;Control theory,
+36,1899,1900,1,Liénard's theorem;Control theory;Differential equation;Dynamical system,Stability theory
+37,1899,2100,1,Dynamical system;Lagrange point,
+38,1900,2100,1,Differential equation;Partial differential equation,
+39,1900,2100,1,Ordinary differential equation;Autonomous system (mathematics),
+40,1900,2100,1,Classical mechanics;Isolated physical system,
+41,1900,2100,1,Feedback;Metastability,
+42,1900,2100,1,Feedback;Non-linear control,
+43,1900,2100,1,Mandelbrot set;Julia set,
+44,1900,2100,1,Almost periodic function;Orbit,
+45,1900,2100,1,Fatou set;Complex dynamics,
+46,1900,2100,1,Julia set;Complex dynamics,
+47,1900,2100,1,Julia set;Perturbation theory,
+48,1901,2100,1,Arithmetic dynamics;Julia set,
+49,1901,2100,1,Control theory;Numerical ordinary differential equations,
+50,1901,2100,1,Numerical ordinary differential equations;Hamiltonian mechanics,
+51,1902,2100,1,Linear differential equation;Laplace transform applied to differential equations,
+52,1919,2100,1,Feedback;Oscillator,
+53,1919,2100,1,Oscillator;Dynamics (mechanics),
+54,1922,2100,1,Ergodic theory;Topological dynamical system,
+55,1922,2100,1,Symbolic dynamics;Topological dynamical system,
+56,1975,2100,1,Bifurcation diagram;Feigenbaum constant,
+57,1975,2100,1,Feigenbaum constant;Mandelbrot set,
+58,1982,2100,1,Lorenz attractor;Ordinary differential equation,
+59,2008,2100,1,Dynamical systems and chaos theory;Classical mechanics,
+60,2008,2100,1,Dynamical systems and chaos theory;Stochastic differential equation,
+61,2008,2100,1,Dynamical systems and chaos theory;Arithmetic dynamics,
+62,2008,2100,1,Dynamical systems and chaos theory;Feedback,
+63,2008,2100,1,Dynamical systems and chaos theory;Oscillation,
+64,2011,2100,1,Flywheel;Rotational inertia,
+65,2020,2100,1,Linear system;Floquet theory,
+66,2020,2100,1,Graph dynamical system;Sequential dynamical system,
+67,2020,2100,1,Damping;Rlc circuit,
+68,2020,2100,1,Limit cycle;Liénard's theorem,
+69,2020,2100,1,Limit cycle;Topological dynamical system,
+70,2020,2100,1,Axis of rotation;Rotational inertia,
+71,2020,2100,1,Axis of rotation;Nutation,
+72,2020,2100,1,Angular velocity;Lagrange point,
+73,2020,2100,2,Angular acceleration;Angular velocity;Rotational inertia,

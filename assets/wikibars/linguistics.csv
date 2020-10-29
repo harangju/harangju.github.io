@@ -1,465 +1,465 @@
-i,birth,death,dim,nodes
-0,-8000,2100,0,Writing
-1,-2800,-2600,0,Syllable;Writing
-2,-600,-499,0,Grammatical aspect;Language
-3,-522,-500,0,Language;Etymology
-4,-522,-500,0,Etymologist;Language
-5,1200,1201,0,Profanity;Part of speech
-6,1200,1962,0,Split infinitive;Grammar
-7,1700,2021,0,Language;Double acute accent
-8,1900,1962,0,Acronym;Language
-9,1920,1964,0,Language;General semantics
-10,2020,2100,0,Semantic feature
-11,-500,-300,1,Linguistics;Language;Linguist;Phonetics
-12,-500,1700,1,Linguistics;Language;Linguist;Etymology
-13,-500,445,1,Language;Linguist;Linguistic layers;Etymology
-14,-499,1800,1,Linguistics;Linguist;Phonetics;Anthropological linguistics
-15,-499,1800,1,Linguistics;Linguist;Phonetics;Linguistic typology
-16,-499,-300,1,Linguistics;Language;Linguist;Phoneme
-17,-499,2021,1,Linguistics;Language;Anthropological linguistics;Linguistic layers
-18,-499,445,1,Language;Linguist;Linguistic layers;Linguistic typology
-19,-499,1800,1,Syllable;Phoneme;Alphabet;Prosody (linguistics);Linguistics
-20,-499,2100,1,Oxytone;Paroxytone
-21,-498,1800,1,Syllable;Phoneme;Alphabet;Linguistics;Phone (phonetics)
-22,-497,2100,1,Phone (phonetics);Phonetic transcription
-23,-399,1961,1,Linguistics;Language;Philosophy of language;Speech act
-24,-398,2100,1,Natural language;Onomatopoeia
-25,-398,2100,1,Etymologist;Onomatopoeia
-26,-300,1800,1,Syllable;Phoneme;Alphabet;Phonology;Linguistics
-27,-300,1800,1,Linguistics;Rhetoric;Grammar;History of linguistics
-28,109,2100,1,Neologism;Linguistic layers
-29,109,2100,1,Neologism;Etymologist
-30,400,1800,1,Linguistics;Linguist;Phonetics;Corpus linguistics
-31,400,1600,1,Language;Linguist;Linguistic layers;Corpus linguistics
-32,400,1800,1,Linguistics;Scientific;Rhetoric;Grammar
-33,445,2020,1,Phonation;Indo-european languages;Phonetics;Language;Linguistics
-34,445,1700,1,Linguistics;Language;Indo-european languages;Part of speech
-35,445,2100,1,Indo-european languages;Cuneiform (script)
-36,445,1638,1,Etymologist;Linguistics;Indo-european languages;Part of speech
-37,800,2100,1,Cryptanalysis;Linguistic layers
-38,1500,1800,1,Language education;Linguistics;Linguist;Phonetics
-39,1500,1941,1,Language education;Linguistics;Language;Linguistic layers
-40,1500,1959,1,Linguistics;Creole language;Phoneme;Grammar
-41,1500,2021,1,Language families and languages;Language;Grammar;Linguistics;Creole language
-42,1632,1634,1,Linguistics;Linguist;Semiotics;Syntax
-43,1632,1634,1,Linguistics;Semiotics;Syntax;Linguistic layers
-44,1633,2100,1,Semiotics;Articulatory gestures
-45,1633,2100,1,Articulatory gestures;Phonemics
-46,1634,2100,1,Sentence (linguistics);Punctuation
-47,1635,1964,1,Adverbial;Syntax;Language;Grammar;Linguistics;Sentence (linguistics)
-48,1635,1961,1,Adverbial;Syntax;Language;Adjunct (grammar);Grammar;Linguistics
-49,1636,1639,1,Linguistics;Subject (grammar);Noun;Sentence (linguistics)
-50,1636,2100,1,Subject (grammar);T-v distinction
-51,1637,2100,1,Phrase;Noun phrase
-52,1637,1963,1,Subject (grammar);Noun;Noun phrase;Syntax;Language;Adjective;Subject–object–verb;Linguistic typology;Linguistics;Sentence (linguistics)
-53,1638,1961,1,Noun phrase;Adjective;Subject–verb–object;Grammar;Linguistic typology;Linguistics
-54,1638,1961,1,Noun phrase;Adpositional phrase;Syntax;Language;Adjective;Linguistics
-55,1638,2100,1,Subject–verb–object;V2 word order
-56,1639,2100,1,Adpositional phrase;Time–manner–place
-57,1700,2100,1,Vowel harmony;Ablaut
-58,1700,1962,1,Indo-european languages;Preterite;Language;Ablaut;Grammar;Linguistics;Grammatical tense
-59,1779,2100,1,Speech synthesis;Prosody (linguistics)
-60,1800,2100,1,Sociolinguistics;T-v distinction
-61,1800,1860,1,Grammatical aspect;List of linguistic topics;Grammatical tense;Grammatical number
-62,1800,2100,1,Linguist;Outline of linguistics
-63,1800,1860,1,Linguistics;Grammatical number;List of linguistic topics;Linguistics basic topics
-64,1801,1864,1,Allophone;International Phonetic Alphabet;Phoneme;Alveolar consonant
-65,1801,2015,1,Syllable;International Phonetic Alphabet;Phonetics;Consonant;Articulatory phonetics
-66,1802,1962,1,Dictionary;Terminology;Language;Linguistics;Translation
-67,1802,2100,1,International Phonetic Alphabet;Glottal stop
-68,1802,2015,1,Syllable;Bilabial consonant;International Phonetic Alphabet;Phonetics;Consonant
-69,1802,2015,1,Syllable;Fricative consonant;Phonation;International Phonetic Alphabet;Indo-european languages;Phonetics;Consonant
-70,1802,2015,1,Syllable;International Phonetic Alphabet;Labiodental consonant;Phonetics;Consonant
-71,1802,2015,1,Syllable;International Phonetic Alphabet;Phonetics;Consonant;Liquid consonant
-72,1802,2015,1,Syllable;Place of articulation;Phonation;International Phonetic Alphabet;Phonetics;Consonant
-73,1802,2100,1,Phonetic transcription;Romanization
-74,1803,2100,1,Indo-european languages;Velar consonant
-75,1803,2022,1,Syllable;Postalveolar consonant;Phonology;Consonant
-76,1803,2100,1,Consonant;Affricate consonant
-77,1806,2100,1,Fricative consonant;Great consonant shift
-78,1859,2100,1,Morphology (linguistics);Polysynthetic language
-79,1859,1860,1,Linguistics;Adjective;Noun phrase;Morphology (linguistics)
-80,1860,2100,1,Sound change;I-mutation
-81,1860,2100,1,Vowel harmony;I-mutation
-82,1861,1962,1,Morpheme;Grammatical mood;Inflection;Indo-european languages;Affix;Grammar;Grammatical tense
-83,1862,1879,1,Historical linguistics;Indo-european languages;Consonant;Vowel;Ablaut;Velar consonant
-84,1863,2100,1,Tone (linguistics);Schwa
-85,1863,2015,1,Syllable;Phonation;International Phonetic Alphabet;Phonetics;Consonant;Slack voice
-86,1864,2100,1,Indo-european languages;Stop consonant
-87,1864,2015,1,Syllable;International Phonetic Alphabet;Phonetics;Consonant;Nasal consonant
-88,1864,2100,1,Stop consonant;Great consonant shift
-89,1875,2100,1,Sound change;Verner's law
-90,1875,2100,1,Great consonant shift;Verner's law
-91,1889,2100,1,Neologism;Back-formation
-92,1889,2100,1,Affix;Back-formation
-93,1900,1901,1,Semivowel;International Phonetic Alphabet;Phonetics;Vowel;Cardinal vowel
-94,1900,2100,1,Vowel;Minimal pair
-95,1901,2100,1,Grammar;Government (linguistics)
-96,1901,2015,1,Rounded vowel;International Phonetic Alphabet;Phoneme;Phonetics;Allophone
-97,1901,2100,1,Indo-european languages;Rounded vowel
-98,1929,2100,1,False cognate;False friend
-99,1929,1964,1,Etymologist;Linguistics;False friend;False cognate
-100,1940,1962,1,Linguistics;Language;Word sense disambiguation;Sentence (linguistics)
-101,1950,2100,1,Linguist;Natural language processing
-102,1950,1960,1,Linguist;Natural language processing;Phonetics;Linguistic layers
-103,1952,2100,1,Decipherment;Cuneiform (script)
-104,1958,2100,1,Clefting;Phrase structure rules
-105,1959,2100,1,Adjunct (grammar);Dislocation (syntax)
-106,1959,2100,1,Clefting;Dislocation (syntax)
-107,1960,2100,1,Semantics;T-v distinction
-108,1960,2100,1,Language acquisition;Irregular verb
-109,1960,1967,1,Inflection;Morphology (linguistics);Historical linguistics;Preterite;Ablaut;Linguistics;Psycholinguistics;Grammatical tense;Irregular verb
-110,1960,1963,1,Inflection;Historical linguistics;Preterite;Ablaut;Grammatical tense;Irregular verb
-111,1960,2100,1,Dental consonant;Irregular verb
-112,1961,2100,1,Phonetics;Radical (Chinese character)
-113,1961,1962,1,Linguistics;Language;Pragmatics;Word sense disambiguation
-114,1961,2100,1,Lexicography;Radical (Chinese character)
-115,1961,2100,1,Inflection;Transformational-generative grammar
-116,1961,2100,1,Inflection;Prefix (linguistics)
-117,1961,2100,1,Inflection;Radical (Chinese character)
-118,1961,1963,1,Preposition;Grammatical mood;Inflection;Grammatical number;Syntax
-119,1961,1962,1,Grammatical case;Inflection;Subject (grammar);Grammar;Grammatical tense;Grammatical voice
-120,1961,2100,1,Consonant;Prefix (linguistics)
-121,1961,2100,1,Vowel harmony;Preposition
-122,1961,1965,1,Telicity;Preposition;Grammatical mood;Declension;Inflection;Syntax;Linguistics
-123,1962,2100,1,Discourse;Presupposition
-124,1962,2100,1,Applied linguistics;Speech therapy
-125,1962,2100,1,Grammatical case;Abessive case
-126,1962,2021,1,Speech therapy;Phonetics;Language;Speech processing;Linguistics;Speech synthesis
-127,1962,2100,1,Manner of articulation;Speech therapy
-128,1962,2100,1,Affix;Inessive case
-129,1962,2100,1,Adessive case;Inessive case
-130,1963,2100,1,Scientific;Nomenclature
-131,1963,2100,1,Morpheme;Pleonasm
-132,1963,2100,1,Grammatical voice;Case in tiers
-133,1963,2100,1,Lexeme;Back-formation
-134,1963,2100,1,Presupposition;Coherence (linguistics)
-135,1963,2100,1,Presupposition;Hermeneutics
-136,1963,2100,1,Consonant;Article (grammar)
-137,1963,2100,1,Vowel harmony;Adposition
-138,1963,2100,1,Infinitive;Instructive case
-139,1963,2100,1,Noun phrase;Case in tiers
-140,1963,1964,1,Linguistics;False friend;Loanword;Etymology
-141,1963,2100,1,Case in tiers;Ergative case
-142,1963,2100,1,Exegesis;Hermeneutics
-143,1964,2100,1,Dictionary;Synonym
-144,1964,2100,1,Grammatical voice;Auxiliary verb
-145,1964,2100,1,Lexeme;Synonym
-146,1964,2100,1,Subject (grammar);Object–verb–subject
-147,1964,2100,1,Subject (grammar);Verb–object–subject
-148,1964,2021,1,Natural language understanding;Language;Linguistics;Natural language processing;Speech recognition;Semantics
-149,1964,2100,1,Machine translation;Natural language understanding
-150,1964,2100,1,Natural language understanding;Phrase structure rules
-151,1964,2100,1,Preposition;X-bar theory
-152,1964,1966,1,Verb;Inflection;Aorist;Indo-european languages;Preterite;Fusional language;Morphology (linguistics);Perfect (grammar)
-153,1964,2100,1,Nominative case;Quirky subject
-154,1964,2100,1,Noun;Initial-stress-derived noun
-155,1964,2100,1,Dative case;Thou
-156,1964,2100,1,Calque;T-v distinction
-157,1964,2100,1,Conjunct;Grammatical conjunction
-158,1965,2100,1,Morphology (linguistics);Agglutinative language
-159,1965,2100,1,Inflection;Suppletion
-160,1965,2015,1,Syllable;International Phonetic Alphabet;Phoneme;Metathesis (linguistics)
-161,1965,2100,1,Syllable;Agglutination
-162,1965,2100,1,Syllable;Superlative
-163,1965,2100,1,Lexicon;Metathesis (linguistics)
-164,1965,2100,1,Lexicon;Colloquialism
-165,1965,2100,1,Lexicon;Idiom
-166,1965,2100,1,Machine translation;Hypernym
-167,1965,2100,1,Machine translation;Hyponym
-168,1965,2100,1,Machine translation;Idiom
-169,1965,2100,1,Vowel harmony;Agglutination
-170,1965,2100,1,Pidgin;Onomatopoeia
-171,1965,2100,1,Genitive case;Dual grammatical number
-172,1965,2100,1,Adjective;Expletive attributive
-173,1965,2100,1,Copula (linguistics);Agglutinative language
-174,1965,2100,1,Uninflected word;Interjection
-175,1965,2100,1,Past tense;Homonym
-176,1965,2100,1,Capitonym;Homonym
-177,1965,2100,1,Superlative;Pleonasm
-178,1965,2100,1,Dual grammatical number;Vocative case
-179,1965,2100,1,Meaning (linguistic);Idiom
-180,1965,2100,1,Verbal noun;Supine
-181,1966,2100,1,Allophone;Vowel stems
-182,1966,2100,1,Vowel harmony;Postposition
-183,1966,2100,1,Synthetic language;Auxiliary verb
-184,1966,2100,1,Vocative case;Vowel stems
-185,1967,2100,1,Linguistic typology;Analytic language
-186,1967,2100,1,Variety (linguistics);Slang
-187,1967,2100,1,Interjection;Syntactic categories
-188,1982,2100,1,Vowel;Spiritus asper
-189,1997,2100,1,Alphabet;Abugida
-190,1998,2100,1,Language families and languages;Language isolate
-191,2008,2015,1,Syllable;International Phonetic Alphabet;Phoneme;Diphthong
-192,2012,2100,1,Subject (grammar);Impersonal verb
-193,2014,2015,1,Phonation;International Phonetic Alphabet;Creaky voice;Phonetics;Phoneme
-194,2015,2020,1,List of phonetics topics;Morpheme;Constructed language;International Phonetic Alphabet;Phonetics;Breathy voice;Allophone;Language;Morphology (linguistics)
-195,2015,2100,1,Tone (linguistics);Breathy voice
-196,2015,2100,1,List of phonetics topics;Vowel harmony
-197,2015,2100,1,Breathy voice;Copula (linguistics)
-198,2016,2100,1,Allophone;Guttural consonant
-199,2017,2100,1,Cognate;Will (verb)
-200,2017,2100,1,Thou;Will (verb)
-201,2019,2100,1,Dialect;Sound change
-202,2019,2020,1,Constructed language;International Phonetic Alphabet;Dialect;Prosody (linguistics);Language
-203,2019,2100,1,Dialect;Cognate
-204,2019,2100,1,Dialect;T-v distinction
-205,2020,2100,1,Pragmatics;Tonal language
-206,2020,2100,1,List of linguistic topics;Prescription and description
-207,2020,2100,1,Stylistics (linguistics);Present tense
-208,2020,2100,1,Stylistics (linguistics);Accent (sociolinguistics)
-209,2020,2021,1,Linguistics;List of linguistic topics;Prescription and description;Linguistics basic topics
-210,2020,2100,1,Grammatical number;Areal feature (linguistics)
-211,2020,2100,1,Entailment;Linguistics basic topics
-212,2020,2100,1,Entailment;Implication (pragmatics)
-213,2020,2100,1,Ipa chart for English;Linguistics basic topics
-214,2020,2100,1,Ideogram;Writing systems
-215,2020,2100,1,Ideogram;Linguistics basic topics
-216,2020,2100,1,Dialect;Areal feature (linguistics)
-217,2020,2100,1,Ecolinguistics;Paradigm
-218,2020,2100,1,Language attrition;Linguistic layers
-219,2020,2100,1,Language attrition;Second language
-220,2020,2100,1,Click consonant;Areal feature (linguistics)
-221,2020,2100,1,Glottal stop;Speech communication
-222,2020,2100,1,Tonal language;Abugida
-223,2020,2100,1,Infinitive;Areal feature (linguistics)
-224,2020,2100,1,Germanic umlaut;Weak suppletion
-225,2020,2100,1,Pronunciation;Speech disorder
-226,2020,2100,1,Adposition;Prepositional phrase
-227,2020,2100,1,Prepositional phrase;Postposition
-228,2020,2100,1,Prepositional phrase;Clefting
-229,2021,2100,1,Transcription (linguistics);Diacritic
-230,2021,2100,1,Sampa;List of cognitive science topics
-231,2021,2100,1,List of cognitive science topics;General semantics
-232,2021,2100,1,List of cognitive science topics;Profanity
-233,2021,2100,1,List of cognitive science topics;Tongue-twister
-234,2021,2100,1,Acronym;Diacritic
-235,2021,2100,1,Noun;Diacritic
-236,2021,2100,1,Diacritic;Homonym
-237,2022,2100,1,Linguistic relativity;Unsolved problems in linguistics
-238,2022,2100,1,Diacritic;Breve
-239,2022,2100,1,Loanword;Circumflex
-240,2022,2100,1,Language isolate;Unsolved problems in linguistics
-241,2023,2100,1,Orthography;Rhotics
-242,2023,2100,1,Infinitive;Rhotics
-243,2023,2100,1,Breve;Macron (diacritic)
-244,-300,1960,2,Writing;Phonetics;Linguistic layers;Language;Linguist;Phonology;Grammar
-245,-300,1959,2,Syntax;Language;Linguist;Phonology;Grammar;Linguistics
-246,-300,1959,2,Linguistic layers;Syntax;Language;Phonology;Grammar;Linguistics
-247,-300,2100,2,Phonology;Phoneme;Linguistic layers
-248,1600,2100,2,Translation;Machine translation;Linguistic layers
-249,1600,2100,2,Linguistic typology;Machine translation;Linguistic layers
-250,1700,2100,2,Language families and languages;Indo-european languages;Historical-comparative linguistics
-251,1779,2100,2,Sentence (linguistics);Speech synthesis;Linguistic layers
-252,1800,2100,2,Sociolinguistics;List of linguistic topics;Linguist
-253,1800,1961,2,Phonetics;Linguist;List of linguistic topics;Sociolinguistics;Linguistics;Linguistics basic topics
-254,1800,2100,2,Corpus linguistics;Linguist;Linguistics basic topics
-255,1800,1901,2,Syntax;Language;Linguist;Neurolinguistics;List of linguistic topics;Grammar;Linguistics
-256,1800,1900,2,Phonetics;Neurolinguistics;List of linguistic topics;Linguist;Linguistics;Linguistics basic topics
-257,1800,1853,2,Historical linguistics;Language;Linguist;Neurolinguistics;List of linguistic topics;Linguistics
-258,1800,1853,2,Historical linguistics;Language;Linguist;Neurolinguistics;Linguistics;Linguistics basic topics
-259,1800,1941,2,Language education;Phonetics;Linguist;List of linguistic topics;Linguistics;Linguistics basic topics
-260,1800,2100,2,Semiotics;List of linguistic topics;Linguist
-261,1800,1960,2,Semiotics;Phonetics;Linguist;List of linguistic topics;Linguistics;Linguistics basic topics
-262,1800,2021,2,Language families and languages;Historical linguistics;Constructed language;Language;List of linguistic topics;Linguistics
-263,1800,2100,2,Scientific;Rhetoric;Linguistics basic topics
-264,1800,2100,2,Linguist;Anthropological linguistics;Linguistics basic topics
-265,1800,2100,2,Linguist;Linguistic typology;Linguistics basic topics
-266,1800,2021,2,Language families and languages;Historical linguistics;Constructed language;Language;Linguistics;Linguistics basic topics
-267,1800,2100,2,Rhetoric;History of linguistics;Linguistics basic topics
-268,1800,2100,2,Phoneme;Sound change;Linguistic layers
-269,1800,2100,2,Syllable;Alphabet;Linguistics basic topics
-270,1800,2100,2,Indo-european languages;Comparative method;Ablaut
-271,1800,2100,2,Indo-european languages;Comparative method;Etymologist
-272,1800,2100,2,Sound change;Comparative method;Linguistic layers
-273,1800,2100,2,Sound change;Comparative method;Etymologist
-274,1801,2100,2,Lexicography;List of linguistic topics;Linguist
-275,1801,1964,2,Phonetics;Linguist;List of linguistic topics;Lexicography;Linguistics;Linguistics basic topics
-276,1801,2100,2,Translation;Linguist;Transcription (linguistics)
-277,1801,2100,2,Translation;Transcription (linguistics);Linguistic layers
-278,1853,2100,2,Universal grammar;Evolutionary linguistics;Linguist
-279,1853,2100,2,Universal grammar;Evolutionary linguistics;Linguistic layers
-280,1859,2100,2,Grammar;Morphology (linguistics);Linguist
-281,1859,2100,2,Grammar;Morphology (linguistics);Linguistic layers
-282,1859,2100,2,Morphology (linguistics);Linguist;Consonant
-283,1859,2100,2,Morphology (linguistics);Writing systems;Linguistic layers
-284,1860,2100,2,Morphology (linguistics);Morpheme;Writing systems
-285,1860,2100,2,Stratificational linguistics;Morpheme;Linguistics basic topics
-286,1860,2100,2,Morpheme;Alphabet;Writing systems
-287,1860,2100,2,Morpheme;Alphabet;Linguistics basic topics
-288,1860,1963,2,Inflection;Morphology (linguistics);List of linguistic topics;Grammar;Linguistics;Grammatical tense;Linguistics basic topics
-289,1860,2100,2,Inflection;Noun;Part of speech
-290,1860,2100,2,Grammatical gender;Indo-european languages;Pronoun
-291,1861,2100,2,Phoneme;Tone (linguistics);Writing systems
-292,1861,2100,2,Phoneme;Tone (linguistics);Linguistics basic topics
-293,1863,2100,2,Syllable;International Phonetic Alphabet;Semivowel
-294,1900,2021,2,Theoretical linguistics;Phonetics;Linguistic layers;Language;Phonology;Linguistics
-295,1900,1901,2,Theoretical linguistics;Morphology (linguistics);Linguistic layers;Syntax;Language;Linguistics
-296,1900,2100,2,Theoretical linguistics;Universal grammar;Linguist
-297,1900,2100,2,Theoretical linguistics;Universal grammar;Linguistic layers
-298,1900,2100,2,Phoneme;Minimal pair;Phonemics
-299,1901,2100,2,Linguist;Linguistic typology;Descriptive linguistics
-300,1901,2100,2,Linguist;Text linguistics;Descriptive linguistics
-301,1901,2100,2,Linguistic typology;Descriptive linguistics;Linguistic layers
-302,1901,2100,2,Text linguistics;Descriptive linguistics;Linguistic layers
-303,1930,2100,2,Tagmemics;Morpheme;Linguistics basic topics
-304,1930,2100,2,Tagmemics;Phoneme;Phone (phonetics)
-305,1931,2100,2,Psycholinguistics;Sentence (linguistics);Linguistic layers
-306,1940,2100,2,Corpus linguistics;Machine translation;Word sense disambiguation
-307,1951,1960,2,Theoretical linguistics;Etymology;Language;Linguist;List of linguistic topics;Linguistics;Philology
-308,1951,2100,2,Comparative linguistics;Philology;Etymologist
-309,1960,2100,2,Semantics;Context (language use);Linguistic layers
-310,1960,2100,2,Computational linguistics;Linguist;Speech recognition
-311,1960,2021,2,Theoretical linguistics;Phonetics;Linguistic layers;Language;Computational linguistics;Linguistics;Speech recognition
-312,1960,2100,2,Translation;Linguist;Speech recognition
-313,1960,2100,2,Translation;Speech recognition;Linguistic layers
-314,1960,2100,2,Speech recognition;Speech processing;Linguistic layers
-315,1961,2100,2,Truth condition;Sentence (linguistics);Linguistic layers
-316,1961,2021,2,Sociolinguistics;Linguistic layers;Language;Pragmatics;Linguistics;Semantics
-317,1961,2100,2,Morphology (linguistics);Grammatical case;Linguistics basic topics
-318,1961,2100,2,Morphology (linguistics);Grammatical case;Preposition
-319,1961,2100,2,Corpus linguistics;Discourse;Linguist
-320,1961,2100,2,Corpus linguistics;Discourse;Linguistic layers
-321,1961,2100,2,Corpus linguistics;Discourse;Word sense disambiguation
-322,1961,2100,2,Natural language;Writing systems;Formal language
-323,1961,2100,2,Inflection;Grammatical voice;Linguistics basic topics
-324,1961,2100,2,Grammatical case;Subject (grammar);Nominative case
-325,1961,2100,2,Grammatical case;Preposition;Adjective
-326,1961,2100,2,Phrase;Preposition;Noun phrase
-327,1961,2100,2,Preposition;Noun;Noun phrase
-328,1962,2100,2,Grammar;Phonology;Speech therapy
-329,1962,2100,2,Computational linguistics;Anaphora (linguistics);Word sense disambiguation
-330,1962,2100,2,Translation;Word;Word sense disambiguation
-331,1962,2100,2,List of linguistic topics;Terminology;Word
-332,1962,2100,2,Scientific;Presupposition;Linguistics basic topics
-333,1962,2100,2,Terminology;Word;Linguistics basic topics
-334,1962,2100,2,Inflection;Grammatical voice;Infinitive
-335,1962,1965,2,Inflection;Inflected language;Infinitive;Grammar;Grammatical tense;Grammatical voice
-336,1962,2100,2,Inflection;Infinitive;Grammatical particle
-337,1962,2100,2,Declension;Indo-european languages;Inflected language
-338,1962,2100,2,Phoneme;Word;Writing systems
-339,1962,2100,2,Phoneme;Word;Minimal pair
-340,1962,1963,2,Preposition;Grammatical case;Grammatical particle;Inflection;Noun;Grammar;Infinitive;Part of speech
-341,1963,2100,2,Morphology (linguistics);Grammatical case;Adposition
-342,1963,2100,2,Etymology;Indo-european languages;Loanword
-343,1963,2100,2,Linguistic typology;Adposition;Subject–verb–object
-344,1963,1964,2,Linguist;List of linguistic topics;Pragmatics;Lexeme;Linguistics;Stratificational linguistics;Linguistics basic topics
-345,1963,2100,2,Inflection;Grammatical gender;Verb
-346,1963,2100,2,Inflection;Lexeme;Verb
-347,1963,2100,2,Inflection;Part of speech;Verb
-348,1963,2100,2,Grammatical case;Preposition;Article (grammar)
-349,1963,2100,2,Grammatical case;Infinitive;Adposition
-350,1963,2100,2,Grammatical case;Genitive case;Adposition
-351,1963,2100,2,Grammatical case;Adposition;Article (grammar)
-352,1963,2100,2,Phrase;Noun phrase;Adposition
-353,1963,1966,2,Verb;Inflection;Morphology (linguistics);Noun;Lexeme;Linguistics;Part of speech;Word
-354,1963,2100,2,Preposition;Copula (linguistics);Verb
-355,1963,2100,2,Infinitive;Adposition;Adpositional phrase
-356,1963,2100,2,Inflected language;Nominative case;Verb
-357,1963,2100,2,Noun;Noun phrase;Adposition
-358,1963,2100,2,Noun phrase;Adposition;Adpositional phrase
-359,1963,2100,2,Adjunct (grammar);Adposition;Adpositional phrase
-360,1963,2100,2,Adverbial;Adposition;Verb
-361,1963,2100,2,Adposition;Copula (linguistics);Verb
-362,1963,2100,2,Adposition;Subject–object–verb;Verb
-363,1964,2100,2,Pragmatics;Lexicon;Linguistic layers
-364,1964,2100,2,Pragmatics;Lexicon;Word sense disambiguation
-365,1964,2100,2,Lexicography;Lemma (morphology);Linguistics basic topics
-366,1964,2100,2,Lexical semantics;Lexicon;Linguistic layers
-367,1964,2100,2,Stratificational linguistics;Lexicon;Linguistic layers
-368,1964,2100,2,Declension;Indo-european languages;Fusional language
-369,1964,2100,2,Grammatical case;Phrase;Determiner (linguistics)
-370,1964,2100,2,Grammatical case;Genitive case;Determiner (linguistics)
-371,1964,2100,2,Word;Affix;Determiner (linguistics)
-372,1964,2100,2,Word;Noun;Determiner (linguistics)
-373,1964,2100,2,Subject (grammar);Infinitive;Adverb
-374,1964,2100,2,Preposition;Genitive case;Adverb
-375,1964,2100,2,Irregular verb;Present tense;Past tense
-376,1964,2100,2,Nominative case;Verb;Fusional language
-377,1964,2100,2,Noun;Noun phrase;Determiner (linguistics)
-378,1964,2100,2,Adjective;Adverb;Function word
-379,1965,2100,2,Inflection;Grammatical tense;Grammatical conjugation
-380,1965,2100,2,Inflection;Adjective;Superlative
-381,1965,2100,2,Inflection;Fusional language;Grammatical conjugation
-382,1965,2100,2,Declension;Word;Uninflected word
-383,1965,2100,2,Grammatical number;Preposition;Uninflected word
-384,1965,2100,2,Grammatical number;Adposition;Uninflected word
-385,1965,2100,2,Word;Lemma (morphology);Uninflected word
-386,1965,2100,2,Word;Affix;Uninflected word
-387,1965,2100,2,Preposition;Noun;Uninflected word
-388,1965,2100,2,Preposition;Grammatical particle;Superlative
-389,1965,2100,2,Affix;Uninflected word;Null morpheme
-390,1965,2100,2,Noun;Adposition;Uninflected word
-391,1965,2100,2,Noun;Grammatical conjugation;Animacy
-392,1965,2100,2,Adjective;Adverb;Possessive case
-393,1965,2100,2,Adjective;Adverb;Disjunct (linguistics)
-394,1965,2100,2,Adjunct (grammar);Adverbial;Disjunct (linguistics)
-395,1965,2100,2,Grammatical particle;Possessive case;Superlative
-396,1966,2100,2,Morphology (linguistics);Grammatical case;Postposition
-397,1966,2100,2,Dictionary;Standard language;Linguistic layers
-398,1966,2100,2,Linguistic typology;Subject–verb–object;Postposition
-399,1966,2100,2,Inflection;Affix;Derivation (linguistics)
-400,1966,2100,2,Grammatical number;Verb;Postposition
-401,1966,2100,2,Grammatical case;Infinitive;Postposition
-402,1966,2100,2,Grammatical case;Genitive case;Postposition
-403,1966,2100,2,Grammatical case;Article (grammar);Postposition
-404,1966,2100,2,Phrase;Noun phrase;Postposition
-405,1966,2100,2,Word;Uninflected word;Compound verb
-406,1966,2100,2,Word;Verb;Compound verb
-407,1966,2100,2,Descriptive linguistics;Standard language;Linguistic layers
-408,1966,2100,2,Subject (grammar);Verb;Verb phrase
-409,1966,2100,2,Affix;Vowel stems;Null morpheme
-410,1966,2100,2,Irregular verb;Present tense;Vowel stems
-411,1966,2100,2,Infinitive;Adpositional phrase;Postposition
-412,1966,2100,2,Noun;Noun phrase;Postposition
-413,1966,2100,2,Noun;Uninflected word;Postposition
-414,1966,2100,2,Telicity;Verb;Verb phrase
-415,1966,2100,2,Noun phrase;Adpositional phrase;Postposition
-416,1966,2100,2,Adjunct (grammar);Adpositional phrase;Postposition
-417,1966,2100,2,Adverbial;Verb;Postposition
-418,1966,2100,2,Copula (linguistics);Verb;Postposition
-419,1966,2100,2,Subject–object–verb;Verb;Postposition
-420,1966,2100,2,Verb;Dative case;Vowel stems
-421,1967,2100,2,Morpheme;Analytic language;Postposition
-422,1967,2100,2,Inflection;Fusional language;Analytic language
-423,1967,2100,2,Declension;Word;Analytic language
-424,1967,2100,2,Grammatical gender;Verb;Syntactic categories
-425,1967,2100,2,Preposition;Article (grammar);Analytic language
-426,1967,2100,2,Preposition;Uninflected word;Analytic language
-427,1967,2100,2,Preposition;Grammatical particle;Analytic language
-428,1967,2100,2,Article (grammar);Analytic language;Postposition
-429,1967,2100,2,Uninflected word;Analytic language;Postposition
-430,1967,2100,2,Grammatical particle;Analytic language;Postposition
-431,1969,2100,2,Word;Syllabary;Writing systems
-432,1969,2100,2,Word;Syllabary;Linguistics basic topics
-433,1991,2100,2,Mora (linguistics);Optimality theory;Phonemics
-434,2019,2100,2,Language families and languages;Dialect;Historical-comparative linguistics
-435,2020,2100,2,Grammar;Orthography;Writing
-436,2020,2100,2,Morphology (linguistics);Orthography;Writing systems
-437,2020,2100,2,List of linguistic topics;Orthography;Word
-438,2020,2100,2,Orthography;Word;Linguistics basic topics
-439,2020,2100,2,Orthography;Dialect;Standard language
-440,2020,2100,2,Phoneme;Tonal language;Minimal pair
-441,2020,2100,2,Grammatical mood;Indo-european languages;Tonal language
-442,2020,2100,2,Indo-european languages;Comparative method;Areal feature (linguistics)
-443,2021,2100,2,Grammar;Variety (linguistics);Idiolect
-444,2021,2100,2,Corpus linguistics;List of cognitive science topics;Linguistic layers
-445,2021,2100,2,List of linguistic topics;Orthography;List of cognitive science topics
-446,2021,2100,2,Orthography;List of cognitive science topics;Linguistics basic topics
-447,2021,2100,2,Stratificational linguistics;List of cognitive science topics;Linguistic layers
-448,2021,2100,2,Vowel;Prosody (linguistics);Diacritic
-449,2022,2100,2,Linguistic typology;Machine translation;Unsolved problems in linguistics
-450,2022,2100,2,Dialect;Idiolect;Unsolved problems in linguistics
-451,2023,2100,2,Lateral consonant;Liquid consonant;Rhotics
-452,1900,2100,3,Theoretical linguistics;Morphology (linguistics);Linguist;Linguistics basic topics
-453,1931,2100,3,Psycholinguistics;Neurolinguistics;Linguist;Linguistics basic topics
-454,1931,2100,3,Psycholinguistics;Linguist;Sentence (linguistics);Linguistics basic topics
-455,1932,2100,3,Psycholinguistics;Computational linguistics;List of linguistic topics;Linguist
-456,1932,2100,3,Psycholinguistics;Computational linguistics;Linguist;Linguistics basic topics
-457,1960,2100,3,Semantics;Grammar;List of linguistic topics;Linguist
-458,1960,2100,3,Semantics;Grammar;Linguist;Linguistics basic topics
-459,1960,2100,3,Semantics;Linguist;Etymology;Linguistics basic topics
-460,1961,2100,3,Truth condition;Linguist;Sentence (linguistics);Linguistics basic topics
-461,1964,2100,3,Linguist;Lexical semantics;Lexicon;Linguistics basic topics
-462,1967,2100,3,Verb;Adverb;Function word;Syntactic categories
-463,2021,2100,3,Historical linguistics;Etymology;List of cognitive science topics;Linguistic layers
+i,birth,death,dim,cavity,death_nodes
+0,-8000,2100,0,Writing,
+1,-2800,-2600,0,Syllable;Writing,Writing systems
+2,-600,-499,0,Grammatical aspect;Language,Grammatical tense
+3,-522,-500,0,Language;Etymology,Linguistics
+4,-522,-500,0,Etymologist;Language,Linguistics
+5,1200,1201,0,Profanity;Part of speech,Interjection
+6,1200,1962,0,Split infinitive;Grammar,Infinitive
+7,1700,2021,0,Language;Double acute accent,Diacritic
+8,1900,1962,0,Acronym;Language,Word
+9,1920,1964,0,Language;General semantics,Meaning (linguistic)
+10,2020,2100,0,Semantic feature,
+11,-500,-300,1,Linguistics;Language;Linguist;Phonetics,Phonology
+12,-500,1700,1,Linguistics;Language;Linguist;Etymology,Historical linguistics
+13,-500,445,1,Language;Linguist;Linguistic layers;Etymology,Indo-european languages
+14,-499,1800,1,Linguistics;Linguist;Phonetics;Anthropological linguistics,List of linguistic topics
+15,-499,1800,1,Linguistics;Linguist;Phonetics;Linguistic typology,List of linguistic topics
+16,-499,-300,1,Linguistics;Language;Linguist;Phoneme,Phonology
+17,-499,2021,1,Linguistics;Language;Anthropological linguistics;Linguistic layers,List of cognitive science topics
+18,-499,445,1,Language;Linguist;Linguistic layers;Linguistic typology,Indo-european languages
+19,-499,1800,1,Syllable;Phoneme;Alphabet;Prosody (linguistics);Linguistics,International Phonetic Alphabet
+20,-499,2100,1,Oxytone;Paroxytone,
+21,-498,1800,1,Syllable;Phoneme;Alphabet;Linguistics;Phone (phonetics),International Phonetic Alphabet
+22,-497,2100,1,Phone (phonetics);Phonetic transcription,
+23,-399,1961,1,Linguistics;Language;Philosophy of language;Speech act,Pragmatics
+24,-398,2100,1,Natural language;Onomatopoeia,
+25,-398,2100,1,Etymologist;Onomatopoeia,
+26,-300,1800,1,Syllable;Phoneme;Alphabet;Phonology;Linguistics,List of linguistic topics
+27,-300,1800,1,Linguistics;Rhetoric;Grammar;History of linguistics,List of linguistic topics
+28,109,2100,1,Neologism;Linguistic layers,
+29,109,2100,1,Neologism;Etymologist,
+30,400,1800,1,Linguistics;Linguist;Phonetics;Corpus linguistics,List of linguistic topics
+31,400,1600,1,Language;Linguist;Linguistic layers;Corpus linguistics,Machine translation
+32,400,1800,1,Linguistics;Scientific;Rhetoric;Grammar,List of linguistic topics
+33,445,2020,1,Phonation;Indo-european languages;Phonetics;Language;Linguistics,Tonal language
+34,445,1700,1,Linguistics;Language;Indo-european languages;Part of speech,Historical linguistics
+35,445,2100,1,Indo-european languages;Cuneiform (script),
+36,445,1638,1,Etymologist;Linguistics;Indo-european languages;Part of speech,Pronoun
+37,800,2100,1,Cryptanalysis;Linguistic layers,
+38,1500,1800,1,Language education;Linguistics;Linguist;Phonetics,List of linguistic topics
+39,1500,1941,1,Language education;Linguistics;Language;Linguistic layers,Applied linguistics
+40,1500,1959,1,Linguistics;Creole language;Phoneme;Grammar,Language acquisition
+41,1500,2021,1,Language families and languages;Language;Grammar;Linguistics;Creole language,List of cognitive science topics
+42,1632,1634,1,Linguistics;Linguist;Semiotics;Syntax,Sentence (linguistics)
+43,1632,1634,1,Linguistics;Semiotics;Syntax;Linguistic layers,Sentence (linguistics)
+44,1633,2100,1,Semiotics;Articulatory gestures,
+45,1633,2100,1,Articulatory gestures;Phonemics,
+46,1634,2100,1,Sentence (linguistics);Punctuation,
+47,1635,1964,1,Adverbial;Syntax;Language;Grammar;Linguistics;Sentence (linguistics),Adverb
+48,1635,1961,1,Adverbial;Syntax;Language;Adjunct (grammar);Grammar;Linguistics,Preposition
+49,1636,1639,1,Linguistics;Subject (grammar);Noun;Sentence (linguistics),Copula (linguistics)
+50,1636,2100,1,Subject (grammar);T-v distinction,
+51,1637,2100,1,Phrase;Noun phrase,
+52,1637,1963,1,Subject (grammar);Noun;Noun phrase;Syntax;Language;Adjective;Subject–object–verb;Linguistic typology;Linguistics;Sentence (linguistics),Verb
+53,1638,1961,1,Noun phrase;Adjective;Subject–verb–object;Grammar;Linguistic typology;Linguistics,Preposition
+54,1638,1961,1,Noun phrase;Adpositional phrase;Syntax;Language;Adjective;Linguistics,Preposition
+55,1638,2100,1,Subject–verb–object;V2 word order,
+56,1639,2100,1,Adpositional phrase;Time–manner–place,
+57,1700,2100,1,Vowel harmony;Ablaut,
+58,1700,1962,1,Indo-european languages;Preterite;Language;Ablaut;Grammar;Linguistics;Grammatical tense,Inflected language
+59,1779,2100,1,Speech synthesis;Prosody (linguistics),
+60,1800,2100,1,Sociolinguistics;T-v distinction,
+61,1800,1860,1,Grammatical aspect;List of linguistic topics;Grammatical tense;Grammatical number,Inflection
+62,1800,2100,1,Linguist;Outline of linguistics,
+63,1800,1860,1,Linguistics;Grammatical number;List of linguistic topics;Linguistics basic topics,Inflection
+64,1801,1864,1,Allophone;International Phonetic Alphabet;Phoneme;Alveolar consonant,Nasal stop
+65,1801,2015,1,Syllable;International Phonetic Alphabet;Phonetics;Consonant;Articulatory phonetics,List of phonetics topics
+66,1802,1962,1,Dictionary;Terminology;Language;Linguistics;Translation,Word
+67,1802,2100,1,International Phonetic Alphabet;Glottal stop,
+68,1802,2015,1,Syllable;Bilabial consonant;International Phonetic Alphabet;Phonetics;Consonant,List of phonetics topics
+69,1802,2015,1,Syllable;Fricative consonant;Phonation;International Phonetic Alphabet;Indo-european languages;Phonetics;Consonant,List of phonetics topics;Breathy voice
+70,1802,2015,1,Syllable;International Phonetic Alphabet;Labiodental consonant;Phonetics;Consonant,List of phonetics topics
+71,1802,2015,1,Syllable;International Phonetic Alphabet;Phonetics;Consonant;Liquid consonant,List of phonetics topics
+72,1802,2015,1,Syllable;Place of articulation;Phonation;International Phonetic Alphabet;Phonetics;Consonant,List of phonetics topics
+73,1802,2100,1,Phonetic transcription;Romanization,
+74,1803,2100,1,Indo-european languages;Velar consonant,
+75,1803,2022,1,Syllable;Postalveolar consonant;Phonology;Consonant,Approximant
+76,1803,2100,1,Consonant;Affricate consonant,
+77,1806,2100,1,Fricative consonant;Great consonant shift,
+78,1859,2100,1,Morphology (linguistics);Polysynthetic language,
+79,1859,1860,1,Linguistics;Adjective;Noun phrase;Morphology (linguistics),Grammatical gender
+80,1860,2100,1,Sound change;I-mutation,
+81,1860,2100,1,Vowel harmony;I-mutation,
+82,1861,1962,1,Morpheme;Grammatical mood;Inflection;Indo-european languages;Affix;Grammar;Grammatical tense,Inflected language
+83,1862,1879,1,Historical linguistics;Indo-european languages;Consonant;Vowel;Ablaut;Velar consonant,Laryngeal theory
+84,1863,2100,1,Tone (linguistics);Schwa,
+85,1863,2015,1,Syllable;Phonation;International Phonetic Alphabet;Phonetics;Consonant;Slack voice,List of phonetics topics
+86,1864,2100,1,Indo-european languages;Stop consonant,
+87,1864,2015,1,Syllable;International Phonetic Alphabet;Phonetics;Consonant;Nasal consonant,List of phonetics topics
+88,1864,2100,1,Stop consonant;Great consonant shift,
+89,1875,2100,1,Sound change;Verner's law,
+90,1875,2100,1,Great consonant shift;Verner's law,
+91,1889,2100,1,Neologism;Back-formation,
+92,1889,2100,1,Affix;Back-formation,
+93,1900,1901,1,Semivowel;International Phonetic Alphabet;Phonetics;Vowel;Cardinal vowel,Rounded vowel
+94,1900,2100,1,Vowel;Minimal pair,
+95,1901,2100,1,Grammar;Government (linguistics),
+96,1901,2015,1,Rounded vowel;International Phonetic Alphabet;Phoneme;Phonetics;Allophone,List of phonetics topics
+97,1901,2100,1,Indo-european languages;Rounded vowel,
+98,1929,2100,1,False cognate;False friend,
+99,1929,1964,1,Etymologist;Linguistics;False friend;False cognate,Cognate
+100,1940,1962,1,Linguistics;Language;Word sense disambiguation;Sentence (linguistics),Word
+101,1950,2100,1,Linguist;Natural language processing,
+102,1950,1960,1,Linguist;Natural language processing;Phonetics;Linguistic layers,Speech recognition
+103,1952,2100,1,Decipherment;Cuneiform (script),
+104,1958,2100,1,Clefting;Phrase structure rules,
+105,1959,2100,1,Adjunct (grammar);Dislocation (syntax),
+106,1959,2100,1,Clefting;Dislocation (syntax),
+107,1960,2100,1,Semantics;T-v distinction,
+108,1960,2100,1,Language acquisition;Irregular verb,
+109,1960,1967,1,Inflection;Morphology (linguistics);Historical linguistics;Preterite;Ablaut;Linguistics;Psycholinguistics;Grammatical tense;Irregular verb,Weak suppletion
+110,1960,1963,1,Inflection;Historical linguistics;Preterite;Ablaut;Grammatical tense;Irregular verb,Verb
+111,1960,2100,1,Dental consonant;Irregular verb,
+112,1961,2100,1,Phonetics;Radical (Chinese character),
+113,1961,1962,1,Linguistics;Language;Pragmatics;Word sense disambiguation,Word
+114,1961,2100,1,Lexicography;Radical (Chinese character),
+115,1961,2100,1,Inflection;Transformational-generative grammar,
+116,1961,2100,1,Inflection;Prefix (linguistics),
+117,1961,2100,1,Inflection;Radical (Chinese character),
+118,1961,1963,1,Preposition;Grammatical mood;Inflection;Grammatical number;Syntax,Verb
+119,1961,1962,1,Grammatical case;Inflection;Subject (grammar);Grammar;Grammatical tense;Grammatical voice,Infinitive
+120,1961,2100,1,Consonant;Prefix (linguistics),
+121,1961,2100,1,Vowel harmony;Preposition,
+122,1961,1965,1,Telicity;Preposition;Grammatical mood;Declension;Inflection;Syntax;Linguistics,Grammatical conjugation
+123,1962,2100,1,Discourse;Presupposition,
+124,1962,2100,1,Applied linguistics;Speech therapy,
+125,1962,2100,1,Grammatical case;Abessive case,
+126,1962,2021,1,Speech therapy;Phonetics;Language;Speech processing;Linguistics;Speech synthesis,List of cognitive science topics
+127,1962,2100,1,Manner of articulation;Speech therapy,
+128,1962,2100,1,Affix;Inessive case,
+129,1962,2100,1,Adessive case;Inessive case,
+130,1963,2100,1,Scientific;Nomenclature,
+131,1963,2100,1,Morpheme;Pleonasm,
+132,1963,2100,1,Grammatical voice;Case in tiers,
+133,1963,2100,1,Lexeme;Back-formation,
+134,1963,2100,1,Presupposition;Coherence (linguistics),
+135,1963,2100,1,Presupposition;Hermeneutics,
+136,1963,2100,1,Consonant;Article (grammar),
+137,1963,2100,1,Vowel harmony;Adposition,
+138,1963,2100,1,Infinitive;Instructive case,
+139,1963,2100,1,Noun phrase;Case in tiers,
+140,1963,1964,1,Linguistics;False friend;Loanword;Etymology,Cognate
+141,1963,2100,1,Case in tiers;Ergative case,
+142,1963,2100,1,Exegesis;Hermeneutics,
+143,1964,2100,1,Dictionary;Synonym,
+144,1964,2100,1,Grammatical voice;Auxiliary verb,
+145,1964,2100,1,Lexeme;Synonym,
+146,1964,2100,1,Subject (grammar);Object–verb–subject,
+147,1964,2100,1,Subject (grammar);Verb–object–subject,
+148,1964,2021,1,Natural language understanding;Language;Linguistics;Natural language processing;Speech recognition;Semantics,List of cognitive science topics
+149,1964,2100,1,Machine translation;Natural language understanding,
+150,1964,2100,1,Natural language understanding;Phrase structure rules,
+151,1964,2100,1,Preposition;X-bar theory,
+152,1964,1966,1,Verb;Inflection;Aorist;Indo-european languages;Preterite;Fusional language;Morphology (linguistics);Perfect (grammar),Vowel stems
+153,1964,2100,1,Nominative case;Quirky subject,
+154,1964,2100,1,Noun;Initial-stress-derived noun,
+155,1964,2100,1,Dative case;Thou,
+156,1964,2100,1,Calque;T-v distinction,
+157,1964,2100,1,Conjunct;Grammatical conjunction,
+158,1965,2100,1,Morphology (linguistics);Agglutinative language,
+159,1965,2100,1,Inflection;Suppletion,
+160,1965,2015,1,Syllable;International Phonetic Alphabet;Phoneme;Metathesis (linguistics),List of phonetics topics
+161,1965,2100,1,Syllable;Agglutination,
+162,1965,2100,1,Syllable;Superlative,
+163,1965,2100,1,Lexicon;Metathesis (linguistics),
+164,1965,2100,1,Lexicon;Colloquialism,
+165,1965,2100,1,Lexicon;Idiom,
+166,1965,2100,1,Machine translation;Hypernym,
+167,1965,2100,1,Machine translation;Hyponym,
+168,1965,2100,1,Machine translation;Idiom,
+169,1965,2100,1,Vowel harmony;Agglutination,
+170,1965,2100,1,Pidgin;Onomatopoeia,
+171,1965,2100,1,Genitive case;Dual grammatical number,
+172,1965,2100,1,Adjective;Expletive attributive,
+173,1965,2100,1,Copula (linguistics);Agglutinative language,
+174,1965,2100,1,Uninflected word;Interjection,
+175,1965,2100,1,Past tense;Homonym,
+176,1965,2100,1,Capitonym;Homonym,
+177,1965,2100,1,Superlative;Pleonasm,
+178,1965,2100,1,Dual grammatical number;Vocative case,
+179,1965,2100,1,Meaning (linguistic);Idiom,
+180,1965,2100,1,Verbal noun;Supine,
+181,1966,2100,1,Allophone;Vowel stems,
+182,1966,2100,1,Vowel harmony;Postposition,
+183,1966,2100,1,Synthetic language;Auxiliary verb,
+184,1966,2100,1,Vocative case;Vowel stems,
+185,1967,2100,1,Linguistic typology;Analytic language,
+186,1967,2100,1,Variety (linguistics);Slang,
+187,1967,2100,1,Interjection;Syntactic categories,
+188,1982,2100,1,Vowel;Spiritus asper,
+189,1997,2100,1,Alphabet;Abugida,
+190,1998,2100,1,Language families and languages;Language isolate,
+191,2008,2015,1,Syllable;International Phonetic Alphabet;Phoneme;Diphthong,List of phonetics topics
+192,2012,2100,1,Subject (grammar);Impersonal verb,
+193,2014,2015,1,Phonation;International Phonetic Alphabet;Creaky voice;Phonetics;Phoneme,List of phonetics topics
+194,2015,2020,1,List of phonetics topics;Morpheme;Constructed language;International Phonetic Alphabet;Phonetics;Breathy voice;Allophone;Language;Morphology (linguistics),Tonal language
+195,2015,2100,1,Tone (linguistics);Breathy voice,
+196,2015,2100,1,List of phonetics topics;Vowel harmony,
+197,2015,2100,1,Breathy voice;Copula (linguistics),
+198,2016,2100,1,Allophone;Guttural consonant,
+199,2017,2100,1,Cognate;Will (verb),
+200,2017,2100,1,Thou;Will (verb),
+201,2019,2100,1,Dialect;Sound change,
+202,2019,2020,1,Constructed language;International Phonetic Alphabet;Dialect;Prosody (linguistics);Language,Tonal language
+203,2019,2100,1,Dialect;Cognate,
+204,2019,2100,1,Dialect;T-v distinction,
+205,2020,2100,1,Pragmatics;Tonal language,
+206,2020,2100,1,List of linguistic topics;Prescription and description,
+207,2020,2100,1,Stylistics (linguistics);Present tense,
+208,2020,2100,1,Stylistics (linguistics);Accent (sociolinguistics),
+209,2020,2021,1,Linguistics;List of linguistic topics;Prescription and description;Linguistics basic topics,List of cognitive science topics
+210,2020,2100,1,Grammatical number;Areal feature (linguistics),
+211,2020,2100,1,Entailment;Linguistics basic topics,
+212,2020,2100,1,Entailment;Implication (pragmatics),
+213,2020,2100,1,Ipa chart for English;Linguistics basic topics,
+214,2020,2100,1,Ideogram;Writing systems,
+215,2020,2100,1,Ideogram;Linguistics basic topics,
+216,2020,2100,1,Dialect;Areal feature (linguistics),
+217,2020,2100,1,Ecolinguistics;Paradigm,
+218,2020,2100,1,Language attrition;Linguistic layers,
+219,2020,2100,1,Language attrition;Second language,
+220,2020,2100,1,Click consonant;Areal feature (linguistics),
+221,2020,2100,1,Glottal stop;Speech communication,
+222,2020,2100,1,Tonal language;Abugida,
+223,2020,2100,1,Infinitive;Areal feature (linguistics),
+224,2020,2100,1,Germanic umlaut;Weak suppletion,
+225,2020,2100,1,Pronunciation;Speech disorder,
+226,2020,2100,1,Adposition;Prepositional phrase,
+227,2020,2100,1,Prepositional phrase;Postposition,
+228,2020,2100,1,Prepositional phrase;Clefting,
+229,2021,2100,1,Transcription (linguistics);Diacritic,
+230,2021,2100,1,Sampa;List of cognitive science topics,
+231,2021,2100,1,List of cognitive science topics;General semantics,
+232,2021,2100,1,List of cognitive science topics;Profanity,
+233,2021,2100,1,List of cognitive science topics;Tongue-twister,
+234,2021,2100,1,Acronym;Diacritic,
+235,2021,2100,1,Noun;Diacritic,
+236,2021,2100,1,Diacritic;Homonym,
+237,2022,2100,1,Linguistic relativity;Unsolved problems in linguistics,
+238,2022,2100,1,Diacritic;Breve,
+239,2022,2100,1,Loanword;Circumflex,
+240,2022,2100,1,Language isolate;Unsolved problems in linguistics,
+241,2023,2100,1,Orthography;Rhotics,
+242,2023,2100,1,Infinitive;Rhotics,
+243,2023,2100,1,Breve;Macron (diacritic),
+244,-300,1960,2,Writing;Phonetics;Linguistic layers;Language;Linguist;Phonology;Grammar,Semantics
+245,-300,1959,2,Syntax;Language;Linguist;Phonology;Grammar;Linguistics,Language acquisition
+246,-300,1959,2,Linguistic layers;Syntax;Language;Phonology;Grammar;Linguistics,Language acquisition
+247,-300,2100,2,Phonology;Phoneme;Linguistic layers,
+248,1600,2100,2,Translation;Machine translation;Linguistic layers,
+249,1600,2100,2,Linguistic typology;Machine translation;Linguistic layers,
+250,1700,2100,2,Language families and languages;Indo-european languages;Historical-comparative linguistics,
+251,1779,2100,2,Sentence (linguistics);Speech synthesis;Linguistic layers,
+252,1800,2100,2,Sociolinguistics;List of linguistic topics;Linguist,
+253,1800,1961,2,Phonetics;Linguist;List of linguistic topics;Sociolinguistics;Linguistics;Linguistics basic topics,Pragmatics
+254,1800,2100,2,Corpus linguistics;Linguist;Linguistics basic topics,
+255,1800,1901,2,Syntax;Language;Linguist;Neurolinguistics;List of linguistic topics;Grammar;Linguistics,Descriptive linguistics
+256,1800,1900,2,Phonetics;Neurolinguistics;List of linguistic topics;Linguist;Linguistics;Linguistics basic topics,Theoretical linguistics
+257,1800,1853,2,Historical linguistics;Language;Linguist;Neurolinguistics;List of linguistic topics;Linguistics,Evolutionary linguistics
+258,1800,1853,2,Historical linguistics;Language;Linguist;Neurolinguistics;Linguistics;Linguistics basic topics,Evolutionary linguistics
+259,1800,1941,2,Language education;Phonetics;Linguist;List of linguistic topics;Linguistics;Linguistics basic topics,Applied linguistics
+260,1800,2100,2,Semiotics;List of linguistic topics;Linguist,
+261,1800,1960,2,Semiotics;Phonetics;Linguist;List of linguistic topics;Linguistics;Linguistics basic topics,Semantics
+262,1800,2021,2,Language families and languages;Historical linguistics;Constructed language;Language;List of linguistic topics;Linguistics,List of cognitive science topics
+263,1800,2100,2,Scientific;Rhetoric;Linguistics basic topics,
+264,1800,2100,2,Linguist;Anthropological linguistics;Linguistics basic topics,
+265,1800,2100,2,Linguist;Linguistic typology;Linguistics basic topics,
+266,1800,2021,2,Language families and languages;Historical linguistics;Constructed language;Language;Linguistics;Linguistics basic topics,List of cognitive science topics
+267,1800,2100,2,Rhetoric;History of linguistics;Linguistics basic topics,
+268,1800,2100,2,Phoneme;Sound change;Linguistic layers,
+269,1800,2100,2,Syllable;Alphabet;Linguistics basic topics,
+270,1800,2100,2,Indo-european languages;Comparative method;Ablaut,
+271,1800,2100,2,Indo-european languages;Comparative method;Etymologist,
+272,1800,2100,2,Sound change;Comparative method;Linguistic layers,
+273,1800,2100,2,Sound change;Comparative method;Etymologist,
+274,1801,2100,2,Lexicography;List of linguistic topics;Linguist,
+275,1801,1964,2,Phonetics;Linguist;List of linguistic topics;Lexicography;Linguistics;Linguistics basic topics,Lexicon
+276,1801,2100,2,Translation;Linguist;Transcription (linguistics),
+277,1801,2100,2,Translation;Transcription (linguistics);Linguistic layers,
+278,1853,2100,2,Universal grammar;Evolutionary linguistics;Linguist,
+279,1853,2100,2,Universal grammar;Evolutionary linguistics;Linguistic layers,
+280,1859,2100,2,Grammar;Morphology (linguistics);Linguist,
+281,1859,2100,2,Grammar;Morphology (linguistics);Linguistic layers,
+282,1859,2100,2,Morphology (linguistics);Linguist;Consonant,
+283,1859,2100,2,Morphology (linguistics);Writing systems;Linguistic layers,
+284,1860,2100,2,Morphology (linguistics);Morpheme;Writing systems,
+285,1860,2100,2,Stratificational linguistics;Morpheme;Linguistics basic topics,
+286,1860,2100,2,Morpheme;Alphabet;Writing systems,
+287,1860,2100,2,Morpheme;Alphabet;Linguistics basic topics,
+288,1860,1963,2,Inflection;Morphology (linguistics);List of linguistic topics;Grammar;Linguistics;Grammatical tense;Linguistics basic topics,Lexeme
+289,1860,2100,2,Inflection;Noun;Part of speech,
+290,1860,2100,2,Grammatical gender;Indo-european languages;Pronoun,
+291,1861,2100,2,Phoneme;Tone (linguistics);Writing systems,
+292,1861,2100,2,Phoneme;Tone (linguistics);Linguistics basic topics,
+293,1863,2100,2,Syllable;International Phonetic Alphabet;Semivowel,
+294,1900,2021,2,Theoretical linguistics;Phonetics;Linguistic layers;Language;Phonology;Linguistics,List of cognitive science topics
+295,1900,1901,2,Theoretical linguistics;Morphology (linguistics);Linguistic layers;Syntax;Language;Linguistics,Descriptive linguistics
+296,1900,2100,2,Theoretical linguistics;Universal grammar;Linguist,
+297,1900,2100,2,Theoretical linguistics;Universal grammar;Linguistic layers,
+298,1900,2100,2,Phoneme;Minimal pair;Phonemics,
+299,1901,2100,2,Linguist;Linguistic typology;Descriptive linguistics,
+300,1901,2100,2,Linguist;Text linguistics;Descriptive linguistics,
+301,1901,2100,2,Linguistic typology;Descriptive linguistics;Linguistic layers,
+302,1901,2100,2,Text linguistics;Descriptive linguistics;Linguistic layers,
+303,1930,2100,2,Tagmemics;Morpheme;Linguistics basic topics,
+304,1930,2100,2,Tagmemics;Phoneme;Phone (phonetics),
+305,1931,2100,2,Psycholinguistics;Sentence (linguistics);Linguistic layers,
+306,1940,2100,2,Corpus linguistics;Machine translation;Word sense disambiguation,
+307,1951,1960,2,Theoretical linguistics;Etymology;Language;Linguist;List of linguistic topics;Linguistics;Philology,Semantics
+308,1951,2100,2,Comparative linguistics;Philology;Etymologist,
+309,1960,2100,2,Semantics;Context (language use);Linguistic layers,
+310,1960,2100,2,Computational linguistics;Linguist;Speech recognition,
+311,1960,2021,2,Theoretical linguistics;Phonetics;Linguistic layers;Language;Computational linguistics;Linguistics;Speech recognition,List of cognitive science topics
+312,1960,2100,2,Translation;Linguist;Speech recognition,
+313,1960,2100,2,Translation;Speech recognition;Linguistic layers,
+314,1960,2100,2,Speech recognition;Speech processing;Linguistic layers,
+315,1961,2100,2,Truth condition;Sentence (linguistics);Linguistic layers,
+316,1961,2021,2,Sociolinguistics;Linguistic layers;Language;Pragmatics;Linguistics;Semantics,List of cognitive science topics
+317,1961,2100,2,Morphology (linguistics);Grammatical case;Linguistics basic topics,
+318,1961,2100,2,Morphology (linguistics);Grammatical case;Preposition,
+319,1961,2100,2,Corpus linguistics;Discourse;Linguist,
+320,1961,2100,2,Corpus linguistics;Discourse;Linguistic layers,
+321,1961,2100,2,Corpus linguistics;Discourse;Word sense disambiguation,
+322,1961,2100,2,Natural language;Writing systems;Formal language,
+323,1961,2100,2,Inflection;Grammatical voice;Linguistics basic topics,
+324,1961,2100,2,Grammatical case;Subject (grammar);Nominative case,
+325,1961,2100,2,Grammatical case;Preposition;Adjective,
+326,1961,2100,2,Phrase;Preposition;Noun phrase,
+327,1961,2100,2,Preposition;Noun;Noun phrase,
+328,1962,2100,2,Grammar;Phonology;Speech therapy,
+329,1962,2100,2,Computational linguistics;Anaphora (linguistics);Word sense disambiguation,
+330,1962,2100,2,Translation;Word;Word sense disambiguation,
+331,1962,2100,2,List of linguistic topics;Terminology;Word,
+332,1962,2100,2,Scientific;Presupposition;Linguistics basic topics,
+333,1962,2100,2,Terminology;Word;Linguistics basic topics,
+334,1962,2100,2,Inflection;Grammatical voice;Infinitive,
+335,1962,1965,2,Inflection;Inflected language;Infinitive;Grammar;Grammatical tense;Grammatical voice,Grammatical conjugation
+336,1962,2100,2,Inflection;Infinitive;Grammatical particle,
+337,1962,2100,2,Declension;Indo-european languages;Inflected language,
+338,1962,2100,2,Phoneme;Word;Writing systems,
+339,1962,2100,2,Phoneme;Word;Minimal pair,
+340,1962,1963,2,Preposition;Grammatical case;Grammatical particle;Inflection;Noun;Grammar;Infinitive;Part of speech,Verb
+341,1963,2100,2,Morphology (linguistics);Grammatical case;Adposition,
+342,1963,2100,2,Etymology;Indo-european languages;Loanword,
+343,1963,2100,2,Linguistic typology;Adposition;Subject–verb–object,
+344,1963,1964,2,Linguist;List of linguistic topics;Pragmatics;Lexeme;Linguistics;Stratificational linguistics;Linguistics basic topics,Lexicon
+345,1963,2100,2,Inflection;Grammatical gender;Verb,
+346,1963,2100,2,Inflection;Lexeme;Verb,
+347,1963,2100,2,Inflection;Part of speech;Verb,
+348,1963,2100,2,Grammatical case;Preposition;Article (grammar),
+349,1963,2100,2,Grammatical case;Infinitive;Adposition,
+350,1963,2100,2,Grammatical case;Genitive case;Adposition,
+351,1963,2100,2,Grammatical case;Adposition;Article (grammar),
+352,1963,2100,2,Phrase;Noun phrase;Adposition,
+353,1963,1966,2,Verb;Inflection;Morphology (linguistics);Noun;Lexeme;Linguistics;Part of speech;Word,Derivation (linguistics)
+354,1963,2100,2,Preposition;Copula (linguistics);Verb,
+355,1963,2100,2,Infinitive;Adposition;Adpositional phrase,
+356,1963,2100,2,Inflected language;Nominative case;Verb,
+357,1963,2100,2,Noun;Noun phrase;Adposition,
+358,1963,2100,2,Noun phrase;Adposition;Adpositional phrase,
+359,1963,2100,2,Adjunct (grammar);Adposition;Adpositional phrase,
+360,1963,2100,2,Adverbial;Adposition;Verb,
+361,1963,2100,2,Adposition;Copula (linguistics);Verb,
+362,1963,2100,2,Adposition;Subject–object–verb;Verb,
+363,1964,2100,2,Pragmatics;Lexicon;Linguistic layers,
+364,1964,2100,2,Pragmatics;Lexicon;Word sense disambiguation,
+365,1964,2100,2,Lexicography;Lemma (morphology);Linguistics basic topics,
+366,1964,2100,2,Lexical semantics;Lexicon;Linguistic layers,
+367,1964,2100,2,Stratificational linguistics;Lexicon;Linguistic layers,
+368,1964,2100,2,Declension;Indo-european languages;Fusional language,
+369,1964,2100,2,Grammatical case;Phrase;Determiner (linguistics),
+370,1964,2100,2,Grammatical case;Genitive case;Determiner (linguistics),
+371,1964,2100,2,Word;Affix;Determiner (linguistics),
+372,1964,2100,2,Word;Noun;Determiner (linguistics),
+373,1964,2100,2,Subject (grammar);Infinitive;Adverb,
+374,1964,2100,2,Preposition;Genitive case;Adverb,
+375,1964,2100,2,Irregular verb;Present tense;Past tense,
+376,1964,2100,2,Nominative case;Verb;Fusional language,
+377,1964,2100,2,Noun;Noun phrase;Determiner (linguistics),
+378,1964,2100,2,Adjective;Adverb;Function word,
+379,1965,2100,2,Inflection;Grammatical tense;Grammatical conjugation,
+380,1965,2100,2,Inflection;Adjective;Superlative,
+381,1965,2100,2,Inflection;Fusional language;Grammatical conjugation,
+382,1965,2100,2,Declension;Word;Uninflected word,
+383,1965,2100,2,Grammatical number;Preposition;Uninflected word,
+384,1965,2100,2,Grammatical number;Adposition;Uninflected word,
+385,1965,2100,2,Word;Lemma (morphology);Uninflected word,
+386,1965,2100,2,Word;Affix;Uninflected word,
+387,1965,2100,2,Preposition;Noun;Uninflected word,
+388,1965,2100,2,Preposition;Grammatical particle;Superlative,
+389,1965,2100,2,Affix;Uninflected word;Null morpheme,
+390,1965,2100,2,Noun;Adposition;Uninflected word,
+391,1965,2100,2,Noun;Grammatical conjugation;Animacy,
+392,1965,2100,2,Adjective;Adverb;Possessive case,
+393,1965,2100,2,Adjective;Adverb;Disjunct (linguistics),
+394,1965,2100,2,Adjunct (grammar);Adverbial;Disjunct (linguistics),
+395,1965,2100,2,Grammatical particle;Possessive case;Superlative,
+396,1966,2100,2,Morphology (linguistics);Grammatical case;Postposition,
+397,1966,2100,2,Dictionary;Standard language;Linguistic layers,
+398,1966,2100,2,Linguistic typology;Subject–verb–object;Postposition,
+399,1966,2100,2,Inflection;Affix;Derivation (linguistics),
+400,1966,2100,2,Grammatical number;Verb;Postposition,
+401,1966,2100,2,Grammatical case;Infinitive;Postposition,
+402,1966,2100,2,Grammatical case;Genitive case;Postposition,
+403,1966,2100,2,Grammatical case;Article (grammar);Postposition,
+404,1966,2100,2,Phrase;Noun phrase;Postposition,
+405,1966,2100,2,Word;Uninflected word;Compound verb,
+406,1966,2100,2,Word;Verb;Compound verb,
+407,1966,2100,2,Descriptive linguistics;Standard language;Linguistic layers,
+408,1966,2100,2,Subject (grammar);Verb;Verb phrase,
+409,1966,2100,2,Affix;Vowel stems;Null morpheme,
+410,1966,2100,2,Irregular verb;Present tense;Vowel stems,
+411,1966,2100,2,Infinitive;Adpositional phrase;Postposition,
+412,1966,2100,2,Noun;Noun phrase;Postposition,
+413,1966,2100,2,Noun;Uninflected word;Postposition,
+414,1966,2100,2,Telicity;Verb;Verb phrase,
+415,1966,2100,2,Noun phrase;Adpositional phrase;Postposition,
+416,1966,2100,2,Adjunct (grammar);Adpositional phrase;Postposition,
+417,1966,2100,2,Adverbial;Verb;Postposition,
+418,1966,2100,2,Copula (linguistics);Verb;Postposition,
+419,1966,2100,2,Subject–object–verb;Verb;Postposition,
+420,1966,2100,2,Verb;Dative case;Vowel stems,
+421,1967,2100,2,Morpheme;Analytic language;Postposition,
+422,1967,2100,2,Inflection;Fusional language;Analytic language,
+423,1967,2100,2,Declension;Word;Analytic language,
+424,1967,2100,2,Grammatical gender;Verb;Syntactic categories,
+425,1967,2100,2,Preposition;Article (grammar);Analytic language,
+426,1967,2100,2,Preposition;Uninflected word;Analytic language,
+427,1967,2100,2,Preposition;Grammatical particle;Analytic language,
+428,1967,2100,2,Article (grammar);Analytic language;Postposition,
+429,1967,2100,2,Uninflected word;Analytic language;Postposition,
+430,1967,2100,2,Grammatical particle;Analytic language;Postposition,
+431,1969,2100,2,Word;Syllabary;Writing systems,
+432,1969,2100,2,Word;Syllabary;Linguistics basic topics,
+433,1991,2100,2,Mora (linguistics);Optimality theory;Phonemics,
+434,2019,2100,2,Language families and languages;Dialect;Historical-comparative linguistics,
+435,2020,2100,2,Grammar;Orthography;Writing,
+436,2020,2100,2,Morphology (linguistics);Orthography;Writing systems,
+437,2020,2100,2,List of linguistic topics;Orthography;Word,
+438,2020,2100,2,Orthography;Word;Linguistics basic topics,
+439,2020,2100,2,Orthography;Dialect;Standard language,
+440,2020,2100,2,Phoneme;Tonal language;Minimal pair,
+441,2020,2100,2,Grammatical mood;Indo-european languages;Tonal language,
+442,2020,2100,2,Indo-european languages;Comparative method;Areal feature (linguistics),
+443,2021,2100,2,Grammar;Variety (linguistics);Idiolect,
+444,2021,2100,2,Corpus linguistics;List of cognitive science topics;Linguistic layers,
+445,2021,2100,2,List of linguistic topics;Orthography;List of cognitive science topics,
+446,2021,2100,2,Orthography;List of cognitive science topics;Linguistics basic topics,
+447,2021,2100,2,Stratificational linguistics;List of cognitive science topics;Linguistic layers,
+448,2021,2100,2,Vowel;Prosody (linguistics);Diacritic,
+449,2022,2100,2,Linguistic typology;Machine translation;Unsolved problems in linguistics,
+450,2022,2100,2,Dialect;Idiolect;Unsolved problems in linguistics,
+451,2023,2100,2,Lateral consonant;Liquid consonant;Rhotics,
+452,1900,2100,3,Theoretical linguistics;Morphology (linguistics);Linguist;Linguistics basic topics,
+453,1931,2100,3,Psycholinguistics;Neurolinguistics;Linguist;Linguistics basic topics,
+454,1931,2100,3,Psycholinguistics;Linguist;Sentence (linguistics);Linguistics basic topics,
+455,1932,2100,3,Psycholinguistics;Computational linguistics;List of linguistic topics;Linguist,
+456,1932,2100,3,Psycholinguistics;Computational linguistics;Linguist;Linguistics basic topics,
+457,1960,2100,3,Semantics;Grammar;List of linguistic topics;Linguist,
+458,1960,2100,3,Semantics;Grammar;Linguist;Linguistics basic topics,
+459,1960,2100,3,Semantics;Linguist;Etymology;Linguistics basic topics,
+460,1961,2100,3,Truth condition;Linguist;Sentence (linguistics);Linguistics basic topics,
+461,1964,2100,3,Linguist;Lexical semantics;Lexicon;Linguistics basic topics,
+462,1967,2100,3,Verb;Adverb;Function word;Syntactic categories,
+463,2021,2100,3,Historical linguistics;Etymology;List of cognitive science topics;Linguistic layers,

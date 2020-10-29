@@ -1,43 +1,43 @@
-i,birth,death,dim,nodes
-0,100,2100,0,Bernoulli number
-1,150,1350,0,Bernoulli number;Calculus
-2,473,1642,0,Integral of the secant function;Calculus
-3,1691,1808,0,Mean value theorem;Calculus
-4,1762,1801,0,Divergence theorem;Calculus
-5,1768,1807,0,Joseph Fourier;Infinite series
-6,1800,1801,0,Numerical integration;Calculus
-7,2020,2100,0,Shell integration
-8,500,2100,1,Differential calculus;Maxima and minima
-9,1350,2100,1,Infinite series;Maclaurin series
-10,1400,2100,1,Infinitesimal;Law of continuity
-11,1602,2100,1,Exponential function;Integral of secant cubed
-12,1603,2100,1,Chain rule;Related rates
-13,1619,2100,1,Natural logarithm;Gabriel's horn
-14,1620,2100,1,Natural logarithm;Logarithmic derivative
-15,1647,2100,1,Hyperbolic function;Hyperbolic angle
-16,1665,2100,1,Derivative;Method of Fluxions
-17,1669,2100,1,Limit of a sequence;E (mathematical constant)
-18,1669,2100,1,Derivative;Newton's method
-19,1671,2100,1,Taylor series;Taylor's theorem
-20,1671,1685,1,Maclaurin series;Infinite series;Taylor series;Taylor's theorem
-21,1698,2100,1,Colin Maclaurin;Nonstandard calculus
-22,1700,2100,1,Infinitesimal calculus;Leonhard Euler
-23,1700,2100,1,E (mathematical constant);Leonhard Euler
-24,1700,2100,1,Leonhard Euler;Infinite series
-25,1802,2100,1,(ε, δ)-definition of limit;Table of limits
-26,1802,2100,1,Numerical integration;Arclength
-27,1803,2100,1,Maxima and minima;Table of mathematical symbols
-28,1803,2100,1,Linearity of integration;Constant factor rule in integration
-29,1803,1810,1,Derivative;List of integrals of trigonometric functions;Exponential function;List of integrals of exponential functions;Antiderivative
-30,1804,2100,1,Jacobian matrix;Hyperbolic angle
-31,1808,2100,1,Partial derivative;Differentiation under the integral sign
-32,1808,2100,1,Differentiation under the integral sign;Fourier series
-33,1808,2100,1,Fourier series;Trapezium rule
-34,1810,2100,1,Integral of the secant function;Table of integrals
-35,1810,2100,1,Bernoulli number;Table of integrals
-36,1810,2100,1,Table of integrals;List of integrals of hyperbolic functions
-37,1855,2100,1,Leonhard Euler;Gauss
-38,1855,2100,1,Joseph Fourier;Gauss
-39,2020,2100,1,Euler–maclaurin formula;Colin Maclaurin
-40,2020,2100,1,List of integrals of exponential functions;List of integrals
-41,2020,2100,1,List of integrals of logarithmic functions;List of integrals
+i,birth,death,dim,cavity,death_nodes
+0,100,2100,0,Bernoulli number,
+1,150,1350,0,Bernoulli number;Calculus,Infinite series
+2,473,1642,0,Integral of the secant function;Calculus,Isaac Newton
+3,1691,1808,0,Mean value theorem;Calculus,Differentiation under the integral sign
+4,1762,1801,0,Divergence theorem;Calculus,Fundamental theorem of calculus
+5,1768,1807,0,Joseph Fourier;Infinite series,Fourier series
+6,1800,1801,0,Numerical integration;Calculus,Fundamental theorem of calculus
+7,2020,2100,0,Shell integration,
+8,500,2100,1,Differential calculus;Maxima and minima,
+9,1350,2100,1,Infinite series;Maclaurin series,
+10,1400,2100,1,Infinitesimal;Law of continuity,
+11,1602,2100,1,Exponential function;Integral of secant cubed,
+12,1603,2100,1,Chain rule;Related rates,
+13,1619,2100,1,Natural logarithm;Gabriel's horn,
+14,1620,2100,1,Natural logarithm;Logarithmic derivative,
+15,1647,2100,1,Hyperbolic function;Hyperbolic angle,
+16,1665,2100,1,Derivative;Method of Fluxions,
+17,1669,2100,1,Limit of a sequence;E (mathematical constant),
+18,1669,2100,1,Derivative;Newton's method,
+19,1671,2100,1,Taylor series;Taylor's theorem,
+20,1671,1685,1,Maclaurin series;Infinite series;Taylor series;Taylor's theorem,Brook Taylor
+21,1698,2100,1,Colin Maclaurin;Nonstandard calculus,
+22,1700,2100,1,Infinitesimal calculus;Leonhard Euler,
+23,1700,2100,1,E (mathematical constant);Leonhard Euler,
+24,1700,2100,1,Leonhard Euler;Infinite series,
+25,1802,2100,1,(ε, δ)-definition of limit;Table of limits,
+26,1802,2100,1,Numerical integration;Arclength,
+27,1803,2100,1,Maxima and minima;Table of mathematical symbols,
+28,1803,2100,1,Linearity of integration;Constant factor rule in integration,
+29,1803,1810,1,Derivative;List of integrals of trigonometric functions;Exponential function;List of integrals of exponential functions;Antiderivative,Table of integrals
+30,1804,2100,1,Jacobian matrix;Hyperbolic angle,
+31,1808,2100,1,Partial derivative;Differentiation under the integral sign,
+32,1808,2100,1,Differentiation under the integral sign;Fourier series,
+33,1808,2100,1,Fourier series;Trapezium rule,
+34,1810,2100,1,Integral of the secant function;Table of integrals,
+35,1810,2100,1,Bernoulli number;Table of integrals,
+36,1810,2100,1,Table of integrals;List of integrals of hyperbolic functions,
+37,1855,2100,1,Leonhard Euler;Gauss,
+38,1855,2100,1,Joseph Fourier;Gauss,
+39,2020,2100,1,Euler–maclaurin formula;Colin Maclaurin,
+40,2020,2100,1,List of integrals of exponential functions;List of integrals,
+41,2020,2100,1,List of integrals of logarithmic functions;List of integrals,

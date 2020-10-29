@@ -1,48 +1,48 @@
-i,birth,death,dim,nodes
-0,-7000,2100,0,Calcium
-1,-1900,1903,0,Calcium;Geology
-2,-1900,1903,0,Beach;Geology
-3,-1900,2019,0,Cement;Geology
-4,-1900,2019,0,Uniformitarianism (science);Geology
-5,-1800,1000,0,Plate tectonics;Orogeny
-6,-1700,2018,0,Concretion;Geology
-7,1490,1904,0,Meteorite;Geology
-8,1889,1904,0,Isostasy;Geology
-9,1902,1903,0,Igneous rock;Geology
-10,2020,2100,0,Cave
-11,1785,2100,1,Geologist;Geologic time scale
-12,1904,2100,1,Geologist;List of rock types
-13,1904,2019,1,Rock (geology);Plate tectonics;Mantle (geology);Geology
-14,1904,2100,1,Plate tectonics;Geology of the Alps
-15,1904,2100,1,Geologic time scale;Stratigraphy
-16,1904,1940,1,Plate tectonics;Convergent boundary;Mantle (geology);Orogeny
-17,1904,2100,1,Orogeny;Geology of the Alps
-18,1905,2100,1,Mantle (geology);Piercement structure
-19,1905,2100,1,Dike (geology);Piercement structure
-20,1938,2100,1,Calcium;Rubidium-strontium dating
-21,1938,2100,1,Igneous rock;Rubidium-strontium dating
-22,1941,2100,1,List of tectonic plates;Mafic
-23,1941,2100,1,Mantle (geology);Hotspot (geology)
-24,1941,2100,1,Lithosphere;Rift (geology)
-25,1941,2100,1,Aulacogen;Rift (geology)
-26,1942,2100,1,Geologist;Petroleum engineering
-27,1942,2100,1,Petroleum engineering;Mining engineering
-28,1960,2100,1,Astrogeology;Meteorite
-29,1980,2019,1,Rock (geology);Mass wasting;Geomorphology;Geology
-30,2012,2100,1,Mafic;Subduction zone
-31,2012,2100,1,Mud volcano;Subduction zone
-32,2018,2100,1,Mineral;Rubidium-strontium dating
-33,2019,2100,1,Geologic time scale;Pedology (soil study)
-34,2019,2100,1,Lithosphere;Pedology (soil study)
-35,2019,2100,1,Meteorite;Silicate minerals
-36,2019,2100,1,Geologic modeling;Petroleum engineering
-37,2020,2100,1,Rock (geology);Permeability (fluid)
-38,2020,2100,1,Cenozoic;Geology of the Alps
-39,2020,2100,1,Felsic;Silicate minerals
-40,2020,2100,1,Sill (geology);Sandstone
-41,2020,2100,1,Sand;Rock strata
-42,2020,2100,1,Sedimentary rock;Conglomerate (geology)
-43,2020,2100,1,Epoch (geology);Geologic period
-44,2021,2100,1,Batholith;Dike (geology)
-45,2021,2100,1,Orogeny;Transgression (geology)
-46,2021,2100,1,Sandstone;Transgression (geology)
+i,birth,death,dim,cavity,death_nodes
+0,-7000,2100,0,Calcium,
+1,-1900,1903,0,Calcium;Geology,Mafic
+2,-1900,1903,0,Beach;Geology,Rock (geology)
+3,-1900,2019,0,Cement;Geology,Sand
+4,-1900,2019,0,Uniformitarianism (science);Geology,Pedology (soil study)
+5,-1800,1000,0,Plate tectonics;Orogeny,Convergent boundary
+6,-1700,2018,0,Concretion;Geology,Mineral
+7,1490,1904,0,Meteorite;Geology,Mantle (geology)
+8,1889,1904,0,Isostasy;Geology,Mantle (geology)
+9,1902,1903,0,Igneous rock;Geology,Rock (geology)
+10,2020,2100,0,Cave,
+11,1785,2100,1,Geologist;Geologic time scale,
+12,1904,2100,1,Geologist;List of rock types,
+13,1904,2019,1,Rock (geology);Plate tectonics;Mantle (geology);Geology,Sedimentary rock
+14,1904,2100,1,Plate tectonics;Geology of the Alps,
+15,1904,2100,1,Geologic time scale;Stratigraphy,
+16,1904,1940,1,Plate tectonics;Convergent boundary;Mantle (geology);Orogeny,Lithosphere
+17,1904,2100,1,Orogeny;Geology of the Alps,
+18,1905,2100,1,Mantle (geology);Piercement structure,
+19,1905,2100,1,Dike (geology);Piercement structure,
+20,1938,2100,1,Calcium;Rubidium-strontium dating,
+21,1938,2100,1,Igneous rock;Rubidium-strontium dating,
+22,1941,2100,1,List of tectonic plates;Mafic,
+23,1941,2100,1,Mantle (geology);Hotspot (geology),
+24,1941,2100,1,Lithosphere;Rift (geology),
+25,1941,2100,1,Aulacogen;Rift (geology),
+26,1942,2100,1,Geologist;Petroleum engineering,
+27,1942,2100,1,Petroleum engineering;Mining engineering,
+28,1960,2100,1,Astrogeology;Meteorite,
+29,1980,2019,1,Rock (geology);Mass wasting;Geomorphology;Geology,Sedimentary rock
+30,2012,2100,1,Mafic;Subduction zone,
+31,2012,2100,1,Mud volcano;Subduction zone,
+32,2018,2100,1,Mineral;Rubidium-strontium dating,
+33,2019,2100,1,Geologic time scale;Pedology (soil study),
+34,2019,2100,1,Lithosphere;Pedology (soil study),
+35,2019,2100,1,Meteorite;Silicate minerals,
+36,2019,2100,1,Geologic modeling;Petroleum engineering,
+37,2020,2100,1,Rock (geology);Permeability (fluid),
+38,2020,2100,1,Cenozoic;Geology of the Alps,
+39,2020,2100,1,Felsic;Silicate minerals,
+40,2020,2100,1,Sill (geology);Sandstone,
+41,2020,2100,1,Sand;Rock strata,
+42,2020,2100,1,Sedimentary rock;Conglomerate (geology),
+43,2020,2100,1,Epoch (geology);Geologic period,
+44,2021,2100,1,Batholith;Dike (geology),
+45,2021,2100,1,Orogeny;Transgression (geology),
+46,2021,2100,1,Sandstone;Transgression (geology),

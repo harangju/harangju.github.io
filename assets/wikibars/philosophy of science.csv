@@ -1,221 +1,221 @@
-i,birth,death,dim,nodes
-0,-500,2100,0,Determinism
-1,-500,1700,0,Particle physics
-2,-500,1862,0,Ionian Enlightenment
-3,-400,2100,0,Eugenics
-4,-300,1543,0,Philosophy of mathematics
-5,-300,1543,0,Inductive reasoning
-6,-250,1600,0,Time
-7,100,2020,0,Constantin Noica
-8,113,1600,0,Abductive reasoning
-9,240,1543,0,Avicenna
-10,250,1686,0,Conservation biology
-11,400,401,0,Science
-12,1100,1500,0,Empiricism
-13,1253,1267,0,Robert Grosseteste
-14,1500,1600,0,Natural law
-15,1530,1670,0,Horror vacui (physics)
-16,1600,1638,0,Evolution
-17,1600,1957,0,Ethics of technology
-18,1773,1900,0,Jakob Friedrich Fries
-19,1800,1801,0,Behaviorism
-20,1800,1930,0,Connectionism
-21,1800,1811,0,Philosophy of technology
-22,1800,1811,0,Luddite
-23,1800,1891,0,Phenomenalism
-24,1850,1854,0,Irreversibility
-25,1862,1902,0,David Hilbert
-26,1865,2100,0,Victoria Institute
-27,1879,1900,0,Hans Hahn (mathematician)
-28,1880,1902,0,Victor Kraft
-29,1885,1900,0,Niels Bohr
-30,1889,1912,0,History of the Church–Turing thesis
-31,1894,1900,0,Joseph Henry Woodger
-32,1900,2014,0,R. B. Braithwaite
-33,1900,2100,0,Computer ethics
-34,1950,1980,0,Philosophy of information
-35,1959,2015,0,Steve Fuller (sociologist)
-36,1960,2011,0,Marx W. Wartofsky
-37,1973,1974,0,Neuroethics
-38,1989,1990,0,Daniel Chandler
-39,1991,2100,0,International Network of Engineers and Scientists for Global Responsibility
-40,1995,1996,0,Fritjof Capra
-41,1995,2017,0,Conjecture
-42,1600,2100,1,Physical law;Experiment
-43,1600,1900,1,Physical law;Space
-44,1600,2100,1,Scientific revolution;Relationship between religion and science
-45,1620,2018,1,Francis Bacon;Inductivism
-46,1620,2100,1,Abductive reasoning;Inductivism
-47,1620,2100,1,Inductivism;Scientific law
-48,1637,2100,1,Philosophy of science;Willard Van Orman Quine
-49,1637,2100,1,Philosophy of science;Philosophy of space and time
-50,1638,2100,1,Philosophy of mathematics;Jerzy Giedymin
-51,1638,2100,1,Hossein Nasr;Avicenna
-52,1670,2100,1,Atomism;Pierre Gassendi
-53,1670,2100,1,Atomism;Scientific revolution
-54,1671,2100,1,Epicurus;Determinism
-55,1700,2100,1,Problem of induction;Inductive reasoning
-56,1794,2100,1,Scientific revolution;William Whewell
-57,1794,2100,1,William Whewell;Principle of uniformity
-58,1800,2100,1,Emergence;Anti-supernaturalism
-59,1800,2100,1,Spacetime;Physical law
-60,1800,2100,1,Anti-supernaturalism;Uniformitarianism
-61,1800,2100,1,Anti-supernaturalism;Evolution
-62,1800,2100,1,Anti-supernaturalism;Philosophy of mathematics
-63,1801,2100,1,Introspection;Perception
-64,1804,2100,1,Quantum mechanics;Barry Loewer
-65,1820,2100,1,Evolution;Herbert Spencer
-66,1830,2100,1,Instrumentalism;William Whewell
-67,1830,2100,1,Instrumentalism;Particle physics
-68,1838,2100,1,Ernst Mach;Instrumentalism
-69,1854,2100,1,Conventionalism;Henri Poincaré
-70,1858,2100,1,Natural selection;Relationship between religion and science
-71,1861,2100,1,Isaac Newton;Alfred North Whitehead
-72,1862,2100,1,Anti-supernaturalism;Causality
-73,1862,2100,1,Causality;Physical law
-74,1862,2100,1,Causality;Determinism
-75,1862,2100,1,Causality;Principle of uniformity
-76,1863,2100,1,Experiment;Experimenter's bias
-77,1871,2100,1,Pragmatism;Functional contextualism
-78,1872,1891,1,Ernst Mach;Bertrand Russell
-79,1872,1900,1,Bertrand Russell;Philosophy of mathematics
-80,1872,2100,1,Bertrand Russell;Herbert Spencer
-81,1879,2100,1,Albert Einstein;Émile Meyerson
-82,1882,1902,1,Ernst Mach;Otto Neurath
-83,1892,2100,1,Alexandre Koyré;Scientific revolution
-84,1899,1920,1,Ernst Mach;Friedrich von Hayek
-85,1899,2100,1,Behaviorism;Friedrich von Hayek
-86,1899,2100,1,Evolutionary psychology;Friedrich von Hayek
-87,1900,2015,1,Paradigm;Paradigm shift
-88,1900,2100,1,Karl Popper;Probability
-89,1900,2020,1,Karl Popper;René Descartes
-90,1900,2100,1,Causality;Wesley C. Salmon
-91,1900,2100,1,Pragmatism;Hilary Putnam
-92,1900,2011,1,Hilary Putnam;Quantum logic
-93,1900,2100,1,Experiment;Paradigm shift
-94,1900,2100,1,Conjectures and Refutations;Probability
-95,1900,2100,1,Conjectures and Refutations;Jakob Friedrich Fries
-96,1900,2100,1,Conjectures and Refutations;Natural selection
-97,1900,2100,1,Paradigm shift;Principle of uniformity
-98,1900,2100,1,Occam's razor;Theory choice
-99,1901,2100,1,Scientific progress;Francis Bacon
-100,1901,2100,1,Scientific progress;Atomism
-101,1901,2100,1,Scientific progress;Herbert Spencer
-102,1901,2100,1,Scientific progress;Neo-luddism
-103,1901,2100,1,Karl Popper;Closed circle
-104,1901,2100,1,Werner Heisenberg;Niels Bohr
-105,1903,2100,1,Frank P. Ramsey;Ramsey sentence
-106,1920,2100,1,Positivism;Post-positivist
-107,1920,2020,1,Empiricism;Verificationism
-108,1921,2100,1,Moritz Schlick;Wilhelm Wundt
-109,1921,2100,1,Philosophy of mathematics;Jean Cavaillès
-110,1923,2100,1,Physicalism;Rudolf Carnap
-111,1923,2100,1,Physicalism;Otto Neurath
-112,1925,2100,1,Uncertainty principle;Irreversibility
-113,1926,2100,1,John von Neumann;David Hilbert
-114,1926,2100,1,John von Neumann;Game theory
-115,1926,2100,1,Conjectures and Refutations;Quantum indeterminacy
-116,1926,2100,1,Quantum indeterminacy;Uncertainty principle
-117,1930,2100,1,Philosophy of biology;Neuroscience
-118,1930,2020,1,Philosophy of biology;René Descartes
-119,1930,2100,1,Philosophy of biology;Ernst W. Mayr
-120,1930,2100,1,Philosophy of biology;Joseph Henry Woodger
-121,1930,2100,1,Bertrand Russell;Cognitive science
-122,1930,2100,1,Cognitive science;Friedrich von Hayek
-123,1931,2100,1,Spacetime;Roger Penrose
-124,1931,2100,1,Cognitive science;Susan Oyama
-125,1934,2100,1,René Descartes;Richard Swinburne
-126,1940,2100,1,Evolution;Michael Ruse
-127,1940,2100,1,Unity of science;Unified Science
-128,1942,2100,1,Time;Genidentity
-129,1944,2100,1,Philosophy of physics;Quantum mechanics
-130,1944,2100,1,Philosophy of physics;Time
-131,1945,2100,1,Philosophy of mathematics;Philosophy of computer science
-132,1945,2100,1,Arthur Fine;Pragmatism
-133,1947,2100,1,Pragmatism;Philip Kitcher
-134,1951,2100,1,Behaviorism;Noam Chomsky
-135,1951,2100,1,Noam Chomsky;René Descartes
-136,1951,2100,1,Noam Chomsky;Paradigm shift
-137,1952,2100,1,Scientific law;Fact, Fiction, and Forecast
-138,1952,2100,1,Inductive reasoning;Fact, Fiction, and Forecast
-139,1956,2100,1,Artificial intelligence;Alan Turing
-140,1956,2100,1,Artificial intelligence;Probability
-141,1960,2100,1,Carl Gustav Hempel;Deductive-nomological model
-142,1960,2100,1,Causality;Deductive-nomological model
-143,1960,2100,1,Deductive-nomological model;Scientific law
-144,1961,2100,1,Consciousness;Bernard d'Espagnat
-145,1961,2100,1,Consciousness;René Descartes
-146,1961,2100,1,Consciousness;Time
-147,1962,2100,1,Anthropic principle;Emergence
-148,1962,2100,1,Philosophy of artificial intelligence;John Searle
-149,1968,2100,1,Carl Gustav Hempel;John Earman
-150,1974,2100,1,Roboethics;Technocriticism
-151,1974,2100,1,Regulation of science;Technocriticism
-152,1979,2100,1,Don Ihde;Philosophy of technology
-153,1981,2100,1,Conjectures and Refutations;Ilkka Niiniluoto
-154,1983,2100,1,Physicalism;Explanatory gap
-155,1983,2100,1,Ian Hacking;Entity realism
-156,1990,2100,1,Technological Somnambulism;Philosophy of technology
-157,1996,2100,1,René Descartes;Jordi Pigem
-158,1996,2100,1,Ecology;Jordi Pigem
-159,2000,2100,1,Quantum mechanics;Voodoo science
-160,2007,2100,1,Philosophy of mathematics;James Robert Brown
-161,2009,2100,1,Theoretical definition;Inductive reasoning
-162,2010,2100,1,Peter Achinstein;Theoretical definition
-163,2010,2100,1,Operational definition;Time
-164,2010,2100,1,Operational definition;Percy Williams Bridgman
-165,2011,2100,1,Operational definition;Is logic empirical?
-166,2015,2100,1,Niels Bohr;Thomas Samuel Kuhn
-167,2017,2100,1,Theory;Technological determinism
-168,2018,2100,1,Scientific realism;Theory
-169,2018,2100,1,Scientific realism;Entity realism
-170,2018,2100,1,Scientific realism;Time
-171,2018,2100,1,John von Neumann;Scientific modelling
-172,2018,2100,1,Anti-supernaturalism;Explanatory power
-173,2018,2100,1,Explanatory power;Theory
-174,2018,2100,1,Confirmation holism;Theory
-175,2018,2100,1,Theory;Scientific modelling
-176,2018,2100,1,Operational definition;Scientific modelling
-177,2018,2100,1,Empirical method;Inductive reasoning
-178,2019,2100,1,Universe;Scientific theory
-179,2019,2100,1,Evolution;Scientific theory
-180,2019,2100,1,Causality;Explanation
-181,2019,2100,1,Mario Bunge;David Hilbert
-182,2019,2100,1,Mario Bunge;Ethics of technology
-183,2019,2100,1,Explanatory power;Scientific theory
-184,2019,2100,1,Explanatory power;Explanation
-185,2019,2100,1,Artificial consciousness;Scientific theory
-186,2019,2100,1,Scientific theory;Commensurability (philosophy of science)
-187,2019,2100,1,Scientific theory;Inductive reasoning
-188,2020,2100,1,Epistemology;Philosophy of artificial intelligence
-189,2020,2100,1,Epistemology;Introspection
-190,2020,2100,1,Epistemology;Nature (philosophy)
-191,2020,2100,1,Epistemology;Friedrich Wilhelm Joseph Schelling
-192,2020,2100,1,Epistemology;Marx W. Wartofsky
-193,2020,2100,1,Epistemology;John L. Pollock
-194,2020,2100,1,Epistemology;Mauricio Suarez
-195,2020,2100,1,Epistemology;Miura Baien
-196,2020,2100,1,Epistemology;Social constructionism
-197,2020,2021,1,Reductionism;Positivism
-198,2020,2100,1,Reductionism;Emergence
-199,2020,2100,1,Reductionism;Causality
-200,2020,2100,1,Reductionism;Antiscience
-201,2020,2100,1,Reductionism;René Descartes
-202,2020,2100,1,Reductionism;Ernst W. Mayr
-203,2020,2100,1,Reductionism;Unified Science
-204,2020,2100,1,Mario Bunge;Pseudoscience
-205,2020,2100,1,Antiscience;Objectivity (science)
-206,2020,2100,1,Pragmatism;Larry Laudan
-207,2020,2100,1,Scientific theory;Construct (philosophy of science)
-208,2020,2100,1,Scientific theory;Observation
-209,2020,2100,1,Scientific theory;Received view of theories
-210,2020,2100,1,Introspection;Observation
-211,2020,2100,1,Psychologism;Conjectures and Refutations
-212,2020,2100,1,Falsifiability;Pseudoscience
-213,2020,2100,1,Construct (philosophy of science);Theoretical definition
-214,2020,2100,1,Pseudoscience;Fringe science
-215,2020,2100,1,Determinism;Prediction
-216,2020,2100,1,Prediction;Ionian Enlightenment
-217,2021,2100,1,Scientism;Objectivity (science)
-218,2014,2100,2,Philosophy of mathematics;Conjectures and Refutations;Imre Lakatos
-219,2018,2100,2,Physical law;Theory;Empirical research
+i,birth,death,dim,cavity,death_nodes
+0,-500,2100,0,Determinism,
+1,-500,1700,0,Particle physics;Determinism,Quantum field theory
+2,-500,1862,0,Determinism;Ionian Enlightenment,Causality
+3,-400,2100,0,Eugenics,
+4,-300,1543,0,Philosophy of mathematics;Determinism,Scientific revolution
+5,-300,1543,0,Inductive reasoning;Determinism,Scientific revolution
+6,-250,1600,0,Determinism;Time,Natural philosophy
+7,100,2020,0,Constantin Noica;Determinism,Epistemology
+8,113,1600,0,Determinism;Abductive reasoning,Physical law
+9,240,1543,0,Avicenna;Determinism,Scientific revolution
+10,250,1686,0,Determinism;Conservation biology,Species
+11,400,401,0,Determinism;Science,Paradigm
+12,1100,1500,0,Avicenna;Empiricism,René Descartes
+13,1253,1267,0,Empiricism;Robert Grosseteste,Roger Bacon
+14,1500,1600,0,Natural law;Science,Physical law
+15,1530,1670,0,Horror vacui (physics);Science,Atomism
+16,1600,1638,0,Evolution;Science,Claus Emmeche
+17,1600,1957,0,Abductive reasoning;Ethics of technology,Ethics of artificial intelligence
+18,1773,1900,0,Philosophy of science;Jakob Friedrich Fries,Karl Popper
+19,1800,1801,0,Positivism;Behaviorism,Introspection
+20,1800,1930,0,Connectionism;Science,Cognitive science
+21,1800,1811,0,Philosophy of technology;Antiscience,Neo-luddism
+22,1800,1811,0,Antiscience;Luddite,Neo-luddism
+23,1800,1891,0,Philosophy of science;Phenomenalism,Rudolf Carnap
+24,1850,1854,0,Philosophy of science;Irreversibility,Henri Poincaré
+25,1862,1902,0,David Hilbert;Philosophy of science,Vienna Circle
+26,1865,2100,0,Victoria Institute,
+27,1879,1900,0,Philosophy of science;Hans Hahn (mathematician),Karl Popper
+28,1880,1902,0,Philosophy of science;Victor Kraft,Vienna Circle
+29,1885,1900,0,Niels Bohr;Philosophy of science,Conjectures and Refutations
+30,1889,1912,0,History of the Church–Turing thesis;Bertrand Russell,Alan Turing
+31,1894,1900,0,Philosophy of science;Joseph Henry Woodger,Karl Popper
+32,1900,2014,0,Philosophy of science;R. B. Braithwaite,Imre Lakatos
+33,1900,2100,0,Computer ethics,
+34,1950,1980,0,Computer ethics;Philosophy of information,Information ethics
+35,1959,2015,0,Philosophy of science;Steve Fuller (sociologist),Thomas Samuel Kuhn
+36,1960,2011,0,Logical positivism;Marx W. Wartofsky,Is logic empirical?
+37,1973,1974,0,Philosophy of technology;Neuroethics,Technocriticism
+38,1989,1990,0,Technological determinism;Daniel Chandler,Technological Somnambulism
+39,1991,2100,0,International Network of Engineers and Scientists for Global Responsibility,
+40,1995,1996,0,Philosophy of science;Fritjof Capra,Jordi Pigem
+41,1995,2017,0,Conjecture;Science,Theory
+42,1600,2100,1,Physical law;Experiment,
+43,1600,1900,1,Natural philosophy;Francis Bacon;Time;Physical law;Space,Universe
+44,1600,2100,1,Scientific revolution;Relationship between religion and science,
+45,1620,2018,1,Inductivism;Empiricism;Francis Bacon;Science;Paradigm;Physical law;Experiment,Empirical method
+46,1620,2100,1,Abductive reasoning;Inductivism,
+47,1620,2100,1,Inductivism;Scientific law,
+48,1637,2100,1,Philosophy of science;Willard Van Orman Quine,
+49,1637,2100,1,Philosophy of science;Philosophy of space and time,
+50,1638,2100,1,Philosophy of mathematics;Jerzy Giedymin,
+51,1638,2100,1,Hossein Nasr;Avicenna,
+52,1670,2100,1,Atomism;Pierre Gassendi,
+53,1670,2100,1,Atomism;Scientific revolution,
+54,1671,2100,1,Epicurus;Determinism,
+55,1700,2100,1,Problem of induction;Inductive reasoning,
+56,1794,2100,1,Scientific revolution;William Whewell,
+57,1794,2100,1,William Whewell;Principle of uniformity,
+58,1800,2100,1,Emergence;Anti-supernaturalism,
+59,1800,2100,1,Spacetime;Physical law,
+60,1800,2100,1,Anti-supernaturalism;Uniformitarianism,
+61,1800,2100,1,Anti-supernaturalism;Evolution,
+62,1800,2100,1,Anti-supernaturalism;Philosophy of mathematics,
+63,1801,2100,1,Introspection;Perception,
+64,1804,2100,1,Quantum mechanics;Barry Loewer,
+65,1820,2100,1,Evolution;Herbert Spencer,
+66,1830,2100,1,Instrumentalism;William Whewell,
+67,1830,2100,1,Instrumentalism;Particle physics,
+68,1838,2100,1,Ernst Mach;Instrumentalism,
+69,1854,2100,1,Conventionalism;Henri Poincaré,
+70,1858,2100,1,Natural selection;Relationship between religion and science,
+71,1861,2100,1,Isaac Newton;Alfred North Whitehead,
+72,1862,2100,1,Anti-supernaturalism;Causality,
+73,1862,2100,1,Causality;Physical law,
+74,1862,2100,1,Causality;Determinism,
+75,1862,2100,1,Causality;Principle of uniformity,
+76,1863,2100,1,Experiment;Experimenter's bias,
+77,1871,2100,1,Pragmatism;Functional contextualism,
+78,1872,1891,1,Philosophy of science;Instrumentalism;Bertrand Russell;Ernst Mach,Rudolf Carnap
+79,1872,1900,1,Willard Van Orman Quine;Philosophy of mathematics;Philosophy of science;Bertrand Russell,Hilary Putnam
+80,1872,2100,1,Bertrand Russell;Herbert Spencer,
+81,1879,2100,1,Albert Einstein;Émile Meyerson,
+82,1882,1902,1,Albert Einstein;Ernst Mach;Philosophy of science;Bertrand Russell;Otto Neurath,Vienna Circle
+83,1892,2100,1,Alexandre Koyré;Scientific revolution,
+84,1899,1920,1,Friedrich von Hayek;Albert Einstein;Ernst Mach;Philosophy of science;Bertrand Russell,Logical positivism
+85,1899,2100,1,Behaviorism;Friedrich von Hayek,
+86,1899,2100,1,Evolutionary psychology;Friedrich von Hayek,
+87,1900,2015,1,Philosophy of science;Paradigm;The Structure of Scientific Revolutions;Paradigm shift,Thomas Samuel Kuhn
+88,1900,2100,1,Karl Popper;Probability,
+89,1900,2020,1,René Descartes;Philosophy of science;Empiricism;Karl Popper,Epistemology
+90,1900,2100,1,Causality;Wesley C. Salmon,
+91,1900,2100,1,Pragmatism;Hilary Putnam,
+92,1900,2011,1,Hilary Putnam;Quantum logic;Albert Einstein;Quantum mechanics;Philosophy of science;Karl Popper,Is logic empirical?
+93,1900,2100,1,Experiment;Paradigm shift,
+94,1900,2100,1,Conjectures and Refutations;Probability,
+95,1900,2100,1,Conjectures and Refutations;Jakob Friedrich Fries,
+96,1900,2100,1,Conjectures and Refutations;Natural selection,
+97,1900,2100,1,Paradigm shift;Principle of uniformity,
+98,1900,2100,1,Occam's razor;Theory choice,
+99,1901,2100,1,Scientific progress;Francis Bacon,
+100,1901,2100,1,Scientific progress;Atomism,
+101,1901,2100,1,Scientific progress;Herbert Spencer,
+102,1901,2100,1,Scientific progress;Neo-luddism,
+103,1901,2100,1,Karl Popper;Closed circle,
+104,1901,2100,1,Werner Heisenberg;Niels Bohr,
+105,1903,2100,1,Frank P. Ramsey;Ramsey sentence,
+106,1920,2100,1,Positivism;Post-positivist,
+107,1920,2020,1,Philosophy of science;Logical positivism;Empiricism;Verificationism,Epistemology
+108,1921,2100,1,Moritz Schlick;Wilhelm Wundt,
+109,1921,2100,1,Philosophy of mathematics;Jean Cavaillès,
+110,1923,2100,1,Physicalism;Rudolf Carnap,
+111,1923,2100,1,Physicalism;Otto Neurath,
+112,1925,2100,1,Uncertainty principle;Irreversibility,
+113,1926,2100,1,John von Neumann;David Hilbert,
+114,1926,2100,1,John von Neumann;Game theory,
+115,1926,2100,1,Conjectures and Refutations;Quantum indeterminacy,
+116,1926,2100,1,Quantum indeterminacy;Uncertainty principle,
+117,1930,2100,1,Philosophy of biology;Neuroscience,
+118,1930,2020,1,René Descartes;Philosophy of science;Karl Popper;Philosophy of biology,Epistemology
+119,1930,2100,1,Philosophy of biology;Ernst W. Mayr,
+120,1930,2100,1,Philosophy of biology;Joseph Henry Woodger,
+121,1930,2100,1,Bertrand Russell;Cognitive science,
+122,1930,2100,1,Cognitive science;Friedrich von Hayek,
+123,1931,2100,1,Spacetime;Roger Penrose,
+124,1931,2100,1,Cognitive science;Susan Oyama,
+125,1934,2100,1,René Descartes;Richard Swinburne,
+126,1940,2100,1,Evolution;Michael Ruse,
+127,1940,2100,1,Unity of science;Unified Science,
+128,1942,2100,1,Time;Genidentity,
+129,1944,2100,1,Philosophy of physics;Quantum mechanics,
+130,1944,2100,1,Philosophy of physics;Time,
+131,1945,2100,1,Philosophy of mathematics;Philosophy of computer science,
+132,1945,2100,1,Arthur Fine;Pragmatism,
+133,1947,2100,1,Pragmatism;Philip Kitcher,
+134,1951,2100,1,Behaviorism;Noam Chomsky,
+135,1951,2100,1,Noam Chomsky;René Descartes,
+136,1951,2100,1,Noam Chomsky;Paradigm shift,
+137,1952,2100,1,Scientific law;Fact, Fiction, and Forecast,
+138,1952,2100,1,Inductive reasoning;Fact, Fiction, and Forecast,
+139,1956,2100,1,Artificial intelligence;Alan Turing,
+140,1956,2100,1,Artificial intelligence;Probability,
+141,1960,2100,1,Carl Gustav Hempel;Deductive-nomological model,
+142,1960,2100,1,Causality;Deductive-nomological model,
+143,1960,2100,1,Deductive-nomological model;Scientific law,
+144,1961,2100,1,Consciousness;Bernard d'Espagnat,
+145,1961,2100,1,Consciousness;René Descartes,
+146,1961,2100,1,Consciousness;Time,
+147,1962,2100,1,Anthropic principle;Emergence,
+148,1962,2100,1,Philosophy of artificial intelligence;John Searle,
+149,1968,2100,1,Carl Gustav Hempel;John Earman,
+150,1974,2100,1,Roboethics;Technocriticism,
+151,1974,2100,1,Regulation of science;Technocriticism,
+152,1979,2100,1,Don Ihde;Philosophy of technology,
+153,1981,2100,1,Conjectures and Refutations;Ilkka Niiniluoto,
+154,1983,2100,1,Physicalism;Explanatory gap,
+155,1983,2100,1,Ian Hacking;Entity realism,
+156,1990,2100,1,Technological Somnambulism;Philosophy of technology,
+157,1996,2100,1,René Descartes;Jordi Pigem,
+158,1996,2100,1,Ecology;Jordi Pigem,
+159,2000,2100,1,Quantum mechanics;Voodoo science,
+160,2007,2100,1,Philosophy of mathematics;James Robert Brown,
+161,2009,2100,1,Theoretical definition;Inductive reasoning,
+162,2010,2100,1,Peter Achinstein;Theoretical definition,
+163,2010,2100,1,Operational definition;Time,
+164,2010,2100,1,Operational definition;Percy Williams Bridgman,
+165,2011,2100,1,Operational definition;Is logic empirical?,
+166,2015,2100,1,Niels Bohr;Thomas Samuel Kuhn,
+167,2017,2100,1,Theory;Technological determinism,
+168,2018,2100,1,Scientific realism;Theory,
+169,2018,2100,1,Scientific realism;Entity realism,
+170,2018,2100,1,Scientific realism;Time,
+171,2018,2100,1,John von Neumann;Scientific modelling,
+172,2018,2100,1,Anti-supernaturalism;Explanatory power,
+173,2018,2100,1,Explanatory power;Theory,
+174,2018,2100,1,Confirmation holism;Theory,
+175,2018,2100,1,Theory;Scientific modelling,
+176,2018,2100,1,Operational definition;Scientific modelling,
+177,2018,2100,1,Empirical method;Inductive reasoning,
+178,2019,2100,1,Universe;Scientific theory,
+179,2019,2100,1,Evolution;Scientific theory,
+180,2019,2100,1,Causality;Explanation,
+181,2019,2100,1,Mario Bunge;David Hilbert,
+182,2019,2100,1,Mario Bunge;Ethics of technology,
+183,2019,2100,1,Explanatory power;Scientific theory,
+184,2019,2100,1,Explanatory power;Explanation,
+185,2019,2100,1,Artificial consciousness;Scientific theory,
+186,2019,2100,1,Scientific theory;Commensurability (philosophy of science),
+187,2019,2100,1,Scientific theory;Inductive reasoning,
+188,2020,2100,1,Epistemology;Philosophy of artificial intelligence,
+189,2020,2100,1,Epistemology;Introspection,
+190,2020,2100,1,Epistemology;Nature (philosophy),
+191,2020,2100,1,Epistemology;Friedrich Wilhelm Joseph Schelling,
+192,2020,2100,1,Epistemology;Marx W. Wartofsky,
+193,2020,2100,1,Epistemology;John L. Pollock,
+194,2020,2100,1,Epistemology;Mauricio Suarez,
+195,2020,2100,1,Epistemology;Miura Baien,
+196,2020,2100,1,Epistemology;Social constructionism,
+197,2020,2021,1,Post-positivist;Philosophy of science;Positivism;Reductionism,Scientism
+198,2020,2100,1,Reductionism;Emergence,
+199,2020,2100,1,Reductionism;Causality,
+200,2020,2100,1,Reductionism;Antiscience,
+201,2020,2100,1,Reductionism;René Descartes,
+202,2020,2100,1,Reductionism;Ernst W. Mayr,
+203,2020,2100,1,Reductionism;Unified Science,
+204,2020,2100,1,Mario Bunge;Pseudoscience,
+205,2020,2100,1,Antiscience;Objectivity (science),
+206,2020,2100,1,Pragmatism;Larry Laudan,
+207,2020,2100,1,Scientific theory;Construct (philosophy of science),
+208,2020,2100,1,Scientific theory;Observation,
+209,2020,2100,1,Scientific theory;Received view of theories,
+210,2020,2100,1,Introspection;Observation,
+211,2020,2100,1,Psychologism;Conjectures and Refutations,
+212,2020,2100,1,Falsifiability;Pseudoscience,
+213,2020,2100,1,Construct (philosophy of science);Theoretical definition,
+214,2020,2100,1,Pseudoscience;Fringe science,
+215,2020,2100,1,Determinism;Prediction,
+216,2020,2100,1,Prediction;Ionian Enlightenment,
+217,2021,2100,1,Scientism;Objectivity (science),
+218,2014,2100,2,Philosophy of mathematics;Conjectures and Refutations;Imre Lakatos,
+219,2018,2100,2,Physical law;Theory;Empirical research,

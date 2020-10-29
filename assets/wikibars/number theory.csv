@@ -1,130 +1,130 @@
-i,birth,death,dim,nodes
-0,-1800,2100,0,Pythagorean triple
-1,-1650,-600,0,Pi
-2,-1550,400,0,Prime number
-3,-400,629,0,Pell's equation
-4,100,400,0,Bernoulli number
-5,105,400,0,Euclidean algorithm
-6,1240,1928,0,Middle-square method
-7,1500,2020,0,Topics in cryptography
-8,1600,1896,0,Ford circle
-9,1748,1896,0,Generalized continued fraction
-10,1802,1938,0,Farey sequence
-11,1925,2009,0,Cunningham project
-12,1927,1928,0,Pseudorandomness
-13,1940,2010,0,Elliptic divisibility sequence
-14,1981,2009,0,Quadratic sieve
-15,403,2100,1,Möbius inversion formula;Lambert series
-16,629,2100,1,Diophantine equation;Algebraic number theory
-17,629,2100,1,Diophantine equation;Linear congruence theorem
-18,629,2100,1,Diophantine equation;Quadratic form
-19,629,2100,1,Diophantine equation;Pythagorean triple
-20,630,2100,1,Diophantine equation;Effective results in number theory
-21,900,1981,1,Fraction (mathematics);Irrational number
-22,901,2100,1,Least common multiple;Fraction (mathematics)
-23,1343,2100,1,Diophantine equation;Catalan's conjecture
-24,1668,2100,1,Basel problem;List of topics related to pi
-25,1700,2100,1,Pi;Prime-counting function
-26,1702,2100,1,Salem number;Mahler measure
-27,1736,1982,1,Fermat's little theorem;Euler's theorem
-28,1801,2100,1,Modular arithmetic;Euclidean algorithm
-29,1801,1803,1,Modular arithmetic;Disquisitiones Arithmeticae
-30,1801,1980,1,Modular arithmetic;Fermat's little theorem
-31,1801,2100,1,Modular arithmetic;Wilson's theorem
-32,1801,1980,1,Modular arithmetic;Dirichlet's theorem on arithmetic progressions
-33,1801,2100,1,Computational number theory;Quadratic residuosity problem
-34,1802,2100,1,Composite number;Probable prime
-35,1802,2100,1,Composite number;Carmichael number
-36,1802,2100,1,Modular arithmetic;Multiplicative order
-37,1802,2100,1,Modular arithmetic;Partition function (number theory)
-38,1802,2100,1,Modular arithmetic;Probable prime
-39,1802,1989,1,Modular arithmetic;Carmichael number
-40,1802,2100,1,Bell numbers;Probable prime
-41,1803,2100,1,Extended Euclidean algorithm;Bézout's lemma
-42,1803,2100,1,Modular exponentiation;Discrete logarithm
-43,1844,2100,1,Transcendental number;Liouville number
-44,1850,2100,1,Cousin prime;Sexy prime
-45,1889,2100,1,Proofs of Fermat's theorem on sums of two squares;Minkowski's theorem
-46,1895,2100,1,Rational number;Factorization
-47,1896,2100,1,Rational number;Hasse principle
-48,1896,2100,1,Lagrange's four-square theorem;Square number
-49,1896,2100,1,Basel problem;Square number
-50,1896,2100,1,Square number;Proofs of Fermat's theorem on sums of two squares
-51,1897,2100,1,Basel problem;Small set (combinatorics)
-52,1897,2100,1,Square-free integer;Square number
-53,1898,2100,1,Fundamental theorem of arithmetic;Quadratic irrational
-54,1898,2100,1,Twin prime;Mathematical constant (sorted by continued fraction representation)
-55,1898,2100,1,Square-free integer;Von Staudt–Clausen theorem
-56,1898,2100,1,Square-free integer;Congruent number
-57,1919,2100,1,Irrational number;Brun's constant
-58,1922,2100,1,Rational number;Chebotarev's density theorem
-59,1941,2100,1,Sieve theory;Large sieve
-60,1944,2100,1,Effective results in number theory;Linnik's theorem
-61,1960,2100,1,Composite number;Sierpinski number
-62,1964,2100,1,Continued fraction;Lochs' theorem
-63,1970,2100,1,Diophantine equation;Diophantine set
-64,1970,2100,1,Lagrange's four-square theorem;Diophantine set
-65,1979,2100,1,Riemann zeta function;Selberg trace formula
-66,1980,2100,1,Modular arithmetic;Divisor function
-67,1980,2100,1,Coprime;Pythagorean triple
-68,1980,2100,1,Prime-counting function;Skewes' number
-69,1981,2100,1,Square-free;Square-free polynomial
-70,1981,2100,1,In lowest terms;Farey sequence
-71,1981,2100,1,Dirichlet character;Dirichlet L-series
-72,1981,2100,1,L-function;Functional equation (L-function)
-73,1981,2100,1,Hurwitz zeta function;Dirichlet L-series
-74,1981,2100,1,Generalized Riemann hypothesis;Siegel zero
-75,1981,2100,1,Dirichlet L-series;Modularity theorem
-76,1981,2100,1,Siegel zero;Abc Conjecture
-77,1981,2100,1,Equidistributed sequence;Constructions of low-discrepancy sequences
-78,1981,2100,1,Constructions of low-discrepancy sequences;Linear congruential generator
-79,1982,2100,1,Multiplicative function;Bell series
-80,1985,2100,1,Square-free integer;Mertens function
-81,1986,2100,1,Euler's totient function;Blum Blum Shub
-82,1986,2100,1,Pseudorandom number generator;Blum Blum Shub
-83,1989,2100,1,1729 (number);Euler pseudoprime
-84,1994,2100,1,Modular exponentiation;Shor's algorithm
-85,1997,2100,1,Mersenne prime;Mersenne twister
-86,2003,2100,1,Aks primality test;Generalized Riemann hypothesis
-87,2009,2011,1,Integer factorization;Shor's algorithm
-88,2009,2011,1,Quadratic sieve;Prime factorization algorithm
-89,2010,2011,1,Modular arithmetic;Quadratic residue
-90,2010,2100,1,Pi;Cryptographically secure pseudo-random number generator
-91,2010,2100,1,Trial division;Great Internet Mersenne Prime Search
-92,2010,2100,1,Square-free polynomial;Elliptic curve
-93,2010,2100,1,Square number;Quadratic residue
-94,2010,2100,1,Safe prime;Quadratic residue
-95,2010,2100,1,Quadratic residue;Quadratic residuosity problem
-96,2010,2100,1,Quadratic residue;Blum Blum Shub
-97,2010,2100,1,Linear congruential generator;Linear feedback shift register
-98,2010,2100,1,Quadratic residuosity problem;Cryptographically secure pseudo-random number generator
-99,2010,2100,1,Pseudorandom number generator;Cryptographically secure pseudo-random number generator
-100,2010,2100,1,Pseudorandomness;Linear feedback shift register
-101,2010,2100,1,Linear feedback shift register;Shrinking generator
-102,2011,2100,1,Prime power;General number field sieve
-103,2011,2100,1,Integer partition;Landau's function
-104,2011,2100,1,Landau's function;Riemann hypothesis
-105,2011,2100,1,Dirichlet series;Local zeta function
-106,2011,2100,1,Elliptic curve;Mordell curve
-107,2011,2100,1,Local zeta function;Weil conjectures
-108,2011,2100,1,Congruence subgroup;Modular curve
-109,2020,2100,1,Stream cipher;Mod n cryptanalysis
-110,2020,2100,1,Stream cipher;Mersenne twister
-111,2020,2100,1,Stream cipher;Cryptographically secure pseudo-random number generator
-112,2020,2100,1,Divisor;Irreducible fraction
-113,2020,2100,1,Divisor;Square-free integer
-114,2020,2100,1,Divisor;Divisor function
-115,2020,2100,1,Divisor;Liouville function
-116,2020,2100,1,Divisor;1729 (number)
-117,2020,2100,1,Divisor;Lenstra elliptic curve factorization
-118,2020,2100,1,Greatest common divisor;Discrete logarithm
-119,2020,2100,1,Power of two;Mersenne prime
-120,2020,2100,1,Meissel–mertens constant;Mathematical constant (sorted by continued fraction representation)
-121,5042,2100,1,Table of divisors;Table of prime factors
-122,1938,2100,2,Algebraic number;Transcendental number;Minkowski's question mark function
-123,1981,2100,2,Modular arithmetic;Disquisitiones Arithmeticae;Primitive root modulo n
-124,1982,2100,2,Coprime;In lowest terms;Recurring decimal
-125,1989,2100,2,Modular arithmetic;Fermat's little theorem;Euler pseudoprime
-126,2003,2100,2,Modular arithmetic;Aks primality test;Fermat's little theorem
-127,2013,2100,2,General number field sieve;Lenstra elliptic curve factorization;Prime factorization algorithm
-128,2020,2100,2,Greatest common divisor;Lenstra elliptic curve factorization;Prime factorization algorithm
+i,birth,death,dim,cavity,death_nodes
+0,-1800,2100,0,Pythagorean triple,
+1,-1650,-600,0,Pi;Pythagorean triple,Irrational number
+2,-1550,400,0,Pi;Prime number,Number theory
+3,-400,629,0,Prime number;Pell's equation,Diophantine equation
+4,100,400,0,Prime number;Bernoulli number,Number theory
+5,105,400,0,Prime number;Euclidean algorithm,Number theory
+6,1240,1928,0,Pi;Middle-square method,Pseudorandom number generator
+7,1500,2020,0,Prime number;Topics in cryptography,Isaac (cipher)
+8,1600,1896,0,Ford circle;Number theory,Irreducible fraction
+9,1748,1896,0,Generalized continued fraction;Number theory,Continued fraction
+10,1802,1938,0,Number theory;Farey sequence,Minkowski's question mark function
+11,1925,2009,0,Prime number;Cunningham project,Integer factorization
+12,1927,1928,0,Pseudo-random number;Pseudorandomness,Pseudorandom number generator
+13,1940,2010,0,Number theory;Elliptic divisibility sequence,Elliptic curve
+14,1981,2009,0,Quadratic sieve;Prime number,Integer factorization
+15,403,2100,1,Möbius inversion formula;Lambert series,
+16,629,2100,1,Diophantine equation;Algebraic number theory,
+17,629,2100,1,Diophantine equation;Linear congruence theorem,
+18,629,2100,1,Diophantine equation;Quadratic form,
+19,629,2100,1,Diophantine equation;Pythagorean triple,
+20,630,2100,1,Diophantine equation;Effective results in number theory,
+21,900,1981,1,Pi;Irrational number;Fraction (mathematics);Euclidean algorithm;Number theory,In lowest terms
+22,901,2100,1,Least common multiple;Fraction (mathematics),
+23,1343,2100,1,Diophantine equation;Catalan's conjecture,
+24,1668,2100,1,Basel problem;List of topics related to pi,
+25,1700,2100,1,Pi;Prime-counting function,
+26,1702,2100,1,Salem number;Mahler measure,
+27,1736,1982,1,Prime number;Fermat's little theorem;Number theory;Euler's theorem,Recurring decimal
+28,1801,2100,1,Modular arithmetic;Euclidean algorithm,
+29,1801,1803,1,Euclidean algorithm;Number theory;Disquisitiones Arithmeticae;Modular arithmetic;Linear congruence theorem,Bézout's identity
+30,1801,1980,1,Fermat's little theorem;Euclidean algorithm;Number theory;Modular arithmetic;Euler's theorem,Coprime
+31,1801,2100,1,Modular arithmetic;Wilson's theorem,
+32,1801,1980,1,Modular arithmetic;Euclidean algorithm;Number theory;Dirichlet's theorem on arithmetic progressions;Prime number,Coprime
+33,1801,2100,1,Computational number theory;Quadratic residuosity problem,
+34,1802,2100,1,Composite number;Probable prime,
+35,1802,2100,1,Composite number;Carmichael number,
+36,1802,2100,1,Modular arithmetic;Multiplicative order,
+37,1802,2100,1,Modular arithmetic;Partition function (number theory),
+38,1802,2100,1,Modular arithmetic;Probable prime,
+39,1802,1989,1,Modular arithmetic;Composite number;Euclidean algorithm;Number theory;Carmichael number;Prime number,Euler pseudoprime
+40,1802,2100,1,Bell numbers;Probable prime,
+41,1803,2100,1,Extended Euclidean algorithm;Bézout's lemma,
+42,1803,2100,1,Modular exponentiation;Discrete logarithm,
+43,1844,2100,1,Transcendental number;Liouville number,
+44,1850,2100,1,Cousin prime;Sexy prime,
+45,1889,2100,1,Proofs of Fermat's theorem on sums of two squares;Minkowski's theorem,
+46,1895,2100,1,Rational number;Factorization,
+47,1896,2100,1,Rational number;Hasse principle,
+48,1896,2100,1,Lagrange's four-square theorem;Square number,
+49,1896,2100,1,Basel problem;Square number,
+50,1896,2100,1,Square number;Proofs of Fermat's theorem on sums of two squares,
+51,1897,2100,1,Basel problem;Small set (combinatorics),
+52,1897,2100,1,Square-free integer;Square number,
+53,1898,2100,1,Fundamental theorem of arithmetic;Quadratic irrational,
+54,1898,2100,1,Twin prime;Mathematical constant (sorted by continued fraction representation),
+55,1898,2100,1,Square-free integer;Von Staudt–Clausen theorem,
+56,1898,2100,1,Square-free integer;Congruent number,
+57,1919,2100,1,Irrational number;Brun's constant,
+58,1922,2100,1,Rational number;Chebotarev's density theorem,
+59,1941,2100,1,Sieve theory;Large sieve,
+60,1944,2100,1,Effective results in number theory;Linnik's theorem,
+61,1960,2100,1,Composite number;Sierpinski number,
+62,1964,2100,1,Continued fraction;Lochs' theorem,
+63,1970,2100,1,Diophantine equation;Diophantine set,
+64,1970,2100,1,Lagrange's four-square theorem;Diophantine set,
+65,1979,2100,1,Riemann zeta function;Selberg trace formula,
+66,1980,2100,1,Modular arithmetic;Divisor function,
+67,1980,2100,1,Coprime;Pythagorean triple,
+68,1980,2100,1,Prime-counting function;Skewes' number,
+69,1981,2100,1,Square-free;Square-free polynomial,
+70,1981,2100,1,In lowest terms;Farey sequence,
+71,1981,2100,1,Dirichlet character;Dirichlet L-series,
+72,1981,2100,1,L-function;Functional equation (L-function),
+73,1981,2100,1,Hurwitz zeta function;Dirichlet L-series,
+74,1981,2100,1,Generalized Riemann hypothesis;Siegel zero,
+75,1981,2100,1,Dirichlet L-series;Modularity theorem,
+76,1981,2100,1,Siegel zero;Abc Conjecture,
+77,1981,2100,1,Equidistributed sequence;Constructions of low-discrepancy sequences,
+78,1981,2100,1,Constructions of low-discrepancy sequences;Linear congruential generator,
+79,1982,2100,1,Multiplicative function;Bell series,
+80,1985,2100,1,Square-free integer;Mertens function,
+81,1986,2100,1,Euler's totient function;Blum Blum Shub,
+82,1986,2100,1,Pseudorandom number generator;Blum Blum Shub,
+83,1989,2100,1,1729 (number);Euler pseudoprime,
+84,1994,2100,1,Modular exponentiation;Shor's algorithm,
+85,1997,2100,1,Mersenne prime;Mersenne twister,
+86,2003,2100,1,Aks primality test;Generalized Riemann hypothesis,
+87,2009,2011,1,Number theory;Integer factorization;Prime factor;Shor's algorithm;Prime number;Prime factorization algorithm,General number field sieve
+88,2009,2011,1,Quadratic sieve;Prime factorization algorithm;Number theory;Integer factorization,General number field sieve
+89,2010,2011,1,Modular arithmetic;Number theory;Coprime;Quadratic residue;Prime number,Euler's criterion
+90,2010,2100,1,Pi;Cryptographically secure pseudo-random number generator,
+91,2010,2100,1,Trial division;Great Internet Mersenne Prime Search,
+92,2010,2100,1,Square-free polynomial;Elliptic curve,
+93,2010,2100,1,Square number;Quadratic residue,
+94,2010,2100,1,Safe prime;Quadratic residue,
+95,2010,2100,1,Quadratic residue;Quadratic residuosity problem,
+96,2010,2100,1,Quadratic residue;Blum Blum Shub,
+97,2010,2100,1,Linear congruential generator;Linear feedback shift register,
+98,2010,2100,1,Quadratic residuosity problem;Cryptographically secure pseudo-random number generator,
+99,2010,2100,1,Pseudorandom number generator;Cryptographically secure pseudo-random number generator,
+100,2010,2100,1,Pseudorandomness;Linear feedback shift register,
+101,2010,2100,1,Linear feedback shift register;Shrinking generator,
+102,2011,2100,1,Prime power;General number field sieve,
+103,2011,2100,1,Integer partition;Landau's function,
+104,2011,2100,1,Landau's function;Riemann hypothesis,
+105,2011,2100,1,Dirichlet series;Local zeta function,
+106,2011,2100,1,Elliptic curve;Mordell curve,
+107,2011,2100,1,Local zeta function;Weil conjectures,
+108,2011,2100,1,Congruence subgroup;Modular curve,
+109,2020,2100,1,Stream cipher;Mod n cryptanalysis,
+110,2020,2100,1,Stream cipher;Mersenne twister,
+111,2020,2100,1,Stream cipher;Cryptographically secure pseudo-random number generator,
+112,2020,2100,1,Divisor;Irreducible fraction,
+113,2020,2100,1,Divisor;Square-free integer,
+114,2020,2100,1,Divisor;Divisor function,
+115,2020,2100,1,Divisor;Liouville function,
+116,2020,2100,1,Divisor;1729 (number),
+117,2020,2100,1,Divisor;Lenstra elliptic curve factorization,
+118,2020,2100,1,Greatest common divisor;Discrete logarithm,
+119,2020,2100,1,Power of two;Mersenne prime,
+120,2020,2100,1,Meissel–mertens constant;Mathematical constant (sorted by continued fraction representation),
+121,5042,2100,1,Table of divisors;Table of prime factors,
+122,1938,2100,2,Algebraic number;Transcendental number;Minkowski's question mark function,
+123,1981,2100,2,Modular arithmetic;Disquisitiones Arithmeticae;Primitive root modulo n,
+124,1982,2100,2,Coprime;In lowest terms;Recurring decimal,
+125,1989,2100,2,Modular arithmetic;Fermat's little theorem;Euler pseudoprime,
+126,2003,2100,2,Modular arithmetic;Aks primality test;Fermat's little theorem,
+127,2013,2100,2,General number field sieve;Lenstra elliptic curve factorization;Prime factorization algorithm,
+128,2020,2100,2,Greatest common divisor;Lenstra elliptic curve factorization;Prime factorization algorithm,

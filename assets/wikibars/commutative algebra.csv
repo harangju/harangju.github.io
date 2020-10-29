@@ -1,65 +1,65 @@
-i,birth,death,dim,nodes
-0,-400,2100,0,Algebraic geometry
-1,147,1801,0,Algebraic geometry;Ascending chain condition
-2,1783,2100,1,Abstract algebra;Zariski tangent space
-3,1783,2100,1,Tensor product of fields;Field theory (mathematics)
-4,1800,2100,1,Nilpotent;Dual numbers
-5,1801,1878,1,Commutative ring;Ring theory;Abstract algebra;Algebraic number theory
-6,1801,2100,1,Commutative ring;Chinese remainder theorem
-7,1801,1876,1,Commutative ring;Field theory (mathematics);Abstract algebra;Algebraic number theory
-8,1801,1941,1,Algebraic geometry;Ring theory;Homological algebra;Module (mathematics)
-9,1801,2100,1,Abstract algebra;Ring homomorphism
-10,1801,1876,1,Prime ideal;Ring theory;Field theory (mathematics);Algebraic number theory
-11,1801,2100,1,Ring homomorphism;Field theory (mathematics)
-12,1802,2100,1,Module (mathematics);Tensor product of R-algebras
-13,1802,1958,1,Algebraic geometry;Ring theory;Commutative ring;Spectrum of a ring
-14,1802,2100,1,Prime ideal;Spectrum of a ring
-15,1803,1878,1,Abstract algebra;Commutative ring;Dedekind domain;Algebraic number theory;Unique factorization domain;Integer
-16,1804,1876,1,Quotient ring;Ring theory;Abstract algebra;Algebraic number theory
-17,1876,1878,1,Commutative ring;Ring theory;Ideal (ring theory);Ascending chain condition
-18,1877,2100,1,Polynomial ring;Unique factorization domain
-19,1890,2100,1,Invariant theory;Hilbert's syzygy theorem
-20,1899,2100,1,Prime ideal;Going up and going down
-21,1900,2100,1,Field (mathematics);Discrete valuation
-22,1900,2100,1,Field of fractions;Ideal class group
-23,1939,2100,1,Noetherian ring;Gorenstein ring
-24,1940,2100,1,Ring homomorphism;Product of rings
-25,1941,2100,1,Zero divisor;Hilbert polynomial
-26,1949,2100,1,Prime ideal;Serre's multiplicity conjectures
-27,1949,2100,1,Homological algebra;Serre's multiplicity conjectures
-28,1956,2100,1,Polynomial ring;Projective module
-29,1956,2100,1,Principal ideal domain;Projective module
-30,1957,2100,1,Nilpotent;Reduced ring
-31,1957,2100,1,Reduced ring;Projective module
-32,1958,2100,1,Ring homomorphism;Localization of a ring
-33,2020,2100,1,Algebraic number field;Ideal class group
-34,2020,2100,1,Ring ideal;Buchberger's algorithm
-35,1877,1898,2,Field theory (mathematics);Algebraic geometry;Polynomial ring;Ring theory;Algebraic number theory;Ideal (ring theory)
-36,1877,2100,2,Polynomial ring;Field (mathematics);Dual numbers
-37,1878,2100,2,Field (mathematics);Abstract algebra;Noetherian ring
-38,1898,2100,2,Commutative algebra;Ideal (ring theory);Dual numbers
-39,1898,2100,2,Commutative algebra;Ideal (ring theory);Field theory (mathematics)
-40,1899,2100,2,Ideal (ring theory);Primary ideal;Noetherian ring
-41,1938,2100,2,Abstract algebra;Local ring;Dual numbers
-42,1939,2100,2,Ideal (ring theory);Maximal ideal;Dual numbers
-43,1939,2100,2,Ideal (ring theory);Maximal ideal;Field theory (mathematics)
-44,1939,2100,2,Algebraic geometry;Maximal ideal;Field theory (mathematics)
-45,1939,2100,2,Field (mathematics);Maximal ideal;Dual numbers
-46,1939,2100,2,Maximal ideal;Local ring;Dual numbers
-47,1939,2100,2,Maximal ideal;Local ring;Field theory (mathematics)
-48,1940,2100,2,Polynomial ring;Field (mathematics);Krull dimension
-49,1940,2100,2,Polynomial ring;Noetherian ring;Krull dimension
-50,1940,2100,2,Field (mathematics);Maximal ideal;Krull dimension
-51,1940,2100,2,Field (mathematics);Krull dimension;Noether normalization lemma
-52,1940,2100,2,Maximal ideal;Regular local ring;Krull dimension
-53,1941,2100,2,Algebraic geometry;Maximal ideal;Hilbert polynomial
-54,1941,2100,2,Field (mathematics);Maximal ideal;Discrete valuation ring
-55,1941,2100,2,Field (mathematics);Artinian ring;Hilbert polynomial
-56,1941,2100,2,Maximal ideal;Local ring;Discrete valuation ring
-57,1941,2100,2,Noetherian ring;Krull dimension;Global dimension
-58,1958,2100,2,Algebraic geometry;Maximal ideal;Localization of a ring
-59,1958,2100,2,Quotient ring;Integral domain;Localization of a ring
-60,1958,2100,2,Maximal ideal;Local ring;Localization of a ring
-61,1959,2100,2,Ideal (ring theory);Abstract algebra;Completion (ring theory)
-62,1959,2100,2,Ideal (ring theory);Maximal ideal;Completion (ring theory)
-63,1959,2100,2,Module (mathematics);Abstract algebra;Completion (ring theory)
+i,birth,death,dim,cavity,death_nodes
+0,-400,2100,0,Algebraic geometry,
+1,147,1801,0,Algebraic geometry;Ascending chain condition,Commutative ring
+2,1783,2100,1,Abstract algebra;Zariski tangent space,
+3,1783,2100,1,Tensor product of fields;Field theory (mathematics),
+4,1800,2100,1,Nilpotent;Dual numbers,
+5,1801,1878,1,Commutative ring;Ring theory;Abstract algebra;Algebraic number theory,Noetherian ring
+6,1801,2100,1,Commutative ring;Chinese remainder theorem,
+7,1801,1876,1,Commutative ring;Field theory (mathematics);Abstract algebra;Algebraic number theory,Ideal (ring theory)
+8,1801,1941,1,Algebraic geometry;Ring theory;Homological algebra;Module (mathematics),Global dimension
+9,1801,2100,1,Abstract algebra;Ring homomorphism,
+10,1801,1876,1,Prime ideal;Ring theory;Field theory (mathematics);Algebraic number theory,Ideal (ring theory)
+11,1801,2100,1,Ring homomorphism;Field theory (mathematics),
+12,1802,2100,1,Module (mathematics);Tensor product of R-algebras,
+13,1802,1958,1,Algebraic geometry;Ring theory;Commutative ring;Spectrum of a ring,Localization of a ring
+14,1802,2100,1,Prime ideal;Spectrum of a ring,
+15,1803,1878,1,Abstract algebra;Commutative ring;Dedekind domain;Algebraic number theory;Unique factorization domain;Integer,Principal ideal domain
+16,1804,1876,1,Quotient ring;Ring theory;Abstract algebra;Algebraic number theory,Ideal (ring theory)
+17,1876,1878,1,Commutative ring;Ring theory;Ideal (ring theory);Ascending chain condition,Noetherian ring
+18,1877,2100,1,Polynomial ring;Unique factorization domain,
+19,1890,2100,1,Invariant theory;Hilbert's syzygy theorem,
+20,1899,2100,1,Prime ideal;Going up and going down,
+21,1900,2100,1,Field (mathematics);Discrete valuation,
+22,1900,2100,1,Field of fractions;Ideal class group,
+23,1939,2100,1,Noetherian ring;Gorenstein ring,
+24,1940,2100,1,Ring homomorphism;Product of rings,
+25,1941,2100,1,Zero divisor;Hilbert polynomial,
+26,1949,2100,1,Prime ideal;Serre's multiplicity conjectures,
+27,1949,2100,1,Homological algebra;Serre's multiplicity conjectures,
+28,1956,2100,1,Polynomial ring;Projective module,
+29,1956,2100,1,Principal ideal domain;Projective module,
+30,1957,2100,1,Nilpotent;Reduced ring,
+31,1957,2100,1,Reduced ring;Projective module,
+32,1958,2100,1,Ring homomorphism;Localization of a ring,
+33,2020,2100,1,Algebraic number field;Ideal class group,
+34,2020,2100,1,Ring ideal;Buchberger's algorithm,
+35,1877,1898,2,Field theory (mathematics);Algebraic geometry;Polynomial ring;Ring theory;Algebraic number theory;Ideal (ring theory),Commutative algebra
+36,1877,2100,2,Polynomial ring;Field (mathematics);Dual numbers,
+37,1878,2100,2,Field (mathematics);Abstract algebra;Noetherian ring,
+38,1898,2100,2,Commutative algebra;Ideal (ring theory);Dual numbers,
+39,1898,2100,2,Commutative algebra;Ideal (ring theory);Field theory (mathematics),
+40,1899,2100,2,Ideal (ring theory);Primary ideal;Noetherian ring,
+41,1938,2100,2,Abstract algebra;Local ring;Dual numbers,
+42,1939,2100,2,Ideal (ring theory);Maximal ideal;Dual numbers,
+43,1939,2100,2,Ideal (ring theory);Maximal ideal;Field theory (mathematics),
+44,1939,2100,2,Algebraic geometry;Maximal ideal;Field theory (mathematics),
+45,1939,2100,2,Field (mathematics);Maximal ideal;Dual numbers,
+46,1939,2100,2,Maximal ideal;Local ring;Dual numbers,
+47,1939,2100,2,Maximal ideal;Local ring;Field theory (mathematics),
+48,1940,2100,2,Polynomial ring;Field (mathematics);Krull dimension,
+49,1940,2100,2,Polynomial ring;Noetherian ring;Krull dimension,
+50,1940,2100,2,Field (mathematics);Maximal ideal;Krull dimension,
+51,1940,2100,2,Field (mathematics);Krull dimension;Noether normalization lemma,
+52,1940,2100,2,Maximal ideal;Regular local ring;Krull dimension,
+53,1941,2100,2,Algebraic geometry;Maximal ideal;Hilbert polynomial,
+54,1941,2100,2,Field (mathematics);Maximal ideal;Discrete valuation ring,
+55,1941,2100,2,Field (mathematics);Artinian ring;Hilbert polynomial,
+56,1941,2100,2,Maximal ideal;Local ring;Discrete valuation ring,
+57,1941,2100,2,Noetherian ring;Krull dimension;Global dimension,
+58,1958,2100,2,Algebraic geometry;Maximal ideal;Localization of a ring,
+59,1958,2100,2,Quotient ring;Integral domain;Localization of a ring,
+60,1958,2100,2,Maximal ideal;Local ring;Localization of a ring,
+61,1959,2100,2,Ideal (ring theory);Abstract algebra;Completion (ring theory),
+62,1959,2100,2,Ideal (ring theory);Maximal ideal;Completion (ring theory),
+63,1959,2100,2,Module (mathematics);Abstract algebra;Completion (ring theory),

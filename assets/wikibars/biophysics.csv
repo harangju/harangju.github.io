@@ -1,151 +1,151 @@
-i,birth,death,dim,nodes
-0,-350,2100,0,Origin of avian flight
-1,100,2012,0,Calcium-activated potassium channel;Origin of avian flight
-2,100,1932,0,Calcium-activated potassium channel;Nanobiomechanics
-3,100,1928,0,Porosome;Calcium-activated potassium channel
-4,850,1916,0,Linus Pauling;Nanobiomechanics
-5,1000,1666,0,Porosome;Voltage-dependent calcium channel
-6,1749,2012,0,Bird migration;Cell membrane
-7,1800,2020,0,Insect wing;Cell membrane
-8,1800,1941,0,Biomechanics;Myelin sheath gap
-9,1829,1840,0,Adolf Eugen Fick;Biomechanics
-10,1845,1925,0,Lecithin;Cell membrane
-11,1848,1849,0,Cell membrane;Active transport
-12,1880,1971,0,Cell membrane;Sphingomyelin
-13,1886,2100,0,Parkinsonian gait
-14,1900,1947,0,Biophysics;Microbial fuel cell
-15,1900,1911,0,Microbial fuel cell;Enzymatic biofuel cell
-16,1902,1946,0,Biophysics;Enzyme kinetics
-17,1919,2100,0,Godfrey Hounsfield
-18,1920,2012,0,Work loop;Biased random walk (biochemistry)
-19,1933,2100,0,Peter Mansfield
-20,1940,2100,0,Cardiolipin
-21,1943,1967,0,Biophysics;David E. Goldman
-22,1950,1974,0,Membrane contact site;Cell membrane
-23,1963,2012,0,Magnetotactic bacteria;Biased random walk (biochemistry)
-24,1980,1984,0,Ion channel;Channelrhodopsin
-25,1983,2020,0,Linus Pauling;Talin protein
-26,2011,2020,0,Chloroplast membrane;Stroma (fluid)
-27,2020,2100,0,Best2
-28,2020,2100,0,Womersley number
-29,2020,2100,0,Human leg
-30,2020,2100,0,Cell adhesion molecule
-31,2020,2100,0,Hydrostatic skeleton
-32,1851,2100,1,Plasmolysis;Osmotic pressure
-33,1916,2100,1,Francis Crick;Max Perutz
-34,1926,2100,1,Aaron Klug;John Desmond Bernal
-35,1927,2100,1,Lipid bilayer characterization;Model lipid bilayer
-36,1929,2100,1,Membrane fluidity;Methylhopane
-37,1930,2100,1,Signal peptide;Membrane topology
-38,1930,2100,1,Glycerophospholipid;Lecithin
-39,1930,2100,1,Osmotic pressure;Osmoregulation
-40,1931,2100,1,Max Perutz;David Mervyn Blow
-41,1931,2100,1,Translocon;Protein targeting
-42,1931,2100,1,Membrane biology;Lipid bilayer fusion
-43,1932,2100,1,Signal peptide;Twin-arginine translocation pathway
-44,1932,2100,1,Translocon;Twin-arginine translocation pathway
-45,1933,2100,1,Structural biology;Structure validation
-46,1941,2100,1,Ion channel;X-ray crystallography
-47,1941,2100,1,Ion channel;Cell membrane
-48,1942,2017,1,Membrane protein;Glut1;Integral membrane protein;Ion channel
-49,1942,2100,1,Glut1;Signal peptide
-50,1943,2100,1,Hyperpolarization (biology);Calcium channel
-51,1943,2100,1,Hyperpolarization (biology);Sodium channel
-52,1943,2100,1,Lipid bilayer;Polar membrane
-53,1944,2100,1,Depolarization;Voltage-dependent calcium channel
-54,1944,2015,1,Ion channel;Cyclic nucleotide-gated channel alpha 1;Hyperpolarization (biology);Depolarization;Voltage-dependent calcium channel
-55,1944,2100,1,Channelomics;Membrane channel
-56,1945,2100,1,Depolarization;Hodgkin cycle
-57,1945,1946,1,Ion channel;Hyperpolarization (biology);Ligand-gated ion channel;Depolarization;Voltage-gated ion channel
-58,1945,2100,1,Ion channel;Voltage-gated proton channel
-59,1945,2100,1,Hodgkin cycle;Potassium channel
-60,1945,2100,1,Hodgkin cycle;Membrane biology
-61,1945,2100,1,Hodgkin cycle;Sodium channel
-62,1945,2100,1,Integral membrane protein;Nav1.5
-63,1945,2100,1,Cell membrane;Nav1.5
-64,1945,2100,1,Voltage-gated ion channel;Sodium channel
-65,1946,2100,1,Osmoregulation;Reinhart Heinrich
-66,1947,2100,1,Membrane potential;Bioelectrochemistry
-67,1947,2100,1,Biased random walk (biochemistry);G protein
-68,1947,2100,1,Electrotonic potential;Myelin sheath gap
-69,1948,2100,1,Shaker gene;Kv1.1
-70,1952,2100,1,Britton Chance;Enzyme kinetics
-71,1953,2100,1,James D. Watson;Max Delbrück
-72,1953,2100,1,James D. Watson;John Kendrew
-73,1960,2100,1,Alan Lloyd Hodgkin;Inward-rectifier potassium ion channel
-74,1960,2100,1,G protein;Inward-rectifier potassium ion channel
-75,1970,2100,1,Lipid bilayer;Synthetic ion channels
-76,1970,2100,1,Calcium channel;T-type calcium channel
-77,1970,1971,1,Membrane fluidity;Lipid bilayer;Membrane protein;Lipid raft
-78,1970,2100,1,Model lipid bilayer;Synthetic ion channels
-79,1971,2100,1,Phosphatidylinositol;Glycophosphatidylinositol
-80,1971,2100,1,Phosphatidylinositol;Membrane lipids
-81,1971,2100,1,Glycophosphatidylinositol;Translocon
-82,1973,2100,1,Alexander Rich;Kim Sung-Hou
-83,1974,2100,1,Active transport;Intracellular membranes
-84,1974,2100,1,Intracellular membranes;Osmotic pressure
-85,1975,2100,1,Nuclear pore;Intracellular membranes
-86,1983,2100,1,Voltage-gated ion channel;Stretch-activated ion channel
-87,1983,2100,1,Ligand-gated ion channel;Stretch-activated ion channel
-88,1983,2100,1,Semipermeable membrane;Stretch-activated ion channel
-89,1983,2100,1,Turgor pressure;Stretch-activated ion channel
-90,1983,2100,1,Small-conductance mechanosensitive channel;Stretch-activated ion channel
-91,1983,2100,1,Stretch-activated ion channel;Transient receptor potential channel
-92,1984,2100,1,Light-gated ion channel;Mechanosensitive channels
-93,1986,2100,1,Aquaporin 4;Cell membrane
-94,1999,2100,1,X-ray crystallography;Venkatraman Ramakrishnan
-95,2009,2100,1,David Mervyn Blow;Thomas A. Steitz
-96,2009,2100,1,Thomas A. Steitz;Frederic M. Richards
-97,2012,2100,1,Animal locomotion;Animal locomotion on the water surface
-98,2012,2100,1,G protein;G protein-coupled receptor
-99,2012,2100,1,G protein;Motility
-100,2012,2100,1,Pseudopodia;Motility
-101,2012,2100,1,G protein-coupled receptor;Phosphatidylinositol
-102,2012,2100,1,Motility;Howard Berg
-103,2012,2100,1,Motility;Podosome
-104,2013,2100,1,Haptotaxis;Motility
-105,2013,2100,1,Mechanotaxis;Motility
-106,2013,2100,1,Bird flight;Locomotor activity
-107,2013,2100,1,Receptor (biochemistry);G protein-coupled receptor
-108,2013,2100,1,Receptor (biochemistry);Lipid raft
-109,2013,2014,1,Vesicle (biology and chemistry);Lipid bilayer;Cell membrane;Endocytosis
-110,2013,2100,1,Force platform;Locomotor activity
-111,2013,2100,1,Locomotor activity;Metachronal rhythm
-112,2013,2100,1,Locomotor activity;Rotating locomotion in living systems
-113,2013,2100,1,Locomotor activity;Role of skin in locomotion
-114,2014,2100,1,G protein;G protein-coupled inwardly-rectifying potassium channel
-115,2014,2100,1,Biological membrane;Reversal potential
-116,2014,2100,1,Dopamine transporter;Vesicle (biology and chemistry)
-117,2014,2100,1,Inner nuclear membrane;Nuclear pore
-118,2014,2100,1,Receptor (biochemistry);Filamentous haemagglutinin adhesin
-119,2014,2100,1,Receptor (biochemistry);Homologous desensitization
-120,2014,2100,1,Receptor (biochemistry);Reversal potential
-121,2014,2100,1,Vesicle (biology and chemistry);Two-pore channel
-122,2014,2100,1,Endocytosis;Homologous desensitization
-123,2014,2100,1,Inward-rectifier potassium ion channel;Reversal potential
-124,2014,2100,1,Protein targeting;Peroxisomal targeting signal
-125,2015,2100,1,Dopamine transporter;Excitatory amino-acid transporter
-126,2015,2100,1,Serotonin transporter;Excitatory amino-acid transporter
-127,2017,2100,1,Carrier protein;Active transport
-128,2017,2100,1,Carrier protein;Monoamine transporter
-129,2020,2100,1,Chrna3;Ganglion type nicotinic receptor
-130,2020,2100,1,Chrnb4;Ganglion type nicotinic receptor
-131,2020,2100,1,Wing;Flight feather
-132,2020,2100,1,Wing;Pterygium
-133,2020,2100,1,Secondary active transport;Carrier protein
-134,2020,2100,1,Electrochemical gradient;Carrier protein
-135,2020,2100,1,Electrochemical gradient;Excitatory amino-acid transporter
-136,2020,2100,1,Electrochemical gradient;Membrane channel
-137,2020,2100,1,Electrochemical gradient;Voltage-gated proton channel
-138,2020,2100,1,Primary active transport;Carrier protein
-139,2020,2100,1,Bat;Magnetoception
-140,2020,2100,1,Serous membrane;Submucosa
-141,2020,2100,1,Glut1;Alpha helix
-142,2020,2100,1,Catsper1;Cyclic nucleotide-gated ion channel
-143,2020,2100,1,Thylakoid;Membrane lipids
-144,2020,2100,1,Cyclic nucleotide-gated ion channel;Alpha helix
-145,2020,2100,1,Alpha helix;Inward-rectifier potassium ion channel
-146,2020,2100,1,Alpha helix;M1 protein
-147,2020,2100,1,Flying and gliding animals;Origin of avian flight
-148,2020,2100,1,Phosphatidylserine;Membrane lipids
-149,1947,2100,2,Membrane potential;Voltage-gated potassium channel;Lipid bilayer
+i,birth,death,dim,cavity,death_nodes
+0,-350,2100,0,Origin of avian flight,
+1,100,2012,0,Calcium-activated potassium channel;Origin of avian flight,Bird flight
+2,100,1932,0,Calcium-activated potassium channel;Nanobiomechanics,Structural biology
+3,100,1928,0,Porosome;Calcium-activated potassium channel,Bk channel
+4,850,1916,0,Linus Pauling;Nanobiomechanics,Francis Crick
+5,1000,1666,0,Porosome;Voltage-dependent calcium channel,Secretory pathway
+6,1749,2012,0,Bird migration;Cell membrane,Bird flight
+7,1800,2020,0,Insect wing;Cell membrane,Exoskeleton
+8,1800,1941,0,Biomechanics;Myelin sheath gap,Ion channel
+9,1829,1840,0,Adolf Eugen Fick;Biomechanics,Biophysics
+10,1845,1925,0,Lecithin;Cell membrane,Lipid bilayer
+11,1848,1849,0,Cell membrane;Active transport,Semipermeable membrane
+12,1880,1971,0,Cell membrane;Sphingomyelin,Membrane lipids
+13,1886,2100,0,Parkinsonian gait,
+14,1900,1947,0,Biophysics;Microbial fuel cell,Bioelectrochemistry
+15,1900,1911,0,Microbial fuel cell;Enzymatic biofuel cell,Bioelectrochemical reactor
+16,1902,1946,0,Biophysics;Enzyme kinetics,Reinhart Heinrich
+17,1919,2100,0,Godfrey Hounsfield,
+18,1920,2012,0,Work loop;Biased random walk (biochemistry),Bird flight
+19,1933,2100,0,Peter Mansfield,
+20,1940,2100,0,Cardiolipin,
+21,1943,1967,0,Biophysics;David E. Goldman,Kenneth Stewart Cole
+22,1950,1974,0,Membrane contact site;Cell membrane,Intracellular membranes
+23,1963,2012,0,Magnetotactic bacteria;Biased random walk (biochemistry),Flagellum
+24,1980,1984,0,Ion channel;Channelrhodopsin,Light-gated ion channel
+25,1983,2020,0,Linus Pauling;Talin protein,Alpha helix
+26,2011,2020,0,Chloroplast membrane;Stroma (fluid),Thylakoid
+27,2020,2100,0,Best2,
+28,2020,2100,0,Womersley number,
+29,2020,2100,0,Human leg,
+30,2020,2100,0,Cell adhesion molecule,
+31,2020,2100,0,Hydrostatic skeleton,
+32,1851,2100,1,Plasmolysis;Osmotic pressure,
+33,1916,2100,1,Francis Crick;Max Perutz,
+34,1926,2100,1,Aaron Klug;John Desmond Bernal,
+35,1927,2100,1,Lipid bilayer characterization;Model lipid bilayer,
+36,1929,2100,1,Membrane fluidity;Methylhopane,
+37,1930,2100,1,Signal peptide;Membrane topology,
+38,1930,2100,1,Glycerophospholipid;Lecithin,
+39,1930,2100,1,Osmotic pressure;Osmoregulation,
+40,1931,2100,1,Max Perutz;David Mervyn Blow,
+41,1931,2100,1,Translocon;Protein targeting,
+42,1931,2100,1,Membrane biology;Lipid bilayer fusion,
+43,1932,2100,1,Signal peptide;Twin-arginine translocation pathway,
+44,1932,2100,1,Translocon;Twin-arginine translocation pathway,
+45,1933,2100,1,Structural biology;Structure validation,
+46,1941,2100,1,Ion channel;X-ray crystallography,
+47,1941,2100,1,Ion channel;Cell membrane,
+48,1942,2017,1,Membrane protein;Glut1;Integral membrane protein;Ion channel,Carrier protein
+49,1942,2100,1,Glut1;Signal peptide,
+50,1943,2100,1,Hyperpolarization (biology);Calcium channel,
+51,1943,2100,1,Hyperpolarization (biology);Sodium channel,
+52,1943,2100,1,Lipid bilayer;Polar membrane,
+53,1944,2100,1,Depolarization;Voltage-dependent calcium channel,
+54,1944,2015,1,Ion channel;Cyclic nucleotide-gated channel alpha 1;Hyperpolarization (biology);Depolarization;Voltage-dependent calcium channel,Cyclic nucleotide-gated ion channel
+55,1944,2100,1,Channelomics;Membrane channel,
+56,1945,2100,1,Depolarization;Hodgkin cycle,
+57,1945,1946,1,Ion channel;Hyperpolarization (biology);Ligand-gated ion channel;Depolarization;Voltage-gated ion channel,Membrane potential
+58,1945,2100,1,Ion channel;Voltage-gated proton channel,
+59,1945,2100,1,Hodgkin cycle;Potassium channel,
+60,1945,2100,1,Hodgkin cycle;Membrane biology,
+61,1945,2100,1,Hodgkin cycle;Sodium channel,
+62,1945,2100,1,Integral membrane protein;Nav1.5,
+63,1945,2100,1,Cell membrane;Nav1.5,
+64,1945,2100,1,Voltage-gated ion channel;Sodium channel,
+65,1946,2100,1,Osmoregulation;Reinhart Heinrich,
+66,1947,2100,1,Membrane potential;Bioelectrochemistry,
+67,1947,2100,1,Biased random walk (biochemistry);G protein,
+68,1947,2100,1,Electrotonic potential;Myelin sheath gap,
+69,1948,2100,1,Shaker gene;Kv1.1,
+70,1952,2100,1,Britton Chance;Enzyme kinetics,
+71,1953,2100,1,James D. Watson;Max Delbrück,
+72,1953,2100,1,James D. Watson;John Kendrew,
+73,1960,2100,1,Alan Lloyd Hodgkin;Inward-rectifier potassium ion channel,
+74,1960,2100,1,G protein;Inward-rectifier potassium ion channel,
+75,1970,2100,1,Lipid bilayer;Synthetic ion channels,
+76,1970,2100,1,Calcium channel;T-type calcium channel,
+77,1970,1971,1,Membrane fluidity;Lipid bilayer;Membrane protein;Lipid raft,Membrane lipids
+78,1970,2100,1,Model lipid bilayer;Synthetic ion channels,
+79,1971,2100,1,Phosphatidylinositol;Glycophosphatidylinositol,
+80,1971,2100,1,Phosphatidylinositol;Membrane lipids,
+81,1971,2100,1,Glycophosphatidylinositol;Translocon,
+82,1973,2100,1,Alexander Rich;Kim Sung-Hou,
+83,1974,2100,1,Active transport;Intracellular membranes,
+84,1974,2100,1,Intracellular membranes;Osmotic pressure,
+85,1975,2100,1,Nuclear pore;Intracellular membranes,
+86,1983,2100,1,Voltage-gated ion channel;Stretch-activated ion channel,
+87,1983,2100,1,Ligand-gated ion channel;Stretch-activated ion channel,
+88,1983,2100,1,Semipermeable membrane;Stretch-activated ion channel,
+89,1983,2100,1,Turgor pressure;Stretch-activated ion channel,
+90,1983,2100,1,Small-conductance mechanosensitive channel;Stretch-activated ion channel,
+91,1983,2100,1,Stretch-activated ion channel;Transient receptor potential channel,
+92,1984,2100,1,Light-gated ion channel;Mechanosensitive channels,
+93,1986,2100,1,Aquaporin 4;Cell membrane,
+94,1999,2100,1,X-ray crystallography;Venkatraman Ramakrishnan,
+95,2009,2100,1,David Mervyn Blow;Thomas A. Steitz,
+96,2009,2100,1,Thomas A. Steitz;Frederic M. Richards,
+97,2012,2100,1,Animal locomotion;Animal locomotion on the water surface,
+98,2012,2100,1,G protein;G protein-coupled receptor,
+99,2012,2100,1,G protein;Motility,
+100,2012,2100,1,Pseudopodia;Motility,
+101,2012,2100,1,G protein-coupled receptor;Phosphatidylinositol,
+102,2012,2100,1,Motility;Howard Berg,
+103,2012,2100,1,Motility;Podosome,
+104,2013,2100,1,Haptotaxis;Motility,
+105,2013,2100,1,Mechanotaxis;Motility,
+106,2013,2100,1,Bird flight;Locomotor activity,
+107,2013,2100,1,Receptor (biochemistry);G protein-coupled receptor,
+108,2013,2100,1,Receptor (biochemistry);Lipid raft,
+109,2013,2014,1,Vesicle (biology and chemistry);Lipid bilayer;Cell membrane;Endocytosis,Escheriosome
+110,2013,2100,1,Force platform;Locomotor activity,
+111,2013,2100,1,Locomotor activity;Metachronal rhythm,
+112,2013,2100,1,Locomotor activity;Rotating locomotion in living systems,
+113,2013,2100,1,Locomotor activity;Role of skin in locomotion,
+114,2014,2100,1,G protein;G protein-coupled inwardly-rectifying potassium channel,
+115,2014,2100,1,Biological membrane;Reversal potential,
+116,2014,2100,1,Dopamine transporter;Vesicle (biology and chemistry),
+117,2014,2100,1,Inner nuclear membrane;Nuclear pore,
+118,2014,2100,1,Receptor (biochemistry);Filamentous haemagglutinin adhesin,
+119,2014,2100,1,Receptor (biochemistry);Homologous desensitization,
+120,2014,2100,1,Receptor (biochemistry);Reversal potential,
+121,2014,2100,1,Vesicle (biology and chemistry);Two-pore channel,
+122,2014,2100,1,Endocytosis;Homologous desensitization,
+123,2014,2100,1,Inward-rectifier potassium ion channel;Reversal potential,
+124,2014,2100,1,Protein targeting;Peroxisomal targeting signal,
+125,2015,2100,1,Dopamine transporter;Excitatory amino-acid transporter,
+126,2015,2100,1,Serotonin transporter;Excitatory amino-acid transporter,
+127,2017,2100,1,Carrier protein;Active transport,
+128,2017,2100,1,Carrier protein;Monoamine transporter,
+129,2020,2100,1,Chrna3;Ganglion type nicotinic receptor,
+130,2020,2100,1,Chrnb4;Ganglion type nicotinic receptor,
+131,2020,2100,1,Wing;Flight feather,
+132,2020,2100,1,Wing;Pterygium,
+133,2020,2100,1,Secondary active transport;Carrier protein,
+134,2020,2100,1,Electrochemical gradient;Carrier protein,
+135,2020,2100,1,Electrochemical gradient;Excitatory amino-acid transporter,
+136,2020,2100,1,Electrochemical gradient;Membrane channel,
+137,2020,2100,1,Electrochemical gradient;Voltage-gated proton channel,
+138,2020,2100,1,Primary active transport;Carrier protein,
+139,2020,2100,1,Bat;Magnetoception,
+140,2020,2100,1,Serous membrane;Submucosa,
+141,2020,2100,1,Glut1;Alpha helix,
+142,2020,2100,1,Catsper1;Cyclic nucleotide-gated ion channel,
+143,2020,2100,1,Thylakoid;Membrane lipids,
+144,2020,2100,1,Cyclic nucleotide-gated ion channel;Alpha helix,
+145,2020,2100,1,Alpha helix;Inward-rectifier potassium ion channel,
+146,2020,2100,1,Alpha helix;M1 protein,
+147,2020,2100,1,Flying and gliding animals;Origin of avian flight,
+148,2020,2100,1,Phosphatidylserine;Membrane lipids,
+149,1947,2100,2,Membrane potential;Voltage-gated potassium channel;Lipid bilayer,

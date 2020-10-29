@@ -1,202 +1,202 @@
-i,birth,death,dim,nodes
-0,-3000,2100,0,Mathematics
-1,2020,2100,0,Glossary of tensor theory
-2,1770,1830,1,Abel–ruffini theorem;Mathematics;Simple group;Galois theory
-3,1770,1830,1,Abel–ruffini theorem;Mathematics;Galois theory;Klein four-group
-4,1770,2100,1,Abel–ruffini theorem;Symmetric function
-5,1783,1830,1,Finite group;Mathematics;Simple group;Abstract algebra
-6,1783,2100,1,Algebraic geometry;Algebraically closed field
-7,1784,2100,1,Finite group;List of small groups
-8,1800,2100,1,Finite group;Inverse Galois problem
-9,1801,1947,1,Finite group;Lagrange's theorem (group theory);Mathematics;Classification of finite simple groups
-10,1801,1948,1,Lagrange's theorem (group theory);Mathematics;Abelian group;Abstract algebra
-11,1801,2100,1,Abelian group;Divisible group
-12,1801,2100,1,Ring theory;Ring homomorphism
-13,1801,2100,1,Ring theory;Central simple algebra
-14,1802,2100,1,Ring homomorphism;Category of rings
-15,1832,1877,1,Ring (mathematics);Ring theory;Mathematics;Simple module
-16,1832,1877,1,Ring (mathematics);Ring theory;Mathematics;Radical of a module
-17,1832,2100,1,Automorphism group;Affine representation
-18,1833,2100,1,Torsion (algebra);Annihilator (ring theory)
-19,1834,2100,1,Annihilator (ring theory);Baer ring
-20,1876,2100,1,Closure (mathematics);Ideal (ring theory)
-21,1877,2100,1,Commutative ring;Radical of an ideal
-22,1877,2100,1,Ideal (ring theory);Radical of an ideal
-23,1877,2100,1,Annihilator (ring theory);Singular submodule
-24,1877,2100,1,Domain (ring theory);Singular submodule
-25,1895,2100,1,Rational number;Inverse Galois problem
-26,1896,2100,1,Ring theory;Isomorphism class
-27,1896,2100,1,Fundamental group;Isomorphism class
-28,1899,2100,1,Set (mathematics);Clone (algebra)
-29,1900,1947,1,Semigroup;Mathematics;Group (mathematics);Syntactic monoid
-30,1902,2100,1,Abelian group;Burnside's problem
-31,1902,2100,1,Lie algebra;Burnside's problem
-32,1902,1946,1,Abstract algebra;Presentation of a group;Burnside's problem;Group (mathematics);Abelian group
-33,1927,1943,1,Magma (algebra);Set (mathematics);Mathematics;Abstract algebra
-34,1930,2100,1,Commutative ring;Gaussian integer
-35,1930,2100,1,Lie algebra;Nilpotent group
-36,1931,1959,1,Integral domain;Abstract algebra;Ring theory;Euclidean domain;Mathematics;Ideal (ring theory)
-37,1939,1958,1,Ring (mathematics);Ring theory;Mathematics;Levitzky's theorem
-38,1943,2100,1,Category theory;Category of abelian groups
-39,1943,2100,1,Category theory;Quiver (mathematics)
-40,1943,2100,1,Category theory;Group object
-41,1943,2100,1,Abelian group;Category of abelian groups
-42,1944,2100,1,Composition series;Isomorphism class
-43,1944,2100,1,Perfect ring;Projective cover
-44,1945,2100,1,Closure (mathematics);Algebraic closure
-45,1946,2100,1,Group representation;Maschke's theorem
-46,1946,1950,1,Algebraic structure;Abstract algebra;Real number;Distributive property;Additive inverse;Binary operation
-47,1946,2100,1,Additive inverse;Inverse element
-48,1947,2100,1,Algebra over a field;Algebra homomorphism
-49,1947,2100,1,Glossary of group theory;P-group
-50,1947,2100,1,Commutative algebra;Banach algebra
-51,1947,2100,1,Additive inverse;Multiplicative inverse
-52,1947,2100,1,Additive inverse;Semiring
-53,1947,2100,1,Isomorphism;Algebra homomorphism
-54,1947,2100,1,Normal subgroup;Burnside's problem
-55,1947,2100,1,Exact sequence;Dicyclic group
-56,1947,1948,1,Category of abelian groups;Abelian group;Abstract algebra;Category of modules
-57,1947,2100,1,Characteristic (algebra);Abel–ruffini theorem
-58,1948,2100,1,Ring (mathematics);Centralizer and normalizer
-59,1948,2100,1,Semigroup;Transformation semigroup
-60,1948,2100,1,Semigroup;Center (algebra)
-61,1948,2100,1,Lie algebra;Center (algebra)
-62,1948,2100,1,Transformation semigroup;Permutation group
-63,1948,2100,1,Green's relations;Principal ideal
-64,1948,2100,1,Characteristic (algebra);Separable extension
-65,1948,2100,1,Characteristic (algebra);Transcendence degree
-66,1948,2100,1,Projective cover;Flat cover
-67,1948,1956,1,Algebraic structure;Field (mathematics);Octonions;Algebra over a field;Alternative algebra;Real number
-68,1948,2100,1,Separable polynomial;Separable extension
-69,1948,2100,1,Separable extension;Normal extension
-70,1949,2100,1,Glossary of group theory;Torsion subgroup
-71,1949,2100,1,Ideal (ring theory);Kernel of a function
-72,1949,2100,1,Semidirect product;Wreath product
-73,1949,2100,1,Ring homomorphism;Product of rings
-74,1949,2100,1,Ring homomorphism;Direct sum of rings
-75,1949,2100,1,Permutation group;Wreath product
-76,1949,2100,1,Algebraic extension;Galois extension
-77,1950,2100,1,Set (mathematics);Free abelian group
-78,1950,2100,1,Subgroup;Free abelian group
-79,1950,2100,1,Algebraic geometry;Free abelian group
-80,1950,2100,1,Rational number;Abelian extension
-81,1950,2100,1,Fundamental group;Abelian extension
-82,1951,2100,1,Ring theory;Universal enveloping algebra
-83,1951,2100,1,Rank of an abelian group;Torsion (algebra)
-84,1952,1958,1,Category theory;Coalgebra;Mathematics;Abstract algebra
-85,1955,2100,1,Group ring;Hopf algebra
-86,1956,2100,1,Group ring;Group algebra
-87,1957,2100,1,Group ring;Injective module
-88,1957,2100,1,Ring homomorphism;Localization of a ring
-89,1957,2100,1,Localization of a ring;Local analysis
-90,1957,2100,1,Free semigroup;Hilbert's basis theorem
-91,1957,2100,1,Projective module;Schanuel's lemma
-92,1958,2100,1,Group representation;Fitting lemma
-93,1958,2100,1,Epimorphism;Superfluous submodule
-94,1958,1959,1,Noetherian module;Hilbert's basis theorem;Module (mathematics);Mathematics
-95,1958,2100,1,Group algebra;Fitting lemma
-96,1959,2100,1,Abelian group;Brauer group
-97,1959,2100,1,Inverse limit;Completion (ring theory)
-98,1959,2100,1,Functor;Completion (ring theory)
-99,1959,2100,1,Morita equivalence;Brauer group
-100,1959,2100,1,Morita equivalence;Finitely-presented module
-101,1959,2100,1,Noetherian ring;Gorenstein ring
-102,1960,2100,1,Ring theory;Semisimple algebra
-103,1960,2100,1,Rational number;Weak global dimension
-104,1960,2100,1,Morita equivalence;Finitely-generated module
-105,1960,2100,1,Morita equivalence;Coherent module
-106,1960,2100,1,Morita equivalence;Finitely related module
-107,1960,2100,1,Semiprime ring;Semiprimitive ring
-108,1960,2100,1,Projective cover;Semiperfect ring
-109,1962,2100,1,Homological dimension;Cohomological dimension
-110,2020,2100,1,Cokernel;Image (mathematics)
-111,2020,2100,1,Submodule;Composition series
-112,2020,2100,1,Submodule;Injective module
-113,2020,2100,1,Submodule;Finitely-presented module
-114,2020,2100,1,Submodule;Hereditary ring
-115,2020,2100,1,Submodule;Length of a module
-116,2020,2100,1,Graded algebra;Exterior algebra
-117,2020,2100,1,Graded algebra;Filtration (mathematics)
-118,2020,2100,1,Graded algebra;Regular sequence (algebra)
-119,2020,2100,1,Jordan–hölder theorem;Maschke's theorem
-120,2020,2100,1,Semisimple ring;Semi-local ring
-121,2020,2100,1,Injective dimension;Homological dimension
-122,2020,2100,1,Real numbers;Abel–ruffini theorem
-123,2020,2100,1,Real numbers;Local field
-124,2020,2100,1,Injective hull;Flat cover
-125,2020,2100,1,Singular submodule;Essential submodule
-126,2020,2100,1,Essential submodule;Finitely-generated module
-127,2020,2100,1,Essential submodule;Coherent module
-128,2020,2100,1,Essential submodule;Finitely related module
-129,2020,2100,1,Finitely-generated module;Artin–rees lemma
-130,2020,2100,1,Coherent module;Artin–rees lemma
-131,2020,2100,1,Artin–rees lemma;Finitely related module
-132,2020,2100,1,Global dimension;Projective dimension
-133,2020,2100,1,Projective dimension;Schanuel's lemma
-134,1804,2100,2,Zero divisor;Domain (ring theory);Quaternions
-135,1929,2100,2,Commutative ring;Integral domain;Domain (ring theory)
-136,1943,2100,2,Algebraic structure;Category theory;Ring theory
-137,1944,1945,2,Abstract algebra;Quaternions;Group action (mathematics);Mathematics;Group (mathematics);Homomorphism;Vector space
-138,1945,2100,2,Ring (mathematics);Homomorphism;Direct limit
-139,1945,2100,2,Vector space;Homomorphism;Direct limit
-140,1945,2100,2,Ring theory;Primitive ring;Jacobson density theorem
-141,1946,2100,2,Distributive property;Real number;Quaternions
-142,1947,1958,2,Algebraic structure;Lie algebra;Non-associative algebra;Mathematics;Binary operation;Vector space
-143,1947,2100,2,Identity element;Quaternions;Sedenions
-144,1947,2100,2,Finite group;Sylow theorems;P-group
-145,1947,2100,2,Noncommutative ring;Non-associative algebra;Quaternions
-146,1948,1958,2,Variety (universal algebra);Abstract algebra;Mathematics;Group (mathematics);Abelian group;Ring (mathematics)
-147,1948,2100,2,Category theory;Free object;Universal property
-148,1948,2100,2,Set (mathematics);Magma (algebra);Groupoid
-149,1948,2100,2,Binary operation;Distributive property;Nearring
-150,1948,2100,2,Finite group;Coset;Lagrange's theorem (group theory)
-151,1948,2100,2,Semigroup;Monoid;Green's relations
-152,1949,2100,2,Field (mathematics);Division ring;Free module
-153,1949,2100,2,Category theory;Subobject;Cokernel
-154,1949,2100,2,Category theory;Cokernel;Universal property
-155,1949,2100,2,Binary operation;Magma (algebra);Power associativity
-156,1949,2100,2,Abelian group;Derived group;Solvable group
-157,1949,2100,2,Finite field;Derived group;Division ring
-158,1949,2100,2,Semigroup;Monoid;Aperiodic monoid
-159,1950,2100,2,Binary operation;Distributive property;Rig (algebra)
-160,1950,2100,2,Rational number;Real number;Rig (algebra)
-161,1950,2100,2,Solvable group;Galois group;Abelian extension
-162,1954,2100,2,Binary operation;Magma (algebra);Flexible algebra
-163,1954,2100,2,Associative property;Sedenions;Flexible algebra
-164,1954,2100,2,Commutative property;Sedenions;Flexible algebra
-165,1956,1958,2,Algebraic structure;Nonassociative ring;Lie algebra;Mathematics;Binary operation;Vector space
-166,1956,2100,2,Commutative ring;Exterior algebra;Nonassociative ring
-167,1956,2100,2,Universal enveloping algebra;Tensor algebra;Nonassociative ring
-168,1956,2100,2,Zero divisor;Octonions;Nonassociative ring
-169,1956,2100,2,Alternative algebra;Nonassociative ring;Flexible algebra
-170,1957,2100,2,Commutative algebra;Commutative ring;List of commutative algebra topics
-171,1957,2100,2,Commutative algebra;Ideal (ring theory);List of commutative algebra topics
-172,1957,2100,2,Quotient ring;Integral domain;Localization of a ring
-173,1957,2100,2,Localization of a ring;Tensor product;Flat module
-174,1959,2100,2,Vector space;Polynomial ring;Completion (ring theory)
-175,1959,2100,2,Polynomial ring;Finitely-presented module;Projective module
-176,1959,2100,2,Ideal (ring theory);Noetherian ring;Prüfer domain
-177,1959,2100,2,Kernel (algebra);Module homomorphism;Finitely-presented module
-178,1959,2100,2,Localization of a ring;Flat module;Finitely-presented module
-179,1959,2100,2,Artinian module;Noetherian ring;Finitely-presented module
-180,1960,2100,2,Commutative algebra;Polynomial ring;Krull dimension
-181,1960,2100,2,Polynomial ring;Projective module;Finitely-generated module
-182,1960,2100,2,Polynomial ring;Projective module;Coherent module
-183,1960,2100,2,Polynomial ring;Projective module;Finitely related module
-184,1960,2100,2,Commutative ring;Noetherian ring;Krull dimension
-185,1960,2100,2,Commutative ring;Prüfer domain;Reflexive module
-186,1960,2100,2,Kernel (algebra);Module homomorphism;Finitely-generated module
-187,1960,2100,2,Kernel (algebra);Module homomorphism;Coherent module
-188,1960,2100,2,Kernel (algebra);Module homomorphism;Finitely related module
-189,1960,2100,2,Hilbert's basis theorem;Noetherian module;Finitely-generated module
-190,1960,2100,2,Hilbert's basis theorem;Noetherian module;Coherent module
-191,1960,2100,2,Hilbert's basis theorem;Noetherian module;Finitely related module
-192,1960,2100,2,Artinian module;Noetherian ring;Finitely-generated module
-193,1960,2100,2,Artinian module;Noetherian ring;Coherent module
-194,1960,2100,2,Artinian module;Noetherian ring;Finitely related module
-195,1960,2100,2,Local ring;Discrete valuation ring;Krull dimension
-196,1960,2100,2,Projective module;Principal ideal domain;Finitely-generated module
-197,1960,2100,2,Projective module;Principal ideal domain;Coherent module
-198,1960,2100,2,Projective module;Principal ideal domain;Finitely related module
-199,1961,2100,2,Noetherian ring;Krull dimension;Depth (algebra)
-200,1961,2100,2,Noetherian ring;Krull dimension;Global dimension
+i,birth,death,dim,cavity,death_nodes
+0,-3000,2100,0,Mathematics,
+1,2020,2100,0,Glossary of tensor theory,
+2,1770,1830,1,Abel–ruffini theorem;Mathematics;Simple group;Galois theory,Glossary of group theory
+3,1770,1830,1,Abel–ruffini theorem;Mathematics;Galois theory;Klein four-group,Glossary of group theory
+4,1770,2100,1,Abel–ruffini theorem;Symmetric function,
+5,1783,1830,1,Finite group;Mathematics;Simple group;Abstract algebra,Group (mathematics)
+6,1783,2100,1,Algebraic geometry;Algebraically closed field,
+7,1784,2100,1,Finite group;List of small groups,
+8,1800,2100,1,Finite group;Inverse Galois problem,
+9,1801,1947,1,Finite group;Lagrange's theorem (group theory);Mathematics;Classification of finite simple groups,Sylow theorems
+10,1801,1948,1,Lagrange's theorem (group theory);Mathematics;Abelian group;Abstract algebra,Coset
+11,1801,2100,1,Abelian group;Divisible group,
+12,1801,2100,1,Ring theory;Ring homomorphism,
+13,1801,2100,1,Ring theory;Central simple algebra,
+14,1802,2100,1,Ring homomorphism;Category of rings,
+15,1832,1877,1,Ring (mathematics);Ring theory;Mathematics;Simple module,Jacobson radical
+16,1832,1877,1,Ring (mathematics);Ring theory;Mathematics;Radical of a module,Jacobson radical
+17,1832,2100,1,Automorphism group;Affine representation,
+18,1833,2100,1,Torsion (algebra);Annihilator (ring theory),
+19,1834,2100,1,Annihilator (ring theory);Baer ring,
+20,1876,2100,1,Closure (mathematics);Ideal (ring theory),
+21,1877,2100,1,Commutative ring;Radical of an ideal,
+22,1877,2100,1,Ideal (ring theory);Radical of an ideal,
+23,1877,2100,1,Annihilator (ring theory);Singular submodule,
+24,1877,2100,1,Domain (ring theory);Singular submodule,
+25,1895,2100,1,Rational number;Inverse Galois problem,
+26,1896,2100,1,Ring theory;Isomorphism class,
+27,1896,2100,1,Fundamental group;Isomorphism class,
+28,1899,2100,1,Set (mathematics);Clone (algebra),
+29,1900,1947,1,Semigroup;Mathematics;Group (mathematics);Syntactic monoid,Monoid
+30,1902,2100,1,Abelian group;Burnside's problem,
+31,1902,2100,1,Lie algebra;Burnside's problem,
+32,1902,1946,1,Abstract algebra;Presentation of a group;Burnside's problem;Group (mathematics);Abelian group,Cyclic group
+33,1927,1943,1,Magma (algebra);Set (mathematics);Mathematics;Abstract algebra,Algebraic structure
+34,1930,2100,1,Commutative ring;Gaussian integer,
+35,1930,2100,1,Lie algebra;Nilpotent group,
+36,1931,1959,1,Integral domain;Abstract algebra;Ring theory;Euclidean domain;Mathematics;Ideal (ring theory),Principal ideal domain
+37,1939,1958,1,Ring (mathematics);Ring theory;Mathematics;Levitzky's theorem,Noetherian ring
+38,1943,2100,1,Category theory;Category of abelian groups,
+39,1943,2100,1,Category theory;Quiver (mathematics),
+40,1943,2100,1,Category theory;Group object,
+41,1943,2100,1,Abelian group;Category of abelian groups,
+42,1944,2100,1,Composition series;Isomorphism class,
+43,1944,2100,1,Perfect ring;Projective cover,
+44,1945,2100,1,Closure (mathematics);Algebraic closure,
+45,1946,2100,1,Group representation;Maschke's theorem,
+46,1946,1950,1,Algebraic structure;Abstract algebra;Real number;Distributive property;Additive inverse;Binary operation,Rig (algebra)
+47,1946,2100,1,Additive inverse;Inverse element,
+48,1947,2100,1,Algebra over a field;Algebra homomorphism,
+49,1947,2100,1,Glossary of group theory;P-group,
+50,1947,2100,1,Commutative algebra;Banach algebra,
+51,1947,2100,1,Additive inverse;Multiplicative inverse,
+52,1947,2100,1,Additive inverse;Semiring,
+53,1947,2100,1,Isomorphism;Algebra homomorphism,
+54,1947,2100,1,Normal subgroup;Burnside's problem,
+55,1947,2100,1,Exact sequence;Dicyclic group,
+56,1947,1948,1,Category of abelian groups;Abelian group;Abstract algebra;Category of modules,Endomorphism ring
+57,1947,2100,1,Characteristic (algebra);Abel–ruffini theorem,
+58,1948,2100,1,Ring (mathematics);Centralizer and normalizer,
+59,1948,2100,1,Semigroup;Transformation semigroup,
+60,1948,2100,1,Semigroup;Center (algebra),
+61,1948,2100,1,Lie algebra;Center (algebra),
+62,1948,2100,1,Transformation semigroup;Permutation group,
+63,1948,2100,1,Green's relations;Principal ideal,
+64,1948,2100,1,Characteristic (algebra);Separable extension,
+65,1948,2100,1,Characteristic (algebra);Transcendence degree,
+66,1948,2100,1,Projective cover;Flat cover,
+67,1948,1956,1,Algebraic structure;Field (mathematics);Octonions;Algebra over a field;Alternative algebra;Real number,Nonassociative ring
+68,1948,2100,1,Separable polynomial;Separable extension,
+69,1948,2100,1,Separable extension;Normal extension,
+70,1949,2100,1,Glossary of group theory;Torsion subgroup,
+71,1949,2100,1,Ideal (ring theory);Kernel of a function,
+72,1949,2100,1,Semidirect product;Wreath product,
+73,1949,2100,1,Ring homomorphism;Product of rings,
+74,1949,2100,1,Ring homomorphism;Direct sum of rings,
+75,1949,2100,1,Permutation group;Wreath product,
+76,1949,2100,1,Algebraic extension;Galois extension,
+77,1950,2100,1,Set (mathematics);Free abelian group,
+78,1950,2100,1,Subgroup;Free abelian group,
+79,1950,2100,1,Algebraic geometry;Free abelian group,
+80,1950,2100,1,Rational number;Abelian extension,
+81,1950,2100,1,Fundamental group;Abelian extension,
+82,1951,2100,1,Ring theory;Universal enveloping algebra,
+83,1951,2100,1,Rank of an abelian group;Torsion (algebra),
+84,1952,1958,1,Category theory;Coalgebra;Mathematics;Abstract algebra,List of algebraic structures
+85,1955,2100,1,Group ring;Hopf algebra,
+86,1956,2100,1,Group ring;Group algebra,
+87,1957,2100,1,Group ring;Injective module,
+88,1957,2100,1,Ring homomorphism;Localization of a ring,
+89,1957,2100,1,Localization of a ring;Local analysis,
+90,1957,2100,1,Free semigroup;Hilbert's basis theorem,
+91,1957,2100,1,Projective module;Schanuel's lemma,
+92,1958,2100,1,Group representation;Fitting lemma,
+93,1958,2100,1,Epimorphism;Superfluous submodule,
+94,1958,1959,1,Noetherian module;Hilbert's basis theorem;Module (mathematics);Mathematics,Finitely-presented module
+95,1958,2100,1,Group algebra;Fitting lemma,
+96,1959,2100,1,Abelian group;Brauer group,
+97,1959,2100,1,Inverse limit;Completion (ring theory),
+98,1959,2100,1,Functor;Completion (ring theory),
+99,1959,2100,1,Morita equivalence;Brauer group,
+100,1959,2100,1,Morita equivalence;Finitely-presented module,
+101,1959,2100,1,Noetherian ring;Gorenstein ring,
+102,1960,2100,1,Ring theory;Semisimple algebra,
+103,1960,2100,1,Rational number;Weak global dimension,
+104,1960,2100,1,Morita equivalence;Finitely-generated module,
+105,1960,2100,1,Morita equivalence;Coherent module,
+106,1960,2100,1,Morita equivalence;Finitely related module,
+107,1960,2100,1,Semiprime ring;Semiprimitive ring,
+108,1960,2100,1,Projective cover;Semiperfect ring,
+109,1962,2100,1,Homological dimension;Cohomological dimension,
+110,2020,2100,1,Cokernel;Image (mathematics),
+111,2020,2100,1,Submodule;Composition series,
+112,2020,2100,1,Submodule;Injective module,
+113,2020,2100,1,Submodule;Finitely-presented module,
+114,2020,2100,1,Submodule;Hereditary ring,
+115,2020,2100,1,Submodule;Length of a module,
+116,2020,2100,1,Graded algebra;Exterior algebra,
+117,2020,2100,1,Graded algebra;Filtration (mathematics),
+118,2020,2100,1,Graded algebra;Regular sequence (algebra),
+119,2020,2100,1,Jordan–hölder theorem;Maschke's theorem,
+120,2020,2100,1,Semisimple ring;Semi-local ring,
+121,2020,2100,1,Injective dimension;Homological dimension,
+122,2020,2100,1,Real numbers;Abel–ruffini theorem,
+123,2020,2100,1,Real numbers;Local field,
+124,2020,2100,1,Injective hull;Flat cover,
+125,2020,2100,1,Singular submodule;Essential submodule,
+126,2020,2100,1,Essential submodule;Finitely-generated module,
+127,2020,2100,1,Essential submodule;Coherent module,
+128,2020,2100,1,Essential submodule;Finitely related module,
+129,2020,2100,1,Finitely-generated module;Artin–rees lemma,
+130,2020,2100,1,Coherent module;Artin–rees lemma,
+131,2020,2100,1,Artin–rees lemma;Finitely related module,
+132,2020,2100,1,Global dimension;Projective dimension,
+133,2020,2100,1,Projective dimension;Schanuel's lemma,
+134,1804,2100,2,Zero divisor;Domain (ring theory);Quaternions,
+135,1929,2100,2,Commutative ring;Integral domain;Domain (ring theory),
+136,1943,2100,2,Algebraic structure;Category theory;Ring theory,
+137,1944,1945,2,Abstract algebra;Quaternions;Group action (mathematics);Mathematics;Group (mathematics);Homomorphism;Vector space,Group representation
+138,1945,2100,2,Ring (mathematics);Homomorphism;Direct limit,
+139,1945,2100,2,Vector space;Homomorphism;Direct limit,
+140,1945,2100,2,Ring theory;Primitive ring;Jacobson density theorem,
+141,1946,2100,2,Distributive property;Real number;Quaternions,
+142,1947,1958,2,Algebraic structure;Lie algebra;Non-associative algebra;Mathematics;Binary operation;Vector space,List of algebraic structures
+143,1947,2100,2,Identity element;Quaternions;Sedenions,
+144,1947,2100,2,Finite group;Sylow theorems;P-group,
+145,1947,2100,2,Noncommutative ring;Non-associative algebra;Quaternions,
+146,1948,1958,2,Variety (universal algebra);Abstract algebra;Mathematics;Group (mathematics);Abelian group;Ring (mathematics),List of algebraic structures
+147,1948,2100,2,Category theory;Free object;Universal property,
+148,1948,2100,2,Set (mathematics);Magma (algebra);Groupoid,
+149,1948,2100,2,Binary operation;Distributive property;Nearring,
+150,1948,2100,2,Finite group;Coset;Lagrange's theorem (group theory),
+151,1948,2100,2,Semigroup;Monoid;Green's relations,
+152,1949,2100,2,Field (mathematics);Division ring;Free module,
+153,1949,2100,2,Category theory;Subobject;Cokernel,
+154,1949,2100,2,Category theory;Cokernel;Universal property,
+155,1949,2100,2,Binary operation;Magma (algebra);Power associativity,
+156,1949,2100,2,Abelian group;Derived group;Solvable group,
+157,1949,2100,2,Finite field;Derived group;Division ring,
+158,1949,2100,2,Semigroup;Monoid;Aperiodic monoid,
+159,1950,2100,2,Binary operation;Distributive property;Rig (algebra),
+160,1950,2100,2,Rational number;Real number;Rig (algebra),
+161,1950,2100,2,Solvable group;Galois group;Abelian extension,
+162,1954,2100,2,Binary operation;Magma (algebra);Flexible algebra,
+163,1954,2100,2,Associative property;Sedenions;Flexible algebra,
+164,1954,2100,2,Commutative property;Sedenions;Flexible algebra,
+165,1956,1958,2,Algebraic structure;Nonassociative ring;Lie algebra;Mathematics;Binary operation;Vector space,List of algebraic structures
+166,1956,2100,2,Commutative ring;Exterior algebra;Nonassociative ring,
+167,1956,2100,2,Universal enveloping algebra;Tensor algebra;Nonassociative ring,
+168,1956,2100,2,Zero divisor;Octonions;Nonassociative ring,
+169,1956,2100,2,Alternative algebra;Nonassociative ring;Flexible algebra,
+170,1957,2100,2,Commutative algebra;Commutative ring;List of commutative algebra topics,
+171,1957,2100,2,Commutative algebra;Ideal (ring theory);List of commutative algebra topics,
+172,1957,2100,2,Quotient ring;Integral domain;Localization of a ring,
+173,1957,2100,2,Localization of a ring;Tensor product;Flat module,
+174,1959,2100,2,Vector space;Polynomial ring;Completion (ring theory),
+175,1959,2100,2,Polynomial ring;Finitely-presented module;Projective module,
+176,1959,2100,2,Ideal (ring theory);Noetherian ring;Prüfer domain,
+177,1959,2100,2,Kernel (algebra);Module homomorphism;Finitely-presented module,
+178,1959,2100,2,Localization of a ring;Flat module;Finitely-presented module,
+179,1959,2100,2,Artinian module;Noetherian ring;Finitely-presented module,
+180,1960,2100,2,Commutative algebra;Polynomial ring;Krull dimension,
+181,1960,2100,2,Polynomial ring;Projective module;Finitely-generated module,
+182,1960,2100,2,Polynomial ring;Projective module;Coherent module,
+183,1960,2100,2,Polynomial ring;Projective module;Finitely related module,
+184,1960,2100,2,Commutative ring;Noetherian ring;Krull dimension,
+185,1960,2100,2,Commutative ring;Prüfer domain;Reflexive module,
+186,1960,2100,2,Kernel (algebra);Module homomorphism;Finitely-generated module,
+187,1960,2100,2,Kernel (algebra);Module homomorphism;Coherent module,
+188,1960,2100,2,Kernel (algebra);Module homomorphism;Finitely related module,
+189,1960,2100,2,Hilbert's basis theorem;Noetherian module;Finitely-generated module,
+190,1960,2100,2,Hilbert's basis theorem;Noetherian module;Coherent module,
+191,1960,2100,2,Hilbert's basis theorem;Noetherian module;Finitely related module,
+192,1960,2100,2,Artinian module;Noetherian ring;Finitely-generated module,
+193,1960,2100,2,Artinian module;Noetherian ring;Coherent module,
+194,1960,2100,2,Artinian module;Noetherian ring;Finitely related module,
+195,1960,2100,2,Local ring;Discrete valuation ring;Krull dimension,
+196,1960,2100,2,Projective module;Principal ideal domain;Finitely-generated module,
+197,1960,2100,2,Projective module;Principal ideal domain;Coherent module,
+198,1960,2100,2,Projective module;Principal ideal domain;Finitely related module,
+199,1961,2100,2,Noetherian ring;Krull dimension;Depth (algebra),
+200,1961,2100,2,Noetherian ring;Krull dimension;Global dimension,

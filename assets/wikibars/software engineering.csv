@@ -1,221 +1,221 @@
-i,birth,death,dim,nodes
-0,-3000,2100,0,Information technology
-1,-300,1206,0,Engineering
-2,100,360,0,Game development
-3,164,800,0,International Organization for Standardization
-4,200,1970,0,Disk image
-5,361,800,0,Perl
-6,400,800,0,Youtube
-7,704,800,0,Fortran
-8,1513,1940,0,Literate programming
-9,1940,1956,0,Artificial neural network
-10,1960,1967,0,Database
-11,1960,1980,0,Software architecture
-12,1974,1975,0,Z notation
-13,2020,2100,0,Queueing theory
-14,2020,2100,0,Tinyos
-15,360,2100,1,Mainframe computer;Game development
-16,800,2100,1,Algorithm;Game development
-17,801,2100,1,Forward compatibility;User interface
-18,1207,2100,1,Backward compatibility;Forward compatibility
-19,1800,2100,1,Algorithm;Boolean logic
-20,1900,1994,1,Structured programming;Cobol
-21,1900,2100,1,International Organization for Standardization;Medical informatics
-22,1900,2100,1,Forward compatibility;Cobol
-23,1900,2100,1,Fortran;Numerical analysis
-24,1900,2100,1,Cobol;Mainframe computer
-25,1900,2100,1,Information technology;Knowledge management
-26,1940,1979,1,Compiler;Operating system
-27,1940,1970,1,Structured programming;Subroutine
-28,1941,1950,1,Subroutine;Device driver
-29,1947,2100,1,Imperative programming;Assertion (computing)
-30,1947,2100,1,Fortran;Microprogram
-31,1947,2100,1,Firmware;Microprogram
-32,1947,2100,1,Microcode;Stack (data structure)
-33,1950,2100,1,Computer science;2d computer graphics
-34,1950,2100,1,Computer;2d computer graphics
-35,1950,2100,1,2d computer graphics;Sprite (computer graphics)
-36,1950,2100,1,2d computer graphics;Microsoft Windows
-37,1950,2100,1,Object-oriented programming;Imperative programming
-38,1950,1970,1,Object-oriented programming;Subroutine
-39,1950,2100,1,Computation;Kernel (computer science)
-40,1950,2100,1,Data structure;Pascal (programming language)
-41,1950,1999,1,Computer architecture;Kernel (computer science)
-42,1950,1999,1,Mainframe computer;Kernel (computer science)
-43,1950,2100,1,Game development;Scripting language
-44,1958,2100,1,Agile software development;Requirement
-45,1958,1960,1,Waterfall model;Requirement
-46,1960,2100,1,Computer;Coupling (computer science)
-47,1960,2100,1,Object-oriented programming;System development life cycle
-48,1960,2100,1,Object-oriented programming;Project lifecycle
-49,1960,2100,1,Object-oriented programming;Software development cycle
-50,1960,2100,1,Pascal (programming language);Minicomputer
-51,1960,1970,1,Structured programming;Programming paradigm
-52,1960,2100,1,Agile software development;Software development cycle
-53,1960,2100,1,Programming paradigm;Literate programming
-54,1960,1991,1,Embedded system;Scripting language
-55,1960,1969,1,Waterfall model;Software development cycle
-56,1960,2100,1,Fortran;Minicomputer
-57,1960,2100,1,Cobol;Decision table
-58,1960,1987,1,Cohesion (computer science);Coupling (computer science)
-59,1960,2100,1,Cohesion (computer science);Software metric
-60,1960,1970,1,User interface;System development life cycle
-61,1960,1970,1,User interface;Project lifecycle
-62,1961,2100,1,International Organization for Standardization;Iso 9000
-63,1961,1998,1,C (programming language);Computer architecture
-64,1961,1969,1,C (programming language);Embedded system
-65,1961,2100,1,C (programming language);Youtube
-66,1961,2100,1,Embedded system;Avionics software
-67,1961,2100,1,Iso 9000;Software development cycle
-68,1963,2100,1,Ascii;Backward compatibility
-69,1963,2100,1,Code coverage;Subroutine
-70,1967,2100,1,Coupling (computer science);Thread (computer science)
-71,1968,2100,1,Structured programming;Forth (programming language)
-72,1969,2100,1,Graphical user interface;Xerox PARC
-73,1969,2001,1,Programming language;Xerox PARC
-74,1969,2100,1,C (programming language);Linux
-75,1969,2100,1,Open-source software;Software development cycle
-76,1969,2100,1,Information technology;Xerox PARC
-77,1969,2100,1,Microprogram;Xerox PARC
-78,1970,2100,1,Compiler;P-code machine
-79,1970,2100,1,Unix;Iso image
-80,1970,2100,1,Backward compatibility;Sql
-81,1970,1980,1,Backward compatibility;Structured Query Language
-82,1970,2100,1,Electronic design automation;Computer-aided design
-83,1970,2100,1,Boolean logic;Sql
-84,1970,2100,1,Boolean logic;Structured Query Language
-85,1970,2100,1,Procedural programming;Expert system
-86,1970,2100,1,Relational database;Object database
-87,1970,2100,1,Relational database;Structured Query Language
-88,1970,2100,1,Device driver;Iso image
-89,1970,2100,1,Iso image;Linux
-90,1970,2100,1,Expert system;Medical informatics
-91,1970,2100,1,Stack (data structure);P-code machine
-92,1970,2100,1,Metadata (computing);Ontology (computer science)
-93,1971,2100,1,Declarative programming;Configuration management
-94,1974,2100,1,Source code;Code coverage
-95,1974,2100,1,Source code;Game development
-96,1975,2100,1,2d computer graphics;String (computer science)
-97,1975,2100,1,String (computer science);Ascii
-98,1975,2100,1,String (computer science);Cobol
-99,1975,2100,1,Source code;Proprietary software
-100,1975,2100,1,Agile software development;Pair programming
-101,1975,2100,1,Proprietary software;Unix
-102,1975,2100,1,Software metric;Source lines of code
-103,1975,2100,1,Specification language;Systems design
-104,1975,2100,1,Specification language;Requirements analysis
-105,1975,2100,1,Kernel (computer science);Source lines of code
-106,1976,2100,1,Computer science;Information systems
-107,1976,2100,1,Application software;Kernel (computer science)
-108,1976,2100,1,Agile software development;Program specification
-109,1976,2100,1,Cobol;Information systems
-110,1976,2100,1,Information systems;Database
-111,1976,2100,1,Information systems;Expert system
-112,1976,2100,1,Information systems;System development life cycle
-113,1976,2100,1,Software metric;Cyclomatic complexity
-114,1976,2100,1,Usability;Usability testing
-115,1977,2100,1,Iterative development;Usability
-116,1980,2100,1,Software development process;Refactoring
-117,1980,2100,1,Open-source software;Python (programming language)
-118,1980,2100,1,Python (programming language);Ontology (computer science)
-119,1981,2100,1,Even-odd rule;Algorithm
-120,1981,2100,1,Even-odd rule;Python (programming language)
-121,1987,2100,1,Design pattern (computer science);User interface
-122,1988,2100,1,Capability Maturity Model;Standard CMMI Assessment Method for Process Improvement
-123,1990,2100,1,Computer;Software componentry
-124,1990,1994,1,Graphical user interface;Tcl
-125,1990,2100,1,Accounting software;Business software
-126,1990,2100,1,C Sharp (programming language);Visual Basic
-127,1990,2100,1,Visual Basic;Database
-128,1990,2100,1,Visual Basic;Scripting language
-129,1990,2100,1,Visual Basic;Rapid application development
-130,1990,2100,1,Software componentry;Software architecture
-131,1990,2100,1,Rapid application development;Tcl
-132,1991,2100,1,Java (programming language);Java virtual machine
-133,1992,2100,1,Operating system;Interface description language
-134,1992,2100,1,Java Modeling Language;Specification language
-135,1992,2100,1,Specification language;Interface description language
-136,1993,2100,1,Abstraction (computer science);Software framework
-137,1993,2100,1,Abstraction (computer science);Static code analysis
-138,1993,2100,1,Ada (programming language);Static code analysis
-139,1993,2100,1,Software framework;Software componentry
-140,1993,2100,1,Assertion (computing);Static code analysis
-141,1993,2100,1,Static code analysis;Coupling (computer science)
-142,1993,2100,1,Static code analysis;Formal methods
-143,1993,2100,1,Static code analysis;Medical software
-144,1994,2100,1,Object-oriented programming;Application framework
-145,1994,2100,1,Graphical user interface;Application framework
-146,1994,2100,1,Data structure;Php
-147,1994,2100,1,Software framework;Statistical package
-148,1994,2100,1,Open-source software;Wiki
-149,1994,2100,1,Php;Database
-150,1994,2100,1,Knowledge management;Wiki
-151,1994,2100,1,Ontology (computer science);Wiki
-152,1995,2100,1,Source code;Revision control
-153,1995,1997,1,Processor register;Computer architecture
-154,1995,2100,1,Processor register;Microprogram
-155,1995,2100,1,Processor register;Thread (computer science)
-156,1995,2100,1,Wiki;Revision control
-157,1996,2100,1,String (computer science);Finite state machine
-158,1996,2100,1,Compiler;Finite state machine
-159,1996,2100,1,Software framework;Rational Unified Process
-160,1996,2100,1,Decision table;Finite state machine
-161,1997,2100,1,Computer;Computer model
-162,1997,2100,1,Computer graphics;Computer model
-163,1997,2100,1,Java (programming language);Computer model
-164,1997,2100,1,Static code analysis;Object code
-165,1997,2100,1,Php;Opcode
-166,1997,2100,1,Cobol;Threaded code
-167,1997,2100,1,Eeprom;Opcode
-168,1997,2100,1,Threaded code;Minicomputer
-169,1998,1999,1,Machine language;Opcode
-170,1998,1999,1,Machine language;Microcode
-171,1998,2100,1,Machine language;Computer multitasking
-172,1999,2100,1,Instruction set;Java virtual machine
-173,2000,2100,1,Intermediate language;Three-address code
-174,2001,2100,1,Aspect-oriented programming;Xerox PARC
-175,2003,2100,1,Computer graphics;Game programming
-176,2003,2100,1,Game development;Game programming
-177,2003,2100,1,Game programming;Simulation
-178,2003,2100,1,Simulation;Neural network software
-179,2020,2100,1,Computer file;Disk image
-180,2020,2100,1,Computer file;Metadata (computing)
-181,2020,2100,1,Computer file;Windows Vista
-182,2020,2100,1,Computer architecture;Mips architecture
-183,2020,2100,1,Avionics software;Computer software
-184,2020,2100,1,Computer software;Open-source software
-185,2020,2100,1,Computer software;Computer-aided design
-186,2020,2100,1,Computer software;List of computer term etymologies
-187,2020,2100,1,Visual Basic;Basic
-188,2020,2100,1,Mips architecture;Linux
-189,2020,2100,1,High-level language;Scripting language
-190,2020,2100,1,High-level language;Kernel (computer science)
-191,2020,2100,1,Basic;List of programming languages
-192,2020,2100,1,Regression testing;System development life cycle
-193,2020,2100,1,Regression testing;Project lifecycle
-194,2020,2100,1,Release to manufacturing;Windows Vista
-195,2020,2100,1,Ontology (computer science);Complexity
-196,2020,2100,1,Computer bug;Revision control
-197,1960,2100,2,Agile software development;Project lifecycle;Requirement
-198,1960,2100,2,Waterfall model;Project lifecycle;Requirement
-199,1961,2100,2,C (programming language);Unix;Perl
-200,1967,2100,2,Functional programming;Subroutine;Thread (computer science)
-201,1969,2100,2,Waterfall model;Project lifecycle;Software maintenance
-202,1970,2100,2,Procedural programming;Functional programming;Sql
-203,1974,2100,2,Source code;Open-source software;Linux
-204,1979,1991,2,C++;C (programming language);Perl
-205,1979,1980,2,C++;C (programming language);Procedural programming
-206,1980,2100,2,Programming language;Fortran;Refactoring
-207,1980,1994,2,Operating system;Python (programming language);Scripting language
-208,1987,2100,2,Source code;Functional programming;Design pattern (computer science)
-209,1988,1991,2,Imperative programming;C (programming language);C Sharp (programming language)
-210,1988,2100,2,Imperative programming;C Sharp (programming language);Functional programming
-211,1991,2100,2,C++;Sql;Qt (toolkit)
-212,1991,2100,2,Java (programming language);Programming paradigm;Design pattern (computer science)
-213,1991,2100,2,Java (programming language);Design pattern (computer science);Refactoring
-214,1991,2100,2,Embedded system;Linux;Qt (toolkit)
-215,1994,2100,2,Compiler;Operating system;Php
-216,1994,2100,2,C++;Php;Functional programming
-217,1998,2100,2,Fortran;Cobol;Reflection (computer science)
-218,2009,2100,2,C (programming language);C Sharp (programming language);Gtk+
-219,2020,2100,2,Multi-paradigm programming language;Python (programming language);Structured Query Language
+i,birth,death,dim,cavity,death_nodes
+0,-3000,2100,0,Information technology,
+1,-300,1206,0,Computer;Engineering,Computer programming
+2,100,360,0,Computer;Game development,Operating system
+3,164,800,0,Computer;International Organization for Standardization,Programming language
+4,200,1970,0,Computer;Disk image,Iso image
+5,361,800,0,Perl;Computer,Programming language
+6,400,800,0,Youtube;Computer,Algorithm
+7,704,800,0,Computer;Fortran,Programming language
+8,1513,1940,0,Programming language;Literate programming,Compiler
+9,1940,1956,0,Artificial neural network;Software engineering,Artificial intelligence
+10,1960,1967,0,International Organization for Standardization;Database,Metadata (computing)
+11,1960,1980,0,Software architecture;Object-oriented programming,Refactoring
+12,1974,1975,0,Z notation;Computer science,Specification language
+13,2020,2100,0,Queueing theory,
+14,2020,2100,0,Tinyos,
+15,360,2100,1,Mainframe computer;Game development,
+16,800,2100,1,Algorithm;Game development,
+17,801,2100,1,Forward compatibility;User interface,
+18,1207,2100,1,Backward compatibility;Forward compatibility,
+19,1800,2100,1,Algorithm;Boolean logic,
+20,1900,1994,1,Structured programming;Fortran;Computer programming;Computer science;Operating system;Cobol;Programming language;Microsoft Windows,Php
+21,1900,2100,1,International Organization for Standardization;Medical informatics,
+22,1900,2100,1,Forward compatibility;Cobol,
+23,1900,2100,1,Fortran;Numerical analysis,
+24,1900,2100,1,Cobol;Mainframe computer,
+25,1900,2100,1,Information technology;Knowledge management,
+26,1940,1979,1,Perl;Computer programming;Compiler;Computer science;Operating system;Functional programming;Programming language;Imperative programming,C++
+27,1940,1970,1,Structured programming;Subroutine;Cobol;Programming language;Imperative programming,Procedural programming
+28,1941,1950,1,Operating system;Subroutine;Device driver;Compiler,Kernel (computer science)
+29,1947,2100,1,Imperative programming;Assertion (computing),
+30,1947,2100,1,Fortran;Microprogram,
+31,1947,2100,1,Firmware;Microprogram,
+32,1947,2100,1,Microcode;Stack (data structure),
+33,1950,2100,1,Computer science;2d computer graphics,
+34,1950,2100,1,Computer;2d computer graphics,
+35,1950,2100,1,2d computer graphics;Sprite (computer graphics),
+36,1950,2100,1,2d computer graphics;Microsoft Windows,
+37,1950,2100,1,Object-oriented programming;Imperative programming,
+38,1950,1970,1,Subroutine;Structured programming;Object-oriented programming;Cobol,Procedural programming
+39,1950,2100,1,Computation;Kernel (computer science),
+40,1950,2100,1,Data structure;Pascal (programming language),
+41,1950,1999,1,Compiler;Kernel (computer science);Computer;Programming language;Computer architecture,Instruction set
+42,1950,1999,1,Compiler;Kernel (computer science);Computer;Programming language;Mainframe computer,Instruction set
+43,1950,2100,1,Game development;Scripting language,
+44,1958,2100,1,Agile software development;Requirement,
+45,1958,1960,1,Agile software development;Waterfall model;Game development;Requirement,System development life cycle
+46,1960,2100,1,Computer;Coupling (computer science),
+47,1960,2100,1,Object-oriented programming;System development life cycle,
+48,1960,2100,1,Object-oriented programming;Project lifecycle,
+49,1960,2100,1,Object-oriented programming;Software development cycle,
+50,1960,2100,1,Pascal (programming language);Minicomputer,
+51,1960,1970,1,Pascal (programming language);Programming paradigm;Structured programming;Object-oriented programming,Procedural programming
+52,1960,2100,1,Agile software development;Software development cycle,
+53,1960,2100,1,Programming paradigm;Literate programming,
+54,1960,1991,1,Scripting language;Unix;Graphical user interface;Microsoft Windows;Embedded system,Qt (toolkit)
+55,1960,1969,1,Software development cycle;Waterfall model;System development life cycle;Software engineering,Software maintenance
+56,1960,2100,1,Fortran;Minicomputer,
+57,1960,2100,1,Cobol;Decision table,
+58,1960,1987,1,Computer programming;Cohesion (computer science);Coupling (computer science);Software engineering,Design pattern (computer science)
+59,1960,2100,1,Cohesion (computer science);Software metric,
+60,1960,1970,1,System development life cycle;User interface;Game development;Software development process,Rapid application development
+61,1960,1970,1,Project lifecycle;User interface;Game development;Software development process,Rapid application development
+62,1961,2100,1,International Organization for Standardization;Iso 9000,
+63,1961,1998,1,C (programming language);Computer;Computer architecture;Programming language,Machine language
+64,1961,1969,1,Operating system;Kernel (computer science);C (programming language);Embedded system,Linux
+65,1961,2100,1,C (programming language);Youtube,
+66,1961,2100,1,Embedded system;Avionics software,
+67,1961,2100,1,Iso 9000;Software development cycle,
+68,1963,2100,1,Ascii;Backward compatibility,
+69,1963,2100,1,Code coverage;Subroutine,
+70,1967,2100,1,Coupling (computer science);Thread (computer science),
+71,1968,2100,1,Structured programming;Forth (programming language),
+72,1969,2100,1,Graphical user interface;Xerox PARC,
+73,1969,2001,1,Pascal (programming language);Programming language;Xerox PARC;Object-oriented programming,Post-object programming
+74,1969,2100,1,C (programming language);Linux,
+75,1969,2100,1,Open-source software;Software development cycle,
+76,1969,2100,1,Information technology;Xerox PARC,
+77,1969,2100,1,Microprogram;Xerox PARC,
+78,1970,2100,1,Compiler;P-code machine,
+79,1970,2100,1,Unix;Iso image,
+80,1970,2100,1,Backward compatibility;Sql,
+81,1970,1980,1,Sql;Backward compatibility;Programming language;Structured Query Language,Python (programming language)
+82,1970,2100,1,Electronic design automation;Computer-aided design,
+83,1970,2100,1,Boolean logic;Sql,
+84,1970,2100,1,Boolean logic;Structured Query Language,
+85,1970,2100,1,Procedural programming;Expert system,
+86,1970,2100,1,Relational database;Object database,
+87,1970,2100,1,Relational database;Structured Query Language,
+88,1970,2100,1,Device driver;Iso image,
+89,1970,2100,1,Iso image;Linux,
+90,1970,2100,1,Expert system;Medical informatics,
+91,1970,2100,1,Stack (data structure);P-code machine,
+92,1970,2100,1,Metadata (computing);Ontology (computer science),
+93,1971,2100,1,Declarative programming;Configuration management,
+94,1974,2100,1,Source code;Code coverage,
+95,1974,2100,1,Source code;Game development,
+96,1975,2100,1,2d computer graphics;String (computer science),
+97,1975,2100,1,String (computer science);Ascii,
+98,1975,2100,1,String (computer science);Cobol,
+99,1975,2100,1,Source code;Proprietary software,
+100,1975,2100,1,Agile software development;Pair programming,
+101,1975,2100,1,Proprietary software;Unix,
+102,1975,2100,1,Software metric;Source lines of code,
+103,1975,2100,1,Specification language;Systems design,
+104,1975,2100,1,Specification language;Requirements analysis,
+105,1975,2100,1,Kernel (computer science);Source lines of code,
+106,1976,2100,1,Computer science;Information systems,
+107,1976,2100,1,Application software;Kernel (computer science),
+108,1976,2100,1,Agile software development;Program specification,
+109,1976,2100,1,Cobol;Information systems,
+110,1976,2100,1,Information systems;Database,
+111,1976,2100,1,Information systems;Expert system,
+112,1976,2100,1,Information systems;System development life cycle,
+113,1976,2100,1,Software metric;Cyclomatic complexity,
+114,1976,2100,1,Usability;Usability testing,
+115,1977,2100,1,Iterative development;Usability,
+116,1980,2100,1,Software development process;Refactoring,
+117,1980,2100,1,Open-source software;Python (programming language),
+118,1980,2100,1,Python (programming language);Ontology (computer science),
+119,1981,2100,1,Even-odd rule;Algorithm,
+120,1981,2100,1,Even-odd rule;Python (programming language),
+121,1987,2100,1,Design pattern (computer science);User interface,
+122,1988,2100,1,Capability Maturity Model;Standard CMMI Assessment Method for Process Improvement,
+123,1990,2100,1,Computer;Software componentry,
+124,1990,1994,1,Perl;Graphical user interface;Tcl;Object-oriented programming,Php
+125,1990,2100,1,Accounting software;Business software,
+126,1990,2100,1,C Sharp (programming language);Visual Basic,
+127,1990,2100,1,Visual Basic;Database,
+128,1990,2100,1,Visual Basic;Scripting language,
+129,1990,2100,1,Visual Basic;Rapid application development,
+130,1990,2100,1,Software componentry;Software architecture,
+131,1990,2100,1,Rapid application development;Tcl,
+132,1991,2100,1,Java (programming language);Java virtual machine,
+133,1992,2100,1,Operating system;Interface description language,
+134,1992,2100,1,Java Modeling Language;Specification language,
+135,1992,2100,1,Specification language;Interface description language,
+136,1993,2100,1,Abstraction (computer science);Software framework,
+137,1993,2100,1,Abstraction (computer science);Static code analysis,
+138,1993,2100,1,Ada (programming language);Static code analysis,
+139,1993,2100,1,Software framework;Software componentry,
+140,1993,2100,1,Assertion (computing);Static code analysis,
+141,1993,2100,1,Static code analysis;Coupling (computer science),
+142,1993,2100,1,Static code analysis;Formal methods,
+143,1993,2100,1,Static code analysis;Medical software,
+144,1994,2100,1,Object-oriented programming;Application framework,
+145,1994,2100,1,Graphical user interface;Application framework,
+146,1994,2100,1,Data structure;Php,
+147,1994,2100,1,Software framework;Statistical package,
+148,1994,2100,1,Open-source software;Wiki,
+149,1994,2100,1,Php;Database,
+150,1994,2100,1,Knowledge management;Wiki,
+151,1994,2100,1,Ontology (computer science);Wiki,
+152,1995,2100,1,Source code;Revision control,
+153,1995,1997,1,Source code;Processor register;Compiler;C (programming language);Computer architecture,Assembly language
+154,1995,2100,1,Processor register;Microprogram,
+155,1995,2100,1,Processor register;Thread (computer science),
+156,1995,2100,1,Wiki;Revision control,
+157,1996,2100,1,String (computer science);Finite state machine,
+158,1996,2100,1,Compiler;Finite state machine,
+159,1996,2100,1,Software framework;Rational Unified Process,
+160,1996,2100,1,Decision table;Finite state machine,
+161,1997,2100,1,Computer;Computer model,
+162,1997,2100,1,Computer graphics;Computer model,
+163,1997,2100,1,Java (programming language);Computer model,
+164,1997,2100,1,Static code analysis;Object code,
+165,1997,2100,1,Php;Opcode,
+166,1997,2100,1,Cobol;Threaded code,
+167,1997,2100,1,Eeprom;Opcode,
+168,1997,2100,1,Threaded code;Minicomputer,
+169,1998,1999,1,Opcode;Machine language;Computer;Machine code,Instruction set
+170,1998,1999,1,Microcode;Computer;Machine language;Machine code,Instruction set
+171,1998,2100,1,Machine language;Computer multitasking,
+172,1999,2100,1,Instruction set;Java virtual machine,
+173,2000,2100,1,Intermediate language;Three-address code,
+174,2001,2100,1,Aspect-oriented programming;Xerox PARC,
+175,2003,2100,1,Computer graphics;Game programming,
+176,2003,2100,1,Game development;Game programming,
+177,2003,2100,1,Game programming;Simulation,
+178,2003,2100,1,Simulation;Neural network software,
+179,2020,2100,1,Computer file;Disk image,
+180,2020,2100,1,Computer file;Metadata (computing),
+181,2020,2100,1,Computer file;Windows Vista,
+182,2020,2100,1,Computer architecture;Mips architecture,
+183,2020,2100,1,Avionics software;Computer software,
+184,2020,2100,1,Computer software;Open-source software,
+185,2020,2100,1,Computer software;Computer-aided design,
+186,2020,2100,1,Computer software;List of computer term etymologies,
+187,2020,2100,1,Visual Basic;Basic,
+188,2020,2100,1,Mips architecture;Linux,
+189,2020,2100,1,High-level language;Scripting language,
+190,2020,2100,1,High-level language;Kernel (computer science),
+191,2020,2100,1,Basic;List of programming languages,
+192,2020,2100,1,Regression testing;System development life cycle,
+193,2020,2100,1,Regression testing;Project lifecycle,
+194,2020,2100,1,Release to manufacturing;Windows Vista,
+195,2020,2100,1,Ontology (computer science);Complexity,
+196,2020,2100,1,Computer bug;Revision control,
+197,1960,2100,2,Agile software development;Project lifecycle;Requirement,
+198,1960,2100,2,Waterfall model;Project lifecycle;Requirement,
+199,1961,2100,2,C (programming language);Unix;Perl,
+200,1967,2100,2,Functional programming;Subroutine;Thread (computer science),
+201,1969,2100,2,Waterfall model;Project lifecycle;Software maintenance,
+202,1970,2100,2,Procedural programming;Functional programming;Sql,
+203,1974,2100,2,Source code;Open-source software;Linux,
+204,1979,1991,2,Perl;Sql;International Organization for Standardization;Object-oriented programming;C++;Ada (programming language);Programming language;C (programming language);Imperative programming,Java (programming language)
+205,1979,1980,2,Perl;Programming paradigm;Sql;Object-oriented programming;C++;Functional programming;Programming language;Procedural programming;C (programming language);Imperative programming,Python (programming language)
+206,1980,2100,2,Programming language;Fortran;Refactoring,
+207,1980,1994,2,Perl;Scripting language;Python (programming language);Compiler;Operating system;Programming language;Interpreter (computing);C (programming language),Php
+208,1987,2100,2,Source code;Functional programming;Design pattern (computer science),
+209,1988,1991,2,Python (programming language);C++;Object-oriented programming;C Sharp (programming language);Programming language;C (programming language);Imperative programming,Java (programming language)
+210,1988,2100,2,Imperative programming;C Sharp (programming language);Functional programming,
+211,1991,2100,2,C++;Sql;Qt (toolkit),
+212,1991,2100,2,Java (programming language);Programming paradigm;Design pattern (computer science),
+213,1991,2100,2,Java (programming language);Design pattern (computer science);Refactoring,
+214,1991,2100,2,Embedded system;Linux;Qt (toolkit),
+215,1994,2100,2,Compiler;Operating system;Php,
+216,1994,2100,2,C++;Php;Functional programming,
+217,1998,2100,2,Fortran;Cobol;Reflection (computer science),
+218,2009,2100,2,C (programming language);C Sharp (programming language);Gtk+,
+219,2020,2100,2,Multi-paradigm programming language;Python (programming language);Structured Query Language,

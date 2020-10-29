@@ -17,7 +17,7 @@ const link_width = 0.4,
 const topics = ['cognitive science',
  'evolutionary biology', 'immunology',
  'molecular biology', 'biophysics', 'energy',
- 'optics', 'earth science', 'geology', 'meteorology',
+ 'optics', 'geology', 'meteorology',
  'philosophy of language', 'philosophy of law',
  'philosophy of mind', 'philosophy of science', 'economics',
  'accounting', 'education', 'linguistics',
@@ -27,7 +27,7 @@ const topics = ['cognitive science',
  'number theory', 'dynamical systems',
  ];
 // for now, remove topics with too many nodes
-// 'anatomy', 'biochemistry', 'genetics', 'chemistry',
+// 'anatomy', 'biochemistry', 'genetics', 'chemistry', 'earth science'
 // 'sociology', 'education', 'law', 'psychology', 'electronics'
 // 'robotics', 'physics', 'mathematics'
 
