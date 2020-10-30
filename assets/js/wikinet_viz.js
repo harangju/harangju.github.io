@@ -75,11 +75,11 @@ let tooltip_node = d3.select('.viz_net')
   .style('position', 'absolute');
 
 let simulation = d3.forceSimulation()
-  .force('center', d3.forceCenter(width/2, height_net/2))
-  .force('charge', d3.forceManyBody())
+  .force('charge', d3.forceManyBody().strength(-50))
   .force('link', d3.forceLink().id(d => d.id))
+  .force('x', d3.forceX(width/2))
+  .force('y', d3.forceY(height_net/2))
   .on('tick', tick);
-simulation.stop();
 
 var link = svg_net.append('g')
   .attr('class', 'link')
