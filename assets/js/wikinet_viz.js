@@ -205,22 +205,23 @@ function mouseout(event) {
 
 // Barcodes
 
+var svg_bar, tooltip_bar, path, x, y, series;
 function update_barcode() {
   d3.select(".viz_bar").selectAll("*").remove();
-  let svg_bar = d3.select('.viz_bar')
+  svg_bar = d3.select('.viz_bar')
     .append('svg')
     .attr('width', width)
     .attr('height', height_bar)
     .append('g')
     .attr('transform', `translate(${margin.left},${-margin.bottom})`);
-  let x = d3.scaleLinear()
+  x = d3.scaleLinear()
     .domain([d3.min(barcode, d => Number(d.birth)),
       d3.max(barcode, d => Number(d.death))])
     .range([margin.left, width-margin.right]);
   svg_bar.append('g')
     .attr('transform', `translate(0,${height_bar-margin.bottom})`)
     .call(d3.axisBottom(x));
-  let y = d3.scaleLinear()
+  y = d3.scaleLinear()
     .domain([0, d3.max(barcode, d => Number(d.i)+1)])
     .range([height_bar-margin.bottom, margin.top]);
   svg_bar.append('text')
@@ -230,7 +231,7 @@ function update_barcode() {
   // svg_bar.append('g')
   //   .attr('transform', `translate(${margin.left},0)`)
   //   .call(d3.axisLeft(y));
-  let series = barcode.map(d => {
+  series = barcode.map(d => {
     return {
       key: d.dim,
       values: [
@@ -248,7 +249,7 @@ function update_barcode() {
   let line = d3.line()
     .x(d => x(d.year))
     .y(d => y(d.i));
-  let path = svg_bar.append('g')
+  path = svg_bar.append('g')
     .attr('fill', 'none')
     .attr('stroke-width', (height_bar-margin.top-margin.bottom)/barcode.length)
     .attr('stroke-linecap', 'round')
@@ -257,11 +258,15 @@ function update_barcode() {
     .join('path')
     .attr('d', d => line(d.values))
     .attr('stroke', d => color(d.key));
-  d3.select('.viz_bar').call(hover, path, x, y, series);
+  d3.select('.viz_bar')
+    .call(make_tooltip)
+    .on('mousemove', moved)
+    .on('mouseenter', entered)
+    .on('mouseleave', left);
 }
 
-function hover(svg, path, x, y, series) {
-  let tooltip_bar = svg
+function make_tooltip(svg) {
+  tooltip_bar = svg
     .append('div')
     .style('opacity', 0)
     .style('background-color', 'white')
@@ -270,77 +275,72 @@ function hover(svg, path, x, y, series) {
     .style('border-radius', '5px')
     .style('padding', '5px')
     .style('position', 'absolute');
-  if ("ontouchstart" in document) svg
-      .style("-webkit-tap-highlight-color", "transparent")
-      .on("touchmove", moved)
-      .on("touchstart", entered)
-      .on("touchend", left)
-  else svg
-      .on("mousemove", moved)
-      .on("mouseenter", entered)
-      .on("mouseleave", left);
-  function moved(event) {
-    event.preventDefault();
-    let pointer = d3.pointer(event, this);
-    pointer[1] += margin.bottom;
-    const ym = y.invert(pointer[1]);
-    const bar = d3.least(series, d => Math.abs(d.values[0].i - ym));
-    path.style('opacity', d => d === bar ? 1 : 0.5);
-    tooltip_bar.style('right', (width-pointer[0]+10) + 'px')
-      .style('bottom', (height_bar-pointer[1]+10) + 'px');
-    if (bar.death_nodes.length > 0 && bar.death_nodes[0].length > 0) {
-      tooltip_bar.html(`<div style='color: red;'><b>Cavity:</b> `
-        + `${bar.cavity.join(', ')}</div>`
-        + `<div style='color: orange';><b>Closed by:</b> `
-        + `${bar.death_nodes.join(', ')}</div>`);
-    } else {
-      tooltip_bar.html(`<div style='color: red;'><b>Cavity:</b> `
-        + `${bar.cavity.join(', ')}</div><b>Still open.</b>`);
-    }
-    node
-      .style('fill', d => {
-        if (bar.death_nodes.indexOf(d.id) > -1) {
-          return 'orange';
-        } else if (bar.cavity.indexOf(d.id) > -1) {
-          return 'red';
-        } else {
-          return 'steelblue';
-        }
-      });
-    link
-      .style('stroke', d => {
-        if ((bar.death_nodes.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
-          return 'orange';
-        } else if ((bar.cavity.indexOf(d.source.id) > -1) &&
-         (bar.death_nodes.indexOf(d.target.id) > -1)) {
-           return 'orange';
-        } else if ((bar.cavity.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
-          return 'red';
-        } else {
-          return 'steelblue';
-        }
-      })
-      .style('stroke-width', d => {
-        if ((bar.death_nodes.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
-          return link_width_on;
-        } else if ((bar.cavity.indexOf(d.source.id) > -1) &&
-         (bar.death_nodes.indexOf(d.target.id) > -1)) {
-           return link_width_on;
-        } else if ((bar.cavity.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
-          return link_width_on;
-        } else {
-          return link_width;
-        }
-      });
+}
+
+function moved(event) {
+  event.preventDefault();
+  let pointer = d3.pointer(event, this);
+  pointer[1] += margin.bottom;
+  const ym = y.invert(pointer[1]);
+  const bar = d3.least(series, d => Math.abs(d.values[0].i - ym));
+  path.style('opacity', d => d === bar ? 1 : 0.5);
+  tooltip_bar
+    .style('right', (width-pointer[0]+10) + 'px')
+    .style('bottom', (height_bar-pointer[1]+10) + 'px');
+  if (bar.death_nodes.length > 0 && bar.death_nodes[0].length > 0) {
+    tooltip_bar.html(`<div style='color: red;'><b>Cavity:</b> `
+      + `${bar.cavity.join(', ')}</div>`
+      + `<div style='color: orange';><b>Closed by:</b> `
+      + `${bar.death_nodes.join(', ')}</div>`);
+  } else {
+    tooltip_bar.html(`<div style='color: red;'><b>Cavity:</b> `
+      + `${bar.cavity.join(', ')}</div><b>Still open.</b>`);
   }
-  function entered() {
-    tooltip_bar.style('opacity', 1);
-  }
-  function left() {
-    path.style('opacity', 1);
-    tooltip_bar.style('opacity', 0);
-    node.style('fill', 'steelblue');
-    link.style('stroke', 'steelblue')
-      .style('stroke-width', link_width);
-  }
+  node
+    .style('fill', d => {
+      if (bar.death_nodes.indexOf(d.id) > -1) {
+        return 'orange';
+      } else if (bar.cavity.indexOf(d.id) > -1) {
+        return 'red';
+      } else {
+        return 'steelblue';
+      }
+    });
+  link
+    .style('stroke', d => {
+      if ((bar.death_nodes.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
+        return 'orange';
+      } else if ((bar.cavity.indexOf(d.source.id) > -1) &&
+       (bar.death_nodes.indexOf(d.target.id) > -1)) {
+         return 'orange';
+      } else if ((bar.cavity.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
+        return 'red';
+      } else {
+        return 'steelblue';
+      }
+    })
+    .style('stroke-width', d => {
+      if ((bar.death_nodes.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
+        return link_width_on;
+      } else if ((bar.cavity.indexOf(d.source.id) > -1) &&
+       (bar.death_nodes.indexOf(d.target.id) > -1)) {
+         return link_width_on;
+      } else if ((bar.cavity.indexOf(d.source.id) > -1) && (bar.cavity.indexOf(d.target.id) > -1)) {
+        return link_width_on;
+      } else {
+        return link_width;
+      }
+    });
+}
+
+function entered() {
+  tooltip_bar.style('opacity', 1);
+}
+
+function left() {
+  path.style('opacity', 1);
+  tooltip_bar.style('opacity', 0);
+  node.style('fill', 'steelblue');
+  link.style('stroke', 'steelblue')
+    .style('stroke-width', link_width);
 }
