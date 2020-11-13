@@ -36,5 +36,5 @@ In my recent <a href='http://arxiv.org/abs/2010.08381' target='blank'>paper</a>,
 
 ##### Notes
 * I used [`dionysus2`](https://www.mrzv.org/software/dionysus2/) to calculate persistent homology.
-* [`dionysus2`](https://www.mrzv.org/software/dionysus2/) does not currently support finding representative cavities that are still open. So, for cavities that are still open, the visualization highlights only the nodes that are a part of the simplex that starts the cavity, without highlighting the whole cavity.
+* [`dionysus2`](https://www.mrzv.org/software/dionysus2/) does not currently support finding representative cycles of cavities that are still open. So, for cavities that are still open, the visualization highlights only the nodes that are a part of the simplex that starts the cavity, without highlighting the whole cavity.
 * I have omitted some of the larger networks because the current D3 app is slow in handling larger (>1000 nodes) networks.
