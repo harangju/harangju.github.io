@@ -3,6 +3,7 @@ layout: post
 title: thoughts on the fall
 date: 2020-06-16
 description: why did God create the forbidden fruit?
+img: /assets/img/forbidden-fruit.jpg
 ---
 
 Question: Why did God create the forbidden fruit?

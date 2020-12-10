@@ -3,6 +3,7 @@ layout: post
 title: dynamic neural representations
 date: 2020-06-17
 description: when neural representations and network models meet
+img: /assets/img/dynamic-representations.jpg
 ---
 
 In this [article](https://www.nature.com/articles/s41593-020-0653-3), Dr. Bassett and I review recent studies on neural representations and on networks that model neural interactions and discuss the integration of the two topics. Featured on [Medical Xpress](https://medicalxpress.com/news/2020-07-framework-dynamic-representations-networked-neural.html) and [Wired](https://www.wired.com/story/a-radical-new-model-of-the-brain-illuminates-its-wiring/?mbid=social_twitter&utm_brand=wired&utm_medium=social&utm_social-type=owned&utm_source=twitter).

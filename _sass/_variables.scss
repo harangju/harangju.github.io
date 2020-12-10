@@ -43,6 +43,7 @@ $stylish-dark-blue:   #557A95 !default;
 $stylish-beige:       #B1A296 !default;
 
 $cardboard-white:     #f7f7f7 !default;
+$select:              darken($cardboard-white, 2%);
 
 /* Set theme colors *************************/
 $theme-color:         $stylish-light-blue;

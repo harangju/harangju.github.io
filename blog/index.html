@@ -28,9 +28,16 @@ title: blog
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
-        <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
-        <p>{{ post.description }}</p>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="media">
+          {% if post.img %}
+          <img src="{{ post.img | relative_url }}" class="rounded align-self-center mr-3">
+          {% endif %}
+          <div class="media-body">
+            <h3 class="post-title mt-3">{{ post.title }}</h3>
+            <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+            <p class="mb-3">{{ post.description }}</p>
+          </div>
+        </a>
       </li>
     {% endfor %}
   </ul>

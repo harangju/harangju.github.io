@@ -226,12 +226,21 @@ footer.sticky-bottom {
   li {
     border-bottom: 1px solid $grey-color-light;
     list-style: none;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    img {
+      width: 150px;
+      height: 100px;
+    }
     .post-meta {
       color: $grey-color;
       font-size: 0.875rem;
       margin-bottom: 0;
+    }
+    &:hover {
+      background-color: $select;
     }
     a {
       color: black;

@@ -3,6 +3,7 @@ layout: post
 title: gamification
 description:
 date: 2020-12-09
+img:
 ---
 
 <br>

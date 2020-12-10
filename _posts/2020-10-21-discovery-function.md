@@ -3,6 +3,7 @@ layout: post
 title: discovery functions
 description: guiding discoveries with digitized knowledge
 date: 2020-10-21
+img: /assets/img/digitized-knowledge.jpg
 ---
 
 <blockquote>
