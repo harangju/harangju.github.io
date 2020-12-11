@@ -11,25 +11,32 @@ layout: default
   </header> -->
 
   <article>
-    {% if page.profile %}
-    <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-      {% if page.profile.image %}
-        <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
-      {% endif %}
-      {% if page.profile.address %}
-        <div class="address">
-          {{ page.profile.address }}
+
+    <div class="profile container">
+      <div class="row">
+        <div class="col-sm-8">
+          <h1 class="post-title">
+           {% if site.title == blank %}{{ site.title }}{% else %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{% endif %}
+          </h1>
+          <div class="clearfix">
+            {{ content }}
+          </div>
         </div>
-      {% endif %}
-    </div>
-    {% endif %}
-
-    <h1 class="post-title">
-     {% if site.title == blank %}{{ site.title }}{% else %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{% endif %}
-    </h1>
-
-    <div class="clearfix">
-      {{ content }}
+        <div class="col-sm-4">
+          {% if page.profile %}
+          <div class="profile">
+            {% if page.profile.image %}
+              <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+            {% endif %}
+            {% if page.profile.address %}
+              <div class="address">
+                {{ page.profile.address }}
+              </div>
+            {% endif %}
+          </div>
+          {% endif %}
+        </div>
+      </div>
     </div>
 
     {% if page.news %}
