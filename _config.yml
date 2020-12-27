@@ -59,8 +59,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Harang Ju  # your blog must have a name for it to show up in the nav bar
-blog_description: blog
+blog_name: blog
+blog_description: thoughts on faith, science, and maybe some other things
 permalink: /blog/:year/:title/
 
 # Pagination
