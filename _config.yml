@@ -49,6 +49,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
+rss: true
 
 contact_note:
 
@@ -113,9 +114,13 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
+  - jekyll-feed
   # - bootstrap
   # - material-sass
 
+feed:
+  title: Harang Ju's Blog
+  url: harangju.com
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
