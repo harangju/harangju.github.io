@@ -1,11 +1,14 @@
 ---
 layout: post
-title: game of life
-description: gamifying human capital
-date: 2020-12-09
+title: faith & action
+description: why they go together
+date: 2021-01-01
 img:
 ---
+
+
 
 - Peterson, act as if God exists
 - mustard seed
 - investments
+- Faith is the latent variable that 
