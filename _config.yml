@@ -59,7 +59,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blog
+blog_name: Harang's harangues
 blog_description: thoughts on faith, science, and maybe some other things
 permalink: /blog/:year/:title/
 

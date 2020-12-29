@@ -1,7 +1,7 @@
 ---
 layout: post
 title: faith & action
-description: why they go together
+description: why 
 date: 2021-01-01
 img:
 ---
@@ -12,3 +12,4 @@ img:
 - mustard seed
 - investments
 - Faith is the latent variable that 
+

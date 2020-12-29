@@ -2,7 +2,7 @@
 layout: post
 title: thoughts on the fall
 date: 2020-06-16
-description: why did God create the forbidden fruit?
+description: perfection by will
 img: /assets/img/forbidden-fruit.jpg
 ---
 
