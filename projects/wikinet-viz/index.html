@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Harang  Ju | blog</title>
+<title>Harang  Ju | wikipedia networks</title>
 <meta name="description" content="PhD Candidate at UPenn
 ">
 
@@ -27,7 +27,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.png">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/wikinet-viz/">
 
 <!-- Open Graph -->
 
@@ -91,11 +91,9 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
-              
-              <span class="sr-only">(current)</span>
               
             </a>
           </li>
@@ -144,83 +142,49 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>Harang's harangues</h1>
-    <h2>thoughts on faith, science, and maybe some other things</h2>
+  <header class="post-header">
+    <h1 class="post-title">wikipedia networks</h1>
+    <p class="post-description">visualizing networks & knowledge gaps</p>
+  </header>
+
+  <article>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+
+<script defer="" src="/assets/js/wikinet_viz.js"></script>
+
+<p>In my recent <a href="http://arxiv.org/abs/2010.08381" target="blank">paper</a>,
+ we use persistent homology to identify knowledge gaps in networks of hyperlinked articles on Wikipedia. You can explore the networks and knowledge gaps that have been filled.</p>
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <strong>Subject: </strong>
+      <select></select>
+    </div>
+    <div class="col" style="white-space: nowrap; overflow-x: auto; overflow-y: hidden;">
+      <strong style="display: inline-block;">Year: </strong>
+      <input type="range" id="year_slider" min="0" max="10" value="10" step="1" />
+      <div id="year_label" style="display: inline-block;"></div>
+    </div>
   </div>
+</div>
 
+<div style="display: flex; justify-content: center; min-height: 20%; height: auto; flex-shrink: 0;">
+  <div class="viz_net" style="position: relative;"></div>
+</div>
 
-  <ul class="post-list">
-    
-      <li>
-        <a href="/blog/2020/sabbath/" class="media">
-          
-          <img src="/assets/img/chill.png" class="rounded align-self-center mr-3">
-          
-          <div class="media-body">
-            <h3 class="post-title mt-3">the Sabbath</h3>
-            <p class="post-meta">December 26, 2020</p>
-            <p class="mb-3">remembering what really matters</p>
-          </div>
-        </a>
-      </li>
-    
-      <li>
-        <a href="/blog/2020/discovery-function/" class="media">
-          
-          <img src="/assets/img/digitized-knowledge.jpg" class="rounded align-self-center mr-3">
-          
-          <div class="media-body">
-            <h3 class="post-title mt-3">discovery functions</h3>
-            <p class="post-meta">October 21, 2020</p>
-            <p class="mb-3">guiding discoveries with digitized knowledge</p>
-          </div>
-        </a>
-      </li>
-    
-      <li>
-        <a href="/blog/2020/dynamic-representations/" class="media">
-          
-          <img src="/assets/img/dynamic-representations.jpg" class="rounded align-self-center mr-3">
-          
-          <div class="media-body">
-            <h3 class="post-title mt-3">dynamic neural representations</h3>
-            <p class="post-meta">June 17, 2020</p>
-            <p class="mb-3">when neural representations and network models meet</p>
-          </div>
-        </a>
-      </li>
-    
-      <li>
-        <a href="/blog/2020/forbidden-fruit/" class="media">
-          
-          <img src="/assets/img/forbidden-fruit.jpg" class="rounded align-self-center mr-3">
-          
-          <div class="media-body">
-            <h3 class="post-title mt-3">thoughts on the fall</h3>
-            <p class="post-meta">June 16, 2020</p>
-            <p class="mb-3">perfection by will</p>
-          </div>
-        </a>
-      </li>
-    
-      <li>
-        <a href="/blog/2019/cascades/" class="media">
-          
-          <img src="/assets/img/cascades.jpg" class="rounded align-self-center mr-3">
-          
-          <div class="media-body">
-            <h3 class="post-title mt-3">structure of networks underlying neural cascades</h3>
-            <p class="post-meta">May 25, 2019</p>
-            <p class="mb-3">how to get long spontaneous bursts of activity in neural networks</p>
-          </div>
-        </a>
-      </li>
-    
-  </ul>
+<div style="display: flex; justify-content: center; min-height: 20%; height: auto; flex-shrink: 0;">
+  <div class="viz_bar" style="position: relative;"></div>
+</div>
 
-  
+<h5 id="notes">Notes</h5>
+<ul>
+  <li>I used <a href="https://www.mrzv.org/software/dionysus2/"><code class="language-plaintext highlighter-rouge">dionysus2</code></a> to calculate persistent homology.</li>
+  <li><a href="https://www.mrzv.org/software/dionysus2/"><code class="language-plaintext highlighter-rouge">dionysus2</code></a> does not currently support finding representative cycles of cavities that are still open. So, for cavities that are still open, the visualization highlights only the nodes that are a part of the simplex that starts the cavity, without highlighting the whole cavity.</li>
+  <li>I have omitted some of the larger networks because the current D3 app is slow in handling larger (&gt;1000 nodes) networks.</li>
+</ul>
 
+  </article>
 
 </div>
 
